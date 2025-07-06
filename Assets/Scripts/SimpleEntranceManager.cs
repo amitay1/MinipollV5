@@ -54,15 +54,15 @@ public class SimpleEntranceManager : MonoBehaviour
         Log("🎯 Phase 1: Logo video");
         yield return StartCoroutine(PlayVideoOnce(logoVideo));
         
-        // Step 3: Play Minipoll Video (loop)
-        Log("🎯 Phase 2: Minipoll loop");
-        yield return StartCoroutine(PlayVideoLoop(minipollVideo, 10f)); // 10 seconds max
+        // Step 3: Play Minipoll Video (infinite loop until user clicks Play)
+        Log("🎯 Phase 2: Minipoll infinite loop");
+        yield return StartCoroutine(PlayMinipollInfiniteLoop());
         
-        // Step 4: Show Menu
-        Log("🎯 Phase 3: Show menu");
+        // Step 4: Show Menu (show menu while video is still playing)
+        Log("🎯 Phase 3: Show menu over video");
         ShowMenu();
         
-        Log("✅ Entrance sequence complete!");
+        Log("✅ Entrance sequence complete! Video continues until Play is clicked.");
     }
     
     void SetupVideoSystem()
@@ -146,6 +146,71 @@ public class SimpleEntranceManager : MonoBehaviour
         yield return new WaitUntil(() => !videoPlayer.isPlaying);
         
         Log($"✅ {clip.name} completed");
+    }
+    
+    IEnumerator PlayMinipollInfiniteLoop()
+    {
+        if (minipollVideo == null)
+        {
+            Log("⚠️ Minipoll video clip is null");
+            yield break;
+        }
+        
+        Log($"♾️ Playing {minipollVideo.name} in infinite loop");
+        
+        // Setup and play with infinite loop
+        videoPlayer.clip = minipollVideo;
+        videoPlayer.isLooping = true;
+        videoPlayer.Prepare();
+        
+        // Wait for preparation
+        yield return new WaitUntil(() => videoPlayer.isPrepared);
+        
+        videoPlayer.Play();
+        
+        Log($"✅ {minipollVideo.name} infinite loop started");
+    }
+    
+    public IEnumerator FadeOutVideoAndTransition(string sceneName)
+    {
+        Log("🌙 Starting fade out and scene transition...");
+        
+        if (videoDisplay != null)
+        {
+            CanvasGroup canvasGroup = videoDisplay.GetComponent<CanvasGroup>();
+            if (canvasGroup == null)
+            {
+                canvasGroup = videoDisplay.gameObject.AddComponent<CanvasGroup>();
+            }
+            
+            // Fade out over 1 second
+            float fadeDuration = 1f;
+            float elapsed = 0f;
+            
+            while (elapsed < fadeDuration)
+            {
+                elapsed += Time.deltaTime;
+                float alpha = Mathf.Lerp(1f, 0f, elapsed / fadeDuration);
+                canvasGroup.alpha = alpha;
+                yield return null;
+            }
+            
+            canvasGroup.alpha = 0f;
+        }
+        
+        // Stop video
+        if (videoPlayer != null)
+        {
+            videoPlayer.Stop();
+        }
+        
+        Log("🌙 Fade out complete, loading scene...");
+        
+        // Load scene
+        if (!string.IsNullOrEmpty(sceneName))
+        {
+            UnityEngine.SceneManagement.SceneManager.LoadScene(sceneName);
+        }
     }
     
     IEnumerator PlayVideoLoop(VideoClip clip, float maxTime)

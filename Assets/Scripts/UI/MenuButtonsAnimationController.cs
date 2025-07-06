@@ -34,9 +34,17 @@ public class MenuButtonsAnimationController : MonoBehaviour
     
     private Button[] allButtons;
     private bool animationsCompleted = false;
+    private CanvasGroup canvasGroup;
     
     void Start()
     {
+        // Get CanvasGroup component
+        canvasGroup = GetComponent<CanvasGroup>();
+        if (canvasGroup == null)
+        {
+            canvasGroup = gameObject.AddComponent<CanvasGroup>();
+        }
+        
         // Get all buttons if specific ones aren't assigned
         if (playGameButton == null || settingsButton == null)
         {
@@ -79,7 +87,15 @@ public class MenuButtonsAnimationController : MonoBehaviour
     
     void InitializeButtons()
     {
-        // Hide all buttons initially
+        // Hide buttons using CanvasGroup for smooth fade
+        if (canvasGroup != null)
+        {
+            canvasGroup.alpha = 0f;
+            canvasGroup.interactable = false;
+            canvasGroup.blocksRaycasts = false;
+        }
+        
+        // Also hide individual buttons as backup
         foreach (Button button in allButtons)
         {
             if (button != null)
@@ -117,7 +133,15 @@ public class MenuButtonsAnimationController : MonoBehaviour
         
         yield return new WaitForSeconds(entranceDelay);
         
-        // Animate each button with staggered timing
+        // Fade in the entire button group first
+        if (canvasGroup != null)
+        {
+            yield return StartCoroutine(AnimateCanvasGroupAlpha(0f, 1f, entranceDuration * 0.3f));
+            canvasGroup.interactable = true;
+            canvasGroup.blocksRaycasts = true;
+        }
+        
+        // Then animate each button with staggered timing
         for (int i = 0; i < allButtons.Length; i++)
         {
             if (allButtons[i] != null)
@@ -164,14 +188,23 @@ public class MenuButtonsAnimationController : MonoBehaviour
         }
         
         StartCoroutine(HandleButtonClick(playGameButton, () => {
-            // Load game scene
-            if (!string.IsNullOrEmpty(gameSceneName))
+            // Find SimpleEntranceManager and trigger fade out transition
+            SimpleEntranceManager entranceManager = FindFirstObjectByType<SimpleEntranceManager>();
+            if (entranceManager != null)
             {
-                SceneManager.LoadScene(gameSceneName);
+                StartCoroutine(entranceManager.FadeOutVideoAndTransition(gameSceneName));
             }
             else
             {
-                Debug.LogWarning("⚠️ Game scene name not set!");
+                // Fallback: Load scene directly
+                if (!string.IsNullOrEmpty(gameSceneName))
+                {
+                    SceneManager.LoadScene(gameSceneName);
+                }
+                else
+                {
+                    Debug.LogWarning("⚠️ Game scene name not set!");
+                }
             }
         }));
     }
@@ -214,6 +247,26 @@ public class MenuButtonsAnimationController : MonoBehaviour
         // Re-enable buttons (if we're still in this scene)
         yield return new WaitForSeconds(0.1f);
         SetButtonsInteractable(true);
+    }
+    
+    IEnumerator AnimateCanvasGroupAlpha(float fromAlpha, float toAlpha, float duration)
+    {
+        float time = 0f;
+        while (time < duration)
+        {
+            time += Time.deltaTime;
+            float progress = time / duration;
+            
+            if (canvasGroup != null)
+            {
+                canvasGroup.alpha = Mathf.Lerp(fromAlpha, toAlpha, progress);
+            }
+            yield return null;
+        }
+        if (canvasGroup != null)
+        {
+            canvasGroup.alpha = toAlpha;
+        }
     }
     
     IEnumerator AnimateScale(Transform target, Vector3 fromScale, Vector3 toScale, float duration, AnimationCurve curve)
