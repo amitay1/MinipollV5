@@ -1,6 +1,7 @@
 using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.Video;
+using UnityEngine.InputSystem;
 using System.Collections;
 
 /// <summary>
@@ -173,8 +174,9 @@ public class SimpleEntranceManager : MonoBehaviour
         {
             elapsed += Time.deltaTime;
             
-            // Allow skipping with any key/click
-            if (Input.anyKeyDown || Input.GetMouseButtonDown(0))
+            // Allow skipping with any key/click using new Input System
+            if (Keyboard.current != null && Keyboard.current.anyKey.wasPressedThisFrame ||
+                Mouse.current != null && Mouse.current.leftButton.wasPressedThisFrame)
             {
                 Log("⏭️ User skipped video loop");
                 break;
