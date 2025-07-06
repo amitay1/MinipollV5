@@ -1,0 +1,1703 @@
+fileFormatVersion: 2
+guid: f2ed530a8d580f640b14c0cc611bd5d0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8795036091856312747
+    second: sactx-1-2048x2048-ETC2-MissionCard-459ce2bd_0
+  - first:
+      213: 7484420055877293172
+    second: sactx-1-2048x2048-ETC2-MissionCard-459ce2bd_1
+  - first:
+      213: -6558825149707815912
+    second: sactx-1-2048x2048-ETC2-MissionCard-459ce2bd_2
+  - first:
+      213: 5688489544426476023
+    second: sactx-1-2048x2048-ETC2-MissionCard-459ce2bd_3
+  - first:
+      213: 7360860719179409235
+    second: sactx-1-2048x2048-ETC2-MissionCard-459ce2bd_4
+  - first:
+      213: 8810412550658884275
+    second: sactx-1-2048x2048-ETC2-MissionCard-459ce2bd_5
+  - first:
+      213: 1276232419763607484
+    second: sactx-1-2048x2048-ETC2-MissionCard-459ce2bd_6
+  - first:
+      213: 2773711838348708934
+    second: sactx-1-2048x2048-ETC2-MissionCard-459ce2bd_7
+  - first:
+      213: -2271434477812327693
+    second: sactx-1-2048x2048-ETC2-MissionCard-459ce2bd_8
+  - first:
+      213: 4570523632622231568
+    second: sactx-1-2048x2048-ETC2-MissionCard-459ce2bd_9
+  - first:
+      213: -3369074913027652037
+    second: sactx-1-2048x2048-ETC2-MissionCard-459ce2bd_10
+  - first:
+      213: -248726903995878111
+    second: sactx-1-2048x2048-ETC2-MissionCard-459ce2bd_11
+  - first:
+      213: 4153172584679174315
+    second: sactx-1-2048x2048-ETC2-MissionCard-459ce2bd_12
+  - first:
+      213: 6056952251173790434
+    second: sactx-1-2048x2048-ETC2-MissionCard-459ce2bd_13
+  - first:
+      213: -2507606796181159389
+    second: sactx-1-2048x2048-ETC2-MissionCard-459ce2bd_14
+  - first:
+      213: -6586247055812923005
+    second: sactx-1-2048x2048-ETC2-MissionCard-459ce2bd_15
+  - first:
+      213: 7340655296260471250
+    second: sactx-1-2048x2048-ETC2-MissionCard-459ce2bd_16
+  - first:
+      213: 3812845818744910397
+    second: sactx-1-2048x2048-ETC2-MissionCard-459ce2bd_17
+  - first:
+      213: 2799723347538137778
+    second: sactx-1-2048x2048-ETC2-MissionCard-459ce2bd_18
+  - first:
+      213: 8532209949831184539
+    second: sactx-1-2048x2048-ETC2-MissionCard-459ce2bd_19
+  - first:
+      213: -7695219681028130968
+    second: sactx-1-2048x2048-ETC2-MissionCard-459ce2bd_20
+  - first:
+      213: 8374825623974383629
+    second: sactx-1-2048x2048-ETC2-MissionCard-459ce2bd_21
+  - first:
+      213: 858643496879633508
+    second: sactx-1-2048x2048-ETC2-MissionCard-459ce2bd_22
+  - first:
+      213: -1245206231648097078
+    second: sactx-1-2048x2048-ETC2-MissionCard-459ce2bd_23
+  - first:
+      213: 6263560541562611870
+    second: sactx-1-2048x2048-ETC2-MissionCard-459ce2bd_24
+  - first:
+      213: 7539200672006332022
+    second: sactx-1-2048x2048-ETC2-MissionCard-459ce2bd_25
+  - first:
+      213: 3289419844994180342
+    second: sactx-1-2048x2048-ETC2-MissionCard-459ce2bd_26
+  - first:
+      213: -2039326768116693404
+    second: sactx-1-2048x2048-ETC2-MissionCard-459ce2bd_27
+  - first:
+      213: -8677407322323071315
+    second: sactx-1-2048x2048-ETC2-MissionCard-459ce2bd_28
+  - first:
+      213: -6554837099639160665
+    second: sactx-1-2048x2048-ETC2-MissionCard-459ce2bd_29
+  - first:
+      213: 7089131887548748112
+    second: sactx-1-2048x2048-ETC2-MissionCard-459ce2bd_30
+  - first:
+      213: -6861263848745163809
+    second: sactx-1-2048x2048-ETC2-MissionCard-459ce2bd_31
+  - first:
+      213: -377493378539161965
+    second: sactx-1-2048x2048-ETC2-MissionCard-459ce2bd_32
+  - first:
+      213: -6229891308113752351
+    second: sactx-1-2048x2048-ETC2-MissionCard-459ce2bd_33
+  - first:
+      213: 9175532019598000401
+    second: sactx-1-2048x2048-ETC2-MissionCard-459ce2bd_34
+  - first:
+      213: -4168665205352181245
+    second: sactx-1-2048x2048-ETC2-MissionCard-459ce2bd_35
+  - first:
+      213: 3181355922314542945
+    second: sactx-1-2048x2048-ETC2-MissionCard-459ce2bd_36
+  - first:
+      213: 5933984110164836930
+    second: sactx-1-2048x2048-ETC2-MissionCard-459ce2bd_37
+  - first:
+      213: -8968418717418683520
+    second: sactx-1-2048x2048-ETC2-MissionCard-459ce2bd_38
+  - first:
+      213: -6167912448233131117
+    second: sactx-1-2048x2048-ETC2-MissionCard-459ce2bd_39
+  - first:
+      213: -5447507241763789903
+    second: sactx-1-2048x2048-ETC2-MissionCard-459ce2bd_40
+  - first:
+      213: -8045991100510678229
+    second: sactx-1-2048x2048-ETC2-MissionCard-459ce2bd_41
+  - first:
+      213: 7570254844584706563
+    second: sactx-1-2048x2048-ETC2-MissionCard-459ce2bd_42
+  - first:
+      213: -2402665068322505585
+    second: sactx-1-2048x2048-ETC2-MissionCard-459ce2bd_43
+  - first:
+      213: -3569464424570100516
+    second: sactx-1-2048x2048-ETC2-MissionCard-459ce2bd_44
+  - first:
+      213: -3280813518250419654
+    second: sactx-1-2048x2048-ETC2-MissionCard-459ce2bd_45
+  - first:
+      213: -4254593646769798426
+    second: sactx-1-2048x2048-ETC2-MissionCard-459ce2bd_46
+  - first:
+      213: 401233127854379752
+    second: sactx-1-2048x2048-ETC2-MissionCard-459ce2bd_47
+  - first:
+      213: 3721404975303086485
+    second: sactx-1-2048x2048-ETC2-MissionCard-459ce2bd_48
+  - first:
+      213: 6640575258611002184
+    second: sactx-1-2048x2048-ETC2-MissionCard-459ce2bd_49
+  - first:
+      213: -1378329312431880838
+    second: sactx-1-2048x2048-ETC2-MissionCard-459ce2bd_50
+  - first:
+      213: -4552859203177037047
+    second: sactx-1-2048x2048-ETC2-MissionCard-459ce2bd_51
+  - first:
+      213: 140911118086597431
+    second: sactx-1-2048x2048-ETC2-MissionCard-459ce2bd_52
+  - first:
+      213: 5083940778365897345
+    second: sactx-1-2048x2048-ETC2-MissionCard-459ce2bd_53
+  - first:
+      213: 623618792275351470
+    second: sactx-1-2048x2048-ETC2-MissionCard-459ce2bd_54
+  - first:
+      213: 1964234332487905972
+    second: sactx-1-2048x2048-ETC2-MissionCard-459ce2bd_55
+  - first:
+      213: -4352581713603851302
+    second: sactx-1-2048x2048-ETC2-MissionCard-459ce2bd_56
+  - first:
+      213: 4024032686452337662
+    second: sactx-1-2048x2048-ETC2-MissionCard-459ce2bd_57
+  - first:
+      213: -2786690829792544653
+    second: sactx-1-2048x2048-ETC2-MissionCard-459ce2bd_58
+  - first:
+      213: -8856334332349111421
+    second: sactx-1-2048x2048-ETC2-MissionCard-459ce2bd_59
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sactx-1-2048x2048-ETC2-MissionCard-459ce2bd_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1616
+        width: 227
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5562a26c541c1f580800000000000000
+      internalID: -8795036091856312747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-1-2048x2048-ETC2-MissionCard-459ce2bd_1
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 1626
+        width: 61
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 474106cf2600ed760800000000000000
+      internalID: 7484420055877293172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-1-2048x2048-ETC2-MissionCard-459ce2bd_2
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 1587
+        width: 105
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81474c7c64f5af4a0800000000000000
+      internalID: -6558825149707815912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-1-2048x2048-ETC2-MissionCard-459ce2bd_3
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1613
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f1501c0a1391fe40800000000000000
+      internalID: 5688489544426476023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-1-2048x2048-ETC2-MissionCard-459ce2bd_4
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 1615
+        width: 25
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 357a0d713d7072660800000000000000
+      internalID: 7360860719179409235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-1-2048x2048-ETC2-MissionCard-459ce2bd_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1332
+        width: 161
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b28aa6098fd44a70800000000000000
+      internalID: 8810412550658884275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-1-2048x2048-ETC2-MissionCard-459ce2bd_6
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 1543
+        width: 224
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb7d8debf9616b110800000000000000
+      internalID: 1276232419763607484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-1-2048x2048-ETC2-MissionCard-459ce2bd_7
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 1529
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64c0212a8343e7620800000000000000
+      internalID: 2773711838348708934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-1-2048x2048-ETC2-MissionCard-459ce2bd_8
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 1543
+        width: 207
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fadb63806e3a70e0800000000000000
+      internalID: -2271434477812327693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-1-2048x2048-ETC2-MissionCard-459ce2bd_9
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1428
+        width: 51
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 010e9f73703cd6f30800000000000000
+      internalID: 4570523632622231568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-1-2048x2048-ETC2-MissionCard-459ce2bd_10
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 1486
+        width: 250
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b368e4b7734ae31d0800000000000000
+      internalID: -3369074913027652037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-1-2048x2048-ETC2-MissionCard-459ce2bd_11
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 1403
+        width: 162
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1253e39d2385c8cf0800000000000000
+      internalID: -248726903995878111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-1-2048x2048-ETC2-MissionCard-459ce2bd_12
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 1318
+        width: 256
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba071b8167803a930800000000000000
+      internalID: 4153172584679174315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-1-2048x2048-ETC2-MissionCard-459ce2bd_13
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 1399
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e267b83bfd9e0450800000000000000
+      internalID: 6056952251173790434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-1-2048x2048-ETC2-MissionCard-459ce2bd_14
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1348
+        width: 153
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 322444d97e0333dd0800000000000000
+      internalID: -2507606796181159389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-1-2048x2048-ETC2-MissionCard-459ce2bd_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1124
+        width: 116
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 381fe4bb233f894a0800000000000000
+      internalID: -6586247055812923005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-1-2048x2048-ETC2-MissionCard-459ce2bd_16
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 1127
+        width: 109
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d9f138791f3fd560800000000000000
+      internalID: 7340655296260471250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-1-2048x2048-ETC2-MissionCard-459ce2bd_17
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1231
+        width: 145
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d32bf912213f9e430800000000000000
+      internalID: 3812845818744910397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-1-2048x2048-ETC2-MissionCard-459ce2bd_18
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 1314
+        width: 156
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b2d06f0d8d9ad620800000000000000
+      internalID: 2799723347538137778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-1-2048x2048-ETC2-MissionCard-459ce2bd_19
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 1311
+        width: 66
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b90cdb86ebf786670800000000000000
+      internalID: 8532209949831184539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-1-2048x2048-ETC2-MissionCard-459ce2bd_20
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 1275
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86739bb9876153590800000000000000
+      internalID: -7695219681028130968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-1-2048x2048-ETC2-MissionCard-459ce2bd_21
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 1123
+        width: 147
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0015d4888b593470800000000000000
+      internalID: 8374825623974383629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-1-2048x2048-ETC2-MissionCard-459ce2bd_22
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 1279
+        width: 212
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 464b53c06b38aeb00800000000000000
+      internalID: 858643496879633508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-1-2048x2048-ETC2-MissionCard-459ce2bd_23
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 1116
+        width: 108
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acc238a978328bee0800000000000000
+      internalID: -1245206231648097078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-1-2048x2048-ETC2-MissionCard-459ce2bd_24
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 1203
+        width: 251
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e982ef47023ace650800000000000000
+      internalID: 6263560541562611870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-1-2048x2048-ETC2-MissionCard-459ce2bd_25
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 1126
+        width: 190
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67ed259111f90a860800000000000000
+      internalID: 7539200672006332022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-1-2048x2048-ETC2-MissionCard-459ce2bd_26
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 1151
+        width: 225
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f4aff1cbed56ad20800000000000000
+      internalID: 3289419844994180342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-1-2048x2048-ETC2-MissionCard-459ce2bd_27
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 1142
+        width: 66
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4668575fb1bd2b3e0800000000000000
+      internalID: -2039326768116693404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-1-2048x2048-ETC2-MissionCard-459ce2bd_28
+      rect:
+        serializedVersion: 2
+        x: 1815
+        y: 980
+        width: 52
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dae4f85e308a39780800000000000000
+      internalID: -8677407322323071315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-1-2048x2048-ETC2-MissionCard-459ce2bd_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 915
+        width: 590
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a0c47b036a8805a0800000000000000
+      internalID: -6554837099639160665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-1-2048x2048-ETC2-MissionCard-459ce2bd_30
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 938
+        width: 162
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 051dc3354e7a16260800000000000000
+      internalID: 7089131887548748112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-1-2048x2048-ETC2-MissionCard-459ce2bd_31
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 1026
+        width: 134
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd3a051d1e4e7c0a0800000000000000
+      internalID: -6861263848745163809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-1-2048x2048-ETC2-MissionCard-459ce2bd_32
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 1022
+        width: 60
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3967c13b5cfd2caf0800000000000000
+      internalID: -377493378539161965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-1-2048x2048-ETC2-MissionCard-459ce2bd_33
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 915
+        width: 108
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ee0696dcdafa89a0800000000000000
+      internalID: -6229891308113752351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-1-2048x2048-ETC2-MissionCard-459ce2bd_34
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 1088
+        width: 123
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1118c5df1c9065f70800000000000000
+      internalID: 9175532019598000401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-1-2048x2048-ETC2-MissionCard-459ce2bd_35
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 1063
+        width: 228
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 302d37f051de526c0800000000000000
+      internalID: -4168665205352181245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-1-2048x2048-ETC2-MissionCard-459ce2bd_36
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 1061
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16fb4a51b52762c20800000000000000
+      internalID: 3181355922314542945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-1-2048x2048-ETC2-MissionCard-459ce2bd_37
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 901
+        width: 223
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 242003dcb1fb95250800000000000000
+      internalID: 5933984110164836930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-1-2048x2048-ETC2-MissionCard-459ce2bd_38
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 914
+        width: 103
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0838b4771b6c98380800000000000000
+      internalID: -8968418717418683520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-1-2048x2048-ETC2-MissionCard-459ce2bd_39
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 911
+        width: 98
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 393ba5dae4c276aa0800000000000000
+      internalID: -6167912448233131117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-1-2048x2048-ETC2-MissionCard-459ce2bd_40
+      rect:
+        serializedVersion: 2
+        x: 1322
+        y: 914
+        width: 67
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b32d4796019664b0800000000000000
+      internalID: -5447507241763789903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-1-2048x2048-ETC2-MissionCard-459ce2bd_41
+      rect:
+        serializedVersion: 2
+        x: 1379
+        y: 1002
+        width: 92
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b235b1c39b5e65090800000000000000
+      internalID: -8045991100510678229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-1-2048x2048-ETC2-MissionCard-459ce2bd_42
+      rect:
+        serializedVersion: 2
+        x: 1468
+        y: 1002
+        width: 162
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 302c6a61ca2fe0960800000000000000
+      internalID: 7570254844584706563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-1-2048x2048-ETC2-MissionCard-459ce2bd_43
+      rect:
+        serializedVersion: 2
+        x: 1639
+        y: 847
+        width: 180
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8cb568a9d408aed0800000000000000
+      internalID: -2402665068322505585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-1-2048x2048-ETC2-MissionCard-459ce2bd_44
+      rect:
+        serializedVersion: 2
+        x: 1382
+        y: 973
+        width: 185
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd4ea178407b67ec0800000000000000
+      internalID: -3569464424570100516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-1-2048x2048-ETC2-MissionCard-459ce2bd_45
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 850
+        width: 225
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3a5266dc753872d0800000000000000
+      internalID: -3280813518250419654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-1-2048x2048-ETC2-MissionCard-459ce2bd_46
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 706
+        width: 562
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e207acbe95a4f4c0800000000000000
+      internalID: -4254593646769798426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-1-2048x2048-ETC2-MissionCard-459ce2bd_47
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 695
+        width: 256
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e211e96767719500800000000000000
+      internalID: 401233127854379752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-1-2048x2048-ETC2-MissionCard-459ce2bd_48
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 696
+        width: 243
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 591df42bb1615a330800000000000000
+      internalID: 3721404975303086485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-1-2048x2048-ETC2-MissionCard-459ce2bd_49
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 815
+        width: 376
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84ba1c1b300182c50800000000000000
+      internalID: 6640575258611002184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-1-2048x2048-ETC2-MissionCard-459ce2bd_50
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 818
+        width: 228
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a754df40bc03fdce0800000000000000
+      internalID: -1378329312431880838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-1-2048x2048-ETC2-MissionCard-459ce2bd_51
+      rect:
+        serializedVersion: 2
+        x: 1633
+        y: 719
+        width: 251
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 903c3424daef0d0c0800000000000000
+      internalID: -4552859203177037047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-1-2048x2048-ETC2-MissionCard-459ce2bd_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1236
+        height: 709
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73b64725aed94f100800000000000000
+      internalID: 140911118086597431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-1-2048x2048-ETC2-MissionCard-459ce2bd_53
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 699
+        width: 178
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18a4f99b339cd8640800000000000000
+      internalID: 5083940778365897345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-1-2048x2048-ETC2-MissionCard-459ce2bd_54
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 683
+        width: 348
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea794dcccf987a800800000000000000
+      internalID: 623618792275351470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-1-2048x2048-ETC2-MissionCard-459ce2bd_55
+      rect:
+        serializedVersion: 2
+        x: 1409
+        y: 0
+        width: 435
+        height: 722
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b2719be7bc524b10800000000000000
+      internalID: 1964234332487905972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-1-2048x2048-ETC2-MissionCard-459ce2bd_56
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 452
+        width: 574
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adb08c01ef58893c0800000000000000
+      internalID: -4352581713603851302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-1-2048x2048-ETC2-MissionCard-459ce2bd_57
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 464
+        width: 208
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efb6d88786c38d730800000000000000
+      internalID: 4024032686452337662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-1-2048x2048-ETC2-MissionCard-459ce2bd_58
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 0
+        width: 380
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 378706f647fa359d0800000000000000
+      internalID: -2786690829792544653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-1-2048x2048-ETC2-MissionCard-459ce2bd_59
+      rect:
+        serializedVersion: 2
+        x: 1756
+        y: 0
+        width: 249
+        height: 377
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3832c3cf8daf71580800000000000000
+      internalID: -8856334332349111421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      sactx-1-2048x2048-ETC2-MissionCard-459ce2bd_0: -8795036091856312747
+      sactx-1-2048x2048-ETC2-MissionCard-459ce2bd_1: 7484420055877293172
+      sactx-1-2048x2048-ETC2-MissionCard-459ce2bd_10: -3369074913027652037
+      sactx-1-2048x2048-ETC2-MissionCard-459ce2bd_11: -248726903995878111
+      sactx-1-2048x2048-ETC2-MissionCard-459ce2bd_12: 4153172584679174315
+      sactx-1-2048x2048-ETC2-MissionCard-459ce2bd_13: 6056952251173790434
+      sactx-1-2048x2048-ETC2-MissionCard-459ce2bd_14: -2507606796181159389
+      sactx-1-2048x2048-ETC2-MissionCard-459ce2bd_15: -6586247055812923005
+      sactx-1-2048x2048-ETC2-MissionCard-459ce2bd_16: 7340655296260471250
+      sactx-1-2048x2048-ETC2-MissionCard-459ce2bd_17: 3812845818744910397
+      sactx-1-2048x2048-ETC2-MissionCard-459ce2bd_18: 2799723347538137778
+      sactx-1-2048x2048-ETC2-MissionCard-459ce2bd_19: 8532209949831184539
+      sactx-1-2048x2048-ETC2-MissionCard-459ce2bd_2: -6558825149707815912
+      sactx-1-2048x2048-ETC2-MissionCard-459ce2bd_20: -7695219681028130968
+      sactx-1-2048x2048-ETC2-MissionCard-459ce2bd_21: 8374825623974383629
+      sactx-1-2048x2048-ETC2-MissionCard-459ce2bd_22: 858643496879633508
+      sactx-1-2048x2048-ETC2-MissionCard-459ce2bd_23: -1245206231648097078
+      sactx-1-2048x2048-ETC2-MissionCard-459ce2bd_24: 6263560541562611870
+      sactx-1-2048x2048-ETC2-MissionCard-459ce2bd_25: 7539200672006332022
+      sactx-1-2048x2048-ETC2-MissionCard-459ce2bd_26: 3289419844994180342
+      sactx-1-2048x2048-ETC2-MissionCard-459ce2bd_27: -2039326768116693404
+      sactx-1-2048x2048-ETC2-MissionCard-459ce2bd_28: -8677407322323071315
+      sactx-1-2048x2048-ETC2-MissionCard-459ce2bd_29: -6554837099639160665
+      sactx-1-2048x2048-ETC2-MissionCard-459ce2bd_3: 5688489544426476023
+      sactx-1-2048x2048-ETC2-MissionCard-459ce2bd_30: 7089131887548748112
+      sactx-1-2048x2048-ETC2-MissionCard-459ce2bd_31: -6861263848745163809
+      sactx-1-2048x2048-ETC2-MissionCard-459ce2bd_32: -377493378539161965
+      sactx-1-2048x2048-ETC2-MissionCard-459ce2bd_33: -6229891308113752351
+      sactx-1-2048x2048-ETC2-MissionCard-459ce2bd_34: 9175532019598000401
+      sactx-1-2048x2048-ETC2-MissionCard-459ce2bd_35: -4168665205352181245
+      sactx-1-2048x2048-ETC2-MissionCard-459ce2bd_36: 3181355922314542945
+      sactx-1-2048x2048-ETC2-MissionCard-459ce2bd_37: 5933984110164836930
+      sactx-1-2048x2048-ETC2-MissionCard-459ce2bd_38: -8968418717418683520
+      sactx-1-2048x2048-ETC2-MissionCard-459ce2bd_39: -6167912448233131117
+      sactx-1-2048x2048-ETC2-MissionCard-459ce2bd_4: 7360860719179409235
+      sactx-1-2048x2048-ETC2-MissionCard-459ce2bd_40: -5447507241763789903
+      sactx-1-2048x2048-ETC2-MissionCard-459ce2bd_41: -8045991100510678229
+      sactx-1-2048x2048-ETC2-MissionCard-459ce2bd_42: 7570254844584706563
+      sactx-1-2048x2048-ETC2-MissionCard-459ce2bd_43: -2402665068322505585
+      sactx-1-2048x2048-ETC2-MissionCard-459ce2bd_44: -3569464424570100516
+      sactx-1-2048x2048-ETC2-MissionCard-459ce2bd_45: -3280813518250419654
+      sactx-1-2048x2048-ETC2-MissionCard-459ce2bd_46: -4254593646769798426
+      sactx-1-2048x2048-ETC2-MissionCard-459ce2bd_47: 401233127854379752
+      sactx-1-2048x2048-ETC2-MissionCard-459ce2bd_48: 3721404975303086485
+      sactx-1-2048x2048-ETC2-MissionCard-459ce2bd_49: 6640575258611002184
+      sactx-1-2048x2048-ETC2-MissionCard-459ce2bd_5: 8810412550658884275
+      sactx-1-2048x2048-ETC2-MissionCard-459ce2bd_50: -1378329312431880838
+      sactx-1-2048x2048-ETC2-MissionCard-459ce2bd_51: -4552859203177037047
+      sactx-1-2048x2048-ETC2-MissionCard-459ce2bd_52: 140911118086597431
+      sactx-1-2048x2048-ETC2-MissionCard-459ce2bd_53: 5083940778365897345
+      sactx-1-2048x2048-ETC2-MissionCard-459ce2bd_54: 623618792275351470
+      sactx-1-2048x2048-ETC2-MissionCard-459ce2bd_55: 1964234332487905972
+      sactx-1-2048x2048-ETC2-MissionCard-459ce2bd_56: -4352581713603851302
+      sactx-1-2048x2048-ETC2-MissionCard-459ce2bd_57: 4024032686452337662
+      sactx-1-2048x2048-ETC2-MissionCard-459ce2bd_58: -2786690829792544653
+      sactx-1-2048x2048-ETC2-MissionCard-459ce2bd_59: -8856334332349111421
+      sactx-1-2048x2048-ETC2-MissionCard-459ce2bd_6: 1276232419763607484
+      sactx-1-2048x2048-ETC2-MissionCard-459ce2bd_7: 2773711838348708934
+      sactx-1-2048x2048-ETC2-MissionCard-459ce2bd_8: -2271434477812327693
+      sactx-1-2048x2048-ETC2-MissionCard-459ce2bd_9: 4570523632622231568
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

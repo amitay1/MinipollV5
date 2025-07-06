@@ -1,0 +1,663 @@
+fileFormatVersion: 2
+guid: 7684cb92ea7dc3c41b8c3a833c037bb2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1660509716283904761
+    second: foxAtlas_0
+  - first:
+      213: -2228032859907450093
+    second: foxAtlas_1
+  - first:
+      213: -7156025594144245149
+    second: foxAtlas_2
+  - first:
+      213: 2122901721507409148
+    second: foxAtlas_3
+  - first:
+      213: 8619806246610667283
+    second: foxAtlas_4
+  - first:
+      213: -5503406275411818736
+    second: foxAtlas_5
+  - first:
+      213: 8895152654373740942
+    second: foxAtlas_6
+  - first:
+      213: -943330312082761682
+    second: foxAtlas_7
+  - first:
+      213: 7929995468163919140
+    second: foxAtlas_8
+  - first:
+      213: 9165444824867930713
+    second: foxAtlas_9
+  - first:
+      213: -4053771640969216618
+    second: foxAtlas_10
+  - first:
+      213: -903882630314969047
+    second: foxAtlas_11
+  - first:
+      213: -2899839419023811559
+    second: foxAtlas_12
+  - first:
+      213: -7785037005028187374
+    second: foxAtlas_13
+  - first:
+      213: 8858699737762903908
+    second: foxAtlas_14
+  - first:
+      213: 2625981041441837747
+    second: foxAtlas_15
+  - first:
+      213: 5764894321131630924
+    second: foxAtlas_16
+  - first:
+      213: -1089703526144218387
+    second: foxAtlas_17
+  - first:
+      213: 8425903545474962004
+    second: foxAtlas_18
+  - first:
+      213: -6061577893208710165
+    second: foxAtlas_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: foxAtlas_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 298
+        width: 605
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70d20d6f53fa4f8e0800000000000000
+      internalID: -1660509716283904761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foxAtlas_1
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 222
+        width: 312
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31b91552bef6411e0800000000000000
+      internalID: -2228032859907450093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foxAtlas_2
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 459
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36abd69e2a0b0bc90800000000000000
+      internalID: -7156025594144245149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foxAtlas_3
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 279
+        width: 122
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfca38b3edf067d10800000000000000
+      internalID: 2122901721507409148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foxAtlas_4
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 241
+        width: 94
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3170ce19c14bf9770800000000000000
+      internalID: 8619806246610667283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foxAtlas_5
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 214
+        width: 46
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0174c6b9629ff93b0800000000000000
+      internalID: -5503406275411818736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foxAtlas_6
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 267
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e81e1dae53ee17b70800000000000000
+      internalID: 8895152654373740942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foxAtlas_7
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 212
+        width: 53
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e28d272441e98e2f0800000000000000
+      internalID: -943330312082761682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foxAtlas_8
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 5
+        width: 152
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42d2e560dd00d0e60800000000000000
+      internalID: 7929995468163919140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foxAtlas_9
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 170
+        width: 101
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95202b2f183323f70800000000000000
+      internalID: 9165444824867930713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foxAtlas_10
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 240
+        width: 49
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69d3a7b9b2c1eb7c0800000000000000
+      internalID: -4053771640969216618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foxAtlas_11
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 4
+        width: 195
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9283e656983c473f0800000000000000
+      internalID: -903882630314969047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foxAtlas_12
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 47
+        width: 150
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91c19639963b1c7d0800000000000000
+      internalID: -2899839419023811559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foxAtlas_13
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 110
+        width: 66
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2132600471ef5f390800000000000000
+      internalID: -7785037005028187374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foxAtlas_14
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 11
+        width: 64
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4673431e97c60fa70800000000000000
+      internalID: 8858699737762903908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foxAtlas_15
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 93
+        width: 197
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b21d0a18db517420800000000000000
+      internalID: 2625981041441837747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foxAtlas_16
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 11
+        width: 71
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c41b7b267d4010050800000000000000
+      internalID: 5764894321131630924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foxAtlas_17
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 4
+        width: 265
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deaeead9a6890e0f0800000000000000
+      internalID: -1089703526144218387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foxAtlas_18
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 17
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4525dbbd1a2dee470800000000000000
+      internalID: 8425903545474962004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foxAtlas_19
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 9
+        width: 110
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be32fe09503f0eba0800000000000000
+      internalID: -6061577893208710165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      foxAtlas_0: -1660509716283904761
+      foxAtlas_1: -2228032859907450093
+      foxAtlas_10: -4053771640969216618
+      foxAtlas_11: -903882630314969047
+      foxAtlas_12: -2899839419023811559
+      foxAtlas_13: -7785037005028187374
+      foxAtlas_14: 8858699737762903908
+      foxAtlas_15: 2625981041441837747
+      foxAtlas_16: 5764894321131630924
+      foxAtlas_17: -1089703526144218387
+      foxAtlas_18: 8425903545474962004
+      foxAtlas_19: -6061577893208710165
+      foxAtlas_2: -7156025594144245149
+      foxAtlas_3: 2122901721507409148
+      foxAtlas_4: 8619806246610667283
+      foxAtlas_5: -5503406275411818736
+      foxAtlas_6: 8895152654373740942
+      foxAtlas_7: -943330312082761682
+      foxAtlas_8: 7929995468163919140
+      foxAtlas_9: 9165444824867930713
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

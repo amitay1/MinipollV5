@@ -1,0 +1,3 @@
+[[calls]]
+match = "when the user requests code examples, setup or configuration steps, or library/API documentation"
+tool  = "mcp_context7_get-library-docs"

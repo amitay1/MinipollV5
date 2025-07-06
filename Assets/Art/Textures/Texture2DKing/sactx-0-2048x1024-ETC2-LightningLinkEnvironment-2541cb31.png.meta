@@ -1,0 +1,1235 @@
+fileFormatVersion: 2
+guid: f682efcdc923ee244a5f75c35d832a2a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7657549980479099771
+    second: sactx-0-2048x1024-ETC2-LightningLinkEnvironment-2541cb31_0
+  - first:
+      213: 1943021201389405347
+    second: sactx-0-2048x1024-ETC2-LightningLinkEnvironment-2541cb31_1
+  - first:
+      213: 3493027580333559706
+    second: sactx-0-2048x1024-ETC2-LightningLinkEnvironment-2541cb31_2
+  - first:
+      213: 3430188889154846467
+    second: sactx-0-2048x1024-ETC2-LightningLinkEnvironment-2541cb31_3
+  - first:
+      213: -3236473307696382321
+    second: sactx-0-2048x1024-ETC2-LightningLinkEnvironment-2541cb31_4
+  - first:
+      213: -7939984050793449188
+    second: sactx-0-2048x1024-ETC2-LightningLinkEnvironment-2541cb31_5
+  - first:
+      213: 276249233271873034
+    second: sactx-0-2048x1024-ETC2-LightningLinkEnvironment-2541cb31_6
+  - first:
+      213: -2187760669464686098
+    second: sactx-0-2048x1024-ETC2-LightningLinkEnvironment-2541cb31_7
+  - first:
+      213: -449844258460235512
+    second: sactx-0-2048x1024-ETC2-LightningLinkEnvironment-2541cb31_8
+  - first:
+      213: 1698761632686985828
+    second: sactx-0-2048x1024-ETC2-LightningLinkEnvironment-2541cb31_9
+  - first:
+      213: -4814772873690412134
+    second: sactx-0-2048x1024-ETC2-LightningLinkEnvironment-2541cb31_10
+  - first:
+      213: -6444322786063164967
+    second: sactx-0-2048x1024-ETC2-LightningLinkEnvironment-2541cb31_11
+  - first:
+      213: 8925769540161584978
+    second: sactx-0-2048x1024-ETC2-LightningLinkEnvironment-2541cb31_12
+  - first:
+      213: 4804423455699647899
+    second: sactx-0-2048x1024-ETC2-LightningLinkEnvironment-2541cb31_13
+  - first:
+      213: 7318814413357982988
+    second: sactx-0-2048x1024-ETC2-LightningLinkEnvironment-2541cb31_14
+  - first:
+      213: 9066877227581081010
+    second: sactx-0-2048x1024-ETC2-LightningLinkEnvironment-2541cb31_15
+  - first:
+      213: -8849709009230661240
+    second: sactx-0-2048x1024-ETC2-LightningLinkEnvironment-2541cb31_16
+  - first:
+      213: -7584388644042763736
+    second: sactx-0-2048x1024-ETC2-LightningLinkEnvironment-2541cb31_17
+  - first:
+      213: -4343949742090725982
+    second: sactx-0-2048x1024-ETC2-LightningLinkEnvironment-2541cb31_18
+  - first:
+      213: -4998901432616187485
+    second: sactx-0-2048x1024-ETC2-LightningLinkEnvironment-2541cb31_19
+  - first:
+      213: 2841467425900889594
+    second: sactx-0-2048x1024-ETC2-LightningLinkEnvironment-2541cb31_20
+  - first:
+      213: 7937371614474499397
+    second: sactx-0-2048x1024-ETC2-LightningLinkEnvironment-2541cb31_21
+  - first:
+      213: 8640255905708899070
+    second: sactx-0-2048x1024-ETC2-LightningLinkEnvironment-2541cb31_22
+  - first:
+      213: -2159943763491732305
+    second: sactx-0-2048x1024-ETC2-LightningLinkEnvironment-2541cb31_23
+  - first:
+      213: -4186095386781444471
+    second: sactx-0-2048x1024-ETC2-LightningLinkEnvironment-2541cb31_24
+  - first:
+      213: 2393586575067419706
+    second: sactx-0-2048x1024-ETC2-LightningLinkEnvironment-2541cb31_25
+  - first:
+      213: 1281702814192965863
+    second: sactx-0-2048x1024-ETC2-LightningLinkEnvironment-2541cb31_26
+  - first:
+      213: 6092212166674920540
+    second: sactx-0-2048x1024-ETC2-LightningLinkEnvironment-2541cb31_27
+  - first:
+      213: -3833547193114466689
+    second: sactx-0-2048x1024-ETC2-LightningLinkEnvironment-2541cb31_28
+  - first:
+      213: -2461386692943974511
+    second: sactx-0-2048x1024-ETC2-LightningLinkEnvironment-2541cb31_29
+  - first:
+      213: -8344280754989526780
+    second: sactx-0-2048x1024-ETC2-LightningLinkEnvironment-2541cb31_30
+  - first:
+      213: 8940423079820782616
+    second: sactx-0-2048x1024-ETC2-LightningLinkEnvironment-2541cb31_31
+  - first:
+      213: 1030378010028552556
+    second: sactx-0-2048x1024-ETC2-LightningLinkEnvironment-2541cb31_32
+  - first:
+      213: -8266734274576478335
+    second: sactx-0-2048x1024-ETC2-LightningLinkEnvironment-2541cb31_33
+  - first:
+      213: -8714456399433229545
+    second: sactx-0-2048x1024-ETC2-LightningLinkEnvironment-2541cb31_34
+  - first:
+      213: -6375352843217584278
+    second: sactx-0-2048x1024-ETC2-LightningLinkEnvironment-2541cb31_35
+  - first:
+      213: 634567910303680429
+    second: sactx-0-2048x1024-ETC2-LightningLinkEnvironment-2541cb31_36
+  - first:
+      213: 8987834814884510420
+    second: sactx-0-2048x1024-ETC2-LightningLinkEnvironment-2541cb31_37
+  - first:
+      213: 1250477010565378562
+    second: sactx-0-2048x1024-ETC2-LightningLinkEnvironment-2541cb31_38
+  - first:
+      213: -9177245395285464473
+    second: sactx-0-2048x1024-ETC2-LightningLinkEnvironment-2541cb31_39
+  - first:
+      213: 5419396662912115987
+    second: sactx-0-2048x1024-ETC2-LightningLinkEnvironment-2541cb31_40
+  - first:
+      213: -2919791095093504972
+    second: sactx-0-2048x1024-ETC2-LightningLinkEnvironment-2541cb31_41
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sactx-0-2048x1024-ETC2-LightningLinkEnvironment-2541cb31_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 862
+        width: 455
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b739144c225154a60800000000000000
+      internalID: 7657549980479099771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x1024-ETC2-LightningLinkEnvironment-2541cb31_1
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 676
+        width: 326
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a44ed3fc7ff6fa10800000000000000
+      internalID: 1943021201389405347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x1024-ETC2-LightningLinkEnvironment-2541cb31_2
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 870
+        width: 64
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9f8c64d31ab97030800000000000000
+      internalID: 3493027580333559706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x1024-ETC2-LightningLinkEnvironment-2541cb31_3
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 787
+        width: 275
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30ff09aee9a7a9f20800000000000000
+      internalID: 3430188889154846467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x1024-ETC2-LightningLinkEnvironment-2541cb31_4
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 790
+        width: 104
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8e39b99cacb513d0800000000000000
+      internalID: -3236473307696382321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x1024-ETC2-LightningLinkEnvironment-2541cb31_5
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 821
+        width: 47
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c19703ad2928fc190800000000000000
+      internalID: -7939984050793449188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x1024-ETC2-LightningLinkEnvironment-2541cb31_6
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 785
+        width: 137
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0ed4aac63f65d300800000000000000
+      internalID: 276249233271873034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x1024-ETC2-LightningLinkEnvironment-2541cb31_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 675
+        width: 361
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee19cfa234383a1e0800000000000000
+      internalID: -2187760669464686098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x1024-ETC2-LightningLinkEnvironment-2541cb31_8
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 535
+        width: 511
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8098a32c705d1c9f0800000000000000
+      internalID: -449844258460235512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x1024-ETC2-LightningLinkEnvironment-2541cb31_9
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 635
+        width: 102
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 462de5a54b6339710800000000000000
+      internalID: 1698761632686985828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x1024-ETC2-LightningLinkEnvironment-2541cb31_10
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 739
+        width: 79
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9b0f75c49d7e2db0800000000000000
+      internalID: -4814772873690412134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x1024-ETC2-LightningLinkEnvironment-2541cb31_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 313
+        height: 668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d9dfbec19a2196a0800000000000000
+      internalID: -6444322786063164967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x1024-ETC2-LightningLinkEnvironment-2541cb31_12
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 363
+        width: 262
+        height: 323
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25f35542b14bedb70800000000000000
+      internalID: 8925769540161584978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x1024-ETC2-LightningLinkEnvironment-2541cb31_13
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 527
+        width: 161
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9d38839dadbca240800000000000000
+      internalID: 4804423455699647899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x1024-ETC2-LightningLinkEnvironment-2541cb31_14
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 637
+        width: 41
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c052635aee6a19560800000000000000
+      internalID: 7318814413357982988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x1024-ETC2-LightningLinkEnvironment-2541cb31_15
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 474
+        width: 112
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b58c04dcc404dd70800000000000000
+      internalID: 9066877227581081010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x1024-ETC2-LightningLinkEnvironment-2541cb31_16
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 335
+        width: 584
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8897b3b3b848f2580800000000000000
+      internalID: -8849709009230661240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x1024-ETC2-LightningLinkEnvironment-2541cb31_17
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 529
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 822135946b6deb690800000000000000
+      internalID: -7584388644042763736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x1024-ETC2-LightningLinkEnvironment-2541cb31_18
+      rect:
+        serializedVersion: 2
+        x: 1406
+        y: 503
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a5588c89b037b3c0800000000000000
+      internalID: -4343949742090725982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x1024-ETC2-LightningLinkEnvironment-2541cb31_19
+      rect:
+        serializedVersion: 2
+        x: 1489
+        y: 481
+        width: 68
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a988b1e1a550aab0800000000000000
+      internalID: -4998901432616187485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x1024-ETC2-LightningLinkEnvironment-2541cb31_20
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 498
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af58aa1b19bee6720800000000000000
+      internalID: 2841467425900889594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x1024-ETC2-LightningLinkEnvironment-2541cb31_21
+      rect:
+        serializedVersion: 2
+        x: 1433
+        y: 508
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 545750bed65372e60800000000000000
+      internalID: 7937371614474499397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x1024-ETC2-LightningLinkEnvironment-2541cb31_22
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 498
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efaff3cd7fa58e770800000000000000
+      internalID: 8640255905708899070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x1024-ETC2-LightningLinkEnvironment-2541cb31_23
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 503
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa4414a47965602e0800000000000000
+      internalID: -2159943763491732305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x1024-ETC2-LightningLinkEnvironment-2541cb31_24
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 359
+        width: 123
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9869df2bc6008e5c0800000000000000
+      internalID: -4186095386781444471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x1024-ETC2-LightningLinkEnvironment-2541cb31_25
+      rect:
+        serializedVersion: 2
+        x: 1417
+        y: 489
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a34990aee4ab73120800000000000000
+      internalID: 2393586575067419706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x1024-ETC2-LightningLinkEnvironment-2541cb31_26
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 0
+        width: 140
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e817933be589c110800000000000000
+      internalID: 1281702814192965863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x1024-ETC2-LightningLinkEnvironment-2541cb31_27
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 0
+        width: 134
+        height: 385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c54b8fa00b2eb8450800000000000000
+      internalID: 6092212166674920540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x1024-ETC2-LightningLinkEnvironment-2541cb31_28
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 101
+        width: 95
+        height: 373
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7667bc83218ccac0800000000000000
+      internalID: -3833547193114466689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x1024-ETC2-LightningLinkEnvironment-2541cb31_29
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 0
+        width: 320
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19f633008d567ddd0800000000000000
+      internalID: -2461386692943974511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x1024-ETC2-LightningLinkEnvironment-2541cb31_30
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 348
+        width: 132
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40198bcfcd8233c80800000000000000
+      internalID: -8344280754989526780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x1024-ETC2-LightningLinkEnvironment-2541cb31_31
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 99
+        width: 64
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81ceb663c63c21c70800000000000000
+      internalID: 8940423079820782616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x1024-ETC2-LightningLinkEnvironment-2541cb31_32
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 316
+        width: 48
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6130284753ac4e00800000000000000
+      internalID: 1030378010028552556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x1024-ETC2-LightningLinkEnvironment-2541cb31_33
+      rect:
+        serializedVersion: 2
+        x: 1527
+        y: 318
+        width: 74
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18f825fe9f8a64d80800000000000000
+      internalID: -8266734274576478335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x1024-ETC2-LightningLinkEnvironment-2541cb31_34
+      rect:
+        serializedVersion: 2
+        x: 1603
+        y: 303
+        width: 146
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71b172d6318001780800000000000000
+      internalID: -8714456399433229545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x1024-ETC2-LightningLinkEnvironment-2541cb31_35
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 0
+        width: 299
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6f3d3efd523687a0800000000000000
+      internalID: -6375352843217584278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x1024-ETC2-LightningLinkEnvironment-2541cb31_36
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 0
+        width: 328
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da7438ff6207ec800800000000000000
+      internalID: 634567910303680429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x1024-ETC2-LightningLinkEnvironment-2541cb31_37
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 220
+        width: 116
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4da741105243bbc70800000000000000
+      internalID: 8987834814884510420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x1024-ETC2-LightningLinkEnvironment-2541cb31_38
+      rect:
+        serializedVersion: 2
+        x: 1528
+        y: 0
+        width: 142
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 202ba8e37369a5110800000000000000
+      internalID: 1250477010565378562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x1024-ETC2-LightningLinkEnvironment-2541cb31_39
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 227
+        width: 118
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76aab65afefd3a080800000000000000
+      internalID: -9177245395285464473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x1024-ETC2-LightningLinkEnvironment-2541cb31_40
+      rect:
+        serializedVersion: 2
+        x: 1668
+        y: 0
+        width: 76
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31560dd3d80953b40800000000000000
+      internalID: 5419396662912115987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x1024-ETC2-LightningLinkEnvironment-2541cb31_41
+      rect:
+        serializedVersion: 2
+        x: 1742
+        y: 0
+        width: 97
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4345a9ef771da77d0800000000000000
+      internalID: -2919791095093504972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      sactx-0-2048x1024-ETC2-LightningLinkEnvironment-2541cb31_0: 7657549980479099771
+      sactx-0-2048x1024-ETC2-LightningLinkEnvironment-2541cb31_1: 1943021201389405347
+      sactx-0-2048x1024-ETC2-LightningLinkEnvironment-2541cb31_10: -4814772873690412134
+      sactx-0-2048x1024-ETC2-LightningLinkEnvironment-2541cb31_11: -6444322786063164967
+      sactx-0-2048x1024-ETC2-LightningLinkEnvironment-2541cb31_12: 8925769540161584978
+      sactx-0-2048x1024-ETC2-LightningLinkEnvironment-2541cb31_13: 4804423455699647899
+      sactx-0-2048x1024-ETC2-LightningLinkEnvironment-2541cb31_14: 7318814413357982988
+      sactx-0-2048x1024-ETC2-LightningLinkEnvironment-2541cb31_15: 9066877227581081010
+      sactx-0-2048x1024-ETC2-LightningLinkEnvironment-2541cb31_16: -8849709009230661240
+      sactx-0-2048x1024-ETC2-LightningLinkEnvironment-2541cb31_17: -7584388644042763736
+      sactx-0-2048x1024-ETC2-LightningLinkEnvironment-2541cb31_18: -4343949742090725982
+      sactx-0-2048x1024-ETC2-LightningLinkEnvironment-2541cb31_19: -4998901432616187485
+      sactx-0-2048x1024-ETC2-LightningLinkEnvironment-2541cb31_2: 3493027580333559706
+      sactx-0-2048x1024-ETC2-LightningLinkEnvironment-2541cb31_20: 2841467425900889594
+      sactx-0-2048x1024-ETC2-LightningLinkEnvironment-2541cb31_21: 7937371614474499397
+      sactx-0-2048x1024-ETC2-LightningLinkEnvironment-2541cb31_22: 8640255905708899070
+      sactx-0-2048x1024-ETC2-LightningLinkEnvironment-2541cb31_23: -2159943763491732305
+      sactx-0-2048x1024-ETC2-LightningLinkEnvironment-2541cb31_24: -4186095386781444471
+      sactx-0-2048x1024-ETC2-LightningLinkEnvironment-2541cb31_25: 2393586575067419706
+      sactx-0-2048x1024-ETC2-LightningLinkEnvironment-2541cb31_26: 1281702814192965863
+      sactx-0-2048x1024-ETC2-LightningLinkEnvironment-2541cb31_27: 6092212166674920540
+      sactx-0-2048x1024-ETC2-LightningLinkEnvironment-2541cb31_28: -3833547193114466689
+      sactx-0-2048x1024-ETC2-LightningLinkEnvironment-2541cb31_29: -2461386692943974511
+      sactx-0-2048x1024-ETC2-LightningLinkEnvironment-2541cb31_3: 3430188889154846467
+      sactx-0-2048x1024-ETC2-LightningLinkEnvironment-2541cb31_30: -8344280754989526780
+      sactx-0-2048x1024-ETC2-LightningLinkEnvironment-2541cb31_31: 8940423079820782616
+      sactx-0-2048x1024-ETC2-LightningLinkEnvironment-2541cb31_32: 1030378010028552556
+      sactx-0-2048x1024-ETC2-LightningLinkEnvironment-2541cb31_33: -8266734274576478335
+      sactx-0-2048x1024-ETC2-LightningLinkEnvironment-2541cb31_34: -8714456399433229545
+      sactx-0-2048x1024-ETC2-LightningLinkEnvironment-2541cb31_35: -6375352843217584278
+      sactx-0-2048x1024-ETC2-LightningLinkEnvironment-2541cb31_36: 634567910303680429
+      sactx-0-2048x1024-ETC2-LightningLinkEnvironment-2541cb31_37: 8987834814884510420
+      sactx-0-2048x1024-ETC2-LightningLinkEnvironment-2541cb31_38: 1250477010565378562
+      sactx-0-2048x1024-ETC2-LightningLinkEnvironment-2541cb31_39: -9177245395285464473
+      sactx-0-2048x1024-ETC2-LightningLinkEnvironment-2541cb31_4: -3236473307696382321
+      sactx-0-2048x1024-ETC2-LightningLinkEnvironment-2541cb31_40: 5419396662912115987
+      sactx-0-2048x1024-ETC2-LightningLinkEnvironment-2541cb31_41: -2919791095093504972
+      sactx-0-2048x1024-ETC2-LightningLinkEnvironment-2541cb31_5: -7939984050793449188
+      sactx-0-2048x1024-ETC2-LightningLinkEnvironment-2541cb31_6: 276249233271873034
+      sactx-0-2048x1024-ETC2-LightningLinkEnvironment-2541cb31_7: -2187760669464686098
+      sactx-0-2048x1024-ETC2-LightningLinkEnvironment-2541cb31_8: -449844258460235512
+      sactx-0-2048x1024-ETC2-LightningLinkEnvironment-2541cb31_9: 1698761632686985828
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

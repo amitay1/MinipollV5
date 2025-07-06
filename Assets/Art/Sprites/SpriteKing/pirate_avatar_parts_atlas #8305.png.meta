@@ -1,0 +1,585 @@
+fileFormatVersion: 2
+guid: a1e434ef635140f4abc6431a365b14b6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3189771930405860215
+    second: pirate_avatar_parts_atlas #8305_0
+  - first:
+      213: -3062896277158322635
+    second: pirate_avatar_parts_atlas #8305_1
+  - first:
+      213: 8984858038680438193
+    second: pirate_avatar_parts_atlas #8305_2
+  - first:
+      213: -3878445951412829164
+    second: pirate_avatar_parts_atlas #8305_3
+  - first:
+      213: 3725252864907784113
+    second: pirate_avatar_parts_atlas #8305_4
+  - first:
+      213: -8568652685429989956
+    second: pirate_avatar_parts_atlas #8305_5
+  - first:
+      213: 5967047160689420472
+    second: pirate_avatar_parts_atlas #8305_6
+  - first:
+      213: -6705292990665282617
+    second: pirate_avatar_parts_atlas #8305_7
+  - first:
+      213: 3687252113428879277
+    second: pirate_avatar_parts_atlas #8305_8
+  - first:
+      213: 1265551065652117402
+    second: pirate_avatar_parts_atlas #8305_9
+  - first:
+      213: -2372541280960583733
+    second: pirate_avatar_parts_atlas #8305_10
+  - first:
+      213: -7778447771599280308
+    second: pirate_avatar_parts_atlas #8305_11
+  - first:
+      213: 6466244250996495214
+    second: pirate_avatar_parts_atlas #8305_12
+  - first:
+      213: 7958988015321696145
+    second: pirate_avatar_parts_atlas #8305_13
+  - first:
+      213: 7766109589405739126
+    second: pirate_avatar_parts_atlas #8305_14
+  - first:
+      213: 8009796712417716428
+    second: pirate_avatar_parts_atlas #8305_15
+  - first:
+      213: -4095132979705787099
+    second: pirate_avatar_parts_atlas #8305_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pirate_avatar_parts_atlas #8305_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 231
+        width: 89
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98c85a55457abb3d0800000000000000
+      internalID: -3189771930405860215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_avatar_parts_atlas #8305_1
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 229
+        width: 42
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53e9c1850186e75d0800000000000000
+      internalID: -3062896277158322635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_avatar_parts_atlas #8305_2
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 229
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b54cd848c0a0bc70800000000000000
+      internalID: 8984858038680438193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_avatar_parts_atlas #8305_3
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 229
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4148c71c4fdfc2ac0800000000000000
+      internalID: -3878445951412829164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_avatar_parts_atlas #8305_4
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 229
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bfa55f4eb1c2b330800000000000000
+      internalID: 3725252864907784113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_avatar_parts_atlas #8305_5
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 229
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbd9f3108c7061980800000000000000
+      internalID: -8568652685429989956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_avatar_parts_atlas #8305_6
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 227
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b865e227c53fc250800000000000000
+      internalID: 5967047160689420472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_avatar_parts_atlas #8305_7
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 88
+        width: 63
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cbaa781d8302f2a0800000000000000
+      internalID: -6705292990665282617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_avatar_parts_atlas #8305_8
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 177
+        width: 17
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da79c32e240cb2330800000000000000
+      internalID: 3687252113428879277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_avatar_parts_atlas #8305_9
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 95
+        width: 17
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9fbf413df3209110800000000000000
+      internalID: 1265551065652117402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_avatar_parts_atlas #8305_10
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 128
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc7e465764a031fd0800000000000000
+      internalID: -2372541280960583733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_avatar_parts_atlas #8305_11
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 88
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4765e5b6f66d0490800000000000000
+      internalID: -7778447771599280308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_avatar_parts_atlas #8305_12
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 1
+        width: 130
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e63de8bf2e6bcb950800000000000000
+      internalID: 6466244250996495214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_avatar_parts_atlas #8305_13
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 72
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19747d07e61047e60800000000000000
+      internalID: 7958988015321696145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_avatar_parts_atlas #8305_14
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 51
+        width: 40
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 678a8436683c6cb60800000000000000
+      internalID: 7766109589405739126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_avatar_parts_atlas #8305_15
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 1
+        width: 143
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc8efb61ca3882f60800000000000000
+      internalID: 8009796712417716428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_avatar_parts_atlas #8305_16
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 51
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52d46ac704a2b27c0800000000000000
+      internalID: -4095132979705787099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      pirate_avatar_parts_atlas #8305_0: -3189771930405860215
+      pirate_avatar_parts_atlas #8305_1: -3062896277158322635
+      pirate_avatar_parts_atlas #8305_10: -2372541280960583733
+      pirate_avatar_parts_atlas #8305_11: -7778447771599280308
+      pirate_avatar_parts_atlas #8305_12: 6466244250996495214
+      pirate_avatar_parts_atlas #8305_13: 7958988015321696145
+      pirate_avatar_parts_atlas #8305_14: 7766109589405739126
+      pirate_avatar_parts_atlas #8305_15: 8009796712417716428
+      pirate_avatar_parts_atlas #8305_16: -4095132979705787099
+      pirate_avatar_parts_atlas #8305_2: 8984858038680438193
+      pirate_avatar_parts_atlas #8305_3: -3878445951412829164
+      pirate_avatar_parts_atlas #8305_4: 3725252864907784113
+      pirate_avatar_parts_atlas #8305_5: -8568652685429989956
+      pirate_avatar_parts_atlas #8305_6: 5967047160689420472
+      pirate_avatar_parts_atlas #8305_7: -6705292990665282617
+      pirate_avatar_parts_atlas #8305_8: 3687252113428879277
+      pirate_avatar_parts_atlas #8305_9: 1265551065652117402
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

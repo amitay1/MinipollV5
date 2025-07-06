@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: 7aa49fcb5c63f7642a1c4dbd75bec0c6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5982603233127340397
+    second: tutorial_end_spins_top_0
+  - first:
+      213: 2674338223511043474
+    second: tutorial_end_spins_top_1
+  - first:
+      213: 8889441585882831897
+    second: tutorial_end_spins_top_2
+  - first:
+      213: 7463385262949138012
+    second: tutorial_end_spins_top_3
+  - first:
+      213: 824675656489919188
+    second: tutorial_end_spins_top_4
+  - first:
+      213: 8461085908261124158
+    second: tutorial_end_spins_top_5
+  - first:
+      213: 8311443903144386960
+    second: tutorial_end_spins_top_6
+  - first:
+      213: -1392801670017078784
+    second: tutorial_end_spins_top_7
+  - first:
+      213: 5287304921304601636
+    second: tutorial_end_spins_top_8
+  - first:
+      213: 8225114546252827946
+    second: tutorial_end_spins_top_9
+  - first:
+      213: -4433685398934515205
+    second: tutorial_end_spins_top_10
+  - first:
+      213: 4774116327227703879
+    second: tutorial_end_spins_top_11
+  - first:
+      213: -2259214214829731924
+    second: tutorial_end_spins_top_12
+  - first:
+      213: 8671979927970706745
+    second: tutorial_end_spins_top_13
+  - first:
+      213: 2773835767184784629
+    second: tutorial_end_spins_top_14
+  - first:
+      213: 7499027900113306427
+    second: tutorial_end_spins_top_15
+  - first:
+      213: 7151980059277073553
+    second: tutorial_end_spins_top_16
+  - first:
+      213: -8775696888406497406
+    second: tutorial_end_spins_top_17
+  - first:
+      213: -3507024372713857371
+    second: tutorial_end_spins_top_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tutorial_end_spins_top_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 305
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6998ae71f9760350800000000000000
+      internalID: 5982603233127340397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutorial_end_spins_top_1
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 111
+        width: 502
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29dff9de1782d1520800000000000000
+      internalID: 2674338223511043474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutorial_end_spins_top_2
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 303
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91c912a2604ad5b70800000000000000
+      internalID: 8889441585882831897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutorial_end_spins_top_3
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 271
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5ef7fb9a55439760800000000000000
+      internalID: 7463385262949138012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutorial_end_spins_top_4
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 271
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d26ef7e326d17b00800000000000000
+      internalID: 824675656489919188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutorial_end_spins_top_5
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 253
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e38b7f70ec0db6570800000000000000
+      internalID: 8461085908261124158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutorial_end_spins_top_6
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 248
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 091e189a13e285370800000000000000
+      internalID: 8311443903144386960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutorial_end_spins_top_7
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 224
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00aaf00b246cbace0800000000000000
+      internalID: -1392801670017078784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutorial_end_spins_top_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 424198500d7406940800000000000000
+      internalID: 5287304921304601636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutorial_end_spins_top_9
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 164
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2d4c4ee91a752270800000000000000
+      internalID: 8225114546252827946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutorial_end_spins_top_10
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 50
+        width: 101
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf11caece926872c0800000000000000
+      internalID: -4433685398934515205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutorial_end_spins_top_11
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 40
+        width: 82
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 742ccc85181114240800000000000000
+      internalID: 4774116327227703879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutorial_end_spins_top_12
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 51
+        width: 74
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caf8f8534a8a5a0e0800000000000000
+      internalID: -2259214214829731924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutorial_end_spins_top_13
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 40
+        width: 128
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 935f2026ccf095870800000000000000
+      internalID: 8671979927970706745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutorial_end_spins_top_14
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 51
+        width: 48
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fc72501fe4ae7620800000000000000
+      internalID: 2773835767184784629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutorial_end_spins_top_15
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 40
+        width: 178
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b334ff2c426e11860800000000000000
+      internalID: 7499027900113306427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutorial_end_spins_top_16
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 0
+        width: 73
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19c13e998ffe04360800000000000000
+      internalID: 7151980059277073553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutorial_end_spins_top_17
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 0
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 287a706fc26763680800000000000000
+      internalID: -8775696888406497406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutorial_end_spins_top_18
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 0
+        width: 114
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aed0cdf9eb845fc0800000000000000
+      internalID: -3507024372713857371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      tutorial_end_spins_top_0: 5982603233127340397
+      tutorial_end_spins_top_1: 2674338223511043474
+      tutorial_end_spins_top_10: -4433685398934515205
+      tutorial_end_spins_top_11: 4774116327227703879
+      tutorial_end_spins_top_12: -2259214214829731924
+      tutorial_end_spins_top_13: 8671979927970706745
+      tutorial_end_spins_top_14: 2773835767184784629
+      tutorial_end_spins_top_15: 7499027900113306427
+      tutorial_end_spins_top_16: 7151980059277073553
+      tutorial_end_spins_top_17: -8775696888406497406
+      tutorial_end_spins_top_18: -3507024372713857371
+      tutorial_end_spins_top_2: 8889441585882831897
+      tutorial_end_spins_top_3: 7463385262949138012
+      tutorial_end_spins_top_4: 824675656489919188
+      tutorial_end_spins_top_5: 8461085908261124158
+      tutorial_end_spins_top_6: 8311443903144386960
+      tutorial_end_spins_top_7: -1392801670017078784
+      tutorial_end_spins_top_8: 5287304921304601636
+      tutorial_end_spins_top_9: 8225114546252827946
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

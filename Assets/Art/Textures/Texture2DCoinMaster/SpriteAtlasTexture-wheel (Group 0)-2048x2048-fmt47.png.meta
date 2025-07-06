@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: 636d65dc9e91b734b9c5931e060cd024
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7840225190377941905
+    second: SpriteAtlasTexture-wheel (Group 0)-2048x2048-fmt47_0
+  - first:
+      213: -4315328637463125348
+    second: SpriteAtlasTexture-wheel (Group 0)-2048x2048-fmt47_1
+  - first:
+      213: 551686434568457094
+    second: SpriteAtlasTexture-wheel (Group 0)-2048x2048-fmt47_2
+  - first:
+      213: -3317969868528817635
+    second: SpriteAtlasTexture-wheel (Group 0)-2048x2048-fmt47_3
+  - first:
+      213: -5691989605499892164
+    second: SpriteAtlasTexture-wheel (Group 0)-2048x2048-fmt47_4
+  - first:
+      213: -8130508343236420058
+    second: SpriteAtlasTexture-wheel (Group 0)-2048x2048-fmt47_5
+  - first:
+      213: 6334194035512150369
+    second: SpriteAtlasTexture-wheel (Group 0)-2048x2048-fmt47_6
+  - first:
+      213: 2965451179069658783
+    second: SpriteAtlasTexture-wheel (Group 0)-2048x2048-fmt47_7
+  - first:
+      213: 1971906394801964588
+    second: SpriteAtlasTexture-wheel (Group 0)-2048x2048-fmt47_8
+  - first:
+      213: 6499218572251311868
+    second: SpriteAtlasTexture-wheel (Group 0)-2048x2048-fmt47_9
+  - first:
+      213: -6749548069575098858
+    second: SpriteAtlasTexture-wheel (Group 0)-2048x2048-fmt47_10
+  - first:
+      213: 7829715667158265228
+    second: SpriteAtlasTexture-wheel (Group 0)-2048x2048-fmt47_11
+  - first:
+      213: 5936731709084927229
+    second: SpriteAtlasTexture-wheel (Group 0)-2048x2048-fmt47_12
+  - first:
+      213: 184407438370007741
+    second: SpriteAtlasTexture-wheel (Group 0)-2048x2048-fmt47_13
+  - first:
+      213: -1656234489289554118
+    second: SpriteAtlasTexture-wheel (Group 0)-2048x2048-fmt47_14
+  - first:
+      213: 8926410299576558477
+    second: SpriteAtlasTexture-wheel (Group 0)-2048x2048-fmt47_15
+  - first:
+      213: 3711926112200589432
+    second: SpriteAtlasTexture-wheel (Group 0)-2048x2048-fmt47_16
+  - first:
+      213: -7206104746539445946
+    second: SpriteAtlasTexture-wheel (Group 0)-2048x2048-fmt47_17
+  - first:
+      213: -7601546513334078752
+    second: SpriteAtlasTexture-wheel (Group 0)-2048x2048-fmt47_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-wheel (Group 0)-2048x2048-fmt47_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1611
+        width: 497
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6414788abce13390800000000000000
+      internalID: -7840225190377941905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-wheel (Group 0)-2048x2048-fmt47_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1351
+        width: 1273
+        height: 422
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c92a0f2c77fdc14c0800000000000000
+      internalID: -4315328637463125348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-wheel (Group 0)-2048x2048-fmt47_2
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 1612
+        width: 142
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68bcad7a3ebf7a700800000000000000
+      internalID: 551686434568457094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-wheel (Group 0)-2048x2048-fmt47_3
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 1763
+        width: 126
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1ae3e2ebf334f1d0800000000000000
+      internalID: -3317969868528817635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-wheel (Group 0)-2048x2048-fmt47_4
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 1612
+        width: 124
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3e86fa7c9df101b0800000000000000
+      internalID: -5691989605499892164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-wheel (Group 0)-2048x2048-fmt47_5
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 807
+        width: 606
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62e1b063db1aa2f80800000000000000
+      internalID: -8130508343236420058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-wheel (Group 0)-2048x2048-fmt47_6
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 806
+        width: 584
+        height: 539
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16989115ae397e750800000000000000
+      internalID: 6334194035512150369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-wheel (Group 0)-2048x2048-fmt47_7
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 1171
+        width: 322
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f96d53fb226672920800000000000000
+      internalID: 2965451179069658783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-wheel (Group 0)-2048x2048-fmt47_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 806
+        height: 806
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c260e702b6e9d5b10800000000000000
+      internalID: 1971906394801964588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-wheel (Group 0)-2048x2048-fmt47_9
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 0
+        width: 807
+        height: 806
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfe29ac6bdcd13a50800000000000000
+      internalID: 6499218572251311868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-wheel (Group 0)-2048x2048-fmt47_10
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 803
+        width: 514
+        height: 366
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61e7d869ac9c452a0800000000000000
+      internalID: -6749548069575098858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-wheel (Group 0)-2048x2048-fmt47_11
+      rect:
+        serializedVersion: 2
+        x: 1681
+        y: 727
+        width: 134
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8d67496aecb8ac60800000000000000
+      internalID: 7829715667158265228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-wheel (Group 0)-2048x2048-fmt47_12
+      rect:
+        serializedVersion: 2
+        x: 1614
+        y: 550
+        width: 109
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df40ec60902836250800000000000000
+      internalID: 5936731709084927229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-wheel (Group 0)-2048x2048-fmt47_13
+      rect:
+        serializedVersion: 2
+        x: 1734
+        y: 547
+        width: 133
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbaebf196952f8200800000000000000
+      internalID: 184407438370007741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-wheel (Group 0)-2048x2048-fmt47_14
+      rect:
+        serializedVersion: 2
+        x: 1797
+        y: 700
+        width: 72
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a374521d18fd309e0800000000000000
+      internalID: -1656234489289554118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-wheel (Group 0)-2048x2048-fmt47_15
+      rect:
+        serializedVersion: 2
+        x: 1614
+        y: 399
+        width: 130
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8326a19fdaf0eb70800000000000000
+      internalID: 8926410299576558477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-wheel (Group 0)-2048x2048-fmt47_16
+      rect:
+        serializedVersion: 2
+        x: 1615
+        y: 0
+        width: 314
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8708636e129638330800000000000000
+      internalID: 3711926112200589432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-wheel (Group 0)-2048x2048-fmt47_17
+      rect:
+        serializedVersion: 2
+        x: 1742
+        y: 399
+        width: 121
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6419240a9e5cefb90800000000000000
+      internalID: -7206104746539445946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-wheel (Group 0)-2048x2048-fmt47_18
+      rect:
+        serializedVersion: 2
+        x: 1861
+        y: 391
+        width: 122
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e2fc1988b1e18690800000000000000
+      internalID: -7601546513334078752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SpriteAtlasTexture-wheel (Group 0)-2048x2048-fmt47_0: -7840225190377941905
+      SpriteAtlasTexture-wheel (Group 0)-2048x2048-fmt47_1: -4315328637463125348
+      SpriteAtlasTexture-wheel (Group 0)-2048x2048-fmt47_10: -6749548069575098858
+      SpriteAtlasTexture-wheel (Group 0)-2048x2048-fmt47_11: 7829715667158265228
+      SpriteAtlasTexture-wheel (Group 0)-2048x2048-fmt47_12: 5936731709084927229
+      SpriteAtlasTexture-wheel (Group 0)-2048x2048-fmt47_13: 184407438370007741
+      SpriteAtlasTexture-wheel (Group 0)-2048x2048-fmt47_14: -1656234489289554118
+      SpriteAtlasTexture-wheel (Group 0)-2048x2048-fmt47_15: 8926410299576558477
+      SpriteAtlasTexture-wheel (Group 0)-2048x2048-fmt47_16: 3711926112200589432
+      SpriteAtlasTexture-wheel (Group 0)-2048x2048-fmt47_17: -7206104746539445946
+      SpriteAtlasTexture-wheel (Group 0)-2048x2048-fmt47_18: -7601546513334078752
+      SpriteAtlasTexture-wheel (Group 0)-2048x2048-fmt47_2: 551686434568457094
+      SpriteAtlasTexture-wheel (Group 0)-2048x2048-fmt47_3: -3317969868528817635
+      SpriteAtlasTexture-wheel (Group 0)-2048x2048-fmt47_4: -5691989605499892164
+      SpriteAtlasTexture-wheel (Group 0)-2048x2048-fmt47_5: -8130508343236420058
+      SpriteAtlasTexture-wheel (Group 0)-2048x2048-fmt47_6: 6334194035512150369
+      SpriteAtlasTexture-wheel (Group 0)-2048x2048-fmt47_7: 2965451179069658783
+      SpriteAtlasTexture-wheel (Group 0)-2048x2048-fmt47_8: 1971906394801964588
+      SpriteAtlasTexture-wheel (Group 0)-2048x2048-fmt47_9: 6499218572251311868
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

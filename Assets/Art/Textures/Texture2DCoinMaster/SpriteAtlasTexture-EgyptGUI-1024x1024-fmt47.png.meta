@@ -1,0 +1,663 @@
+fileFormatVersion: 2
+guid: 732e7704473c792489377cd26632557f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5088299662678579467
+    second: SpriteAtlasTexture-EgyptGUI-1024x1024-fmt47_0
+  - first:
+      213: -3725455927830490280
+    second: SpriteAtlasTexture-EgyptGUI-1024x1024-fmt47_1
+  - first:
+      213: 614768958095011988
+    second: SpriteAtlasTexture-EgyptGUI-1024x1024-fmt47_2
+  - first:
+      213: -5369586335492556959
+    second: SpriteAtlasTexture-EgyptGUI-1024x1024-fmt47_3
+  - first:
+      213: 109974744666700015
+    second: SpriteAtlasTexture-EgyptGUI-1024x1024-fmt47_4
+  - first:
+      213: -8722563497982677521
+    second: SpriteAtlasTexture-EgyptGUI-1024x1024-fmt47_5
+  - first:
+      213: 8069662683360896321
+    second: SpriteAtlasTexture-EgyptGUI-1024x1024-fmt47_6
+  - first:
+      213: 7734352866850361333
+    second: SpriteAtlasTexture-EgyptGUI-1024x1024-fmt47_7
+  - first:
+      213: 2207583688572876213
+    second: SpriteAtlasTexture-EgyptGUI-1024x1024-fmt47_8
+  - first:
+      213: -7369723441302281204
+    second: SpriteAtlasTexture-EgyptGUI-1024x1024-fmt47_9
+  - first:
+      213: 4000247925189905536
+    second: SpriteAtlasTexture-EgyptGUI-1024x1024-fmt47_10
+  - first:
+      213: 4330390382281959319
+    second: SpriteAtlasTexture-EgyptGUI-1024x1024-fmt47_11
+  - first:
+      213: -1247316855722720932
+    second: SpriteAtlasTexture-EgyptGUI-1024x1024-fmt47_12
+  - first:
+      213: -4055738170519351383
+    second: SpriteAtlasTexture-EgyptGUI-1024x1024-fmt47_13
+  - first:
+      213: -60696328726416640
+    second: SpriteAtlasTexture-EgyptGUI-1024x1024-fmt47_14
+  - first:
+      213: 7675520605447049975
+    second: SpriteAtlasTexture-EgyptGUI-1024x1024-fmt47_15
+  - first:
+      213: -6628115175037324420
+    second: SpriteAtlasTexture-EgyptGUI-1024x1024-fmt47_16
+  - first:
+      213: -8655218434982711272
+    second: SpriteAtlasTexture-EgyptGUI-1024x1024-fmt47_17
+  - first:
+      213: 2157790147146588211
+    second: SpriteAtlasTexture-EgyptGUI-1024x1024-fmt47_18
+  - first:
+      213: -270748192791063229
+    second: SpriteAtlasTexture-EgyptGUI-1024x1024-fmt47_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-EgyptGUI-1024x1024-fmt47_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 711
+        width: 177
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0952b095954d9640800000000000000
+      internalID: 5088299662678579467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-EgyptGUI-1024x1024-fmt47_1
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 847
+        width: 216
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8535a4b62958c4cc0800000000000000
+      internalID: -3725455927830490280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-EgyptGUI-1024x1024-fmt47_2
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 682
+        width: 204
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 490b0363c19188800800000000000000
+      internalID: 614768958095011988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-EgyptGUI-1024x1024-fmt47_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 551
+        width: 202
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 167bc2a5da56b75b0800000000000000
+      internalID: -5369586335492556959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-EgyptGUI-1024x1024-fmt47_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 374
+        width: 180
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe87f169275b68100800000000000000
+      internalID: 109974744666700015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-EgyptGUI-1024x1024-fmt47_5
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 530
+        width: 207
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fed24f376ba33f680800000000000000
+      internalID: -8722563497982677521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-EgyptGUI-1024x1024-fmt47_6
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 337
+        width: 183
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 145a3f2a4733dff60800000000000000
+      internalID: 8069662683360896321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-EgyptGUI-1024x1024-fmt47_7
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 488
+        width: 171
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ffc32c34f0f55b60800000000000000
+      internalID: 7734352866850361333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-EgyptGUI-1024x1024-fmt47_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 117
+        width: 198
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b535512ba9e2ae10800000000000000
+      internalID: 2207583688572876213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-EgyptGUI-1024x1024-fmt47_9
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 373
+        width: 204
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c04ee4c939b79b990800000000000000
+      internalID: -7369723441302281204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-EgyptGUI-1024x1024-fmt47_10
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 190
+        width: 195
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08c00723b4cb38730800000000000000
+      internalID: 4000247925189905536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-EgyptGUI-1024x1024-fmt47_11
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 365
+        width: 203
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7972faafb13a81c30800000000000000
+      internalID: 4330390382281959319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-EgyptGUI-1024x1024-fmt47_12
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 176
+        width: 192
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c514a44ade3a0bee0800000000000000
+      internalID: -1247316855722720932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-EgyptGUI-1024x1024-fmt47_13
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 332
+        width: 67
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9af83344f9f17b7c0800000000000000
+      internalID: -4055738170519351383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-EgyptGUI-1024x1024-fmt47_14
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 195
+        width: 159
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0037717b20d582ff0800000000000000
+      internalID: -60696328726416640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-EgyptGUI-1024x1024-fmt47_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 203
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f2dcd1f25de48a60800000000000000
+      internalID: 7675520605447049975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-EgyptGUI-1024x1024-fmt47_16
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 0
+        width: 190
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7336859d543404a0800000000000000
+      internalID: -6628115175037324420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-EgyptGUI-1024x1024-fmt47_17
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 7
+        width: 187
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8107171d0bc72e780800000000000000
+      internalID: -8655218434982711272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-EgyptGUI-1024x1024-fmt47_18
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 170
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 330a284d4b202fd10800000000000000
+      internalID: 2157790147146588211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-EgyptGUI-1024x1024-fmt47_19
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 0
+        width: 139
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3451c1104fb1e3cf0800000000000000
+      internalID: -270748192791063229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SpriteAtlasTexture-EgyptGUI-1024x1024-fmt47_0: 5088299662678579467
+      SpriteAtlasTexture-EgyptGUI-1024x1024-fmt47_1: -3725455927830490280
+      SpriteAtlasTexture-EgyptGUI-1024x1024-fmt47_10: 4000247925189905536
+      SpriteAtlasTexture-EgyptGUI-1024x1024-fmt47_11: 4330390382281959319
+      SpriteAtlasTexture-EgyptGUI-1024x1024-fmt47_12: -1247316855722720932
+      SpriteAtlasTexture-EgyptGUI-1024x1024-fmt47_13: -4055738170519351383
+      SpriteAtlasTexture-EgyptGUI-1024x1024-fmt47_14: -60696328726416640
+      SpriteAtlasTexture-EgyptGUI-1024x1024-fmt47_15: 7675520605447049975
+      SpriteAtlasTexture-EgyptGUI-1024x1024-fmt47_16: -6628115175037324420
+      SpriteAtlasTexture-EgyptGUI-1024x1024-fmt47_17: -8655218434982711272
+      SpriteAtlasTexture-EgyptGUI-1024x1024-fmt47_18: 2157790147146588211
+      SpriteAtlasTexture-EgyptGUI-1024x1024-fmt47_19: -270748192791063229
+      SpriteAtlasTexture-EgyptGUI-1024x1024-fmt47_2: 614768958095011988
+      SpriteAtlasTexture-EgyptGUI-1024x1024-fmt47_3: -5369586335492556959
+      SpriteAtlasTexture-EgyptGUI-1024x1024-fmt47_4: 109974744666700015
+      SpriteAtlasTexture-EgyptGUI-1024x1024-fmt47_5: -8722563497982677521
+      SpriteAtlasTexture-EgyptGUI-1024x1024-fmt47_6: 8069662683360896321
+      SpriteAtlasTexture-EgyptGUI-1024x1024-fmt47_7: 7734352866850361333
+      SpriteAtlasTexture-EgyptGUI-1024x1024-fmt47_8: 2207583688572876213
+      SpriteAtlasTexture-EgyptGUI-1024x1024-fmt47_9: -7369723441302281204
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

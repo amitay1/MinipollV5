@@ -1,0 +1,1235 @@
+fileFormatVersion: 2
+guid: 215317f4a866fbf4b9b461d83ac3f5ea
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4727883187976238753
+    second: sactx-0-2048x2048-ETC2-Minigames-9685a120_0
+  - first:
+      213: -3641087317371022262
+    second: sactx-0-2048x2048-ETC2-Minigames-9685a120_1
+  - first:
+      213: 8288538014367083338
+    second: sactx-0-2048x2048-ETC2-Minigames-9685a120_2
+  - first:
+      213: -4895470471196229958
+    second: sactx-0-2048x2048-ETC2-Minigames-9685a120_3
+  - first:
+      213: 1414341360580564033
+    second: sactx-0-2048x2048-ETC2-Minigames-9685a120_4
+  - first:
+      213: 3177159319114882123
+    second: sactx-0-2048x2048-ETC2-Minigames-9685a120_5
+  - first:
+      213: 6792293786568053894
+    second: sactx-0-2048x2048-ETC2-Minigames-9685a120_6
+  - first:
+      213: -2357167599399371833
+    second: sactx-0-2048x2048-ETC2-Minigames-9685a120_7
+  - first:
+      213: 7445995048850225750
+    second: sactx-0-2048x2048-ETC2-Minigames-9685a120_8
+  - first:
+      213: 4247850583990732550
+    second: sactx-0-2048x2048-ETC2-Minigames-9685a120_9
+  - first:
+      213: -7221498686878924071
+    second: sactx-0-2048x2048-ETC2-Minigames-9685a120_10
+  - first:
+      213: -3763587615125188038
+    second: sactx-0-2048x2048-ETC2-Minigames-9685a120_11
+  - first:
+      213: 4665098035361524743
+    second: sactx-0-2048x2048-ETC2-Minigames-9685a120_12
+  - first:
+      213: -4089496242689470924
+    second: sactx-0-2048x2048-ETC2-Minigames-9685a120_13
+  - first:
+      213: 1666754073676702630
+    second: sactx-0-2048x2048-ETC2-Minigames-9685a120_14
+  - first:
+      213: -7140953614842296528
+    second: sactx-0-2048x2048-ETC2-Minigames-9685a120_15
+  - first:
+      213: -3832817409003058784
+    second: sactx-0-2048x2048-ETC2-Minigames-9685a120_16
+  - first:
+      213: -5481224710651228821
+    second: sactx-0-2048x2048-ETC2-Minigames-9685a120_17
+  - first:
+      213: 5093357334006918356
+    second: sactx-0-2048x2048-ETC2-Minigames-9685a120_18
+  - first:
+      213: 1886739249170888305
+    second: sactx-0-2048x2048-ETC2-Minigames-9685a120_19
+  - first:
+      213: 2004434454028626407
+    second: sactx-0-2048x2048-ETC2-Minigames-9685a120_20
+  - first:
+      213: 8072071202597281594
+    second: sactx-0-2048x2048-ETC2-Minigames-9685a120_21
+  - first:
+      213: 2420054637194013715
+    second: sactx-0-2048x2048-ETC2-Minigames-9685a120_22
+  - first:
+      213: -2420812086531247708
+    second: sactx-0-2048x2048-ETC2-Minigames-9685a120_23
+  - first:
+      213: 2848092448208480531
+    second: sactx-0-2048x2048-ETC2-Minigames-9685a120_24
+  - first:
+      213: 3683509697713881619
+    second: sactx-0-2048x2048-ETC2-Minigames-9685a120_25
+  - first:
+      213: 8080763134332575895
+    second: sactx-0-2048x2048-ETC2-Minigames-9685a120_26
+  - first:
+      213: -2732679323622637184
+    second: sactx-0-2048x2048-ETC2-Minigames-9685a120_27
+  - first:
+      213: -1559414672981667209
+    second: sactx-0-2048x2048-ETC2-Minigames-9685a120_28
+  - first:
+      213: 7173616797977863905
+    second: sactx-0-2048x2048-ETC2-Minigames-9685a120_29
+  - first:
+      213: 1243320195844122269
+    second: sactx-0-2048x2048-ETC2-Minigames-9685a120_30
+  - first:
+      213: 8463203926523996671
+    second: sactx-0-2048x2048-ETC2-Minigames-9685a120_31
+  - first:
+      213: -2867902622918077763
+    second: sactx-0-2048x2048-ETC2-Minigames-9685a120_32
+  - first:
+      213: 7883937358156674515
+    second: sactx-0-2048x2048-ETC2-Minigames-9685a120_33
+  - first:
+      213: -2047204538943998148
+    second: sactx-0-2048x2048-ETC2-Minigames-9685a120_34
+  - first:
+      213: 2210253598117004369
+    second: sactx-0-2048x2048-ETC2-Minigames-9685a120_35
+  - first:
+      213: -5285381395382750220
+    second: sactx-0-2048x2048-ETC2-Minigames-9685a120_36
+  - first:
+      213: 7545036725753939475
+    second: sactx-0-2048x2048-ETC2-Minigames-9685a120_37
+  - first:
+      213: 4767896041267678252
+    second: sactx-0-2048x2048-ETC2-Minigames-9685a120_38
+  - first:
+      213: 1438648813598677682
+    second: sactx-0-2048x2048-ETC2-Minigames-9685a120_39
+  - first:
+      213: -343222035984569994
+    second: sactx-0-2048x2048-ETC2-Minigames-9685a120_40
+  - first:
+      213: -6440170033172602553
+    second: sactx-0-2048x2048-ETC2-Minigames-9685a120_41
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-ETC2-Minigames-9685a120_0
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 1866
+        width: 145
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a67dd6c5b0dc9140800000000000000
+      internalID: 4727883187976238753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-ETC2-Minigames-9685a120_1
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 1672
+        width: 304
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a449beb4062487dc0800000000000000
+      internalID: -3641087317371022262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-ETC2-Minigames-9685a120_2
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 1925
+        width: 36
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4beba5d86dc60370800000000000000
+      internalID: 8288538014367083338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-ETC2-Minigames-9685a120_3
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 1855
+        width: 38
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abe3fe33b8bcf0cb0800000000000000
+      internalID: -4895470471196229958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-ETC2-Minigames-9685a120_4
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 1858
+        width: 22
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1441c8459ffb0a310800000000000000
+      internalID: 1414341360580564033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-ETC2-Minigames-9685a120_5
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1744
+        width: 84
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4c1aa24199871c20800000000000000
+      internalID: 3177159319114882123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-ETC2-Minigames-9685a120_6
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 1786
+        width: 55
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6845b763633134e50800000000000000
+      internalID: 6792293786568053894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-ETC2-Minigames-9685a120_7
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 900
+        width: 971
+        height: 887
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cb7db1ae88a94fd0800000000000000
+      internalID: -2357167599399371833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-ETC2-Minigames-9685a120_8
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1729
+        width: 48
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65af80edb0d755760800000000000000
+      internalID: 7445995048850225750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-ETC2-Minigames-9685a120_9
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 1768
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60704bd999563fa30800000000000000
+      internalID: 4247850583990732550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-ETC2-Minigames-9685a120_10
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 1733
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d2c1a6943518cb90800000000000000
+      internalID: -7221498686878924071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-ETC2-Minigames-9685a120_11
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1683
+        width: 57
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a32576f110d05cbc0800000000000000
+      internalID: -3763587615125188038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-ETC2-Minigames-9685a120_12
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1716
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70ca81842f1cdb040800000000000000
+      internalID: 4665098035361524743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-ETC2-Minigames-9685a120_13
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 1654
+        width: 76
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43e033895d03f37c0800000000000000
+      internalID: -4089496242689470924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-ETC2-Minigames-9685a120_14
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 1721
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a36f69cfff712710800000000000000
+      internalID: 1666754073676702630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-ETC2-Minigames-9685a120_15
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 1637
+        width: 42
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03788cd858c36ec90800000000000000
+      internalID: -7140953614842296528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-ETC2-Minigames-9685a120_16
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 1666
+        width: 41
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a98077afd81fcac0800000000000000
+      internalID: -3832817409003058784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-ETC2-Minigames-9685a120_17
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 1631
+        width: 56
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6d4a8b9a27cee3b0800000000000000
+      internalID: -5481224710651228821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-ETC2-Minigames-9685a120_18
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 1655
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dcec9f628d3fa640800000000000000
+      internalID: 5093357334006918356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-ETC2-Minigames-9685a120_19
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 1672
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1763e9ac95b0f2a10800000000000000
+      internalID: 1886739249170888305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-ETC2-Minigames-9685a120_20
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 1667
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e92ee7148e21db10800000000000000
+      internalID: 2004434454028626407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-ETC2-Minigames-9685a120_21
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 1619
+        width: 125
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3f9878bdf1c50070800000000000000
+      internalID: 8072071202597281594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-ETC2-Minigames-9685a120_22
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 1633
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31c6cfaded2c59120800000000000000
+      internalID: 2420054637194013715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-ETC2-Minigames-9685a120_23
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1640
+        width: 34
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a1355abb3c876ed0800000000000000
+      internalID: -2420812086531247708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-ETC2-Minigames-9685a120_24
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1655
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31960f6edf4768720800000000000000
+      internalID: 2848092448208480531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-ETC2-Minigames-9685a120_25
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 1643
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31241f2dd847e1330800000000000000
+      internalID: 3683509697713881619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-ETC2-Minigames-9685a120_26
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1655
+        width: 54
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79027f7c143a42070800000000000000
+      internalID: 8080763134332575895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-ETC2-Minigames-9685a120_27
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 1655
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0810b6e22a2931ad0800000000000000
+      internalID: -2732679323622637184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-ETC2-Minigames-9685a120_28
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 1645
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7725567fd98db5ae0800000000000000
+      internalID: -1559414672981667209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-ETC2-Minigames-9685a120_29
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 1632
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e6ee36687ecd8360800000000000000
+      internalID: 7173616797977863905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-ETC2-Minigames-9685a120_30
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 1607
+        width: 49
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d96ab577129214110800000000000000
+      internalID: 1243320195844122269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-ETC2-Minigames-9685a120_31
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1579
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff967269127537570800000000000000
+      internalID: 8463203926523996671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-ETC2-Minigames-9685a120_32
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 1598
+        width: 52
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db29e8e52c92338d0800000000000000
+      internalID: -2867902622918077763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-ETC2-Minigames-9685a120_33
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1568
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d53c50a14f596d60800000000000000
+      internalID: 7883937358156674515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-ETC2-Minigames-9685a120_34
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 1576
+        width: 38
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c37fca1815ed693e0800000000000000
+      internalID: -2047204538943998148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-ETC2-Minigames-9685a120_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 952
+        width: 992
+        height: 593
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1540b43efe56cae10800000000000000
+      internalID: 2210253598117004369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-ETC2-Minigames-9685a120_36
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 506
+        width: 659
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f3b0c1cf9d86a6b0800000000000000
+      internalID: -5285381395382750220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-ETC2-Minigames-9685a120_37
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 0
+        width: 647
+        height: 907
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31607df3dea55b860800000000000000
+      internalID: 7545036725753939475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-ETC2-Minigames-9685a120_38
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 157
+        width: 280
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2c40c92038fa2240800000000000000
+      internalID: 4767896041267678252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-ETC2-Minigames-9685a120_39
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 1
+        width: 428
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ba1613497b17f310800000000000000
+      internalID: 1438648813598677682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-ETC2-Minigames-9685a120_40
+      rect:
+        serializedVersion: 2
+        x: 1453
+        y: 375
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 679ad027061ac3bf0800000000000000
+      internalID: -343222035984569994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-ETC2-Minigames-9685a120_41
+      rect:
+        serializedVersion: 2
+        x: 1469
+        y: 0
+        width: 500
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 741a1afe97bef96a0800000000000000
+      internalID: -6440170033172602553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      sactx-0-2048x2048-ETC2-Minigames-9685a120_0: 4727883187976238753
+      sactx-0-2048x2048-ETC2-Minigames-9685a120_1: -3641087317371022262
+      sactx-0-2048x2048-ETC2-Minigames-9685a120_10: -7221498686878924071
+      sactx-0-2048x2048-ETC2-Minigames-9685a120_11: -3763587615125188038
+      sactx-0-2048x2048-ETC2-Minigames-9685a120_12: 4665098035361524743
+      sactx-0-2048x2048-ETC2-Minigames-9685a120_13: -4089496242689470924
+      sactx-0-2048x2048-ETC2-Minigames-9685a120_14: 1666754073676702630
+      sactx-0-2048x2048-ETC2-Minigames-9685a120_15: -7140953614842296528
+      sactx-0-2048x2048-ETC2-Minigames-9685a120_16: -3832817409003058784
+      sactx-0-2048x2048-ETC2-Minigames-9685a120_17: -5481224710651228821
+      sactx-0-2048x2048-ETC2-Minigames-9685a120_18: 5093357334006918356
+      sactx-0-2048x2048-ETC2-Minigames-9685a120_19: 1886739249170888305
+      sactx-0-2048x2048-ETC2-Minigames-9685a120_2: 8288538014367083338
+      sactx-0-2048x2048-ETC2-Minigames-9685a120_20: 2004434454028626407
+      sactx-0-2048x2048-ETC2-Minigames-9685a120_21: 8072071202597281594
+      sactx-0-2048x2048-ETC2-Minigames-9685a120_22: 2420054637194013715
+      sactx-0-2048x2048-ETC2-Minigames-9685a120_23: -2420812086531247708
+      sactx-0-2048x2048-ETC2-Minigames-9685a120_24: 2848092448208480531
+      sactx-0-2048x2048-ETC2-Minigames-9685a120_25: 3683509697713881619
+      sactx-0-2048x2048-ETC2-Minigames-9685a120_26: 8080763134332575895
+      sactx-0-2048x2048-ETC2-Minigames-9685a120_27: -2732679323622637184
+      sactx-0-2048x2048-ETC2-Minigames-9685a120_28: -1559414672981667209
+      sactx-0-2048x2048-ETC2-Minigames-9685a120_29: 7173616797977863905
+      sactx-0-2048x2048-ETC2-Minigames-9685a120_3: -4895470471196229958
+      sactx-0-2048x2048-ETC2-Minigames-9685a120_30: 1243320195844122269
+      sactx-0-2048x2048-ETC2-Minigames-9685a120_31: 8463203926523996671
+      sactx-0-2048x2048-ETC2-Minigames-9685a120_32: -2867902622918077763
+      sactx-0-2048x2048-ETC2-Minigames-9685a120_33: 7883937358156674515
+      sactx-0-2048x2048-ETC2-Minigames-9685a120_34: -2047204538943998148
+      sactx-0-2048x2048-ETC2-Minigames-9685a120_35: 2210253598117004369
+      sactx-0-2048x2048-ETC2-Minigames-9685a120_36: -5285381395382750220
+      sactx-0-2048x2048-ETC2-Minigames-9685a120_37: 7545036725753939475
+      sactx-0-2048x2048-ETC2-Minigames-9685a120_38: 4767896041267678252
+      sactx-0-2048x2048-ETC2-Minigames-9685a120_39: 1438648813598677682
+      sactx-0-2048x2048-ETC2-Minigames-9685a120_4: 1414341360580564033
+      sactx-0-2048x2048-ETC2-Minigames-9685a120_40: -343222035984569994
+      sactx-0-2048x2048-ETC2-Minigames-9685a120_41: -6440170033172602553
+      sactx-0-2048x2048-ETC2-Minigames-9685a120_5: 3177159319114882123
+      sactx-0-2048x2048-ETC2-Minigames-9685a120_6: 6792293786568053894
+      sactx-0-2048x2048-ETC2-Minigames-9685a120_7: -2357167599399371833
+      sactx-0-2048x2048-ETC2-Minigames-9685a120_8: 7445995048850225750
+      sactx-0-2048x2048-ETC2-Minigames-9685a120_9: 4247850583990732550
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

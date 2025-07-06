@@ -1,0 +1,689 @@
+fileFormatVersion: 2
+guid: b7967590b6446da438a628f363a0c426
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -620298037261840913
+    second: SpriteAtlasTexture-Chest-2048x2048-fmt47_0
+  - first:
+      213: -4573649021041354644
+    second: SpriteAtlasTexture-Chest-2048x2048-fmt47_1
+  - first:
+      213: -2522686498238156532
+    second: SpriteAtlasTexture-Chest-2048x2048-fmt47_2
+  - first:
+      213: 1542747851112490791
+    second: SpriteAtlasTexture-Chest-2048x2048-fmt47_3
+  - first:
+      213: 3342552156722707789
+    second: SpriteAtlasTexture-Chest-2048x2048-fmt47_4
+  - first:
+      213: -8076875214818110980
+    second: SpriteAtlasTexture-Chest-2048x2048-fmt47_5
+  - first:
+      213: -4441043322687757197
+    second: SpriteAtlasTexture-Chest-2048x2048-fmt47_6
+  - first:
+      213: -6129091893691219102
+    second: SpriteAtlasTexture-Chest-2048x2048-fmt47_7
+  - first:
+      213: 1123866298258300976
+    second: SpriteAtlasTexture-Chest-2048x2048-fmt47_8
+  - first:
+      213: -5709282288412441138
+    second: SpriteAtlasTexture-Chest-2048x2048-fmt47_9
+  - first:
+      213: 2904815068911396937
+    second: SpriteAtlasTexture-Chest-2048x2048-fmt47_10
+  - first:
+      213: -745847727007813380
+    second: SpriteAtlasTexture-Chest-2048x2048-fmt47_11
+  - first:
+      213: 1116376307232987305
+    second: SpriteAtlasTexture-Chest-2048x2048-fmt47_12
+  - first:
+      213: 2419441299798208652
+    second: SpriteAtlasTexture-Chest-2048x2048-fmt47_13
+  - first:
+      213: 2531008977761339771
+    second: SpriteAtlasTexture-Chest-2048x2048-fmt47_14
+  - first:
+      213: 1598996719459730181
+    second: SpriteAtlasTexture-Chest-2048x2048-fmt47_15
+  - first:
+      213: -3705173164765175807
+    second: SpriteAtlasTexture-Chest-2048x2048-fmt47_16
+  - first:
+      213: -8565356987840229057
+    second: SpriteAtlasTexture-Chest-2048x2048-fmt47_17
+  - first:
+      213: -4248333312384942617
+    second: SpriteAtlasTexture-Chest-2048x2048-fmt47_18
+  - first:
+      213: -5046167520743172807
+    second: SpriteAtlasTexture-Chest-2048x2048-fmt47_19
+  - first:
+      213: -7020759428674737162
+    second: SpriteAtlasTexture-Chest-2048x2048-fmt47_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Chest-2048x2048-fmt47_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1471
+        width: 1286
+        height: 442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fedc22ab8324467f0800000000000000
+      internalID: -620298037261840913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Chest-2048x2048-fmt47_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1143
+        width: 445
+        height: 397
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c68548592722780c0800000000000000
+      internalID: -4573649021041354644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Chest-2048x2048-fmt47_2
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 1184
+        width: 470
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0137d0eefd9dfcd0800000000000000
+      internalID: -2522686498238156532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Chest-2048x2048-fmt47_3
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 1220
+        width: 469
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 727ae8b2ff0f86510800000000000000
+      internalID: 1542747851112490791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Chest-2048x2048-fmt47_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 792
+        width: 554
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4d3ca81a71236e20800000000000000
+      internalID: 3342552156722707789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Chest-2048x2048-fmt47_5
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 667
+        width: 941
+        height: 664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf11c9509cc29ef80800000000000000
+      internalID: -8076875214818110980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Chest-2048x2048-fmt47_6
+      rect:
+        serializedVersion: 2
+        x: 1483
+        y: 735
+        width: 274
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 374631fa0ae3e52c0800000000000000
+      internalID: -4441043322687757197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Chest-2048x2048-fmt47_7
+      rect:
+        serializedVersion: 2
+        x: 1495
+        y: 987
+        width: 266
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2630fc0656711faa0800000000000000
+      internalID: -6129091893691219102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Chest-2048x2048-fmt47_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 439
+        width: 547
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03028ba9176c89f00800000000000000
+      internalID: 1123866298258300976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Chest-2048x2048-fmt47_9
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 363
+        width: 466
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec54fbcf10e84c0b0800000000000000
+      internalID: -5709282288412441138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Chest-2048x2048-fmt47_10
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 315
+        width: 373
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9486aa03ae9ff4820800000000000000
+      internalID: 2904815068911396937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Chest-2048x2048-fmt47_11
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 643
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf0ba27a17736a5f0800000000000000
+      internalID: -745847727007813380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Chest-2048x2048-fmt47_12
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 643
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a8d84c265a2e7f00800000000000000
+      internalID: 1116376307232987305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Chest-2048x2048-fmt47_13
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 644
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c80b16d1b05939120800000000000000
+      internalID: 2419441299798208652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Chest-2048x2048-fmt47_14
+      rect:
+        serializedVersion: 2
+        x: 1307
+        y: 639
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b790ac26143ff1320800000000000000
+      internalID: 2531008977761339771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Chest-2048x2048-fmt47_15
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 533
+        width: 372
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50389646b07c03610800000000000000
+      internalID: 1598996719459730181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Chest-2048x2048-fmt47_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 460
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 100acd233a4949cc0800000000000000
+      internalID: -3705173164765175807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Chest-2048x2048-fmt47_17
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 0
+        width: 475
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f319f55633db12980800000000000000
+      internalID: -8565356987840229057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Chest-2048x2048-fmt47_18
+      rect:
+        serializedVersion: 2
+        x: 1411
+        y: 315
+        width: 356
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ed36db6c53ea05c0800000000000000
+      internalID: -4248333312384942617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Chest-2048x2048-fmt47_19
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 0
+        width: 541
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9355df8206968f9b0800000000000000
+      internalID: -5046167520743172807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Chest-2048x2048-fmt47_20
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 3
+        width: 258
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fb2e584f70419e90800000000000000
+      internalID: -7020759428674737162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SpriteAtlasTexture-Chest-2048x2048-fmt47_0: -620298037261840913
+      SpriteAtlasTexture-Chest-2048x2048-fmt47_1: -4573649021041354644
+      SpriteAtlasTexture-Chest-2048x2048-fmt47_10: 2904815068911396937
+      SpriteAtlasTexture-Chest-2048x2048-fmt47_11: -745847727007813380
+      SpriteAtlasTexture-Chest-2048x2048-fmt47_12: 1116376307232987305
+      SpriteAtlasTexture-Chest-2048x2048-fmt47_13: 2419441299798208652
+      SpriteAtlasTexture-Chest-2048x2048-fmt47_14: 2531008977761339771
+      SpriteAtlasTexture-Chest-2048x2048-fmt47_15: 1598996719459730181
+      SpriteAtlasTexture-Chest-2048x2048-fmt47_16: -3705173164765175807
+      SpriteAtlasTexture-Chest-2048x2048-fmt47_17: -8565356987840229057
+      SpriteAtlasTexture-Chest-2048x2048-fmt47_18: -4248333312384942617
+      SpriteAtlasTexture-Chest-2048x2048-fmt47_19: -5046167520743172807
+      SpriteAtlasTexture-Chest-2048x2048-fmt47_2: -2522686498238156532
+      SpriteAtlasTexture-Chest-2048x2048-fmt47_20: -7020759428674737162
+      SpriteAtlasTexture-Chest-2048x2048-fmt47_3: 1542747851112490791
+      SpriteAtlasTexture-Chest-2048x2048-fmt47_4: 3342552156722707789
+      SpriteAtlasTexture-Chest-2048x2048-fmt47_5: -8076875214818110980
+      SpriteAtlasTexture-Chest-2048x2048-fmt47_6: -4441043322687757197
+      SpriteAtlasTexture-Chest-2048x2048-fmt47_7: -6129091893691219102
+      SpriteAtlasTexture-Chest-2048x2048-fmt47_8: 1123866298258300976
+      SpriteAtlasTexture-Chest-2048x2048-fmt47_9: -5709282288412441138
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

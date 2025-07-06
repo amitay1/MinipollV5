@@ -1,0 +1,767 @@
+fileFormatVersion: 2
+guid: 55a9d8043fd49154cac8fb1c37c91219
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6463706668753434682
+    second: SpriteAtlasTexture-VikingGUI-1024x1024-fmt47_0
+  - first:
+      213: -31795958764780234
+    second: SpriteAtlasTexture-VikingGUI-1024x1024-fmt47_1
+  - first:
+      213: -4828681118770095432
+    second: SpriteAtlasTexture-VikingGUI-1024x1024-fmt47_2
+  - first:
+      213: -8762754341547490024
+    second: SpriteAtlasTexture-VikingGUI-1024x1024-fmt47_3
+  - first:
+      213: 3008342374256634902
+    second: SpriteAtlasTexture-VikingGUI-1024x1024-fmt47_4
+  - first:
+      213: 8437235117907924809
+    second: SpriteAtlasTexture-VikingGUI-1024x1024-fmt47_5
+  - first:
+      213: 1656129765827580478
+    second: SpriteAtlasTexture-VikingGUI-1024x1024-fmt47_6
+  - first:
+      213: 316298886681649493
+    second: SpriteAtlasTexture-VikingGUI-1024x1024-fmt47_7
+  - first:
+      213: -3366911924146974502
+    second: SpriteAtlasTexture-VikingGUI-1024x1024-fmt47_8
+  - first:
+      213: 3681694280084489259
+    second: SpriteAtlasTexture-VikingGUI-1024x1024-fmt47_9
+  - first:
+      213: -5173410621276014094
+    second: SpriteAtlasTexture-VikingGUI-1024x1024-fmt47_10
+  - first:
+      213: 4249326018722706866
+    second: SpriteAtlasTexture-VikingGUI-1024x1024-fmt47_11
+  - first:
+      213: -5568510948362717847
+    second: SpriteAtlasTexture-VikingGUI-1024x1024-fmt47_12
+  - first:
+      213: 8304161855210720132
+    second: SpriteAtlasTexture-VikingGUI-1024x1024-fmt47_13
+  - first:
+      213: -5998159500747480025
+    second: SpriteAtlasTexture-VikingGUI-1024x1024-fmt47_14
+  - first:
+      213: -8412582685750750089
+    second: SpriteAtlasTexture-VikingGUI-1024x1024-fmt47_15
+  - first:
+      213: 7711026627887417408
+    second: SpriteAtlasTexture-VikingGUI-1024x1024-fmt47_16
+  - first:
+      213: -4375680227810217452
+    second: SpriteAtlasTexture-VikingGUI-1024x1024-fmt47_17
+  - first:
+      213: -7726445616291268410
+    second: SpriteAtlasTexture-VikingGUI-1024x1024-fmt47_18
+  - first:
+      213: 3910568834050736361
+    second: SpriteAtlasTexture-VikingGUI-1024x1024-fmt47_19
+  - first:
+      213: 6301357236005847247
+    second: SpriteAtlasTexture-VikingGUI-1024x1024-fmt47_20
+  - first:
+      213: -2592570915959532468
+    second: SpriteAtlasTexture-VikingGUI-1024x1024-fmt47_21
+  - first:
+      213: -1156181664046767814
+    second: SpriteAtlasTexture-VikingGUI-1024x1024-fmt47_22
+  - first:
+      213: -5164504757234165771
+    second: SpriteAtlasTexture-VikingGUI-1024x1024-fmt47_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-VikingGUI-1024x1024-fmt47_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 807
+        width: 186
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a383f5318f2b3b950800000000000000
+      internalID: 6463706668753434682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-VikingGUI-1024x1024-fmt47_1
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 850
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63548847eb90f8ff0800000000000000
+      internalID: -31795958764780234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-VikingGUI-1024x1024-fmt47_2
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 858
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ba921e1b141dfcb0800000000000000
+      internalID: -4828681118770095432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-VikingGUI-1024x1024-fmt47_3
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 809
+        width: 158
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 815cc0a7a51746680800000000000000
+      internalID: -8762754341547490024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-VikingGUI-1024x1024-fmt47_4
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 657
+        width: 156
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61c62545377cfb920800000000000000
+      internalID: 3008342374256634902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-VikingGUI-1024x1024-fmt47_5
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 804
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9475a5923a4171570800000000000000
+      internalID: 8437235117907924809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-VikingGUI-1024x1024-fmt47_6
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 602
+        width: 165
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e329a1a5f31cbf610800000000000000
+      internalID: 1656129765827580478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-VikingGUI-1024x1024-fmt47_7
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 809
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 551e28f5928b36400800000000000000
+      internalID: 316298886681649493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-VikingGUI-1024x1024-fmt47_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 431
+        width: 241
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad0513391735641d0800000000000000
+      internalID: -3366911924146974502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-VikingGUI-1024x1024-fmt47_9
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 425
+        width: 125
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b240608f071081330800000000000000
+      internalID: 3681694280084489259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-VikingGUI-1024x1024-fmt47_10
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 592
+        width: 204
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f93c99237a5438b0800000000000000
+      internalID: -5173410621276014094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-VikingGUI-1024x1024-fmt47_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 237
+        width: 264
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b5bac80083a8fa30800000000000000
+      internalID: 4249326018722706866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-VikingGUI-1024x1024-fmt47_12
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 204
+        width: 196
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96577f2bbcca8b2b0800000000000000
+      internalID: -5568510948362717847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-VikingGUI-1024x1024-fmt47_13
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 417
+        width: 153
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48b0f21c53f4e3370800000000000000
+      internalID: 8304161855210720132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-VikingGUI-1024x1024-fmt47_14
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 386
+        width: 106
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 724efc3b6b142cca0800000000000000
+      internalID: -5998159500747480025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-VikingGUI-1024x1024-fmt47_15
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 247
+        width: 207
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 774993c7e90804b80800000000000000
+      internalID: -8412582685750750089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-VikingGUI-1024x1024-fmt47_16
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 298
+        width: 174
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 048cec00dd1130b60800000000000000
+      internalID: 7711026627887417408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-VikingGUI-1024x1024-fmt47_17
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 290
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 412fba224067643c0800000000000000
+      internalID: -4375680227810217452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-VikingGUI-1024x1024-fmt47_18
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 0
+        width: 194
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c8b59006a626c490800000000000000
+      internalID: -7726445616291268410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-VikingGUI-1024x1024-fmt47_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 239
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e0ce4fa2a1254630800000000000000
+      internalID: 3910568834050736361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-VikingGUI-1024x1024-fmt47_20
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 125
+        width: 204
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc047f6250be27750800000000000000
+      internalID: 6301357236005847247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-VikingGUI-1024x1024-fmt47_21
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 231
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c44193bec76550cd0800000000000000
+      internalID: -2592570915959532468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-VikingGUI-1024x1024-fmt47_22
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 0
+        width: 212
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a312caaf6ea64ffe0800000000000000
+      internalID: -1156181664046767814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-VikingGUI-1024x1024-fmt47_23
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 1
+        width: 216
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f71e38394ef358b0800000000000000
+      internalID: -5164504757234165771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SpriteAtlasTexture-VikingGUI-1024x1024-fmt47_0: 6463706668753434682
+      SpriteAtlasTexture-VikingGUI-1024x1024-fmt47_1: -31795958764780234
+      SpriteAtlasTexture-VikingGUI-1024x1024-fmt47_10: -5173410621276014094
+      SpriteAtlasTexture-VikingGUI-1024x1024-fmt47_11: 4249326018722706866
+      SpriteAtlasTexture-VikingGUI-1024x1024-fmt47_12: -5568510948362717847
+      SpriteAtlasTexture-VikingGUI-1024x1024-fmt47_13: 8304161855210720132
+      SpriteAtlasTexture-VikingGUI-1024x1024-fmt47_14: -5998159500747480025
+      SpriteAtlasTexture-VikingGUI-1024x1024-fmt47_15: -8412582685750750089
+      SpriteAtlasTexture-VikingGUI-1024x1024-fmt47_16: 7711026627887417408
+      SpriteAtlasTexture-VikingGUI-1024x1024-fmt47_17: -4375680227810217452
+      SpriteAtlasTexture-VikingGUI-1024x1024-fmt47_18: -7726445616291268410
+      SpriteAtlasTexture-VikingGUI-1024x1024-fmt47_19: 3910568834050736361
+      SpriteAtlasTexture-VikingGUI-1024x1024-fmt47_2: -4828681118770095432
+      SpriteAtlasTexture-VikingGUI-1024x1024-fmt47_20: 6301357236005847247
+      SpriteAtlasTexture-VikingGUI-1024x1024-fmt47_21: -2592570915959532468
+      SpriteAtlasTexture-VikingGUI-1024x1024-fmt47_22: -1156181664046767814
+      SpriteAtlasTexture-VikingGUI-1024x1024-fmt47_23: -5164504757234165771
+      SpriteAtlasTexture-VikingGUI-1024x1024-fmt47_3: -8762754341547490024
+      SpriteAtlasTexture-VikingGUI-1024x1024-fmt47_4: 3008342374256634902
+      SpriteAtlasTexture-VikingGUI-1024x1024-fmt47_5: 8437235117907924809
+      SpriteAtlasTexture-VikingGUI-1024x1024-fmt47_6: 1656129765827580478
+      SpriteAtlasTexture-VikingGUI-1024x1024-fmt47_7: 316298886681649493
+      SpriteAtlasTexture-VikingGUI-1024x1024-fmt47_8: -3366911924146974502
+      SpriteAtlasTexture-VikingGUI-1024x1024-fmt47_9: 3681694280084489259
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

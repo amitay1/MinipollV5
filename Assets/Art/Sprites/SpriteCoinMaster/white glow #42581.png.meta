@@ -1,0 +1,923 @@
+fileFormatVersion: 2
+guid: dd84c42c100cfae459efd5004529d485
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7688112900270980740
+    second: white glow #42581_0
+  - first:
+      213: 4337452308104630026
+    second: white glow #42581_1
+  - first:
+      213: 1178280852813923133
+    second: white glow #42581_2
+  - first:
+      213: -5108392127856289749
+    second: white glow #42581_3
+  - first:
+      213: 2348684346020851810
+    second: white glow #42581_4
+  - first:
+      213: 6188146250992814271
+    second: white glow #42581_5
+  - first:
+      213: 5846648097478639477
+    second: white glow #42581_6
+  - first:
+      213: 5924439045542201931
+    second: white glow #42581_7
+  - first:
+      213: 1117545270863603245
+    second: white glow #42581_8
+  - first:
+      213: 1350853744671916244
+    second: white glow #42581_9
+  - first:
+      213: 1322768697346290523
+    second: white glow #42581_10
+  - first:
+      213: -3778369755725351503
+    second: white glow #42581_11
+  - first:
+      213: -7547427371132988057
+    second: white glow #42581_12
+  - first:
+      213: -6307106000394805197
+    second: white glow #42581_13
+  - first:
+      213: 6616450774534550272
+    second: white glow #42581_14
+  - first:
+      213: 8991404893198995380
+    second: white glow #42581_15
+  - first:
+      213: 2873748729202208372
+    second: white glow #42581_16
+  - first:
+      213: -3592315107946671986
+    second: white glow #42581_17
+  - first:
+      213: 566386765630911804
+    second: white glow #42581_18
+  - first:
+      213: 2980826516992070861
+    second: white glow #42581_19
+  - first:
+      213: -7616422987012950744
+    second: white glow #42581_20
+  - first:
+      213: 668877217415182270
+    second: white glow #42581_21
+  - first:
+      213: 8558986806483602480
+    second: white glow #42581_22
+  - first:
+      213: -2520250397265048997
+    second: white glow #42581_23
+  - first:
+      213: -90789540514627861
+    second: white glow #42581_24
+  - first:
+      213: -7007866200502707822
+    second: white glow #42581_25
+  - first:
+      213: -3436922511864320688
+    second: white glow #42581_26
+  - first:
+      213: 8283114802578900140
+    second: white glow #42581_27
+  - first:
+      213: 5075251425221747289
+    second: white glow #42581_28
+  - first:
+      213: 7990951464964703388
+    second: white glow #42581_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: white glow #42581_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 11
+        width: 482
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c710042fc065e4590800000000000000
+      internalID: -7688112900270980740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white glow #42581_1
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 467
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0f46c6b4e9b13c30800000000000000
+      internalID: 4337452308104630026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white glow #42581_2
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 463
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d334e9d51381a5010800000000000000
+      internalID: 1178280852813923133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white glow #42581_3
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 463
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2859b5dc685b19b0800000000000000
+      internalID: -5108392127856289749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white glow #42581_4
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 459
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 260f71608f3389020800000000000000
+      internalID: 2348684346020851810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white glow #42581_5
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 435
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb88794aa36b0e550800000000000000
+      internalID: 6188146250992814271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white glow #42581_6
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 419
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57f7de0c777732150800000000000000
+      internalID: 5846648097478639477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white glow #42581_7
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 375
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4a4ff24ce5d73250800000000000000
+      internalID: 5924439045542201931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white glow #42581_8
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 367
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d262e3ab081528f00800000000000000
+      internalID: 1117545270863603245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white glow #42581_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 327
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d00daad2523fb210800000000000000
+      internalID: 1350853744671916244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white glow #42581_10
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 339
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b53f4553f1b6b5210800000000000000
+      internalID: 1322768697346290523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white glow #42581_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 319
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b539efc9b8809bc0800000000000000
+      internalID: -3778369755725351503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white glow #42581_12
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 247
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 765de8f3bc6224790800000000000000
+      internalID: -7547427371132988057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white glow #42581_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 235
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 330abb55288a878a0800000000000000
+      internalID: -6307106000394805197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white glow #42581_14
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 219
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0037df98cea52db50800000000000000
+      internalID: 6616450774534550272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white glow #42581_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 203
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bfc5d2ac13e7cc70800000000000000
+      internalID: 8991404893198995380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white glow #42581_16
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 187
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47ee3d15e3b91e720800000000000000
+      internalID: 2873748729202208372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white glow #42581_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 179
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e80d1953178852ec0800000000000000
+      internalID: -3592315107946671986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white glow #42581_18
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 179
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c35b9e233c53cd700800000000000000
+      internalID: 566386765630911804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white glow #42581_19
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 135
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc490629ce50e5920800000000000000
+      internalID: 2980826516992070861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white glow #42581_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 103
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82539f795a70d4690800000000000000
+      internalID: -7616422987012950744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white glow #42581_21
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 55
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb7326e0944584900800000000000000
+      internalID: 668877217415182270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white glow #42581_22
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 27
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03cc5bd2721a7c670800000000000000
+      internalID: 8558986806483602480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white glow #42581_23
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 7
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5acaf5dd95460dd0800000000000000
+      internalID: -2520250397265048997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white glow #42581_24
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 7
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beefd48d4637dbef0800000000000000
+      internalID: -90789540514627861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white glow #42581_25
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 11
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 299d195e1de0fbe90800000000000000
+      internalID: -7007866200502707822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white glow #42581_26
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 3
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05da8cf5f299d40d0800000000000000
+      internalID: -3436922511864320688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white glow #42581_27
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 3
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca4ce71f60983f270800000000000000
+      internalID: 8283114802578900140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white glow #42581_28
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 3
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 952232a084aee6640800000000000000
+      internalID: 5075251425221747289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white glow #42581_29
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 0
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c94cb9ef40095ee60800000000000000
+      internalID: 7990951464964703388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      white glow #42581_0: -7688112900270980740
+      white glow #42581_1: 4337452308104630026
+      white glow #42581_10: 1322768697346290523
+      white glow #42581_11: -3778369755725351503
+      white glow #42581_12: -7547427371132988057
+      white glow #42581_13: -6307106000394805197
+      white glow #42581_14: 6616450774534550272
+      white glow #42581_15: 8991404893198995380
+      white glow #42581_16: 2873748729202208372
+      white glow #42581_17: -3592315107946671986
+      white glow #42581_18: 566386765630911804
+      white glow #42581_19: 2980826516992070861
+      white glow #42581_2: 1178280852813923133
+      white glow #42581_20: -7616422987012950744
+      white glow #42581_21: 668877217415182270
+      white glow #42581_22: 8558986806483602480
+      white glow #42581_23: -2520250397265048997
+      white glow #42581_24: -90789540514627861
+      white glow #42581_25: -7007866200502707822
+      white glow #42581_26: -3436922511864320688
+      white glow #42581_27: 8283114802578900140
+      white glow #42581_28: 5075251425221747289
+      white glow #42581_29: 7990951464964703388
+      white glow #42581_3: -5108392127856289749
+      white glow #42581_4: 2348684346020851810
+      white glow #42581_5: 6188146250992814271
+      white glow #42581_6: 5846648097478639477
+      white glow #42581_7: 5924439045542201931
+      white glow #42581_8: 1117545270863603245
+      white glow #42581_9: 1350853744671916244
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

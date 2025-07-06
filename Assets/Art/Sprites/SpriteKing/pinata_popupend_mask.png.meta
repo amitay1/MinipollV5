@@ -1,0 +1,1027 @@
+fileFormatVersion: 2
+guid: a2bab04b848fc4c46aac82c00ede642c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7282749768186704089
+    second: pinata_popupend_mask_0
+  - first:
+      213: 8042319662278629597
+    second: pinata_popupend_mask_1
+  - first:
+      213: 1489743593500187465
+    second: pinata_popupend_mask_2
+  - first:
+      213: 7735782183621388926
+    second: pinata_popupend_mask_3
+  - first:
+      213: -8746257592509880337
+    second: pinata_popupend_mask_4
+  - first:
+      213: 8772971404284671271
+    second: pinata_popupend_mask_5
+  - first:
+      213: -515979925686135115
+    second: pinata_popupend_mask_6
+  - first:
+      213: 161926343379222965
+    second: pinata_popupend_mask_7
+  - first:
+      213: -8051058596092278275
+    second: pinata_popupend_mask_8
+  - first:
+      213: -1293317876347632626
+    second: pinata_popupend_mask_9
+  - first:
+      213: -1484504818228303684
+    second: pinata_popupend_mask_10
+  - first:
+      213: -120879594964301364
+    second: pinata_popupend_mask_11
+  - first:
+      213: 2115059298507549517
+    second: pinata_popupend_mask_12
+  - first:
+      213: -1721472269182444645
+    second: pinata_popupend_mask_13
+  - first:
+      213: -1859567691849426353
+    second: pinata_popupend_mask_14
+  - first:
+      213: -6939539480183621719
+    second: pinata_popupend_mask_15
+  - first:
+      213: 7976762012575889630
+    second: pinata_popupend_mask_16
+  - first:
+      213: 1360046592857036138
+    second: pinata_popupend_mask_17
+  - first:
+      213: 6631487138705478143
+    second: pinata_popupend_mask_18
+  - first:
+      213: -7821885962580142938
+    second: pinata_popupend_mask_19
+  - first:
+      213: -5589904738354215462
+    second: pinata_popupend_mask_20
+  - first:
+      213: 7507293736866945212
+    second: pinata_popupend_mask_21
+  - first:
+      213: 5600290212825696099
+    second: pinata_popupend_mask_22
+  - first:
+      213: -7421746544453687222
+    second: pinata_popupend_mask_23
+  - first:
+      213: -4171174437830953322
+    second: pinata_popupend_mask_24
+  - first:
+      213: -6893058948846991474
+    second: pinata_popupend_mask_25
+  - first:
+      213: 7312538251167970983
+    second: pinata_popupend_mask_26
+  - first:
+      213: -7238991597466194605
+    second: pinata_popupend_mask_27
+  - first:
+      213: -1493550209422042933
+    second: pinata_popupend_mask_28
+  - first:
+      213: -8863977654314076181
+    second: pinata_popupend_mask_29
+  - first:
+      213: 6960975993213921723
+    second: pinata_popupend_mask_30
+  - first:
+      213: -2848620127438825317
+    second: pinata_popupend_mask_31
+  - first:
+      213: -1550050876227473097
+    second: pinata_popupend_mask_32
+  - first:
+      213: -1669730737535863621
+    second: pinata_popupend_mask_33
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pinata_popupend_mask_0
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 326
+        width: 145
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d0b3d81456811560800000000000000
+      internalID: 7282749768186704089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinata_popupend_mask_1
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 132
+        width: 304
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd8d1407f1f0c9f60800000000000000
+      internalID: 8042319662278629597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinata_popupend_mask_2
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 385
+        width: 36
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94b1ef0c7e1aca410800000000000000
+      internalID: 1489743593500187465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinata_popupend_mask_3
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 315
+        width: 38
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7a6c8af8e40b5b60800000000000000
+      internalID: 7735782183621388926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinata_popupend_mask_4
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 318
+        width: 22
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe7a26c2f0d0f9680800000000000000
+      internalID: -8746257592509880337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinata_popupend_mask_5
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 204
+        width: 84
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7253c01d20bdfb970800000000000000
+      internalID: 8772971404284671271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinata_popupend_mask_6
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 246
+        width: 55
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b6de3acdfed6d8f0800000000000000
+      internalID: -515979925686135115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinata_popupend_mask_7
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 189
+        width: 48
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b185e0c6274f3200800000000000000
+      internalID: 161926343379222965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinata_popupend_mask_8
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 228
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df9801afcd4e44090800000000000000
+      internalID: -8051058596092278275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinata_popupend_mask_9
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 193
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0403a66e363d0ee0800000000000000
+      internalID: -1293317876347632626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinata_popupend_mask_10
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 143
+        width: 57
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb8652aabbaf56be0800000000000000
+      internalID: -1484504818228303684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinata_popupend_mask_11
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 176
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc94f8916ac825ef0800000000000000
+      internalID: -120879594964301364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinata_popupend_mask_12
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 114
+        width: 76
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4bed66d9333a5d10800000000000000
+      internalID: 2115059298507549517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinata_popupend_mask_13
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 181
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9bd1b8871a1c18e0800000000000000
+      internalID: -1721472269182444645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinata_popupend_mask_14
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 97
+        width: 42
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4a9583690d7136e0800000000000000
+      internalID: -1859567691849426353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinata_popupend_mask_15
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 126
+        width: 41
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a73bda2c9dc1bf90800000000000000
+      internalID: -6939539480183621719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinata_popupend_mask_16
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 1
+        width: 92
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed87a69a9c623be60800000000000000
+      internalID: 7976762012575889630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinata_popupend_mask_17
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 115
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a65593d9b2bdfd210800000000000000
+      internalID: 1360046592857036138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinata_popupend_mask_18
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 132
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff19c13ea66c70c50800000000000000
+      internalID: 6631487138705478143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinata_popupend_mask_19
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 127
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a4dbceb824137390800000000000000
+      internalID: -7821885962580142938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinata_popupend_mask_20
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 79
+        width: 125
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad5cf1ec14bac62b0800000000000000
+      internalID: -5589904738354215462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinata_popupend_mask_21
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 93
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb8187ad0e34f2860800000000000000
+      internalID: 7507293736866945212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinata_popupend_mask_22
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 100
+        width: 34
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3678296e64a38bd40800000000000000
+      internalID: 5600290212825696099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinata_popupend_mask_23
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 115
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a48ead407d8a00990800000000000000
+      internalID: -7421746544453687222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinata_popupend_mask_24
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 103
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69675e8d2f20d16c0800000000000000
+      internalID: -4171174437830953322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinata_popupend_mask_25
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 115
+        width: 54
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e87c522386fe650a0800000000000000
+      internalID: -6893058948846991474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinata_popupend_mask_26
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 115
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a6b253cbca5b7560800000000000000
+      internalID: 7312538251167970983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinata_popupend_mask_27
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 105
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35d6df4fe7fe98b90800000000000000
+      internalID: -7238991597466194605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinata_popupend_mask_28
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 92
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc850396ff7d54be0800000000000000
+      internalID: -1493550209422042933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinata_popupend_mask_29
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 67
+        width: 49
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be7fb996943dcf480800000000000000
+      internalID: -8863977654314076181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinata_popupend_mask_30
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 39
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb9a985f8ca5a9060800000000000000
+      internalID: 6960975993213921723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinata_popupend_mask_31
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 58
+        width: 52
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b981bf3361ba778d0800000000000000
+      internalID: -2848620127438825317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinata_popupend_mask_32
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 28
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 731bdaac0fc1d7ae0800000000000000
+      internalID: -1550050876227473097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinata_popupend_mask_33
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 36
+        width: 38
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb4bf96adbce3d8e0800000000000000
+      internalID: -1669730737535863621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      pinata_popupend_mask_0: 7282749768186704089
+      pinata_popupend_mask_1: 8042319662278629597
+      pinata_popupend_mask_10: -1484504818228303684
+      pinata_popupend_mask_11: -120879594964301364
+      pinata_popupend_mask_12: 2115059298507549517
+      pinata_popupend_mask_13: -1721472269182444645
+      pinata_popupend_mask_14: -1859567691849426353
+      pinata_popupend_mask_15: -6939539480183621719
+      pinata_popupend_mask_16: 7976762012575889630
+      pinata_popupend_mask_17: 1360046592857036138
+      pinata_popupend_mask_18: 6631487138705478143
+      pinata_popupend_mask_19: -7821885962580142938
+      pinata_popupend_mask_2: 1489743593500187465
+      pinata_popupend_mask_20: -5589904738354215462
+      pinata_popupend_mask_21: 7507293736866945212
+      pinata_popupend_mask_22: 5600290212825696099
+      pinata_popupend_mask_23: -7421746544453687222
+      pinata_popupend_mask_24: -4171174437830953322
+      pinata_popupend_mask_25: -6893058948846991474
+      pinata_popupend_mask_26: 7312538251167970983
+      pinata_popupend_mask_27: -7238991597466194605
+      pinata_popupend_mask_28: -1493550209422042933
+      pinata_popupend_mask_29: -8863977654314076181
+      pinata_popupend_mask_3: 7735782183621388926
+      pinata_popupend_mask_30: 6960975993213921723
+      pinata_popupend_mask_31: -2848620127438825317
+      pinata_popupend_mask_32: -1550050876227473097
+      pinata_popupend_mask_33: -1669730737535863621
+      pinata_popupend_mask_4: -8746257592509880337
+      pinata_popupend_mask_5: 8772971404284671271
+      pinata_popupend_mask_6: -515979925686135115
+      pinata_popupend_mask_7: 161926343379222965
+      pinata_popupend_mask_8: -8051058596092278275
+      pinata_popupend_mask_9: -1293317876347632626
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

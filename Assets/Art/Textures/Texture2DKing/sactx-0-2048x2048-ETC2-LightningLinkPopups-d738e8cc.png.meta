@@ -1,0 +1,559 @@
+fileFormatVersion: 2
+guid: 24c374955c2f0e640aca52d66a6f33b2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7466830425017399138
+    second: sactx-0-2048x2048-ETC2-LightningLinkPopups-d738e8cc_0
+  - first:
+      213: -281262726805844428
+    second: sactx-0-2048x2048-ETC2-LightningLinkPopups-d738e8cc_1
+  - first:
+      213: 6183574605221161502
+    second: sactx-0-2048x2048-ETC2-LightningLinkPopups-d738e8cc_2
+  - first:
+      213: -300550355195904097
+    second: sactx-0-2048x2048-ETC2-LightningLinkPopups-d738e8cc_3
+  - first:
+      213: 299626933976649069
+    second: sactx-0-2048x2048-ETC2-LightningLinkPopups-d738e8cc_4
+  - first:
+      213: 5902310364605575342
+    second: sactx-0-2048x2048-ETC2-LightningLinkPopups-d738e8cc_5
+  - first:
+      213: 3131881214735395376
+    second: sactx-0-2048x2048-ETC2-LightningLinkPopups-d738e8cc_6
+  - first:
+      213: 1834608889262274137
+    second: sactx-0-2048x2048-ETC2-LightningLinkPopups-d738e8cc_7
+  - first:
+      213: -2164567738834468905
+    second: sactx-0-2048x2048-ETC2-LightningLinkPopups-d738e8cc_8
+  - first:
+      213: 8998273695133549064
+    second: sactx-0-2048x2048-ETC2-LightningLinkPopups-d738e8cc_9
+  - first:
+      213: 9157983468702733167
+    second: sactx-0-2048x2048-ETC2-LightningLinkPopups-d738e8cc_10
+  - first:
+      213: 839412880565820355
+    second: sactx-0-2048x2048-ETC2-LightningLinkPopups-d738e8cc_11
+  - first:
+      213: 8559685489482093743
+    second: sactx-0-2048x2048-ETC2-LightningLinkPopups-d738e8cc_12
+  - first:
+      213: -8331053948526496966
+    second: sactx-0-2048x2048-ETC2-LightningLinkPopups-d738e8cc_13
+  - first:
+      213: 5366661990261444245
+    second: sactx-0-2048x2048-ETC2-LightningLinkPopups-d738e8cc_14
+  - first:
+      213: 6903961567330649199
+    second: sactx-0-2048x2048-ETC2-LightningLinkPopups-d738e8cc_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-ETC2-LightningLinkPopups-d738e8cc_0
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1481
+        width: 342
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9842c61a4d706890800000000000000
+      internalID: -7466830425017399138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-ETC2-LightningLinkPopups-d738e8cc_1
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1771
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43e0e284a01c81cf0800000000000000
+      internalID: -281262726805844428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-ETC2-LightningLinkPopups-d738e8cc_2
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 1595
+        width: 1049
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1a655a675870d550800000000000000
+      internalID: 6183574605221161502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-ETC2-LightningLinkPopups-d738e8cc_3
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 1667
+        width: 609
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9f3e695b0b34dbf0800000000000000
+      internalID: -300550355195904097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-ETC2-LightningLinkPopups-d738e8cc_4
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1747
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6d41d4eb1d782400800000000000000
+      internalID: 299626933976649069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-ETC2-LightningLinkPopups-d738e8cc_5
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1713
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea0fb6c310839e150800000000000000
+      internalID: 5902310364605575342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-ETC2-LightningLinkPopups-d738e8cc_6
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 1693
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03aa5031f5da67b20800000000000000
+      internalID: 3131881214735395376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-ETC2-LightningLinkPopups-d738e8cc_7
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1675
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 956704a8017d57910800000000000000
+      internalID: 1834608889262274137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-ETC2-LightningLinkPopups-d738e8cc_8
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 0
+        width: 1094
+        height: 1677
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7df30822c19e5f1e0800000000000000
+      internalID: -2164567738834468905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-ETC2-LightningLinkPopups-d738e8cc_9
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1624
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8024d26304a40ec70800000000000000
+      internalID: 8998273695133549064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-ETC2-LightningLinkPopups-d738e8cc_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1586
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f631de69171b71f70800000000000000
+      internalID: 9157983468702733167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-ETC2-LightningLinkPopups-d738e8cc_11
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 1451
+        width: 586
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cb5306419136ab00800000000000000
+      internalID: 839412880565820355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-ETC2-LightningLinkPopups-d738e8cc_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 937
+        width: 612
+        height: 546
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa455adf99c1ac670800000000000000
+      internalID: 8559685489482093743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-ETC2-LightningLinkPopups-d738e8cc_13
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 929
+        width: 528
+        height: 525
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a337679d296226c80800000000000000
+      internalID: -8331053948526496966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-ETC2-LightningLinkPopups-d738e8cc_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 931
+        height: 935
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59ecf1775a63a7a40800000000000000
+      internalID: 5366661990261444245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-ETC2-LightningLinkPopups-d738e8cc_15
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 671
+        width: 93
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6441bb777ccfcf50800000000000000
+      internalID: 6903961567330649199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      sactx-0-2048x2048-ETC2-LightningLinkPopups-d738e8cc_0: -7466830425017399138
+      sactx-0-2048x2048-ETC2-LightningLinkPopups-d738e8cc_1: -281262726805844428
+      sactx-0-2048x2048-ETC2-LightningLinkPopups-d738e8cc_10: 9157983468702733167
+      sactx-0-2048x2048-ETC2-LightningLinkPopups-d738e8cc_11: 839412880565820355
+      sactx-0-2048x2048-ETC2-LightningLinkPopups-d738e8cc_12: 8559685489482093743
+      sactx-0-2048x2048-ETC2-LightningLinkPopups-d738e8cc_13: -8331053948526496966
+      sactx-0-2048x2048-ETC2-LightningLinkPopups-d738e8cc_14: 5366661990261444245
+      sactx-0-2048x2048-ETC2-LightningLinkPopups-d738e8cc_15: 6903961567330649199
+      sactx-0-2048x2048-ETC2-LightningLinkPopups-d738e8cc_2: 6183574605221161502
+      sactx-0-2048x2048-ETC2-LightningLinkPopups-d738e8cc_3: -300550355195904097
+      sactx-0-2048x2048-ETC2-LightningLinkPopups-d738e8cc_4: 299626933976649069
+      sactx-0-2048x2048-ETC2-LightningLinkPopups-d738e8cc_5: 5902310364605575342
+      sactx-0-2048x2048-ETC2-LightningLinkPopups-d738e8cc_6: 3131881214735395376
+      sactx-0-2048x2048-ETC2-LightningLinkPopups-d738e8cc_7: 1834608889262274137
+      sactx-0-2048x2048-ETC2-LightningLinkPopups-d738e8cc_8: -2164567738834468905
+      sactx-0-2048x2048-ETC2-LightningLinkPopups-d738e8cc_9: 8998273695133549064
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

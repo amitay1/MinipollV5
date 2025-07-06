@@ -1,0 +1,5525 @@
+fileFormatVersion: 2
+guid: b1a4e58edc3b8e745b8a6040bf23c963
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8377038103005449147
+    second: MikadoMedium Atlas_0
+  - first:
+      213: -7021728912301995308
+    second: MikadoMedium Atlas_1
+  - first:
+      213: 7081698529282680525
+    second: MikadoMedium Atlas_2
+  - first:
+      213: 4106229345019002130
+    second: MikadoMedium Atlas_3
+  - first:
+      213: -9202550814709651241
+    second: MikadoMedium Atlas_4
+  - first:
+      213: -402511211538902121
+    second: MikadoMedium Atlas_5
+  - first:
+      213: -7512822207964486846
+    second: MikadoMedium Atlas_6
+  - first:
+      213: -4937113809610068181
+    second: MikadoMedium Atlas_7
+  - first:
+      213: -3533112858489788374
+    second: MikadoMedium Atlas_8
+  - first:
+      213: -4552422864596666988
+    second: MikadoMedium Atlas_9
+  - first:
+      213: 1560620162838392687
+    second: MikadoMedium Atlas_10
+  - first:
+      213: -3406682687486970291
+    second: MikadoMedium Atlas_11
+  - first:
+      213: -1410565922898579518
+    second: MikadoMedium Atlas_12
+  - first:
+      213: 9206682747300022917
+    second: MikadoMedium Atlas_13
+  - first:
+      213: -2445287554653191126
+    second: MikadoMedium Atlas_14
+  - first:
+      213: -4203263812190911637
+    second: MikadoMedium Atlas_15
+  - first:
+      213: 4051132954225704647
+    second: MikadoMedium Atlas_16
+  - first:
+      213: -3702353594968666124
+    second: MikadoMedium Atlas_17
+  - first:
+      213: 5441337832625428229
+    second: MikadoMedium Atlas_18
+  - first:
+      213: 3823793922417938284
+    second: MikadoMedium Atlas_19
+  - first:
+      213: -2678930163409135536
+    second: MikadoMedium Atlas_20
+  - first:
+      213: 6696261172079542022
+    second: MikadoMedium Atlas_21
+  - first:
+      213: 4322191819708159578
+    second: MikadoMedium Atlas_22
+  - first:
+      213: 2135667256237470444
+    second: MikadoMedium Atlas_23
+  - first:
+      213: -3209713412064683589
+    second: MikadoMedium Atlas_24
+  - first:
+      213: -8834159892826292004
+    second: MikadoMedium Atlas_25
+  - first:
+      213: -9114238283866085394
+    second: MikadoMedium Atlas_26
+  - first:
+      213: 3173941779768794654
+    second: MikadoMedium Atlas_27
+  - first:
+      213: -7619652842715891308
+    second: MikadoMedium Atlas_28
+  - first:
+      213: -6851201995434924234
+    second: MikadoMedium Atlas_29
+  - first:
+      213: -8340190543596673241
+    second: MikadoMedium Atlas_30
+  - first:
+      213: -1975667231389191222
+    second: MikadoMedium Atlas_31
+  - first:
+      213: -1299318066013845541
+    second: MikadoMedium Atlas_32
+  - first:
+      213: -2857615094574128547
+    second: MikadoMedium Atlas_33
+  - first:
+      213: -2223409598788780756
+    second: MikadoMedium Atlas_34
+  - first:
+      213: 7528799569556213944
+    second: MikadoMedium Atlas_35
+  - first:
+      213: -5615816396369517390
+    second: MikadoMedium Atlas_36
+  - first:
+      213: 6385790378766764138
+    second: MikadoMedium Atlas_37
+  - first:
+      213: -3219983250670085133
+    second: MikadoMedium Atlas_38
+  - first:
+      213: 5697755070168280304
+    second: MikadoMedium Atlas_39
+  - first:
+      213: 3724302572844890085
+    second: MikadoMedium Atlas_40
+  - first:
+      213: -875576779461188902
+    second: MikadoMedium Atlas_41
+  - first:
+      213: -3946237943341859259
+    second: MikadoMedium Atlas_42
+  - first:
+      213: 639887581753685180
+    second: MikadoMedium Atlas_43
+  - first:
+      213: 3425014394356756606
+    second: MikadoMedium Atlas_44
+  - first:
+      213: 8365529561617042886
+    second: MikadoMedium Atlas_45
+  - first:
+      213: 3009420998638273973
+    second: MikadoMedium Atlas_46
+  - first:
+      213: 7063392775952657479
+    second: MikadoMedium Atlas_47
+  - first:
+      213: -4635851566380227528
+    second: MikadoMedium Atlas_48
+  - first:
+      213: -3311637366481764591
+    second: MikadoMedium Atlas_49
+  - first:
+      213: 6020844538335898681
+    second: MikadoMedium Atlas_50
+  - first:
+      213: 5276100248415036405
+    second: MikadoMedium Atlas_51
+  - first:
+      213: -5395359665878755467
+    second: MikadoMedium Atlas_52
+  - first:
+      213: -466907008278289238
+    second: MikadoMedium Atlas_53
+  - first:
+      213: 7942503999520902291
+    second: MikadoMedium Atlas_54
+  - first:
+      213: 6026593943758324160
+    second: MikadoMedium Atlas_55
+  - first:
+      213: 3597528546479687615
+    second: MikadoMedium Atlas_56
+  - first:
+      213: 6183213176954058345
+    second: MikadoMedium Atlas_57
+  - first:
+      213: 4275832166874655186
+    second: MikadoMedium Atlas_58
+  - first:
+      213: -9061949960042564185
+    second: MikadoMedium Atlas_59
+  - first:
+      213: 7495913768230504035
+    second: MikadoMedium Atlas_60
+  - first:
+      213: -6367525123194279926
+    second: MikadoMedium Atlas_61
+  - first:
+      213: -1588517288227841354
+    second: MikadoMedium Atlas_62
+  - first:
+      213: -7221919149495304689
+    second: MikadoMedium Atlas_63
+  - first:
+      213: 5158059595709960005
+    second: MikadoMedium Atlas_64
+  - first:
+      213: -5235460520707778595
+    second: MikadoMedium Atlas_65
+  - first:
+      213: -6547447729611404565
+    second: MikadoMedium Atlas_66
+  - first:
+      213: 8916845099978714855
+    second: MikadoMedium Atlas_67
+  - first:
+      213: -159864079313059123
+    second: MikadoMedium Atlas_68
+  - first:
+      213: 8905256073353201352
+    second: MikadoMedium Atlas_69
+  - first:
+      213: -701215699040876615
+    second: MikadoMedium Atlas_70
+  - first:
+      213: -5732595488600847692
+    second: MikadoMedium Atlas_71
+  - first:
+      213: 7918218393721823350
+    second: MikadoMedium Atlas_72
+  - first:
+      213: 7076873220949611302
+    second: MikadoMedium Atlas_73
+  - first:
+      213: 620029558111910055
+    second: MikadoMedium Atlas_74
+  - first:
+      213: 4590556314488095735
+    second: MikadoMedium Atlas_75
+  - first:
+      213: 5768523608096330076
+    second: MikadoMedium Atlas_76
+  - first:
+      213: 4623302845125101871
+    second: MikadoMedium Atlas_77
+  - first:
+      213: 1405859432808146742
+    second: MikadoMedium Atlas_78
+  - first:
+      213: -4554376499898784288
+    second: MikadoMedium Atlas_79
+  - first:
+      213: -9103130810090641844
+    second: MikadoMedium Atlas_80
+  - first:
+      213: 2026129591209192110
+    second: MikadoMedium Atlas_81
+  - first:
+      213: 2599123612465613390
+    second: MikadoMedium Atlas_82
+  - first:
+      213: -5355715005794274468
+    second: MikadoMedium Atlas_83
+  - first:
+      213: -5332267857107321546
+    second: MikadoMedium Atlas_84
+  - first:
+      213: 851099639533030604
+    second: MikadoMedium Atlas_85
+  - first:
+      213: 1648283557615329936
+    second: MikadoMedium Atlas_86
+  - first:
+      213: 8380663627273411344
+    second: MikadoMedium Atlas_87
+  - first:
+      213: 2728208410011153124
+    second: MikadoMedium Atlas_88
+  - first:
+      213: -4752169263729194600
+    second: MikadoMedium Atlas_89
+  - first:
+      213: 5577323230113112694
+    second: MikadoMedium Atlas_90
+  - first:
+      213: 7769214348900116364
+    second: MikadoMedium Atlas_91
+  - first:
+      213: -2629838307093202882
+    second: MikadoMedium Atlas_92
+  - first:
+      213: -3534605911867982002
+    second: MikadoMedium Atlas_93
+  - first:
+      213: 362692555313015663
+    second: MikadoMedium Atlas_94
+  - first:
+      213: 4850208615409475080
+    second: MikadoMedium Atlas_95
+  - first:
+      213: 4215400709237592919
+    second: MikadoMedium Atlas_96
+  - first:
+      213: 8936451686627667400
+    second: MikadoMedium Atlas_97
+  - first:
+      213: -2799680247885659803
+    second: MikadoMedium Atlas_98
+  - first:
+      213: -6552927194061436080
+    second: MikadoMedium Atlas_99
+  - first:
+      213: 1539288061619661660
+    second: MikadoMedium Atlas_100
+  - first:
+      213: -3786769771828994651
+    second: MikadoMedium Atlas_101
+  - first:
+      213: 1353588425726387052
+    second: MikadoMedium Atlas_102
+  - first:
+      213: 9109777533136415384
+    second: MikadoMedium Atlas_103
+  - first:
+      213: 7423362828484145264
+    second: MikadoMedium Atlas_104
+  - first:
+      213: -1690254273164192248
+    second: MikadoMedium Atlas_105
+  - first:
+      213: -8121303326372003559
+    second: MikadoMedium Atlas_106
+  - first:
+      213: -1528723516698721130
+    second: MikadoMedium Atlas_107
+  - first:
+      213: -107518294425629139
+    second: MikadoMedium Atlas_108
+  - first:
+      213: -812364510425390283
+    second: MikadoMedium Atlas_109
+  - first:
+      213: -564532569446924284
+    second: MikadoMedium Atlas_110
+  - first:
+      213: 1568470511656088089
+    second: MikadoMedium Atlas_111
+  - first:
+      213: 3440788930262005389
+    second: MikadoMedium Atlas_112
+  - first:
+      213: 2634951896419342364
+    second: MikadoMedium Atlas_113
+  - first:
+      213: -3909178990658649901
+    second: MikadoMedium Atlas_114
+  - first:
+      213: 7827858205305053632
+    second: MikadoMedium Atlas_115
+  - first:
+      213: 6416208980708606887
+    second: MikadoMedium Atlas_116
+  - first:
+      213: 5045963546505235674
+    second: MikadoMedium Atlas_117
+  - first:
+      213: 3992516660181604620
+    second: MikadoMedium Atlas_118
+  - first:
+      213: -1419860107967543663
+    second: MikadoMedium Atlas_119
+  - first:
+      213: 4177557360367165047
+    second: MikadoMedium Atlas_120
+  - first:
+      213: 3211658109902546571
+    second: MikadoMedium Atlas_121
+  - first:
+      213: -4752068960750221849
+    second: MikadoMedium Atlas_122
+  - first:
+      213: 404907134666679047
+    second: MikadoMedium Atlas_123
+  - first:
+      213: -1577177180904528613
+    second: MikadoMedium Atlas_124
+  - first:
+      213: -8576501609835380011
+    second: MikadoMedium Atlas_125
+  - first:
+      213: 4523819274709137145
+    second: MikadoMedium Atlas_126
+  - first:
+      213: 7200989508574232822
+    second: MikadoMedium Atlas_127
+  - first:
+      213: 4193644631503369929
+    second: MikadoMedium Atlas_128
+  - first:
+      213: 494939161828419831
+    second: MikadoMedium Atlas_129
+  - first:
+      213: -5161766077194036699
+    second: MikadoMedium Atlas_130
+  - first:
+      213: -3780251111346478918
+    second: MikadoMedium Atlas_131
+  - first:
+      213: -2735808863065120978
+    second: MikadoMedium Atlas_132
+  - first:
+      213: 8744893013642044674
+    second: MikadoMedium Atlas_133
+  - first:
+      213: -9368778574765667
+    second: MikadoMedium Atlas_134
+  - first:
+      213: -4779404034845427578
+    second: MikadoMedium Atlas_135
+  - first:
+      213: -8576114148722835591
+    second: MikadoMedium Atlas_136
+  - first:
+      213: -472598091968653914
+    second: MikadoMedium Atlas_137
+  - first:
+      213: -3236623951798475480
+    second: MikadoMedium Atlas_138
+  - first:
+      213: -3656142443041610226
+    second: MikadoMedium Atlas_139
+  - first:
+      213: -3525053355159059956
+    second: MikadoMedium Atlas_140
+  - first:
+      213: -3134267543983314637
+    second: MikadoMedium Atlas_141
+  - first:
+      213: 5879360318237028689
+    second: MikadoMedium Atlas_142
+  - first:
+      213: 1939167858417841931
+    second: MikadoMedium Atlas_143
+  - first:
+      213: 4411031145219622584
+    second: MikadoMedium Atlas_144
+  - first:
+      213: 1989237852718064869
+    second: MikadoMedium Atlas_145
+  - first:
+      213: -5961034479358105389
+    second: MikadoMedium Atlas_146
+  - first:
+      213: 776974608563310051
+    second: MikadoMedium Atlas_147
+  - first:
+      213: -3039676178907273129
+    second: MikadoMedium Atlas_148
+  - first:
+      213: 656444120066619153
+    second: MikadoMedium Atlas_149
+  - first:
+      213: 4662689422843050156
+    second: MikadoMedium Atlas_150
+  - first:
+      213: -4356634062412988982
+    second: MikadoMedium Atlas_151
+  - first:
+      213: -1163631554699989669
+    second: MikadoMedium Atlas_152
+  - first:
+      213: -3664688073479614105
+    second: MikadoMedium Atlas_153
+  - first:
+      213: 8258525305412752781
+    second: MikadoMedium Atlas_154
+  - first:
+      213: -8864641564537699176
+    second: MikadoMedium Atlas_155
+  - first:
+      213: 4129277207230812911
+    second: MikadoMedium Atlas_156
+  - first:
+      213: 1653021614534391482
+    second: MikadoMedium Atlas_157
+  - first:
+      213: -3730601055995449678
+    second: MikadoMedium Atlas_158
+  - first:
+      213: 3662873603839298102
+    second: MikadoMedium Atlas_159
+  - first:
+      213: -8322454082501964975
+    second: MikadoMedium Atlas_160
+  - first:
+      213: -6959791486774498316
+    second: MikadoMedium Atlas_161
+  - first:
+      213: 7833861553259355711
+    second: MikadoMedium Atlas_162
+  - first:
+      213: 11076416100818862
+    second: MikadoMedium Atlas_163
+  - first:
+      213: -956221085061890711
+    second: MikadoMedium Atlas_164
+  - first:
+      213: -7865709546147118498
+    second: MikadoMedium Atlas_165
+  - first:
+      213: -942037331647199533
+    second: MikadoMedium Atlas_166
+  - first:
+      213: -68829440805072685
+    second: MikadoMedium Atlas_167
+  - first:
+      213: 3050462075674349909
+    second: MikadoMedium Atlas_168
+  - first:
+      213: -2869549279879265453
+    second: MikadoMedium Atlas_169
+  - first:
+      213: -1101521447861779113
+    second: MikadoMedium Atlas_170
+  - first:
+      213: 3571072322741846155
+    second: MikadoMedium Atlas_171
+  - first:
+      213: 7451004708211515667
+    second: MikadoMedium Atlas_172
+  - first:
+      213: 168396863495435356
+    second: MikadoMedium Atlas_173
+  - first:
+      213: -4077218188701931683
+    second: MikadoMedium Atlas_174
+  - first:
+      213: -7007893517544514224
+    second: MikadoMedium Atlas_175
+  - first:
+      213: 3449960368963326098
+    second: MikadoMedium Atlas_176
+  - first:
+      213: -7820636211255820138
+    second: MikadoMedium Atlas_177
+  - first:
+      213: 8470906357335735832
+    second: MikadoMedium Atlas_178
+  - first:
+      213: -4428532565199055264
+    second: MikadoMedium Atlas_179
+  - first:
+      213: -5417386897914343406
+    second: MikadoMedium Atlas_180
+  - first:
+      213: 1787355989281080600
+    second: MikadoMedium Atlas_181
+  - first:
+      213: 5789492932443915546
+    second: MikadoMedium Atlas_182
+  - first:
+      213: 3189812679077801847
+    second: MikadoMedium Atlas_183
+  - first:
+      213: 4380422267302167753
+    second: MikadoMedium Atlas_184
+  - first:
+      213: -2159721131523389416
+    second: MikadoMedium Atlas_185
+  - first:
+      213: 8944496940308239479
+    second: MikadoMedium Atlas_186
+  - first:
+      213: -7552766070342860052
+    second: MikadoMedium Atlas_187
+  - first:
+      213: 7158454251826833573
+    second: MikadoMedium Atlas_188
+  - first:
+      213: 6152260622940908537
+    second: MikadoMedium Atlas_189
+  - first:
+      213: 2725198982315540195
+    second: MikadoMedium Atlas_190
+  - first:
+      213: -4331697797338907853
+    second: MikadoMedium Atlas_191
+  - first:
+      213: 8283554402814088065
+    second: MikadoMedium Atlas_192
+  - first:
+      213: -3857384277232089838
+    second: MikadoMedium Atlas_193
+  - first:
+      213: -4644909172064784192
+    second: MikadoMedium Atlas_194
+  - first:
+      213: -2648843493448735882
+    second: MikadoMedium Atlas_195
+  - first:
+      213: -2110689379402908736
+    second: MikadoMedium Atlas_196
+  - first:
+      213: 82355625572309375
+    second: MikadoMedium Atlas_197
+  - first:
+      213: -5354462988717448076
+    second: MikadoMedium Atlas_198
+  - first:
+      213: -2923569638823171777
+    second: MikadoMedium Atlas_199
+  - first:
+      213: -5749718731614811780
+    second: MikadoMedium Atlas_200
+  - first:
+      213: 7916235070614985899
+    second: MikadoMedium Atlas_201
+  - first:
+      213: -188320955766760932
+    second: MikadoMedium Atlas_202
+  - first:
+      213: 1581298499784469849
+    second: MikadoMedium Atlas_203
+  - first:
+      213: 5582676980359406935
+    second: MikadoMedium Atlas_204
+  - first:
+      213: -8242741694074699943
+    second: MikadoMedium Atlas_205
+  - first:
+      213: 7704395614751848105
+    second: MikadoMedium Atlas_206
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 493
+        width: 37
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbb4d8f65c7314470800000000000000
+      internalID: 8377038103005449147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 442
+        width: 40
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4da4629c1cecd8e90800000000000000
+      internalID: -7021728912301995308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_2
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 493
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc6ec4cba4f374260800000000000000
+      internalID: 7081698529282680525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_3
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 445
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21d742465d14cf830800000000000000
+      internalID: 4106229345019002130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_4
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 449
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d8efbd8ac8f94080800000000000000
+      internalID: -9202550814709651241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_5
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 490
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7939c1a8f2ef96af0800000000000000
+      internalID: -402511211538902121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_6
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 471
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2436c99a1081db790800000000000000
+      internalID: -7512822207964486846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_7
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 469
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2f248ae529db7bb0800000000000000
+      internalID: -4937113809610068181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_8
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 468
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a28e95e039cd7fec0800000000000000
+      internalID: -3533112858489788374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_9
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 468
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4957950468b82d0c0800000000000000
+      internalID: -4552422864596666988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_10
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 468
+        width: 24
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6f6b4305cf68a510800000000000000
+      internalID: 1560620162838392687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_11
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 468
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d46bdd5252809b0d0800000000000000
+      internalID: -3406682687486970291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_12
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 468
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cfeb5144c9ac6ce0800000000000000
+      internalID: -1410565922898579518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_13
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 467
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58a0988fd25b4cf70800000000000000
+      internalID: 9206682747300022917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_14
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 488
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a24863bbce7901ed0800000000000000
+      internalID: -2445287554653191126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_15
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 488
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b634b1925d10ba5c0800000000000000
+      internalID: -4203263812190911637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_16
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 485
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ce708245f3883830800000000000000
+      internalID: 4051132954225704647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_17
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 477
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ff800375099e9cc0800000000000000
+      internalID: -3702353594968666124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_18
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 487
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5075888ede3838b40800000000000000
+      internalID: 5441337832625428229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_19
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 439
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6fc4082058d01530800000000000000
+      internalID: 3823793922417938284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_20
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 428
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0585befb53782dad0800000000000000
+      internalID: -2678930163409135536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_21
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 456
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60fba05ce06edec50800000000000000
+      internalID: 6696261172079542022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_22
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 458
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a56ddc06f828bfb30800000000000000
+      internalID: 4322191819708159578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_23
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 453
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce2b776ed0a63ad10800000000000000
+      internalID: 2135667256237470444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_24
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 452
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb9d31358aec473d0800000000000000
+      internalID: -3209713412064683589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_25
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 472
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd006130262c66580800000000000000
+      internalID: -8834159892826292004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_26
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 452
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee765e3f198b38180800000000000000
+      internalID: -9114238283866085394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 391
+        width: 40
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1ed3e08b3b1c0c20800000000000000
+      internalID: 3173941779768794654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_28
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 394
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 499bf163c1e814690800000000000000
+      internalID: -7619652842715891308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_29
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 396
+        width: 28
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63767a99514abe0a0800000000000000
+      internalID: -6851201995434924234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_30
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 388
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72729d983e0b14c80800000000000000
+      internalID: -8340190543596673241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_31
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 380
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac3faaede150594e0800000000000000
+      internalID: -1975667231389191222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_32
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 388
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd74ff06a15e7fde0800000000000000
+      internalID: -1299318066013845541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_33
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 427
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d526d173636b758d0800000000000000
+      internalID: -2857615094574128547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_34
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 388
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2d300200ccd421e0800000000000000
+      internalID: -2223409598788780756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_35
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 426
+        width: 19
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b01388b15bab7860800000000000000
+      internalID: 7528799569556213944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_36
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 388
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b4a49acdbc9012b0800000000000000
+      internalID: -5615816396369517390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_37
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 426
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6800802482ee9850800000000000000
+      internalID: 6385790378766764138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_38
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 400
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fb1a113b425053d0800000000000000
+      internalID: -3219983250670085133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_39
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 426
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fcaf8e5c0e721f40800000000000000
+      internalID: 5697755070168280304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_40
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 400
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e73e7235716fa330800000000000000
+      internalID: 3724302572844890085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_41
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 426
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad2a2aede8359d3f0800000000000000
+      internalID: -875576779461188902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_42
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 400
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54eb0f3af752c39c0800000000000000
+      internalID: -3946237943341859259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_43
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 426
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb4bc968d5651e800800000000000000
+      internalID: 639887581753685180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_44
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 400
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e70fb36f178188f20800000000000000
+      internalID: 3425014394356756606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_45
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 426
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cd863650d4581470800000000000000
+      internalID: 8365529561617042886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_46
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 421
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b58f63247c93c920800000000000000
+      internalID: 3009420998638273973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_47
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 421
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74ce7b76e46360260800000000000000
+      internalID: 7063392775952657479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_48
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 421
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 834e77aef852aafb0800000000000000
+      internalID: -4635851566380227528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_49
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 425
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11fb1f96c53ba02d0800000000000000
+      internalID: -3311637366481764591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_50
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 425
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93cac5335365e8350800000000000000
+      internalID: 6020844538335898681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_51
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 380
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f3e022d839783940800000000000000
+      internalID: 5276100248415036405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_52
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 380
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57793df38f4df15b0800000000000000
+      internalID: -5395359665878755467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_53
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 405
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa4ae6cbc863589f0800000000000000
+      internalID: -466907008278289238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_54
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 372
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39c009e6e41793e60800000000000000
+      internalID: 7942503999520902291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_55
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 372
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c14c37f243c2a350800000000000000
+      internalID: 6026593943758324160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_56
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 403
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb7cf3a072dfce130800000000000000
+      internalID: 3597528546479687615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_57
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 340
+        width: 40
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9667cd6df9f2fc550800000000000000
+      internalID: 6183213176954058345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_58
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 343
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d9a0c193bec65b30800000000000000
+      internalID: 4275832166874655186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_59
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 343
+        width: 28
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a53c4b068c7d3280800000000000000
+      internalID: -9061949960042564185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_60
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 337
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 366c65e6bd5d60860800000000000000
+      internalID: 7495913768230504035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_61
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 336
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0821a513a102a7a0800000000000000
+      internalID: -6367525123194279926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_62
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 346
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6badc9351f374f9e0800000000000000
+      internalID: -1588517288227841354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_63
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 346
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0ebdb10cc696cb90800000000000000
+      internalID: -7221919149495304689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_64
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 346
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54f469cafdb159740800000000000000
+      internalID: 5158059595709960005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_65
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 381
+        width: 42
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd791a32568e757b0800000000000000
+      internalID: -5235460520707778595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_66
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 339
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bea0313dafac225a0800000000000000
+      internalID: -6547447729611404565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_67
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 339
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eee96dff5ffebb70800000000000000
+      internalID: 8916845099978714855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_68
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 381
+        width: 33
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc24334877c08cdf0800000000000000
+      internalID: -159864079313059123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_69
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 339
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c68b167733d59b70800000000000000
+      internalID: 8905256073353201352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_70
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 381
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b7cdb37908c446f0800000000000000
+      internalID: -701215699040876615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_71
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 339
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ba80f496cab170b0800000000000000
+      internalID: -5732595488600847692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_72
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 339
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 670e0c33da923ed60800000000000000
+      internalID: 7918218393721823350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_73
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 376
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6231d2713ba163260800000000000000
+      internalID: 7076873220949611302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_74
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 376
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a8b0891999ca9800800000000000000
+      internalID: 620029558111910055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_75
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 339
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f34d7e65aee4bf30800000000000000
+      internalID: 4590556314488095735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_76
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 353
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c51590b98a9ed0050800000000000000
+      internalID: 5768523608096330076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_77
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 324
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f290cbc3175492040800000000000000
+      internalID: 4623302845125101871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_78
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 353
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63769a0a4bd928310800000000000000
+      internalID: 1405859432808146742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_79
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 324
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e5652614ba9bc0c0800000000000000
+      internalID: -4554376499898784288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_80
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 352
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4622a832ce2ba180800000000000000
+      internalID: -9103130810090641844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_81
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 289
+        width: 40
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaa6ee8d0224e1c10800000000000000
+      internalID: 2026129591209192110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_82
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 293
+        width: 40
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4ac750a721f11420800000000000000
+      internalID: 2599123612465613390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_83
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 286
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c533769f39daca5b0800000000000000
+      internalID: -5355715005794274468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_84
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 283
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63d72e1b2aafff5b0800000000000000
+      internalID: -5332267857107321546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_85
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 304
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccc44d2ec96bfcb00800000000000000
+      internalID: 851099639533030604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_86
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 304
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09267c4a921efd610800000000000000
+      internalID: 1648283557615329936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_87
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 304
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01b1ba59a291e4470800000000000000
+      internalID: 8380663627273411344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_88
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 292
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e2b2ff181b8cd520800000000000000
+      internalID: 2728208410011153124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_89
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 308
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89944e29b37ec0eb0800000000000000
+      internalID: -4752169263729194600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_90
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 308
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6722d688de1a66d40800000000000000
+      internalID: 5577323230113112694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_91
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 308
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c872f0a894bc1db60800000000000000
+      internalID: 7769214348900116364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_92
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 308
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e38bef04effe08bd0800000000000000
+      internalID: -2629838307093202882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_93
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 307
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4ffc1a76ae82fec0800000000000000
+      internalID: -3534605911867982002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_94
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 307
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6b6c1a15fa880500800000000000000
+      internalID: 362692555313015663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_95
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 324
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80e5508c9076f4340800000000000000
+      internalID: 4850208615409475080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_96
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 292
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75359046c9c108a30800000000000000
+      internalID: 4215400709237592919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_97
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 292
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cde1ed2677a40c70800000000000000
+      internalID: 8936451686627667400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_98
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 294
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 561091cd5a98529d0800000000000000
+      internalID: -2799680247885659803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_99
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 324
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05b88f69f635f05a0800000000000000
+      internalID: -6552927194061436080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_100
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 242
+        width: 40
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5be6d72656ac5510800000000000000
+      internalID: 1539288061619661660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_101
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 262
+        width: 37
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ad12f7a4f0b27bc0800000000000000
+      internalID: -3786769771828994651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_102
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 262
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6360876089e8c210800000000000000
+      internalID: 1353588425726387052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_103
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 257
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89a2e65966e6c6e70800000000000000
+      internalID: 9109777533136415384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_104
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 251
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 070f2ae6925150760800000000000000
+      internalID: 7423362828484145264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_105
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 267
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80656f3a1b20b88e0800000000000000
+      internalID: -1690254273164192248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_106
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 267
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 911066637a55b4f80800000000000000
+      internalID: -8121303326372003559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_107
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 267
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6940363af02e8cae0800000000000000
+      internalID: -1528723516698721130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_108
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 266
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2e87ed4ea4028ef0800000000000000
+      internalID: -107518294425629139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_109
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 291
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 533e5f728c6e9b4f0800000000000000
+      internalID: -812364510425390283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_110
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 258
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4004afd7e906a28f0800000000000000
+      internalID: -564532569446924284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_111
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 259
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 912bfe7ce9354c510800000000000000
+      internalID: 1568470511656088089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_112
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 259
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d86fc5f4d4320cf20800000000000000
+      internalID: 3440788930262005389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_113
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 262
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c18115a0aca319420800000000000000
+      internalID: 2634951896419342364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_114
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 238
+        width: 40
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d00f527b6ecfb9c0800000000000000
+      internalID: -3909178990658649901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_115
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 187
+        width: 40
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c1a55f509322ac60800000000000000
+      internalID: 7827858205305053632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_116
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 189
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a3cecbc214fa0950800000000000000
+      internalID: 6416208980708606887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_117
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 235
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adcc3036c1dd60640800000000000000
+      internalID: 5045963546505235674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_118
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 235
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0914f9cfb4486730800000000000000
+      internalID: 3992516660181604620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_119
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 220
+        width: 37
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 196c8d921c4ab4ce0800000000000000
+      internalID: -1419860107967543663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_120
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 220
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77ed08d194aa9f930800000000000000
+      internalID: 4177557360367165047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_121
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 215
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b866ebce80a129c20800000000000000
+      internalID: 3211658109902546571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_122
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 210
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e5c25e25724d0eb0800000000000000
+      internalID: -4752068960750221849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_123
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 226
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70324d8c4e48e9500800000000000000
+      internalID: 404907134666679047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_124
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 226
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b156550d5bdbc1ae0800000000000000
+      internalID: -1577177180904528613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_125
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 224
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d24232e9352af880800000000000000
+      internalID: -8576501609835380011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_126
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 219
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f67a1189a5d7ce30800000000000000
+      internalID: 4523819274709137145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_127
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 217
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f0c1e93ecd0fe360800000000000000
+      internalID: 7200989508574232822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_128
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 218
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c67bfec291d23a30800000000000000
+      internalID: 4193644631503369929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_129
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 218
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f8663e9b806ed600800000000000000
+      internalID: 494939161828419831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_130
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 221
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52a103bd919bd58b0800000000000000
+      internalID: -5161766077194036699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_131
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 184
+        width: 22
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab0ea6294a9d98bc0800000000000000
+      internalID: -3780251111346478918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_132
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 219
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2f53af7554780ad0800000000000000
+      internalID: -2735808863065120978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_133
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 169
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 205edec0dd91c5970800000000000000
+      internalID: 8744893013642044674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_134
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 169
+        width: 24
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9162114527bedff0800000000000000
+      internalID: -9368778574765667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_135
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 169
+        width: 27
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68838f84a552cadb0800000000000000
+      internalID: -4779404034845427578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_136
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 184
+        width: 36
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97f7c24be958bf880800000000000000
+      internalID: -8576114148722835591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_137
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 180
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a55eae0a8ef079f0800000000000000
+      internalID: -472598091968653914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_138
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 176
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 825e7890aa33513d0800000000000000
+      internalID: -3236623951798475480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_139
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 176
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e06a642b1d5c24dc0800000000000000
+      internalID: -3656142443041610226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_140
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 176
+        width: 19
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c02027766ae741fc0800000000000000
+      internalID: -3525053355159059956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_141
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 179
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 339a6d95648d084d0800000000000000
+      internalID: -3134267543983314637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_142
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 136
+        width: 40
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 151bb0b2f0fa79150800000000000000
+      internalID: 5879360318237028689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_143
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 136
+        width: 15
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b07b9d0a4ee49ea10800000000000000
+      internalID: 1939167858417841931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_144
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 133
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b60008b471273d30800000000000000
+      internalID: 4411031145219622584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_145
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 168
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e46501a9413b9b10800000000000000
+      internalID: 1989237852718064869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_146
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 165
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d8210459b6264da0800000000000000
+      internalID: -5961034479358105389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_147
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 169
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ed0ae63a4e58ca00800000000000000
+      internalID: 776974608563310051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_148
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 137
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 758e304ce96e0d5d0800000000000000
+      internalID: -3039676178907273129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_149
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 136
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 117f67ff2782c1900800000000000000
+      internalID: 656444120066619153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_150
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 132
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca8f78a735335b040800000000000000
+      internalID: 4662689422843050156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_151
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 133
+        width: 36
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acdb18517602a83c0800000000000000
+      internalID: -4356634062412988982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_152
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 175
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5deba42443f9dfe0800000000000000
+      internalID: -1163631554699989669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_153
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 134
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76113af0d99642dc0800000000000000
+      internalID: -3664688073479614105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_154
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 175
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8593bd720d2c9270800000000000000
+      internalID: 8258525305412752781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_155
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 134
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8944194c6777af480800000000000000
+      internalID: -8864641564537699176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_156
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 134
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe21c1cfdb32e4930800000000000000
+      internalID: 4129277207230812911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_157
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 137
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab67d5c7666b0f610800000000000000
+      internalID: 1653021614534391482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_158
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 94
+        width: 49
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bea1baea1e3a3cc0800000000000000
+      internalID: -3730601055995449678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_159
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 108
+        width: 41
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63a0ffdc22425d230800000000000000
+      internalID: 3662873603839298102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_160
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 118
+        width: 33
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15b88f03b14b08c80800000000000000
+      internalID: -8322454082501964975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_161
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 118
+        width: 24
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fba400748ad96f90800000000000000
+      internalID: -6959791486774498316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_162
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 118
+        width: 26
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3e1d9db39777bc60800000000000000
+      internalID: 7833861553259355711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_163
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 118
+        width: 33
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eafd21711f9572000800000000000000
+      internalID: 11076416100818862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_164
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 117
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96db52a4df1dab2f0800000000000000
+      internalID: -956221085061890711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_165
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 127
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e52808397d267d290800000000000000
+      internalID: -7865709546147118498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_166
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 84
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d6030ab9063de2f0800000000000000
+      internalID: -942037331647199533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_167
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 90
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d099befcf77b0ff0800000000000000
+      internalID: -68829440805072685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_168
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 94
+        width: 37
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 551de55881b655a20800000000000000
+      internalID: 3050462075674349909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_169
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 88
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 353815b22205d28d0800000000000000
+      internalID: -2869549279879265453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_170
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 84
+        width: 18
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75589bb441c96b0f0800000000000000
+      internalID: -1101521447861779113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_171
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 91
+        width: 37
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b80c1407b5ffe8130800000000000000
+      internalID: 3571072322741846155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_172
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 92
+        width: 37
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 311e5b41e49476760800000000000000
+      internalID: 7451004708211515667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_173
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 92
+        width: 37
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c547fed1e04465200800000000000000
+      internalID: 168396863495435356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_174
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 95
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d57e8aec8afca67c0800000000000000
+      internalID: -4077218188701931683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_175
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 52
+        width: 50
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05d1ff6a9f5febe90800000000000000
+      internalID: -7007893517544514224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_176
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 76
+        width: 43
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2901c394da8b0ef20800000000000000
+      internalID: 3449960368963326098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_177
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 85
+        width: 43
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6904a862dc4877390800000000000000
+      internalID: -7820636211255820138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_178
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 43
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81e38928374be8570800000000000000
+      internalID: 8470906357335735832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_179
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 42
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0669f076811ba82c0800000000000000
+      internalID: -4428532565199055264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_180
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 85
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 210d5f2a15391d4b0800000000000000
+      internalID: -5417386897914343406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_181
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 42
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 815044c6dc6fdc810800000000000000
+      internalID: 1787355989281080600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_182
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 84
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1544f3e529685050800000000000000
+      internalID: 5789492932443915546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_183
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 42
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77f28743bbd744c20800000000000000
+      internalID: 3189812679077801847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_184
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 84
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c4c1c8f7d26acc30800000000000000
+      internalID: 4380422267302167753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_185
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 42
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 818c4a5d2112702e0800000000000000
+      internalID: -2159721131523389416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_186
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 42
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77414a5c39c312c70800000000000000
+      internalID: 8944496940308239479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_187
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 44
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce24799764f2f2790800000000000000
+      internalID: -7552766070342860052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_188
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 44
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a8e5050730f75360800000000000000
+      internalID: 7158454251826833573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_189
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 43
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fb2404c078316550800000000000000
+      internalID: 6152260622940908537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_190
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 50
+        width: 37
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ee7c23290ad1d520800000000000000
+      internalID: 2725198982315540195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_191
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 50
+        width: 37
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33bb54bbdc7b2e3c0800000000000000
+      internalID: -4331697797338907853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_192
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 50
+        width: 37
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1835b5957d815f270800000000000000
+      internalID: 8283554402814088065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_193
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 53
+        width: 24
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2158769ef61d77ac0800000000000000
+      internalID: -3857384277232089838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_194
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 52
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c0ff11c7b7f98fb0800000000000000
+      internalID: -4644909172064784192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_195
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 43
+        width: 45
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 673226b70ea6d3bd0800000000000000
+      internalID: -2648843493448735882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_196
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 0
+        width: 59
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cbff7d313355b2e0800000000000000
+      internalID: -2110689379402908736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_197
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 0
+        width: 50
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f791e7f4106942100800000000000000
+      internalID: 82355625572309375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_198
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 0
+        width: 46
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 474258ae74021b5b0800000000000000
+      internalID: -5354462988717448076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_199
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 0
+        width: 46
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f39e3d937e46d67d0800000000000000
+      internalID: -2923569638823171777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_200
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 0
+        width: 46
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7980b3e645e430b0800000000000000
+      internalID: -5749718731614811780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_201
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 0
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bacde7ecadd1cdd60800000000000000
+      internalID: 7916235070614985899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_202
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 0
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1a92c7a613f26df0800000000000000
+      internalID: -188320955766760932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_203
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 0
+        width: 40
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95de2838b96e1f510800000000000000
+      internalID: 1581298499784469849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_204
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 0
+        width: 40
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 755a216a227a97d40800000000000000
+      internalID: 5582676980359406935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_205
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 0
+        width: 40
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95f3065e916eb9d80800000000000000
+      internalID: -8242741694074699943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoMedium Atlas_206
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 0
+        width: 15
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a67c52fdf28bea60800000000000000
+      internalID: 7704395614751848105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      MikadoMedium Atlas_0: 8377038103005449147
+      MikadoMedium Atlas_1: -7021728912301995308
+      MikadoMedium Atlas_10: 1560620162838392687
+      MikadoMedium Atlas_100: 1539288061619661660
+      MikadoMedium Atlas_101: -3786769771828994651
+      MikadoMedium Atlas_102: 1353588425726387052
+      MikadoMedium Atlas_103: 9109777533136415384
+      MikadoMedium Atlas_104: 7423362828484145264
+      MikadoMedium Atlas_105: -1690254273164192248
+      MikadoMedium Atlas_106: -8121303326372003559
+      MikadoMedium Atlas_107: -1528723516698721130
+      MikadoMedium Atlas_108: -107518294425629139
+      MikadoMedium Atlas_109: -812364510425390283
+      MikadoMedium Atlas_11: -3406682687486970291
+      MikadoMedium Atlas_110: -564532569446924284
+      MikadoMedium Atlas_111: 1568470511656088089
+      MikadoMedium Atlas_112: 3440788930262005389
+      MikadoMedium Atlas_113: 2634951896419342364
+      MikadoMedium Atlas_114: -3909178990658649901
+      MikadoMedium Atlas_115: 7827858205305053632
+      MikadoMedium Atlas_116: 6416208980708606887
+      MikadoMedium Atlas_117: 5045963546505235674
+      MikadoMedium Atlas_118: 3992516660181604620
+      MikadoMedium Atlas_119: -1419860107967543663
+      MikadoMedium Atlas_12: -1410565922898579518
+      MikadoMedium Atlas_120: 4177557360367165047
+      MikadoMedium Atlas_121: 3211658109902546571
+      MikadoMedium Atlas_122: -4752068960750221849
+      MikadoMedium Atlas_123: 404907134666679047
+      MikadoMedium Atlas_124: -1577177180904528613
+      MikadoMedium Atlas_125: -8576501609835380011
+      MikadoMedium Atlas_126: 4523819274709137145
+      MikadoMedium Atlas_127: 7200989508574232822
+      MikadoMedium Atlas_128: 4193644631503369929
+      MikadoMedium Atlas_129: 494939161828419831
+      MikadoMedium Atlas_13: 9206682747300022917
+      MikadoMedium Atlas_130: -5161766077194036699
+      MikadoMedium Atlas_131: -3780251111346478918
+      MikadoMedium Atlas_132: -2735808863065120978
+      MikadoMedium Atlas_133: 8744893013642044674
+      MikadoMedium Atlas_134: -9368778574765667
+      MikadoMedium Atlas_135: -4779404034845427578
+      MikadoMedium Atlas_136: -8576114148722835591
+      MikadoMedium Atlas_137: -472598091968653914
+      MikadoMedium Atlas_138: -3236623951798475480
+      MikadoMedium Atlas_139: -3656142443041610226
+      MikadoMedium Atlas_14: -2445287554653191126
+      MikadoMedium Atlas_140: -3525053355159059956
+      MikadoMedium Atlas_141: -3134267543983314637
+      MikadoMedium Atlas_142: 5879360318237028689
+      MikadoMedium Atlas_143: 1939167858417841931
+      MikadoMedium Atlas_144: 4411031145219622584
+      MikadoMedium Atlas_145: 1989237852718064869
+      MikadoMedium Atlas_146: -5961034479358105389
+      MikadoMedium Atlas_147: 776974608563310051
+      MikadoMedium Atlas_148: -3039676178907273129
+      MikadoMedium Atlas_149: 656444120066619153
+      MikadoMedium Atlas_15: -4203263812190911637
+      MikadoMedium Atlas_150: 4662689422843050156
+      MikadoMedium Atlas_151: -4356634062412988982
+      MikadoMedium Atlas_152: -1163631554699989669
+      MikadoMedium Atlas_153: -3664688073479614105
+      MikadoMedium Atlas_154: 8258525305412752781
+      MikadoMedium Atlas_155: -8864641564537699176
+      MikadoMedium Atlas_156: 4129277207230812911
+      MikadoMedium Atlas_157: 1653021614534391482
+      MikadoMedium Atlas_158: -3730601055995449678
+      MikadoMedium Atlas_159: 3662873603839298102
+      MikadoMedium Atlas_16: 4051132954225704647
+      MikadoMedium Atlas_160: -8322454082501964975
+      MikadoMedium Atlas_161: -6959791486774498316
+      MikadoMedium Atlas_162: 7833861553259355711
+      MikadoMedium Atlas_163: 11076416100818862
+      MikadoMedium Atlas_164: -956221085061890711
+      MikadoMedium Atlas_165: -7865709546147118498
+      MikadoMedium Atlas_166: -942037331647199533
+      MikadoMedium Atlas_167: -68829440805072685
+      MikadoMedium Atlas_168: 3050462075674349909
+      MikadoMedium Atlas_169: -2869549279879265453
+      MikadoMedium Atlas_17: -3702353594968666124
+      MikadoMedium Atlas_170: -1101521447861779113
+      MikadoMedium Atlas_171: 3571072322741846155
+      MikadoMedium Atlas_172: 7451004708211515667
+      MikadoMedium Atlas_173: 168396863495435356
+      MikadoMedium Atlas_174: -4077218188701931683
+      MikadoMedium Atlas_175: -7007893517544514224
+      MikadoMedium Atlas_176: 3449960368963326098
+      MikadoMedium Atlas_177: -7820636211255820138
+      MikadoMedium Atlas_178: 8470906357335735832
+      MikadoMedium Atlas_179: -4428532565199055264
+      MikadoMedium Atlas_18: 5441337832625428229
+      MikadoMedium Atlas_180: -5417386897914343406
+      MikadoMedium Atlas_181: 1787355989281080600
+      MikadoMedium Atlas_182: 5789492932443915546
+      MikadoMedium Atlas_183: 3189812679077801847
+      MikadoMedium Atlas_184: 4380422267302167753
+      MikadoMedium Atlas_185: -2159721131523389416
+      MikadoMedium Atlas_186: 8944496940308239479
+      MikadoMedium Atlas_187: -7552766070342860052
+      MikadoMedium Atlas_188: 7158454251826833573
+      MikadoMedium Atlas_189: 6152260622940908537
+      MikadoMedium Atlas_19: 3823793922417938284
+      MikadoMedium Atlas_190: 2725198982315540195
+      MikadoMedium Atlas_191: -4331697797338907853
+      MikadoMedium Atlas_192: 8283554402814088065
+      MikadoMedium Atlas_193: -3857384277232089838
+      MikadoMedium Atlas_194: -4644909172064784192
+      MikadoMedium Atlas_195: -2648843493448735882
+      MikadoMedium Atlas_196: -2110689379402908736
+      MikadoMedium Atlas_197: 82355625572309375
+      MikadoMedium Atlas_198: -5354462988717448076
+      MikadoMedium Atlas_199: -2923569638823171777
+      MikadoMedium Atlas_2: 7081698529282680525
+      MikadoMedium Atlas_20: -2678930163409135536
+      MikadoMedium Atlas_200: -5749718731614811780
+      MikadoMedium Atlas_201: 7916235070614985899
+      MikadoMedium Atlas_202: -188320955766760932
+      MikadoMedium Atlas_203: 1581298499784469849
+      MikadoMedium Atlas_204: 5582676980359406935
+      MikadoMedium Atlas_205: -8242741694074699943
+      MikadoMedium Atlas_206: 7704395614751848105
+      MikadoMedium Atlas_21: 6696261172079542022
+      MikadoMedium Atlas_22: 4322191819708159578
+      MikadoMedium Atlas_23: 2135667256237470444
+      MikadoMedium Atlas_24: -3209713412064683589
+      MikadoMedium Atlas_25: -8834159892826292004
+      MikadoMedium Atlas_26: -9114238283866085394
+      MikadoMedium Atlas_27: 3173941779768794654
+      MikadoMedium Atlas_28: -7619652842715891308
+      MikadoMedium Atlas_29: -6851201995434924234
+      MikadoMedium Atlas_3: 4106229345019002130
+      MikadoMedium Atlas_30: -8340190543596673241
+      MikadoMedium Atlas_31: -1975667231389191222
+      MikadoMedium Atlas_32: -1299318066013845541
+      MikadoMedium Atlas_33: -2857615094574128547
+      MikadoMedium Atlas_34: -2223409598788780756
+      MikadoMedium Atlas_35: 7528799569556213944
+      MikadoMedium Atlas_36: -5615816396369517390
+      MikadoMedium Atlas_37: 6385790378766764138
+      MikadoMedium Atlas_38: -3219983250670085133
+      MikadoMedium Atlas_39: 5697755070168280304
+      MikadoMedium Atlas_4: -9202550814709651241
+      MikadoMedium Atlas_40: 3724302572844890085
+      MikadoMedium Atlas_41: -875576779461188902
+      MikadoMedium Atlas_42: -3946237943341859259
+      MikadoMedium Atlas_43: 639887581753685180
+      MikadoMedium Atlas_44: 3425014394356756606
+      MikadoMedium Atlas_45: 8365529561617042886
+      MikadoMedium Atlas_46: 3009420998638273973
+      MikadoMedium Atlas_47: 7063392775952657479
+      MikadoMedium Atlas_48: -4635851566380227528
+      MikadoMedium Atlas_49: -3311637366481764591
+      MikadoMedium Atlas_5: -402511211538902121
+      MikadoMedium Atlas_50: 6020844538335898681
+      MikadoMedium Atlas_51: 5276100248415036405
+      MikadoMedium Atlas_52: -5395359665878755467
+      MikadoMedium Atlas_53: -466907008278289238
+      MikadoMedium Atlas_54: 7942503999520902291
+      MikadoMedium Atlas_55: 6026593943758324160
+      MikadoMedium Atlas_56: 3597528546479687615
+      MikadoMedium Atlas_57: 6183213176954058345
+      MikadoMedium Atlas_58: 4275832166874655186
+      MikadoMedium Atlas_59: -9061949960042564185
+      MikadoMedium Atlas_6: -7512822207964486846
+      MikadoMedium Atlas_60: 7495913768230504035
+      MikadoMedium Atlas_61: -6367525123194279926
+      MikadoMedium Atlas_62: -1588517288227841354
+      MikadoMedium Atlas_63: -7221919149495304689
+      MikadoMedium Atlas_64: 5158059595709960005
+      MikadoMedium Atlas_65: -5235460520707778595
+      MikadoMedium Atlas_66: -6547447729611404565
+      MikadoMedium Atlas_67: 8916845099978714855
+      MikadoMedium Atlas_68: -159864079313059123
+      MikadoMedium Atlas_69: 8905256073353201352
+      MikadoMedium Atlas_7: -4937113809610068181
+      MikadoMedium Atlas_70: -701215699040876615
+      MikadoMedium Atlas_71: -5732595488600847692
+      MikadoMedium Atlas_72: 7918218393721823350
+      MikadoMedium Atlas_73: 7076873220949611302
+      MikadoMedium Atlas_74: 620029558111910055
+      MikadoMedium Atlas_75: 4590556314488095735
+      MikadoMedium Atlas_76: 5768523608096330076
+      MikadoMedium Atlas_77: 4623302845125101871
+      MikadoMedium Atlas_78: 1405859432808146742
+      MikadoMedium Atlas_79: -4554376499898784288
+      MikadoMedium Atlas_8: -3533112858489788374
+      MikadoMedium Atlas_80: -9103130810090641844
+      MikadoMedium Atlas_81: 2026129591209192110
+      MikadoMedium Atlas_82: 2599123612465613390
+      MikadoMedium Atlas_83: -5355715005794274468
+      MikadoMedium Atlas_84: -5332267857107321546
+      MikadoMedium Atlas_85: 851099639533030604
+      MikadoMedium Atlas_86: 1648283557615329936
+      MikadoMedium Atlas_87: 8380663627273411344
+      MikadoMedium Atlas_88: 2728208410011153124
+      MikadoMedium Atlas_89: -4752169263729194600
+      MikadoMedium Atlas_9: -4552422864596666988
+      MikadoMedium Atlas_90: 5577323230113112694
+      MikadoMedium Atlas_91: 7769214348900116364
+      MikadoMedium Atlas_92: -2629838307093202882
+      MikadoMedium Atlas_93: -3534605911867982002
+      MikadoMedium Atlas_94: 362692555313015663
+      MikadoMedium Atlas_95: 4850208615409475080
+      MikadoMedium Atlas_96: 4215400709237592919
+      MikadoMedium Atlas_97: 8936451686627667400
+      MikadoMedium Atlas_98: -2799680247885659803
+      MikadoMedium Atlas_99: -6552927194061436080
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,2613 @@
+fileFormatVersion: 2
+guid: 16ec0665c6a1f1e4cb836c25af2dfe7c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -123867133290960462
+    second: MikadoUltra SDF Atlas_0
+  - first:
+      213: -5200140419916193977
+    second: MikadoUltra SDF Atlas_1
+  - first:
+      213: -8761122855397444368
+    second: MikadoUltra SDF Atlas_2
+  - first:
+      213: 6695716831267205873
+    second: MikadoUltra SDF Atlas_3
+  - first:
+      213: -4177678472039587555
+    second: MikadoUltra SDF Atlas_4
+  - first:
+      213: 4203319555818367435
+    second: MikadoUltra SDF Atlas_5
+  - first:
+      213: -73128233434413779
+    second: MikadoUltra SDF Atlas_6
+  - first:
+      213: 2206816679602720217
+    second: MikadoUltra SDF Atlas_7
+  - first:
+      213: -4822633894620141037
+    second: MikadoUltra SDF Atlas_8
+  - first:
+      213: -8561580401311394181
+    second: MikadoUltra SDF Atlas_9
+  - first:
+      213: -501854379429067828
+    second: MikadoUltra SDF Atlas_10
+  - first:
+      213: -6282661173207574057
+    second: MikadoUltra SDF Atlas_11
+  - first:
+      213: 5015714149288940742
+    second: MikadoUltra SDF Atlas_12
+  - first:
+      213: 1613284165516165796
+    second: MikadoUltra SDF Atlas_13
+  - first:
+      213: 5584893018074249459
+    second: MikadoUltra SDF Atlas_14
+  - first:
+      213: -7372488554174353350
+    second: MikadoUltra SDF Atlas_15
+  - first:
+      213: 9163428741932438510
+    second: MikadoUltra SDF Atlas_16
+  - first:
+      213: 7279572746659749093
+    second: MikadoUltra SDF Atlas_17
+  - first:
+      213: -2072942808188523327
+    second: MikadoUltra SDF Atlas_18
+  - first:
+      213: -1795640016286569101
+    second: MikadoUltra SDF Atlas_19
+  - first:
+      213: -2720127724279484959
+    second: MikadoUltra SDF Atlas_20
+  - first:
+      213: 6317416837648630199
+    second: MikadoUltra SDF Atlas_21
+  - first:
+      213: 4079812071662962946
+    second: MikadoUltra SDF Atlas_22
+  - first:
+      213: 6062384423149801070
+    second: MikadoUltra SDF Atlas_23
+  - first:
+      213: 4680583187339258508
+    second: MikadoUltra SDF Atlas_24
+  - first:
+      213: -3508863575229000957
+    second: MikadoUltra SDF Atlas_25
+  - first:
+      213: 285357511372246706
+    second: MikadoUltra SDF Atlas_26
+  - first:
+      213: -3372830229149539873
+    second: MikadoUltra SDF Atlas_27
+  - first:
+      213: -7093556132691707347
+    second: MikadoUltra SDF Atlas_28
+  - first:
+      213: -3742546261020568417
+    second: MikadoUltra SDF Atlas_29
+  - first:
+      213: 2671621602612830118
+    second: MikadoUltra SDF Atlas_30
+  - first:
+      213: 5191629976982954514
+    second: MikadoUltra SDF Atlas_31
+  - first:
+      213: -6885360337202283591
+    second: MikadoUltra SDF Atlas_32
+  - first:
+      213: -5916139838263382665
+    second: MikadoUltra SDF Atlas_33
+  - first:
+      213: 1317200548974412851
+    second: MikadoUltra SDF Atlas_34
+  - first:
+      213: 3618915883825520081
+    second: MikadoUltra SDF Atlas_35
+  - first:
+      213: 3733127281379535516
+    second: MikadoUltra SDF Atlas_36
+  - first:
+      213: -8937032755212171502
+    second: MikadoUltra SDF Atlas_37
+  - first:
+      213: -7023252359211423529
+    second: MikadoUltra SDF Atlas_38
+  - first:
+      213: 377139371683253071
+    second: MikadoUltra SDF Atlas_39
+  - first:
+      213: -2841502983465258804
+    second: MikadoUltra SDF Atlas_40
+  - first:
+      213: -6899737939294804876
+    second: MikadoUltra SDF Atlas_41
+  - first:
+      213: 1020327931424142977
+    second: MikadoUltra SDF Atlas_42
+  - first:
+      213: -9158398569554428326
+    second: MikadoUltra SDF Atlas_43
+  - first:
+      213: 2185803374081610812
+    second: MikadoUltra SDF Atlas_44
+  - first:
+      213: 4647763469479022167
+    second: MikadoUltra SDF Atlas_45
+  - first:
+      213: -1834988731042812356
+    second: MikadoUltra SDF Atlas_46
+  - first:
+      213: -6331085222818489269
+    second: MikadoUltra SDF Atlas_47
+  - first:
+      213: 5458978768758552461
+    second: MikadoUltra SDF Atlas_48
+  - first:
+      213: -5385019336958885527
+    second: MikadoUltra SDF Atlas_49
+  - first:
+      213: 691987696645582784
+    second: MikadoUltra SDF Atlas_50
+  - first:
+      213: -6673481128449852151
+    second: MikadoUltra SDF Atlas_51
+  - first:
+      213: -7501506840656971783
+    second: MikadoUltra SDF Atlas_52
+  - first:
+      213: 2382150320406106801
+    second: MikadoUltra SDF Atlas_53
+  - first:
+      213: 7543089780919718139
+    second: MikadoUltra SDF Atlas_54
+  - first:
+      213: -4936752262073256290
+    second: MikadoUltra SDF Atlas_55
+  - first:
+      213: -8876187480504443261
+    second: MikadoUltra SDF Atlas_56
+  - first:
+      213: -5518909581964321898
+    second: MikadoUltra SDF Atlas_57
+  - first:
+      213: -1660610231563950080
+    second: MikadoUltra SDF Atlas_58
+  - first:
+      213: -3539547029426855679
+    second: MikadoUltra SDF Atlas_59
+  - first:
+      213: -1071916769078028665
+    second: MikadoUltra SDF Atlas_60
+  - first:
+      213: -8658041541492529875
+    second: MikadoUltra SDF Atlas_61
+  - first:
+      213: 534153332005771295
+    second: MikadoUltra SDF Atlas_62
+  - first:
+      213: -7327154961498187684
+    second: MikadoUltra SDF Atlas_63
+  - first:
+      213: -6639147115260925242
+    second: MikadoUltra SDF Atlas_64
+  - first:
+      213: 470760005391348941
+    second: MikadoUltra SDF Atlas_65
+  - first:
+      213: 2200691555723048226
+    second: MikadoUltra SDF Atlas_66
+  - first:
+      213: 7145548477888920901
+    second: MikadoUltra SDF Atlas_67
+  - first:
+      213: -402444219480628344
+    second: MikadoUltra SDF Atlas_68
+  - first:
+      213: -28477069394944296
+    second: MikadoUltra SDF Atlas_69
+  - first:
+      213: -7885338337451074122
+    second: MikadoUltra SDF Atlas_70
+  - first:
+      213: 3615914326380368288
+    second: MikadoUltra SDF Atlas_71
+  - first:
+      213: 7533807166730705335
+    second: MikadoUltra SDF Atlas_72
+  - first:
+      213: -6256061372990330146
+    second: MikadoUltra SDF Atlas_73
+  - first:
+      213: -3873964451669040468
+    second: MikadoUltra SDF Atlas_74
+  - first:
+      213: 433239686938651713
+    second: MikadoUltra SDF Atlas_75
+  - first:
+      213: -6283439172814209128
+    second: MikadoUltra SDF Atlas_76
+  - first:
+      213: -7604731847803649
+    second: MikadoUltra SDF Atlas_77
+  - first:
+      213: 703535557407121281
+    second: MikadoUltra SDF Atlas_78
+  - first:
+      213: 4816712227172390381
+    second: MikadoUltra SDF Atlas_79
+  - first:
+      213: -2775652522716602297
+    second: MikadoUltra SDF Atlas_80
+  - first:
+      213: 8941359373382848247
+    second: MikadoUltra SDF Atlas_81
+  - first:
+      213: 4837247831939700209
+    second: MikadoUltra SDF Atlas_82
+  - first:
+      213: -4281241787063992977
+    second: MikadoUltra SDF Atlas_83
+  - first:
+      213: -8335439208487170169
+    second: MikadoUltra SDF Atlas_84
+  - first:
+      213: 7524783271903435731
+    second: MikadoUltra SDF Atlas_85
+  - first:
+      213: -3908814308935036694
+    second: MikadoUltra SDF Atlas_86
+  - first:
+      213: 5243368841922775245
+    second: MikadoUltra SDF Atlas_87
+  - first:
+      213: -932639944816606047
+    second: MikadoUltra SDF Atlas_88
+  - first:
+      213: 8926834196544340433
+    second: MikadoUltra SDF Atlas_89
+  - first:
+      213: -5341974864816786053
+    second: MikadoUltra SDF Atlas_90
+  - first:
+      213: -1014257921852269872
+    second: MikadoUltra SDF Atlas_91
+  - first:
+      213: -7638351527725185803
+    second: MikadoUltra SDF Atlas_92
+  - first:
+      213: 2646064342511975723
+    second: MikadoUltra SDF Atlas_93
+  - first:
+      213: -6005051443845788138
+    second: MikadoUltra SDF Atlas_94
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MikadoUltra SDF Atlas_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 487
+        width: 35
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b9a8d0af7fe74ef0800000000000000
+      internalID: -123867133290960462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoUltra SDF Atlas_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 421
+        width: 43
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74f9eb0f6d365d7b0800000000000000
+      internalID: -5200140419916193977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoUltra SDF Atlas_2
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 487
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f4ba727e2d3a6680800000000000000
+      internalID: -8761122855397444368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoUltra SDF Atlas_3
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 420
+        width: 36
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f2394c8bf6fbec50800000000000000
+      internalID: 6695716831267205873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoUltra SDF Atlas_4
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 486
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d11a8406097e506c0800000000000000
+      internalID: -4177678472039587555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoUltra SDF Atlas_5
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 471
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc9a10aadd0355a30800000000000000
+      internalID: 4203319555818367435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoUltra SDF Atlas_6
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 470
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d25071752423cfef0800000000000000
+      internalID: -73128233434413779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoUltra SDF Atlas_7
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 454
+        width: 54
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dd8020f31030ae10800000000000000
+      internalID: 2206816679602720217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoUltra SDF Atlas_8
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 453
+        width: 60
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31a68653600921db0800000000000000
+      internalID: -4822633894620141037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoUltra SDF Atlas_9
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 452
+        width: 58
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7653e77cf72f2980800000000000000
+      internalID: -8561580401311394181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoUltra SDF Atlas_10
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 447
+        width: 50
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc30821d91e0909f0800000000000000
+      internalID: -501854379429067828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoUltra SDF Atlas_11
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 444
+        width: 48
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d9d2de23f08fc8a0800000000000000
+      internalID: -6282661173207574057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoUltra SDF Atlas_12
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 457
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c49443c1756b9540800000000000000
+      internalID: 5015714149288940742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoUltra SDF Atlas_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 354
+        width: 33
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a28a57a669836610800000000000000
+      internalID: 1613284165516165796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoUltra SDF Atlas_14
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 354
+        width: 36
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f8ffd22c96818d40800000000000000
+      internalID: 5584893018074249459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoUltra SDF Atlas_15
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 409
+        width: 28
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a30fdc998b8afa990800000000000000
+      internalID: -7372488554174353350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoUltra SDF Atlas_16
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 409
+        width: 42
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee3dc7f04e90b2f70800000000000000
+      internalID: 9163428741932438510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoUltra SDF Atlas_17
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 395
+        width: 54
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ecd44128dc360560800000000000000
+      internalID: 7279572746659749093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoUltra SDF Atlas_18
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 394
+        width: 30
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cce836bf7d6b33e0800000000000000
+      internalID: -2072942808188523327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoUltra SDF Atlas_19
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 394
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37d23cc3bea9417e0800000000000000
+      internalID: -1795640016286569101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoUltra SDF Atlas_20
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 389
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ed21a22f3a204ad0800000000000000
+      internalID: -2720127724279484959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoUltra SDF Atlas_21
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 386
+        width: 49
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b14e1a8429fba750800000000000000
+      internalID: 6317416837648630199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoUltra SDF Atlas_22
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 379
+        width: 44
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20942d1a6776e9830800000000000000
+      internalID: 4079812071662962946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoUltra SDF Atlas_23
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 367
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6e84b1538ae12450800000000000000
+      internalID: 6062384423149801070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoUltra SDF Atlas_24
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 412
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8aa50f2c95c4f040800000000000000
+      internalID: 4680583187339258508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoUltra SDF Atlas_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 286
+        width: 34
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3031b294b230e4fc0800000000000000
+      internalID: -3508863575229000957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoUltra SDF Atlas_26
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 284
+        width: 49
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2be055b052bc5f300800000000000000
+      internalID: 285357511372246706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoUltra SDF Atlas_27
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 347
+        width: 48
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd1a7dfc6cc4131d0800000000000000
+      internalID: -3372830229149539873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoUltra SDF Atlas_28
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 337
+        width: 28
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2afd94d740ae8d90800000000000000
+      internalID: -7093556132691707347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoUltra SDF Atlas_29
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 336
+        width: 55
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f941764210ecf0cc0800000000000000
+      internalID: -3742546261020568417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoUltra SDF Atlas_30
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 335
+        width: 50
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6af5ff551b1831520800000000000000
+      internalID: 2671621602612830118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoUltra SDF Atlas_31
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 331
+        width: 54
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 212a65725ff5c0840800000000000000
+      internalID: 5191629976982954514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoUltra SDF Atlas_32
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 328
+        width: 50
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bb7e76e0494270a0800000000000000
+      internalID: -6885360337202283591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoUltra SDF Atlas_33
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 322
+        width: 48
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77d26c28926a5eda0800000000000000
+      internalID: -5916139838263382665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoUltra SDF Atlas_34
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 321
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 334c193abe2a74210800000000000000
+      internalID: 1317200548974412851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoUltra SDF Atlas_35
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 275
+        width: 40
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dd507f82d8f83230800000000000000
+      internalID: 3618915883825520081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoUltra SDF Atlas_36
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 309
+        width: 62
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9a62f3cb7bbec330800000000000000
+      internalID: 3733127281379535516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoUltra SDF Atlas_37
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 250
+        width: 56
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2174c8f3f0849f380800000000000000
+      internalID: -8937032755212171502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoUltra SDF Atlas_38
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 250
+        width: 56
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d86749a035688e90800000000000000
+      internalID: -7023252359211423529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoUltra SDF Atlas_39
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 309
+        width: 45
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4b8ef7a24edb3500800000000000000
+      internalID: 377139371683253071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoUltra SDF Atlas_40
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 296
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc0375a6714f098d0800000000000000
+      internalID: -2841502983465258804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoUltra SDF Atlas_41
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 296
+        width: 42
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4742c0d86e43f30a0800000000000000
+      internalID: -6899737939294804876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoUltra SDF Atlas_42
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 264
+        width: 43
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 186f1f209dee82e00800000000000000
+      internalID: 1020327931424142977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoUltra SDF Atlas_43
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 264
+        width: 44
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5e33463605d6e080800000000000000
+      internalID: -9158398569554428326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoUltra SDF Atlas_44
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 296
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c341cfc7698855e10800000000000000
+      internalID: 2185803374081610812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoUltra SDF Atlas_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 218
+        width: 34
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75e8556204c208040800000000000000
+      internalID: 4647763469479022167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoUltra SDF Atlas_46
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 218
+        width: 33
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3e2957a87fc886e0800000000000000
+      internalID: -1834988731042812356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoUltra SDF Atlas_47
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 213
+        width: 50
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4cdd2b88877328a0800000000000000
+      internalID: -6331085222818489269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoUltra SDF Atlas_48
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 191
+        width: 73
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d87b04c644032cb40800000000000000
+      internalID: 5458978768758552461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoUltra SDF Atlas_49
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 238
+        width: 56
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 961c4ffa1719445b0800000000000000
+      internalID: -5385019336958885527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoUltra SDF Atlas_50
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 235
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cf208fc42f6a9900800000000000000
+      internalID: 691987696645582784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoUltra SDF Atlas_51
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 207
+        width: 48
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90d397375480363a0800000000000000
+      internalID: -6673481128449852151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoUltra SDF Atlas_52
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 251
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f77a7ae54b45e790800000000000000
+      internalID: -7501506840656971783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoUltra SDF Atlas_53
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 206
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b2936168191f0120800000000000000
+      internalID: 2382150320406106801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoUltra SDF Atlas_54
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 251
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf05994d0307ea860800000000000000
+      internalID: 7543089780919718139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoUltra SDF Atlas_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 150
+        width: 49
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e96740349f12d7bb0800000000000000
+      internalID: -4936752262073256290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoUltra SDF Atlas_56
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 150
+        width: 50
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38e53c8b38271d480800000000000000
+      internalID: -8876187480504443261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoUltra SDF Atlas_57
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 131
+        width: 49
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69b5483c9f4e863b0800000000000000
+      internalID: -5518909581964321898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoUltra SDF Atlas_58
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 120
+        width: 69
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 008604deac354f8e0800000000000000
+      internalID: -1660610231563950080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoUltra SDF Atlas_59
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 179
+        width: 55
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1012935eab001eec0800000000000000
+      internalID: -3539547029426855679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoUltra SDF Atlas_60
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 177
+        width: 48
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 786d156b069cf11f0800000000000000
+      internalID: -1071916769078028665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoUltra SDF Atlas_61
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 176
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2523cc171578d780800000000000000
+      internalID: -8658041541492529875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoUltra SDF Atlas_62
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 161
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f189bc910a1b96700800000000000000
+      internalID: 534153332005771295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoUltra SDF Atlas_63
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 172
+        width: 49
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c58d8a92267b05a90800000000000000
+      internalID: -7327154961498187684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoUltra SDF Atlas_64
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 160
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ca2057dfd20dd3a0800000000000000
+      internalID: -6639147115260925242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoUltra SDF Atlas_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 76
+        width: 73
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc4ffcf0bb9788600800000000000000
+      internalID: 470760005391348941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoUltra SDF Atlas_66
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 145
+        width: 41
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 225f2176f4d6a8e10800000000000000
+      internalID: 2200691555723048226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoUltra SDF Atlas_67
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 99
+        width: 65
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54df6ed5b761a2360800000000000000
+      internalID: 7145548477888920901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoUltra SDF Atlas_68
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 145
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 883a2f75d1b3a6af0800000000000000
+      internalID: -402444219480628344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoUltra SDF Atlas_69
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 103
+        width: 46
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8de587a9144da9ff0800000000000000
+      internalID: -28477069394944296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoUltra SDF Atlas_70
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 115
+        width: 45
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bd95767f86a19290800000000000000
+      internalID: -7885338337451074122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoUltra SDF Atlas_71
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 103
+        width: 51
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a1d5220cee4e2230800000000000000
+      internalID: 3615914326380368288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoUltra SDF Atlas_72
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 104
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b9964bc3b57d8860800000000000000
+      internalID: 7533807166730705335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoUltra SDF Atlas_73
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eda6ed9c3510e29a0800000000000000
+      internalID: -6256061372990330146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoUltra SDF Atlas_74
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 0
+        width: 19
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca2a6c93bd9ec3ac0800000000000000
+      internalID: -3873964451669040468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoUltra SDF Atlas_75
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 0
+        width: 59
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14c649a233d230600800000000000000
+      internalID: 433239686938651713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoUltra SDF Atlas_76
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 71
+        width: 50
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89f72a80d5dbcc8a0800000000000000
+      internalID: -6283439172814209128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoUltra SDF Atlas_77
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 60
+        width: 29
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffc7993698bf4eff0800000000000000
+      internalID: -7604731847803649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoUltra SDF Atlas_78
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 60
+        width: 66
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18f9b1aacd573c900800000000000000
+      internalID: 703535557407121281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoUltra SDF Atlas_79
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 59
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de514e5204668d240800000000000000
+      internalID: 4816712227172390381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoUltra SDF Atlas_80
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 59
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7406f839cb6ea79d0800000000000000
+      internalID: -2775652522716602297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoUltra SDF Atlas_81
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 45
+        width: 39
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fe089b0af6161c70800000000000000
+      internalID: 8941359373382848247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoUltra SDF Atlas_82
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 58
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f55b49364b512340800000000000000
+      internalID: 4837247831939700209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoUltra SDF Atlas_83
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 57
+        width: 39
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6dfd741749f594c0800000000000000
+      internalID: -4281241787063992977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoUltra SDF Atlas_84
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 58
+        width: 47
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78f4243f332925c80800000000000000
+      internalID: -8335439208487170169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoUltra SDF Atlas_85
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 46
+        width: 51
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3db1b9d84866d6860800000000000000
+      internalID: 7524783271903435731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoUltra SDF Atlas_86
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 46
+        width: 31
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae096f6881a11c9c0800000000000000
+      internalID: -3908814308935036694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoUltra SDF Atlas_87
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 0
+        width: 49
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc888216e2034c840800000000000000
+      internalID: 5243368841922775245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoUltra SDF Atlas_88
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 0
+        width: 57
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a4cdd959e89e03f0800000000000000
+      internalID: -932639944816606047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoUltra SDF Atlas_89
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 0
+        width: 57
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d1c5d5c76c72eb70800000000000000
+      internalID: 8926834196544340433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoUltra SDF Atlas_90
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 0
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b75b787d92e7dd5b0800000000000000
+      internalID: -5341974864816786053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoUltra SDF Atlas_91
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 0
+        width: 41
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0da9e593bc1ace1f0800000000000000
+      internalID: -1014257921852269872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoUltra SDF Atlas_92
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 0
+        width: 40
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f4c06851cf1ff590800000000000000
+      internalID: -7638351527725185803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoUltra SDF Atlas_93
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 0
+        width: 46
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2df0440085b8b420800000000000000
+      internalID: 2646064342511975723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoUltra SDF Atlas_94
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 0
+        width: 66
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61e00a72785c9aca0800000000000000
+      internalID: -6005051443845788138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      MikadoUltra SDF Atlas_0: -123867133290960462
+      MikadoUltra SDF Atlas_1: -5200140419916193977
+      MikadoUltra SDF Atlas_10: -501854379429067828
+      MikadoUltra SDF Atlas_11: -6282661173207574057
+      MikadoUltra SDF Atlas_12: 5015714149288940742
+      MikadoUltra SDF Atlas_13: 1613284165516165796
+      MikadoUltra SDF Atlas_14: 5584893018074249459
+      MikadoUltra SDF Atlas_15: -7372488554174353350
+      MikadoUltra SDF Atlas_16: 9163428741932438510
+      MikadoUltra SDF Atlas_17: 7279572746659749093
+      MikadoUltra SDF Atlas_18: -2072942808188523327
+      MikadoUltra SDF Atlas_19: -1795640016286569101
+      MikadoUltra SDF Atlas_2: -8761122855397444368
+      MikadoUltra SDF Atlas_20: -2720127724279484959
+      MikadoUltra SDF Atlas_21: 6317416837648630199
+      MikadoUltra SDF Atlas_22: 4079812071662962946
+      MikadoUltra SDF Atlas_23: 6062384423149801070
+      MikadoUltra SDF Atlas_24: 4680583187339258508
+      MikadoUltra SDF Atlas_25: -3508863575229000957
+      MikadoUltra SDF Atlas_26: 285357511372246706
+      MikadoUltra SDF Atlas_27: -3372830229149539873
+      MikadoUltra SDF Atlas_28: -7093556132691707347
+      MikadoUltra SDF Atlas_29: -3742546261020568417
+      MikadoUltra SDF Atlas_3: 6695716831267205873
+      MikadoUltra SDF Atlas_30: 2671621602612830118
+      MikadoUltra SDF Atlas_31: 5191629976982954514
+      MikadoUltra SDF Atlas_32: -6885360337202283591
+      MikadoUltra SDF Atlas_33: -5916139838263382665
+      MikadoUltra SDF Atlas_34: 1317200548974412851
+      MikadoUltra SDF Atlas_35: 3618915883825520081
+      MikadoUltra SDF Atlas_36: 3733127281379535516
+      MikadoUltra SDF Atlas_37: -8937032755212171502
+      MikadoUltra SDF Atlas_38: -7023252359211423529
+      MikadoUltra SDF Atlas_39: 377139371683253071
+      MikadoUltra SDF Atlas_4: -4177678472039587555
+      MikadoUltra SDF Atlas_40: -2841502983465258804
+      MikadoUltra SDF Atlas_41: -6899737939294804876
+      MikadoUltra SDF Atlas_42: 1020327931424142977
+      MikadoUltra SDF Atlas_43: -9158398569554428326
+      MikadoUltra SDF Atlas_44: 2185803374081610812
+      MikadoUltra SDF Atlas_45: 4647763469479022167
+      MikadoUltra SDF Atlas_46: -1834988731042812356
+      MikadoUltra SDF Atlas_47: -6331085222818489269
+      MikadoUltra SDF Atlas_48: 5458978768758552461
+      MikadoUltra SDF Atlas_49: -5385019336958885527
+      MikadoUltra SDF Atlas_5: 4203319555818367435
+      MikadoUltra SDF Atlas_50: 691987696645582784
+      MikadoUltra SDF Atlas_51: -6673481128449852151
+      MikadoUltra SDF Atlas_52: -7501506840656971783
+      MikadoUltra SDF Atlas_53: 2382150320406106801
+      MikadoUltra SDF Atlas_54: 7543089780919718139
+      MikadoUltra SDF Atlas_55: -4936752262073256290
+      MikadoUltra SDF Atlas_56: -8876187480504443261
+      MikadoUltra SDF Atlas_57: -5518909581964321898
+      MikadoUltra SDF Atlas_58: -1660610231563950080
+      MikadoUltra SDF Atlas_59: -3539547029426855679
+      MikadoUltra SDF Atlas_6: -73128233434413779
+      MikadoUltra SDF Atlas_60: -1071916769078028665
+      MikadoUltra SDF Atlas_61: -8658041541492529875
+      MikadoUltra SDF Atlas_62: 534153332005771295
+      MikadoUltra SDF Atlas_63: -7327154961498187684
+      MikadoUltra SDF Atlas_64: -6639147115260925242
+      MikadoUltra SDF Atlas_65: 470760005391348941
+      MikadoUltra SDF Atlas_66: 2200691555723048226
+      MikadoUltra SDF Atlas_67: 7145548477888920901
+      MikadoUltra SDF Atlas_68: -402444219480628344
+      MikadoUltra SDF Atlas_69: -28477069394944296
+      MikadoUltra SDF Atlas_7: 2206816679602720217
+      MikadoUltra SDF Atlas_70: -7885338337451074122
+      MikadoUltra SDF Atlas_71: 3615914326380368288
+      MikadoUltra SDF Atlas_72: 7533807166730705335
+      MikadoUltra SDF Atlas_73: -6256061372990330146
+      MikadoUltra SDF Atlas_74: -3873964451669040468
+      MikadoUltra SDF Atlas_75: 433239686938651713
+      MikadoUltra SDF Atlas_76: -6283439172814209128
+      MikadoUltra SDF Atlas_77: -7604731847803649
+      MikadoUltra SDF Atlas_78: 703535557407121281
+      MikadoUltra SDF Atlas_79: 4816712227172390381
+      MikadoUltra SDF Atlas_8: -4822633894620141037
+      MikadoUltra SDF Atlas_80: -2775652522716602297
+      MikadoUltra SDF Atlas_81: 8941359373382848247
+      MikadoUltra SDF Atlas_82: 4837247831939700209
+      MikadoUltra SDF Atlas_83: -4281241787063992977
+      MikadoUltra SDF Atlas_84: -8335439208487170169
+      MikadoUltra SDF Atlas_85: 7524783271903435731
+      MikadoUltra SDF Atlas_86: -3908814308935036694
+      MikadoUltra SDF Atlas_87: 5243368841922775245
+      MikadoUltra SDF Atlas_88: -932639944816606047
+      MikadoUltra SDF Atlas_89: 8926834196544340433
+      MikadoUltra SDF Atlas_9: -8561580401311394181
+      MikadoUltra SDF Atlas_90: -5341974864816786053
+      MikadoUltra SDF Atlas_91: -1014257921852269872
+      MikadoUltra SDF Atlas_92: -7638351527725185803
+      MikadoUltra SDF Atlas_93: 2646064342511975723
+      MikadoUltra SDF Atlas_94: -6005051443845788138
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

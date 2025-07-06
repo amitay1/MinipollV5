@@ -1,0 +1,2275 @@
+fileFormatVersion: 2
+guid: 40f3498ce00278447a8371f915ab74aa
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6178480310084552216
+    second: GROBOLD Atlas_0
+  - first:
+      213: 8063230332775188641
+    second: GROBOLD Atlas_1
+  - first:
+      213: -7992277060715241688
+    second: GROBOLD Atlas_2
+  - first:
+      213: 4317656650964860800
+    second: GROBOLD Atlas_3
+  - first:
+      213: -8269697282195393464
+    second: GROBOLD Atlas_4
+  - first:
+      213: 3749338524237592241
+    second: GROBOLD Atlas_5
+  - first:
+      213: 207696593823675009
+    second: GROBOLD Atlas_6
+  - first:
+      213: 7124075523433515583
+    second: GROBOLD Atlas_7
+  - first:
+      213: 3810785538413092369
+    second: GROBOLD Atlas_8
+  - first:
+      213: 6133204665869966184
+    second: GROBOLD Atlas_9
+  - first:
+      213: -2751137988322370762
+    second: GROBOLD Atlas_10
+  - first:
+      213: -2548186915805331223
+    second: GROBOLD Atlas_11
+  - first:
+      213: 5480146596879301284
+    second: GROBOLD Atlas_12
+  - first:
+      213: -2611096871239001031
+    second: GROBOLD Atlas_13
+  - first:
+      213: -5729910072188943965
+    second: GROBOLD Atlas_14
+  - first:
+      213: 1343598511578826235
+    second: GROBOLD Atlas_15
+  - first:
+      213: 7939333430940385394
+    second: GROBOLD Atlas_16
+  - first:
+      213: -4735283366489103046
+    second: GROBOLD Atlas_17
+  - first:
+      213: -4092256618780476440
+    second: GROBOLD Atlas_18
+  - first:
+      213: -6843879332139259417
+    second: GROBOLD Atlas_19
+  - first:
+      213: -9059504298364614243
+    second: GROBOLD Atlas_20
+  - first:
+      213: 5182020308227994151
+    second: GROBOLD Atlas_21
+  - first:
+      213: 7135137745933804225
+    second: GROBOLD Atlas_22
+  - first:
+      213: 94689726672661238
+    second: GROBOLD Atlas_23
+  - first:
+      213: -1654270647334076283
+    second: GROBOLD Atlas_24
+  - first:
+      213: -7659185569639886711
+    second: GROBOLD Atlas_25
+  - first:
+      213: -5113978402541962512
+    second: GROBOLD Atlas_26
+  - first:
+      213: 6435815626850640218
+    second: GROBOLD Atlas_27
+  - first:
+      213: 6316485966723044325
+    second: GROBOLD Atlas_28
+  - first:
+      213: 8034085828791729232
+    second: GROBOLD Atlas_29
+  - first:
+      213: 8906440512036308053
+    second: GROBOLD Atlas_30
+  - first:
+      213: -6579522003519846701
+    second: GROBOLD Atlas_31
+  - first:
+      213: -1309198416846700951
+    second: GROBOLD Atlas_32
+  - first:
+      213: 1857834589751837769
+    second: GROBOLD Atlas_33
+  - first:
+      213: -1611080261233370769
+    second: GROBOLD Atlas_34
+  - first:
+      213: 6976996209516274611
+    second: GROBOLD Atlas_35
+  - first:
+      213: -9199789885633823049
+    second: GROBOLD Atlas_36
+  - first:
+      213: 6690322973669918954
+    second: GROBOLD Atlas_37
+  - first:
+      213: 1155142183601871006
+    second: GROBOLD Atlas_38
+  - first:
+      213: 2797135538399663077
+    second: GROBOLD Atlas_39
+  - first:
+      213: 3858175019778456643
+    second: GROBOLD Atlas_40
+  - first:
+      213: -6866655394952032160
+    second: GROBOLD Atlas_41
+  - first:
+      213: -9042307081734968046
+    second: GROBOLD Atlas_42
+  - first:
+      213: -6808475756190074555
+    second: GROBOLD Atlas_43
+  - first:
+      213: -3211418534354740181
+    second: GROBOLD Atlas_44
+  - first:
+      213: -8238694641303203196
+    second: GROBOLD Atlas_45
+  - first:
+      213: -5332770597277279036
+    second: GROBOLD Atlas_46
+  - first:
+      213: -9187696243392855631
+    second: GROBOLD Atlas_47
+  - first:
+      213: -7541879622630531472
+    second: GROBOLD Atlas_48
+  - first:
+      213: -1359884667237377404
+    second: GROBOLD Atlas_49
+  - first:
+      213: -4407368226749714973
+    second: GROBOLD Atlas_50
+  - first:
+      213: -7675460606458707882
+    second: GROBOLD Atlas_51
+  - first:
+      213: 8972277586844255015
+    second: GROBOLD Atlas_52
+  - first:
+      213: 2126703873305505948
+    second: GROBOLD Atlas_53
+  - first:
+      213: -7151773241671439303
+    second: GROBOLD Atlas_54
+  - first:
+      213: -1357212312449892071
+    second: GROBOLD Atlas_55
+  - first:
+      213: -8885369315305358694
+    second: GROBOLD Atlas_56
+  - first:
+      213: -2553233424095999236
+    second: GROBOLD Atlas_57
+  - first:
+      213: -5875155745784446787
+    second: GROBOLD Atlas_58
+  - first:
+      213: -1633616652961172238
+    second: GROBOLD Atlas_59
+  - first:
+      213: 2897160014269107674
+    second: GROBOLD Atlas_60
+  - first:
+      213: -5874650713604178388
+    second: GROBOLD Atlas_61
+  - first:
+      213: 4929116720601198916
+    second: GROBOLD Atlas_62
+  - first:
+      213: 5585261516827504067
+    second: GROBOLD Atlas_63
+  - first:
+      213: 7958515450651862385
+    second: GROBOLD Atlas_64
+  - first:
+      213: -6845282498025877948
+    second: GROBOLD Atlas_65
+  - first:
+      213: 650741867997975709
+    second: GROBOLD Atlas_66
+  - first:
+      213: -9152140627520753483
+    second: GROBOLD Atlas_67
+  - first:
+      213: 4219309787825317977
+    second: GROBOLD Atlas_68
+  - first:
+      213: 460944392167990924
+    second: GROBOLD Atlas_69
+  - first:
+      213: 3648624212757573700
+    second: GROBOLD Atlas_70
+  - first:
+      213: 1102088131584989552
+    second: GROBOLD Atlas_71
+  - first:
+      213: 2315648009558297456
+    second: GROBOLD Atlas_72
+  - first:
+      213: 5512124514860099653
+    second: GROBOLD Atlas_73
+  - first:
+      213: 1612845779549257258
+    second: GROBOLD Atlas_74
+  - first:
+      213: -3882131434346548510
+    second: GROBOLD Atlas_75
+  - first:
+      213: 3856937522664433039
+    second: GROBOLD Atlas_76
+  - first:
+      213: 5072304461857714765
+    second: GROBOLD Atlas_77
+  - first:
+      213: -2644902484038375731
+    second: GROBOLD Atlas_78
+  - first:
+      213: -453318694094969783
+    second: GROBOLD Atlas_79
+  - first:
+      213: 3011188525821428642
+    second: GROBOLD Atlas_80
+  - first:
+      213: -3291410099081375338
+    second: GROBOLD Atlas_81
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GROBOLD Atlas_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 432
+        width: 30
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 816c5566b1f5eb550800000000000000
+      internalID: 6178480310084552216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GROBOLD Atlas_1
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 432
+        width: 35
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a8483f444956ef60800000000000000
+      internalID: 8063230332775188641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GROBOLD Atlas_2
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 424
+        width: 45
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82f9091bb5ab51190800000000000000
+      internalID: -7992277060715241688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GROBOLD Atlas_3
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 419
+        width: 45
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08ffcde19d56beb30800000000000000
+      internalID: 4317656650964860800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GROBOLD Atlas_4
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 446
+        width: 42
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 844fab6f2222c3d80800000000000000
+      internalID: -8269697282195393464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GROBOLD Atlas_5
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 448
+        width: 32
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b67edfd583580430800000000000000
+      internalID: 3749338524237592241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GROBOLD Atlas_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 400
+        width: 44
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1823bef93f2e1e200800000000000000
+      internalID: 207696593823675009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GROBOLD Atlas_7
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 426
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3a4f4f81fccdd260800000000000000
+      internalID: 7124075523433515583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GROBOLD Atlas_8
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 422
+        width: 34
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11ede4cb141a2e430800000000000000
+      internalID: 3810785538413092369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GROBOLD Atlas_9
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 446
+        width: 43
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86b92f306258d1550800000000000000
+      internalID: 6133204665869966184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GROBOLD Atlas_10
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 446
+        width: 45
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63b56f5639ef1d9d0800000000000000
+      internalID: -2751137988322370762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GROBOLD Atlas_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 354
+        width: 51
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e0002e308503acd0800000000000000
+      internalID: -2548186915805331223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GROBOLD Atlas_12
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 354
+        width: 52
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aa7e087b446d0c40800000000000000
+      internalID: 5480146596879301284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GROBOLD Atlas_13
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 353
+        width: 44
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93c5aa3da3583cbd0800000000000000
+      internalID: -2611096871239001031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GROBOLD Atlas_14
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 363
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a1ce30d5254b70b0800000000000000
+      internalID: -5729910072188943965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GROBOLD Atlas_15
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 335
+        width: 49
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf546634abb65a210800000000000000
+      internalID: 1343598511578826235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GROBOLD Atlas_16
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 390
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 270c598e0bd2e2e60800000000000000
+      internalID: 7939333430940385394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GROBOLD Atlas_17
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 341
+        width: 48
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a35e995edd4e84eb0800000000000000
+      internalID: -4735283366489103046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GROBOLD Atlas_18
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 377
+        width: 45
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eb39d379426537c0800000000000000
+      internalID: -4092256618780476440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GROBOLD Atlas_19
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 374
+        width: 45
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e9a3320208a501a0800000000000000
+      internalID: -6843879332139259417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GROBOLD Atlas_20
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 374
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d994ad607dc264280800000000000000
+      internalID: -9059504298364614243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GROBOLD Atlas_21
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 383
+        width: 45
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7223acac30c3ae740800000000000000
+      internalID: 5182020308227994151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GROBOLD Atlas_22
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 354
+        width: 46
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c2add1f9f9150360800000000000000
+      internalID: 7135137745933804225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GROBOLD Atlas_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 292
+        width: 47
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fae3320ec7605100800000000000000
+      internalID: 94689726672661238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GROBOLD Atlas_24
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 292
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5800c476c99da09e0800000000000000
+      internalID: -1654270647334076283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GROBOLD Atlas_25
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 292
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98011d4fd4b15b590800000000000000
+      internalID: -7659185569639886711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GROBOLD Atlas_26
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 297
+        width: 49
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fa7777ecbf7709b0800000000000000
+      internalID: -5113978402541962512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GROBOLD Atlas_27
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 268
+        width: 49
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a512756d63c905950800000000000000
+      internalID: 6435815626850640218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GROBOLD Atlas_28
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 277
+        width: 46
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e35443458aa8a750800000000000000
+      internalID: 6316485966723044325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GROBOLD Atlas_29
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 310
+        width: 49
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05c7120be7ece7f60800000000000000
+      internalID: 8034085828791729232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GROBOLD Atlas_30
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 292
+        width: 26
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 554821515780a9b70800000000000000
+      internalID: 8906440512036308053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GROBOLD Atlas_31
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 310
+        width: 51
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d6455cf897d0b4a0800000000000000
+      internalID: -6579522003519846701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GROBOLD Atlas_32
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 320
+        width: 46
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96e395fe9fac4dde0800000000000000
+      internalID: -1309198416846700951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GROBOLD Atlas_33
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 300
+        width: 54
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 944879557ba58c910800000000000000
+      internalID: 1857834589751837769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GROBOLD Atlas_34
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 305
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f699a8cc90b44a9e0800000000000000
+      internalID: -1611080261233370769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GROBOLD Atlas_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 212
+        width: 47
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b3e67b361543d060800000000000000
+      internalID: 6976996209516274611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GROBOLD Atlas_36
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 231
+        width: 51
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7be709277d7c35080800000000000000
+      internalID: -9199789885633823049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GROBOLD Atlas_37
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 261
+        width: 52
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae80b363c4dc8dc50800000000000000
+      internalID: 6690322973669918954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GROBOLD Atlas_38
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 260
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9898ae12b3e70010800000000000000
+      internalID: 1155142183601871006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GROBOLD Atlas_39
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 246
+        width: 55
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e3deeac3fb61d620800000000000000
+      internalID: 2797135538399663077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GROBOLD Atlas_40
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 279
+        width: 54
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34c3e2f2dbdfa8530800000000000000
+      internalID: 3858175019778456643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GROBOLD Atlas_41
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 214
+        width: 55
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0605dd4ac4db4b0a0800000000000000
+      internalID: -6866655394952032160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GROBOLD Atlas_42
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 240
+        width: 39
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21d203b0e95438280800000000000000
+      internalID: -9042307081734968046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GROBOLD Atlas_43
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 209
+        width: 50
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5497e626f5f6381a0800000000000000
+      internalID: -6808475756190074555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GROBOLD Atlas_44
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 208
+        width: 52
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2c1eaa9bdfbe63d0800000000000000
+      internalID: -3211418534354740181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GROBOLD Atlas_45
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 178
+        width: 53
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 482553ccfd64aad80800000000000000
+      internalID: -8238694641303203196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GROBOLD Atlas_46
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 202
+        width: 52
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ccd3a065613ef5b0800000000000000
+      internalID: -5332770597277279036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GROBOLD Atlas_47
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 212
+        width: 40
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b1c064f1febe7080800000000000000
+      internalID: -9187696243392855631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GROBOLD Atlas_48
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 136
+        width: 26
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07e995a117cd55790800000000000000
+      internalID: -7541879622630531472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GROBOLD Atlas_49
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 197
+        width: 54
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48ad0d1a918b02de0800000000000000
+      internalID: -1359884667237377404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GROBOLD Atlas_50
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 196
+        width: 22
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ed6d32f2f1e5d2c0800000000000000
+      internalID: -4407368226749714973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GROBOLD Atlas_51
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 181
+        width: 55
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6504688ae394b7590800000000000000
+      internalID: -7675460606458707882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GROBOLD Atlas_52
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 138
+        width: 57
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7230d069deee38c70800000000000000
+      internalID: 8972277586844255015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GROBOLD Atlas_53
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 164
+        width: 26
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9072dea7e1938d10800000000000000
+      internalID: 2126703873305505948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GROBOLD Atlas_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 142
+        width: 47
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93ca700e02ccfbc90800000000000000
+      internalID: -7151773241671439303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GROBOLD Atlas_55
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 142
+        width: 50
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91143a7b7963a2de0800000000000000
+      internalID: -1357212312449892071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GROBOLD Atlas_56
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 142
+        width: 53
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9a71173fa3d0b480800000000000000
+      internalID: -8885369315305358694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GROBOLD Atlas_57
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 130
+        width: 65
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfa8a187ab7119cd0800000000000000
+      internalID: -2553233424095999236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GROBOLD Atlas_58
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 136
+        width: 54
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db04c642af0477ea0800000000000000
+      internalID: -5875155745784446787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GROBOLD Atlas_59
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 131
+        width: 56
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f436153f4a3459e0800000000000000
+      internalID: -1633616652961172238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GROBOLD Atlas_60
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 131
+        width: 22
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: addc9f3eea7c43820800000000000000
+      internalID: 2897160014269107674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GROBOLD Atlas_61
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 117
+        width: 61
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2eb02c1d4c097ea0800000000000000
+      internalID: -5874650713604178388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GROBOLD Atlas_62
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 150
+        width: 29
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4417fd3ba8db76440800000000000000
+      internalID: 4929116720601198916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GROBOLD Atlas_63
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 129
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cda920f1c5d28d40800000000000000
+      internalID: 5585261516827504067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GROBOLD Atlas_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 74
+        width: 66
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 175ef87e2a3527e60800000000000000
+      internalID: 7958515450651862385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GROBOLD Atlas_65
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 72
+        width: 67
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44e08fdf5dba001a0800000000000000
+      internalID: -6845282498025877948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GROBOLD Atlas_66
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 65
+        width: 70
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d945e7af746e70900800000000000000
+      internalID: 650741867997975709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GROBOLD Atlas_67
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 70
+        width: 65
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b07432e6901df080800000000000000
+      internalID: -9152140627520753483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GROBOLD Atlas_68
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 64
+        width: 65
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95828aca5effd8a30800000000000000
+      internalID: 4219309787825317977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GROBOLD Atlas_69
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 49
+        width: 65
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c86a1648b7a956600800000000000000
+      internalID: 460944392167990924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GROBOLD Atlas_70
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 70
+        width: 61
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 440fd48e36482a230800000000000000
+      internalID: 3648624212757573700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GROBOLD Atlas_71
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 108
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0791c4a01576b4f00800000000000000
+      internalID: 1102088131584989552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GROBOLD Atlas_72
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 94
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07b009a8895d22020800000000000000
+      internalID: 2315648009558297456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GROBOLD Atlas_73
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 82
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54865f1ba000f7c40800000000000000
+      internalID: 5512124514860099653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GROBOLD Atlas_74
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 74
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2e7587f0baf16610800000000000000
+      internalID: 1612845779549257258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GROBOLD Atlas_75
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 70
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e275646706ef1ac0800000000000000
+      internalID: -3882131434346548510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GROBOLD Atlas_76
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 0
+        width: 76
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f85e94fed38968530800000000000000
+      internalID: 3856937522664433039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GROBOLD Atlas_77
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 0
+        width: 75
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4278a9a802746640800000000000000
+      internalID: 5072304461857714765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GROBOLD Atlas_78
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 0
+        width: 74
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc6285d343b6b4bd0800000000000000
+      internalID: -2644902484038375731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GROBOLD Atlas_79
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 0
+        width: 66
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 944ec6cac0d75b9f0800000000000000
+      internalID: -453318694094969783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GROBOLD Atlas_80
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 0
+        width: 66
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a38151a204e9c920800000000000000
+      internalID: 3011188525821428642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GROBOLD Atlas_81
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 0
+        width: 65
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6911f1a14ff8252d0800000000000000
+      internalID: -3291410099081375338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      GROBOLD Atlas_0: 6178480310084552216
+      GROBOLD Atlas_1: 8063230332775188641
+      GROBOLD Atlas_10: -2751137988322370762
+      GROBOLD Atlas_11: -2548186915805331223
+      GROBOLD Atlas_12: 5480146596879301284
+      GROBOLD Atlas_13: -2611096871239001031
+      GROBOLD Atlas_14: -5729910072188943965
+      GROBOLD Atlas_15: 1343598511578826235
+      GROBOLD Atlas_16: 7939333430940385394
+      GROBOLD Atlas_17: -4735283366489103046
+      GROBOLD Atlas_18: -4092256618780476440
+      GROBOLD Atlas_19: -6843879332139259417
+      GROBOLD Atlas_2: -7992277060715241688
+      GROBOLD Atlas_20: -9059504298364614243
+      GROBOLD Atlas_21: 5182020308227994151
+      GROBOLD Atlas_22: 7135137745933804225
+      GROBOLD Atlas_23: 94689726672661238
+      GROBOLD Atlas_24: -1654270647334076283
+      GROBOLD Atlas_25: -7659185569639886711
+      GROBOLD Atlas_26: -5113978402541962512
+      GROBOLD Atlas_27: 6435815626850640218
+      GROBOLD Atlas_28: 6316485966723044325
+      GROBOLD Atlas_29: 8034085828791729232
+      GROBOLD Atlas_3: 4317656650964860800
+      GROBOLD Atlas_30: 8906440512036308053
+      GROBOLD Atlas_31: -6579522003519846701
+      GROBOLD Atlas_32: -1309198416846700951
+      GROBOLD Atlas_33: 1857834589751837769
+      GROBOLD Atlas_34: -1611080261233370769
+      GROBOLD Atlas_35: 6976996209516274611
+      GROBOLD Atlas_36: -9199789885633823049
+      GROBOLD Atlas_37: 6690322973669918954
+      GROBOLD Atlas_38: 1155142183601871006
+      GROBOLD Atlas_39: 2797135538399663077
+      GROBOLD Atlas_4: -8269697282195393464
+      GROBOLD Atlas_40: 3858175019778456643
+      GROBOLD Atlas_41: -6866655394952032160
+      GROBOLD Atlas_42: -9042307081734968046
+      GROBOLD Atlas_43: -6808475756190074555
+      GROBOLD Atlas_44: -3211418534354740181
+      GROBOLD Atlas_45: -8238694641303203196
+      GROBOLD Atlas_46: -5332770597277279036
+      GROBOLD Atlas_47: -9187696243392855631
+      GROBOLD Atlas_48: -7541879622630531472
+      GROBOLD Atlas_49: -1359884667237377404
+      GROBOLD Atlas_5: 3749338524237592241
+      GROBOLD Atlas_50: -4407368226749714973
+      GROBOLD Atlas_51: -7675460606458707882
+      GROBOLD Atlas_52: 8972277586844255015
+      GROBOLD Atlas_53: 2126703873305505948
+      GROBOLD Atlas_54: -7151773241671439303
+      GROBOLD Atlas_55: -1357212312449892071
+      GROBOLD Atlas_56: -8885369315305358694
+      GROBOLD Atlas_57: -2553233424095999236
+      GROBOLD Atlas_58: -5875155745784446787
+      GROBOLD Atlas_59: -1633616652961172238
+      GROBOLD Atlas_6: 207696593823675009
+      GROBOLD Atlas_60: 2897160014269107674
+      GROBOLD Atlas_61: -5874650713604178388
+      GROBOLD Atlas_62: 4929116720601198916
+      GROBOLD Atlas_63: 5585261516827504067
+      GROBOLD Atlas_64: 7958515450651862385
+      GROBOLD Atlas_65: -6845282498025877948
+      GROBOLD Atlas_66: 650741867997975709
+      GROBOLD Atlas_67: -9152140627520753483
+      GROBOLD Atlas_68: 4219309787825317977
+      GROBOLD Atlas_69: 460944392167990924
+      GROBOLD Atlas_7: 7124075523433515583
+      GROBOLD Atlas_70: 3648624212757573700
+      GROBOLD Atlas_71: 1102088131584989552
+      GROBOLD Atlas_72: 2315648009558297456
+      GROBOLD Atlas_73: 5512124514860099653
+      GROBOLD Atlas_74: 1612845779549257258
+      GROBOLD Atlas_75: -3882131434346548510
+      GROBOLD Atlas_76: 3856937522664433039
+      GROBOLD Atlas_77: 5072304461857714765
+      GROBOLD Atlas_78: -2644902484038375731
+      GROBOLD Atlas_79: -453318694094969783
+      GROBOLD Atlas_8: 3810785538413092369
+      GROBOLD Atlas_80: 3011188525821428642
+      GROBOLD Atlas_81: -3291410099081375338
+      GROBOLD Atlas_9: 6133204665869966184
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

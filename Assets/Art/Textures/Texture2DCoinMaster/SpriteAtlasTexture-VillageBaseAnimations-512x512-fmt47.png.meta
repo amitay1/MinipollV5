@@ -1,0 +1,481 @@
+fileFormatVersion: 2
+guid: c5e392046a1b0f54e9e0c2528bc1da36
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1579785395575913369
+    second: SpriteAtlasTexture-VillageBaseAnimations-512x512-fmt47_0
+  - first:
+      213: 8907415808164978149
+    second: SpriteAtlasTexture-VillageBaseAnimations-512x512-fmt47_1
+  - first:
+      213: -7541209990746598598
+    second: SpriteAtlasTexture-VillageBaseAnimations-512x512-fmt47_2
+  - first:
+      213: 7616260385542579713
+    second: SpriteAtlasTexture-VillageBaseAnimations-512x512-fmt47_3
+  - first:
+      213: -1563325140548744454
+    second: SpriteAtlasTexture-VillageBaseAnimations-512x512-fmt47_4
+  - first:
+      213: 1982831286676711968
+    second: SpriteAtlasTexture-VillageBaseAnimations-512x512-fmt47_5
+  - first:
+      213: 3627044292720393984
+    second: SpriteAtlasTexture-VillageBaseAnimations-512x512-fmt47_6
+  - first:
+      213: -4273581829191949494
+    second: SpriteAtlasTexture-VillageBaseAnimations-512x512-fmt47_7
+  - first:
+      213: -2255478262255023806
+    second: SpriteAtlasTexture-VillageBaseAnimations-512x512-fmt47_8
+  - first:
+      213: -238380350650963807
+    second: SpriteAtlasTexture-VillageBaseAnimations-512x512-fmt47_9
+  - first:
+      213: -8998916249794625194
+    second: SpriteAtlasTexture-VillageBaseAnimations-512x512-fmt47_10
+  - first:
+      213: -6993471400262426798
+    second: SpriteAtlasTexture-VillageBaseAnimations-512x512-fmt47_11
+  - first:
+      213: 5753640346199184862
+    second: SpriteAtlasTexture-VillageBaseAnimations-512x512-fmt47_12
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-VillageBaseAnimations-512x512-fmt47_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 367
+        width: 188
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99bf6ac72768ce510800000000000000
+      internalID: 1579785395575913369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-VillageBaseAnimations-512x512-fmt47_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 247
+        width: 351
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ed5f58eb7f7d9b70800000000000000
+      internalID: 8907415808164978149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-VillageBaseAnimations-512x512-fmt47_2
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 367
+        width: 94
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a331cece77d385790800000000000000
+      internalID: -7541209990746598598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-VillageBaseAnimations-512x512-fmt47_3
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 256
+        width: 101
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 106252dc77462b960800000000000000
+      internalID: 7616260385542579713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-VillageBaseAnimations-512x512-fmt47_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 193
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afa87294114fd4ae0800000000000000
+      internalID: -1563325140548744454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-VillageBaseAnimations-512x512-fmt47_5
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 156
+        width: 64
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02a65ebbc8e648b10800000000000000
+      internalID: 1982831286676711968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-VillageBaseAnimations-512x512-fmt47_6
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 151
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00ff43c3199d55230800000000000000
+      internalID: 3627044292720393984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-VillageBaseAnimations-512x512-fmt47_7
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 57
+        width: 14
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a43237008ff21b4c0800000000000000
+      internalID: -4273581829191949494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-VillageBaseAnimations-512x512-fmt47_8
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 12
+        width: 31
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2498ca3787ee2b0e0800000000000000
+      internalID: -2255478262255023806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-VillageBaseAnimations-512x512-fmt47_9
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 87
+        width: 10
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a82406855a11bcf0800000000000000
+      internalID: -238380350650963807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-VillageBaseAnimations-512x512-fmt47_10
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 3
+        width: 43
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 651408f595d6d1380800000000000000
+      internalID: -8998916249794625194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-VillageBaseAnimations-512x512-fmt47_11
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 0
+        width: 167
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25f118080d232fe90800000000000000
+      internalID: -6993471400262426798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-VillageBaseAnimations-512x512-fmt47_12
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 52
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed5de88296909df40800000000000000
+      internalID: 5753640346199184862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SpriteAtlasTexture-VillageBaseAnimations-512x512-fmt47_0: 1579785395575913369
+      SpriteAtlasTexture-VillageBaseAnimations-512x512-fmt47_1: 8907415808164978149
+      SpriteAtlasTexture-VillageBaseAnimations-512x512-fmt47_10: -8998916249794625194
+      SpriteAtlasTexture-VillageBaseAnimations-512x512-fmt47_11: -6993471400262426798
+      SpriteAtlasTexture-VillageBaseAnimations-512x512-fmt47_12: 5753640346199184862
+      SpriteAtlasTexture-VillageBaseAnimations-512x512-fmt47_2: -7541209990746598598
+      SpriteAtlasTexture-VillageBaseAnimations-512x512-fmt47_3: 7616260385542579713
+      SpriteAtlasTexture-VillageBaseAnimations-512x512-fmt47_4: -1563325140548744454
+      SpriteAtlasTexture-VillageBaseAnimations-512x512-fmt47_5: 1982831286676711968
+      SpriteAtlasTexture-VillageBaseAnimations-512x512-fmt47_6: 3627044292720393984
+      SpriteAtlasTexture-VillageBaseAnimations-512x512-fmt47_7: -4273581829191949494
+      SpriteAtlasTexture-VillageBaseAnimations-512x512-fmt47_8: -2255478262255023806
+      SpriteAtlasTexture-VillageBaseAnimations-512x512-fmt47_9: -238380350650963807
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

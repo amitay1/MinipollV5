@@ -1,0 +1,350 @@
+using UnityEngine;
+using UnityEngine.UI;
+using System.Collections;
+
+/// <summary>
+/// MenuButtonsAnimationController - מנהל את אנימציות הכפתורים
+/// האנימציה מתרחשת רק פעם אחת, 2 שניות אחרי שווידאו המיניפולים מסתיים
+/// כמו כן מטפל באנימציית לחיצה על הכפתורים
+/// </summary>
+public class MenuButtonsAnimationController : MonoBehaviour
+{
+    [Header("Animation Settings")]
+    [Tooltip("זמן המתנה אחרי שווידאו המיניפולים מסתיים (בשניות)")]
+    public float delayAfterMinipollVideo = 2f;
+    
+    [Tooltip("משך האנימציה של הופעת הכפתורים")]
+    public float entranceAnimationDuration = 1.2f;
+    
+    [Tooltip("עוצמת אפקט הלחיצה")]
+    public float clickAnimationScale = 0.9f;
+    
+    [Tooltip("משך אנימציית הלחיצה")]
+    public float clickAnimationDuration = 0.15f;
+    
+    [Header("Debug")]
+    [Tooltip("הודעות debug בקונסול")]
+    public bool showDebugMessages = true;
+    
+    // Variables פרטיות
+    // private EntranceSequenceManager entranceManager; // Commented out - not used in current version
+    private Animator buttonAnimator;
+    private Button[] menuButtons;
+    private bool animationTriggered = false;
+    private bool isMinipollVideoFinished = false;
+    
+    void Start()
+    {
+        // Temporarily disabled - EntranceSequenceManager handles all animation now
+        Debug.Log("MenuButtonsAnimationController temporarily disabled");
+        return;
+        
+        /*
+        // מצא את ה-EntranceSequenceManager
+        entranceManager = FindFirstObjectByType<EntranceSequenceManager>();
+        if (entranceManager == null)
+        {
+            Debug.LogError("❌ MenuButtonsAnimationController: לא נמצא EntranceSequenceManager!");
+            return;
+        }
+        
+        // קבל את האנימטור שהוספנו ל-MenuButtons
+        buttonAnimator = GetComponent<Animator>();
+        if (buttonAnimator == null)
+        {
+            Debug.LogError("❌ MenuButtonsAnimationController: לא נמצא Animator component!");
+            return;
+        }
+        
+        // מצא את כל הכפתורים
+        menuButtons = GetComponentsInChildren<Button>();
+        if (showDebugMessages)
+        {
+            Debug.Log($"🎯 MenuButtonsAnimationController: נמצאו {menuButtons.Length} כפתורים");
+        }
+        
+        // הוסף listeners לכפתורים לאנימציית לחיצה
+        SetupButtonClickAnimations();
+        
+        // התחל לבדוק מתי ווידאו המיניפולים מסתיים
+        StartCoroutine(CheckForMinipollVideoEnd());
+        
+        if (showDebugMessages)
+        {
+            Debug.Log("✅ MenuButtonsAnimationController מוכן!");
+        }
+        */
+    }
+    
+    void SetupButtonClickAnimations()
+    {
+        foreach (Button button in menuButtons)
+        {
+            if (button != null)
+            {
+                // הוסף event לכל כפתור
+                button.onClick.AddListener(() => OnButtonClick(button));
+                
+                if (showDebugMessages)
+                {
+                    Debug.Log($"🔧 הוסף אנימציית לחיצה לכפתור: {button.name}");
+                }
+            }
+        }
+    }
+    
+    IEnumerator CheckForMinipollVideoEnd()
+    {
+        if (showDebugMessages)
+        {
+            Debug.Log("🔍 מתחיל לבדוק מתי ווידאו המיניפולים מסתיים...");
+        }
+        
+        // חכה עד שה-EntranceSequenceManager יתחיל
+        while (entranceManager == null)
+        {
+            yield return new WaitForSeconds(0.1f);
+        }
+        
+        // בדוק כל הזמן את מצב הווידאו
+        while (!animationTriggered)
+        {
+            // בדוק אם אנחנו בווידאו השני (minipollVideo) 
+            // וקיבלנו אינדיקציה שהוא הסתיים
+            if (IsMinipollVideoFinished())
+            {
+                if (showDebugMessages)
+                {
+                    Debug.Log("🎬 ווידאו המיניפולים הסתיים! מתחיל ספירה לאחור...");
+                }
+                
+                // חכה את הזמן שהגדרנו
+                yield return new WaitForSeconds(delayAfterMinipollVideo);
+                
+                // הפעל את האנימציה (רק פעם אחת!)
+                TriggerButtonsEntrance();
+                animationTriggered = true;
+                break;
+            }
+            
+            yield return new WaitForSeconds(0.1f); // בדוק כל 100ms
+        }
+    }
+    
+    bool IsMinipollVideoFinished()
+    {
+        // כאן אנחנו בודקים אם ווידאו המיניפולים הסתיים
+        // אפשר לעשות זאת על ידי בדיקת currentVideoIndex או שיטות אחרות
+        
+        // אנחנו נבדוק אם הרצף הושלם והתפריט מוצג
+        // זה אומר שכל הווידאו הסתיימו
+        try
+        {
+            // גישה לשדה פרטי של EntranceSequenceManager
+            var sequenceCompleteField = typeof(EntranceSequenceManager).GetField("sequenceComplete", 
+                System.Reflection.BindingFlags.NonPublic | System.Reflection.BindingFlags.Instance);
+            
+            if (sequenceCompleteField != null)
+            {
+                bool sequenceComplete = (bool)sequenceCompleteField.GetValue(entranceManager);
+                
+                // גם נבדוק את currentVideoIndex
+                var videoIndexField = typeof(EntranceSequenceManager).GetField("currentVideoIndex", 
+                    System.Reflection.BindingFlags.NonPublic | System.Reflection.BindingFlags.Instance);
+                
+                if (videoIndexField != null)
+                {
+                    int currentVideoIndex = (int)videoIndexField.GetValue(entranceManager);
+                    
+                    if (showDebugMessages && !isMinipollVideoFinished)
+                    {
+                        Debug.Log($"🔍 Video Index: {currentVideoIndex}, Sequence Complete: {sequenceComplete}");
+                    }
+                    
+                    // ווידאו המיניפולים הסתיים אם:
+                    // 1. אנחנו בווידאו 1 (השני) או יותר
+                    // 2. הרצף הושלם
+                    bool finished = currentVideoIndex >= 1 && sequenceComplete;
+                    
+                    if (finished && !isMinipollVideoFinished)
+                    {
+                        isMinipollVideoFinished = true;
+                        if (showDebugMessages)
+                        {
+                            Debug.Log("🎯 זוהה סיום ווידאו המיניפולים!");
+                        }
+                    }
+                    
+                    return finished;
+                }
+            }
+        }
+        catch (System.Exception e)
+        {
+            if (showDebugMessages)
+            {
+                Debug.LogWarning($"⚠️ שגיאה בבדיקת מצב הווידאו: {e.Message}");
+            }
+        }
+        
+        return false;
+    }
+    
+    void TriggerButtonsEntrance()
+    {
+        if (showDebugMessages)
+        {
+            Debug.Log("🎭 מפעיל אנימציית כניסה מגניבה לכפתורים!");
+        }
+        
+        // הפעל את האנימציה דרך האנימטור
+        if (buttonAnimator != null)
+        {
+            buttonAnimator.SetTrigger("StartEntrance");
+        }
+        
+        // גם נפעיל אנימציה קוד-based בתור backup
+        StartCoroutine(BeautifulEntranceAnimation());
+    }
+    
+    IEnumerator BeautifulEntranceAnimation()
+    {
+        if (showDebugMessages)
+        {
+            Debug.Log("✨ מתחיל אנימציה מקודדת של כניסת הכפתורים");
+        }
+        
+        // התחל עם כפתורים בלתי נראים
+        RectTransform rectTransform = GetComponent<RectTransform>();
+        Vector3 originalScale = rectTransform.localScale;
+        Vector3 originalPosition = rectTransform.localPosition;
+        
+        // מצב התחלתי - קטן וחדוד
+        rectTransform.localScale = Vector3.zero;
+        rectTransform.localPosition = originalPosition + Vector3.down * 200f;
+        
+        CanvasGroup canvasGroup = GetComponent<CanvasGroup>();
+        if (canvasGroup == null)
+            canvasGroup = gameObject.AddComponent<CanvasGroup>();
+        
+        canvasGroup.alpha = 0f;
+        
+        // אנימציה יפה עם כמה שלבים
+        float time = 0f;
+        
+        while (time < entranceAnimationDuration)
+        {
+            time += Time.deltaTime;
+            float progress = time / entranceAnimationDuration;
+            
+            // Easing עם bounce effect
+            float easedProgress = EaseOutBack(progress);
+            
+            // Scale animation
+            rectTransform.localScale = Vector3.Lerp(Vector3.zero, originalScale, easedProgress);
+            
+            // Position animation
+            rectTransform.localPosition = Vector3.Lerp(
+                originalPosition + Vector3.down * 200f, 
+                originalPosition, 
+                easedProgress
+            );
+            
+            // Alpha animation
+            canvasGroup.alpha = Mathf.Lerp(0f, 1f, progress);
+            
+            yield return null;
+        }
+        
+        // וודא שהערכים הסופיים נכונים
+        rectTransform.localScale = originalScale;
+        rectTransform.localPosition = originalPosition;
+        canvasGroup.alpha = 1f;
+        
+        if (showDebugMessages)
+        {
+            Debug.Log("🎉 אנימציית כניסת הכפתורים הושלמה!");
+        }
+    }
+    
+    float EaseOutBack(float t)
+    {
+        const float c1 = 1.70158f;
+        const float c3 = c1 + 1f;
+        
+        return 1f + c3 * Mathf.Pow(t - 1f, 3f) + c1 * Mathf.Pow(t - 1f, 2f);
+    }
+    
+    void OnButtonClick(Button button)
+    {
+        if (showDebugMessages)
+        {
+            Debug.Log($"👆 נלחץ כפתור: {button.name}");
+        }
+        
+        // הפעל אנימציית לחיצה
+        StartCoroutine(ButtonClickAnimation(button));
+    }
+    
+    IEnumerator ButtonClickAnimation(Button button)
+    {
+        RectTransform buttonRect = button.GetComponent<RectTransform>();
+        Vector3 originalScale = buttonRect.localScale;
+        
+        // אנימציה של כניסה פנימה
+        float time = 0f;
+        
+        // שלב 1: הקטן הכפתור
+        while (time < clickAnimationDuration)
+        {
+            time += Time.deltaTime;
+            float progress = time / clickAnimationDuration;
+            
+            float scale = Mathf.Lerp(1f, clickAnimationScale, progress);
+            buttonRect.localScale = originalScale * scale;
+            
+            yield return null;
+        }
+        
+        // שלב 2: החזר לגודל המקורי
+        time = 0f;
+        while (time < clickAnimationDuration)
+        {
+            time += Time.deltaTime;
+            float progress = time / clickAnimationDuration;
+            
+            float scale = Mathf.Lerp(clickAnimationScale, 1f, progress);
+            buttonRect.localScale = originalScale * scale;
+            
+            yield return null;
+        }
+        
+        // וודא שחזר לגודל המקורי
+        buttonRect.localScale = originalScale;
+        
+        if (showDebugMessages)
+        {
+            Debug.Log($"✅ אנימציית לחיצה הושלמה עבור {button.name}");
+        }
+    }
+    
+    void OnDestroy()
+    {
+        // נקה את ה-listeners
+        if (menuButtons != null)
+        {
+            foreach (Button button in menuButtons)
+            {
+                if (button != null)
+                {
+                    button.onClick.RemoveAllListeners();
+                }
+            }
+        }
+        
+        if (showDebugMessages)
+        {
+            Debug.Log("🧹 MenuButtonsAnimationController נוקה");
+        }
+    }
+}

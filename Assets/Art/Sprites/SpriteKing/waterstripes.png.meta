@@ -1,0 +1,1131 @@
+fileFormatVersion: 2
+guid: c9358ee33153e0d4dbc30f99cc5222d0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6480387055118402162
+    second: waterstripes_0
+  - first:
+      213: -3014428008378970200
+    second: waterstripes_1
+  - first:
+      213: -1786186639270248101
+    second: waterstripes_2
+  - first:
+      213: -8021247440936598937
+    second: waterstripes_3
+  - first:
+      213: -4931572340704443417
+    second: waterstripes_4
+  - first:
+      213: -8290666567625205620
+    second: waterstripes_5
+  - first:
+      213: -4830295663115786455
+    second: waterstripes_6
+  - first:
+      213: 8494738632133836357
+    second: waterstripes_7
+  - first:
+      213: 1084407866778364724
+    second: waterstripes_8
+  - first:
+      213: -3111341307379584753
+    second: waterstripes_9
+  - first:
+      213: -7495731838170769602
+    second: waterstripes_10
+  - first:
+      213: -5915759083580063654
+    second: waterstripes_11
+  - first:
+      213: -1136861644998886251
+    second: waterstripes_12
+  - first:
+      213: -3078171785241616162
+    second: waterstripes_13
+  - first:
+      213: 1042873652638367620
+    second: waterstripes_14
+  - first:
+      213: 8452263718261660073
+    second: waterstripes_15
+  - first:
+      213: 2996241452690706716
+    second: waterstripes_16
+  - first:
+      213: -288193364789561170
+    second: waterstripes_17
+  - first:
+      213: 134862529451928402
+    second: waterstripes_18
+  - first:
+      213: -4470154143277088451
+    second: waterstripes_19
+  - first:
+      213: 993565061939772935
+    second: waterstripes_20
+  - first:
+      213: -1624595222723197079
+    second: waterstripes_21
+  - first:
+      213: -4834285316279660725
+    second: waterstripes_22
+  - first:
+      213: 1369880156933615706
+    second: waterstripes_23
+  - first:
+      213: -6399935290964407021
+    second: waterstripes_24
+  - first:
+      213: 5433596806037488196
+    second: waterstripes_25
+  - first:
+      213: 5470222568761484108
+    second: waterstripes_26
+  - first:
+      213: 3517922146861395884
+    second: waterstripes_27
+  - first:
+      213: -3186224027274857300
+    second: waterstripes_28
+  - first:
+      213: 4061031356666943710
+    second: waterstripes_29
+  - first:
+      213: -2976922191487898801
+    second: waterstripes_30
+  - first:
+      213: 668936323363897420
+    second: waterstripes_31
+  - first:
+      213: 8262571061657472461
+    second: waterstripes_32
+  - first:
+      213: -2528205516365606946
+    second: waterstripes_33
+  - first:
+      213: 7988512168457718596
+    second: waterstripes_34
+  - first:
+      213: 3407753250083098066
+    second: waterstripes_35
+  - first:
+      213: 2800136501978120356
+    second: waterstripes_36
+  - first:
+      213: 7479234861396118984
+    second: waterstripes_37
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: waterstripes_0
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 132
+        width: 50
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8db0a4de4a0116a0800000000000000
+      internalID: -6480387055118402162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waterstripes_1
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 123
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8af459f82b99a26d0800000000000000
+      internalID: -3014428008378970200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waterstripes_2
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 127
+        width: 27
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b518fb717b03637e0800000000000000
+      internalID: -1786186639270248101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waterstripes_3
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 99
+        width: 82
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 762867b63fdcea090800000000000000
+      internalID: -8021247440936598937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waterstripes_4
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 78
+        width: 97
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e38b20b5198f8bb0800000000000000
+      internalID: -4931572340704443417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waterstripes_5
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 119
+        width: 30
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c881e7dbea2a1fc80800000000000000
+      internalID: -8290666567625205620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waterstripes_6
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 85
+        width: 137
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 927afd7bfa757fcb0800000000000000
+      internalID: -4830295663115786455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waterstripes_7
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 64
+        width: 86
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54eff1467cf53e570800000000000000
+      internalID: 8494738632133836357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waterstripes_8
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 74
+        width: 21
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43ba6fa95379c0f00800000000000000
+      internalID: 1084407866778364724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waterstripes_9
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 76
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f01f3a6c09b42d4d0800000000000000
+      internalID: -3111341307379584753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waterstripes_10
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 71
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e37de367b9fc9f790800000000000000
+      internalID: -7495731838170769602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waterstripes_11
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 73
+        width: 23
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a508b6ed47007eda0800000000000000
+      internalID: -5915759083580063654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waterstripes_12
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 62
+        width: 35
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59c33137b5e0930f0800000000000000
+      internalID: -1136861644998886251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waterstripes_13
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 65
+        width: 24
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed02b07f1132845d0800000000000000
+      internalID: -3078171785241616162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waterstripes_14
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 59
+        width: 34
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48fbf1bcf08097e00800000000000000
+      internalID: 1042873652638367620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waterstripes_15
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 65
+        width: 30
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a998ead1197c4570800000000000000
+      internalID: 8452263718261660073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waterstripes_16
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 49
+        width: 40
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c111ee8f9b9c49920800000000000000
+      internalID: 2996241452690706716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waterstripes_17
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 56
+        width: 19
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea8f71169a1200cf0800000000000000
+      internalID: -288193364789561170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waterstripes_18
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 52
+        width: 22
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25b2e7981c02fd100800000000000000
+      internalID: 134862529451928402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waterstripes_19
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 54
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d318ab69d72d6f1c0800000000000000
+      internalID: -4470154143277088451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waterstripes_20
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 56
+        width: 23
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70eb822e82ad9cd00800000000000000
+      internalID: 993565061939772935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waterstripes_21
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 49
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96789cd90474479e0800000000000000
+      internalID: -1624595222723197079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waterstripes_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 36
+        width: 24
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4f83443e1b29ecb0800000000000000
+      internalID: -4834285316279660725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waterstripes_23
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 40
+        width: 30
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5072eaaebac20310800000000000000
+      internalID: 1369880156933615706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waterstripes_24
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 47
+        width: 20
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31d849cd2ccde27a0800000000000000
+      internalID: -6399935290964407021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waterstripes_25
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 44
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 442cf84b183086b40800000000000000
+      internalID: 5433596806037488196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waterstripes_26
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 27
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c436a5d91722aeb40800000000000000
+      internalID: 5470222568761484108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waterstripes_27
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 35
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caf2727cd8b22d030800000000000000
+      internalID: 3517922146861395884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waterstripes_28
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 31
+        width: 27
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca4b777e02248c3d0800000000000000
+      internalID: -3186224027274857300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waterstripes_29
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 32
+        width: 38
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed81bdba08eab5830800000000000000
+      internalID: 4061031356666943710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waterstripes_30
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 32
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4be26c0a09dfa6d0800000000000000
+      internalID: -2976922191487898801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waterstripes_31
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 31
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c40067bba0a884900800000000000000
+      internalID: 668936323363897420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waterstripes_32
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 19
+        width: 23
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcd04858a9c8aa270800000000000000
+      internalID: 8262571061657472461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waterstripes_33
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 24
+        width: 23
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edf48d55a720aecd0800000000000000
+      internalID: -2528205516365606946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waterstripes_34
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 18
+        width: 20
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44bcec40e75ecde60800000000000000
+      internalID: 7988512168457718596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waterstripes_35
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 10
+        width: 22
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ddc261a685ca4f20800000000000000
+      internalID: 3407753250083098066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waterstripes_36
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 8
+        width: 25
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a0c20310551cd620800000000000000
+      internalID: 2800136501978120356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waterstripes_37
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 0
+        width: 22
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cdcb31da749bc760800000000000000
+      internalID: 7479234861396118984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      waterstripes_0: -6480387055118402162
+      waterstripes_1: -3014428008378970200
+      waterstripes_10: -7495731838170769602
+      waterstripes_11: -5915759083580063654
+      waterstripes_12: -1136861644998886251
+      waterstripes_13: -3078171785241616162
+      waterstripes_14: 1042873652638367620
+      waterstripes_15: 8452263718261660073
+      waterstripes_16: 2996241452690706716
+      waterstripes_17: -288193364789561170
+      waterstripes_18: 134862529451928402
+      waterstripes_19: -4470154143277088451
+      waterstripes_2: -1786186639270248101
+      waterstripes_20: 993565061939772935
+      waterstripes_21: -1624595222723197079
+      waterstripes_22: -4834285316279660725
+      waterstripes_23: 1369880156933615706
+      waterstripes_24: -6399935290964407021
+      waterstripes_25: 5433596806037488196
+      waterstripes_26: 5470222568761484108
+      waterstripes_27: 3517922146861395884
+      waterstripes_28: -3186224027274857300
+      waterstripes_29: 4061031356666943710
+      waterstripes_3: -8021247440936598937
+      waterstripes_30: -2976922191487898801
+      waterstripes_31: 668936323363897420
+      waterstripes_32: 8262571061657472461
+      waterstripes_33: -2528205516365606946
+      waterstripes_34: 7988512168457718596
+      waterstripes_35: 3407753250083098066
+      waterstripes_36: 2800136501978120356
+      waterstripes_37: 7479234861396118984
+      waterstripes_4: -4931572340704443417
+      waterstripes_5: -8290666567625205620
+      waterstripes_6: -4830295663115786455
+      waterstripes_7: 8494738632133836357
+      waterstripes_8: 1084407866778364724
+      waterstripes_9: -3111341307379584753
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

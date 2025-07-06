@@ -1,0 +1,481 @@
+fileFormatVersion: 2
+guid: c5f86677c3310ca4d8130a04782399e7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8866198789800195018
+    second: SpriteAtlasTexture-Clouds-2048x2048-fmt47_0
+  - first:
+      213: 4923679031894364493
+    second: SpriteAtlasTexture-Clouds-2048x2048-fmt47_1
+  - first:
+      213: -1568057026561844382
+    second: SpriteAtlasTexture-Clouds-2048x2048-fmt47_2
+  - first:
+      213: 5327011952103210150
+    second: SpriteAtlasTexture-Clouds-2048x2048-fmt47_3
+  - first:
+      213: 5483050608815703500
+    second: SpriteAtlasTexture-Clouds-2048x2048-fmt47_4
+  - first:
+      213: -558474373061207144
+    second: SpriteAtlasTexture-Clouds-2048x2048-fmt47_5
+  - first:
+      213: -8409700474982947402
+    second: SpriteAtlasTexture-Clouds-2048x2048-fmt47_6
+  - first:
+      213: -3209674488997458847
+    second: SpriteAtlasTexture-Clouds-2048x2048-fmt47_7
+  - first:
+      213: -2294770288942695007
+    second: SpriteAtlasTexture-Clouds-2048x2048-fmt47_8
+  - first:
+      213: -7615417609794600437
+    second: SpriteAtlasTexture-Clouds-2048x2048-fmt47_9
+  - first:
+      213: 7130011685888406833
+    second: SpriteAtlasTexture-Clouds-2048x2048-fmt47_10
+  - first:
+      213: 2328041971453488703
+    second: SpriteAtlasTexture-Clouds-2048x2048-fmt47_11
+  - first:
+      213: 4249238176891777741
+    second: SpriteAtlasTexture-Clouds-2048x2048-fmt47_12
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Clouds-2048x2048-fmt47_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1726
+        width: 358
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63c06f10d2fe4f480800000000000000
+      internalID: -8866198789800195018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Clouds-2048x2048-fmt47_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1580
+        width: 361
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d415a142efb645440800000000000000
+      internalID: 4923679031894364493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Clouds-2048x2048-fmt47_2
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 1726
+        width: 177
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26bd93831742d3ae0800000000000000
+      internalID: -1568057026561844382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Clouds-2048x2048-fmt47_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1206
+        width: 1071
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ac3f5f85295de940800000000000000
+      internalID: 5327011952103210150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Clouds-2048x2048-fmt47_4
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1551
+        width: 426
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc503ff6a75b71c40800000000000000
+      internalID: 5483050608815703500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Clouds-2048x2048-fmt47_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 252
+        width: 1587
+        height: 1011
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89b17814486ef38f0800000000000000
+      internalID: -558474373061207144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Clouds-2048x2048-fmt47_6
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 0
+        width: 943
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b5253979fdba4b80800000000000000
+      internalID: -8409700474982947402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Clouds-2048x2048-fmt47_7
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 249
+        width: 362
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16c4caece02f473d0800000000000000
+      internalID: -3209674488997458847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Clouds-2048x2048-fmt47_8
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 249
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ad337694965720e0800000000000000
+      internalID: -2294770288942695007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Clouds-2048x2048-fmt47_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 35
+        width: 473
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0240f7380a905690800000000000000
+      internalID: -7615417609794600437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Clouds-2048x2048-fmt47_10
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 7
+        width: 126
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13533c51ad3e2f260800000000000000
+      internalID: 7130011685888406833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Clouds-2048x2048-fmt47_11
+      rect:
+        serializedVersion: 2
+        x: 1541
+        y: 0
+        width: 56
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3e6faaa6ddde4020800000000000000
+      internalID: 2328041971453488703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Clouds-2048x2048-fmt47_12
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 0
+        width: 62
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc2b9a3cb9358fa30800000000000000
+      internalID: 4249238176891777741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SpriteAtlasTexture-Clouds-2048x2048-fmt47_0: -8866198789800195018
+      SpriteAtlasTexture-Clouds-2048x2048-fmt47_1: 4923679031894364493
+      SpriteAtlasTexture-Clouds-2048x2048-fmt47_10: 7130011685888406833
+      SpriteAtlasTexture-Clouds-2048x2048-fmt47_11: 2328041971453488703
+      SpriteAtlasTexture-Clouds-2048x2048-fmt47_12: 4249238176891777741
+      SpriteAtlasTexture-Clouds-2048x2048-fmt47_2: -1568057026561844382
+      SpriteAtlasTexture-Clouds-2048x2048-fmt47_3: 5327011952103210150
+      SpriteAtlasTexture-Clouds-2048x2048-fmt47_4: 5483050608815703500
+      SpriteAtlasTexture-Clouds-2048x2048-fmt47_5: -558474373061207144
+      SpriteAtlasTexture-Clouds-2048x2048-fmt47_6: -8409700474982947402
+      SpriteAtlasTexture-Clouds-2048x2048-fmt47_7: -3209674488997458847
+      SpriteAtlasTexture-Clouds-2048x2048-fmt47_8: -2294770288942695007
+      SpriteAtlasTexture-Clouds-2048x2048-fmt47_9: -7615417609794600437
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,715 @@
+fileFormatVersion: 2
+guid: 1a3672a406e6b334d8f708be13a60faf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1478885732133929002
+    second: ConffettiStore_0
+  - first:
+      213: -9086209477939337139
+    second: ConffettiStore_1
+  - first:
+      213: -2928916880405562227
+    second: ConffettiStore_2
+  - first:
+      213: -9220409144206628920
+    second: ConffettiStore_3
+  - first:
+      213: 5727581621752473079
+    second: ConffettiStore_4
+  - first:
+      213: 3287473973258894902
+    second: ConffettiStore_5
+  - first:
+      213: -8611965051809350143
+    second: ConffettiStore_6
+  - first:
+      213: 1905959578827799264
+    second: ConffettiStore_7
+  - first:
+      213: -537041310424284109
+    second: ConffettiStore_8
+  - first:
+      213: 7050068251963990147
+    second: ConffettiStore_9
+  - first:
+      213: 1666136443105504945
+    second: ConffettiStore_10
+  - first:
+      213: 173028417501153498
+    second: ConffettiStore_11
+  - first:
+      213: 565175207216982718
+    second: ConffettiStore_12
+  - first:
+      213: -821006837889868879
+    second: ConffettiStore_13
+  - first:
+      213: 6143865228272000694
+    second: ConffettiStore_14
+  - first:
+      213: -729515857567416762
+    second: ConffettiStore_15
+  - first:
+      213: -418342746678733228
+    second: ConffettiStore_16
+  - first:
+      213: -6285321001516613822
+    second: ConffettiStore_17
+  - first:
+      213: 4266497019037028828
+    second: ConffettiStore_18
+  - first:
+      213: 9198807294902312425
+    second: ConffettiStore_19
+  - first:
+      213: -7724177790042355752
+    second: ConffettiStore_20
+  - first:
+      213: 5447225641217709423
+    second: ConffettiStore_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ConffettiStore_0
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 306
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a208c37ecbe068410800000000000000
+      internalID: 1478885732133929002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConffettiStore_1
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 322
+        width: 33
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4863a0ee9c47e180800000000000000
+      internalID: -9086209477939337139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConffettiStore_2
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 323
+        width: 35
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8cf7c68d956a57d0800000000000000
+      internalID: -2928916880405562227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConffettiStore_3
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 286
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c7ecc33cb68a0080800000000000000
+      internalID: -9220409144206628920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConffettiStore_4
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 270
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f5ac9293257c7f40800000000000000
+      internalID: 5727581621752473079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConffettiStore_5
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 241
+        width: 35
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63e307039247f9d20800000000000000
+      internalID: 3287473973258894902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConffettiStore_6
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 262
+        width: 33
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10e33dcd9672c7880800000000000000
+      internalID: -8611965051809350143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConffettiStore_7
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 201
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eab8448324537a10800000000000000
+      internalID: 1905959578827799264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConffettiStore_8
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 225
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 334437606cb0c88f0800000000000000
+      internalID: -537041310424284109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConffettiStore_9
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 210
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 380a298e8bfd6d160800000000000000
+      internalID: 7050068251963990147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConffettiStore_10
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 186
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bee2a6744e4f1710800000000000000
+      internalID: 1666136443105504945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConffettiStore_11
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 154
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad84431dd68b66200800000000000000
+      internalID: 173028417501153498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConffettiStore_12
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 100
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebaa6064bd7e7d700800000000000000
+      internalID: 565175207216982718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConffettiStore_13
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 108
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bb586d71a23b94f0800000000000000
+      internalID: -821006837889868879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConffettiStore_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 59
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bed60f9fd4634550800000000000000
+      internalID: 6143865228272000694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConffettiStore_15
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 61
+        width: 38
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64efda3513d30e5f0800000000000000
+      internalID: -729515857567416762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConffettiStore_16
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 56
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4565ad50d7fb13af0800000000000000
+      internalID: -418342746678733228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConffettiStore_17
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 51
+        width: 37
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24fbc45a9dd06c8a0800000000000000
+      internalID: -6285321001516613822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConffettiStore_18
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 7
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd117f61f64a53b30800000000000000
+      internalID: 4266497019037028828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConffettiStore_19
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 19
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ed9ce15f7ab8af70800000000000000
+      internalID: 9198807294902312425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConffettiStore_20
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 0
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d7409279353ec490800000000000000
+      internalID: -7724177790042355752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConffettiStore_21
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 7
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f655e2c2cde689b40800000000000000
+      internalID: 5447225641217709423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ConffettiStore_0: 1478885732133929002
+      ConffettiStore_1: -9086209477939337139
+      ConffettiStore_10: 1666136443105504945
+      ConffettiStore_11: 173028417501153498
+      ConffettiStore_12: 565175207216982718
+      ConffettiStore_13: -821006837889868879
+      ConffettiStore_14: 6143865228272000694
+      ConffettiStore_15: -729515857567416762
+      ConffettiStore_16: -418342746678733228
+      ConffettiStore_17: -6285321001516613822
+      ConffettiStore_18: 4266497019037028828
+      ConffettiStore_19: 9198807294902312425
+      ConffettiStore_2: -2928916880405562227
+      ConffettiStore_20: -7724177790042355752
+      ConffettiStore_21: 5447225641217709423
+      ConffettiStore_3: -9220409144206628920
+      ConffettiStore_4: 5727581621752473079
+      ConffettiStore_5: 3287473973258894902
+      ConffettiStore_6: -8611965051809350143
+      ConffettiStore_7: 1905959578827799264
+      ConffettiStore_8: -537041310424284109
+      ConffettiStore_9: 7050068251963990147
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

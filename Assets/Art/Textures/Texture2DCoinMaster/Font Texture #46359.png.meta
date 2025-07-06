@@ -1,0 +1,1859 @@
+fileFormatVersion: 2
+guid: 5f4666bb286824a458589bbc1a521cea
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -316812313561623596
+    second: Font Texture #46359_0
+  - first:
+      213: 6134397843377935408
+    second: Font Texture #46359_1
+  - first:
+      213: 5585056966256966835
+    second: Font Texture #46359_2
+  - first:
+      213: -5661993867683598367
+    second: Font Texture #46359_3
+  - first:
+      213: -4767165908536909970
+    second: Font Texture #46359_4
+  - first:
+      213: -735052292916419087
+    second: Font Texture #46359_5
+  - first:
+      213: -800926480261392515
+    second: Font Texture #46359_6
+  - first:
+      213: -4695480247522200084
+    second: Font Texture #46359_7
+  - first:
+      213: 2112045697350963593
+    second: Font Texture #46359_8
+  - first:
+      213: -1274425717378437520
+    second: Font Texture #46359_9
+  - first:
+      213: -5906284187481781084
+    second: Font Texture #46359_10
+  - first:
+      213: -6059002615635219772
+    second: Font Texture #46359_11
+  - first:
+      213: 5632950073962706888
+    second: Font Texture #46359_12
+  - first:
+      213: 8446783228909636409
+    second: Font Texture #46359_13
+  - first:
+      213: -5025346533143571426
+    second: Font Texture #46359_14
+  - first:
+      213: -5365913482986004988
+    second: Font Texture #46359_15
+  - first:
+      213: 4422340692939211666
+    second: Font Texture #46359_16
+  - first:
+      213: -3348923124704336661
+    second: Font Texture #46359_17
+  - first:
+      213: 4263673275351164176
+    second: Font Texture #46359_18
+  - first:
+      213: 543358455017467822
+    second: Font Texture #46359_19
+  - first:
+      213: -189125870724193744
+    second: Font Texture #46359_20
+  - first:
+      213: 3883644769439823790
+    second: Font Texture #46359_21
+  - first:
+      213: 8048958989904063610
+    second: Font Texture #46359_22
+  - first:
+      213: 4822472838058058310
+    second: Font Texture #46359_23
+  - first:
+      213: 2402966891616126575
+    second: Font Texture #46359_24
+  - first:
+      213: 1148417322607504867
+    second: Font Texture #46359_25
+  - first:
+      213: -5644263884203728471
+    second: Font Texture #46359_26
+  - first:
+      213: -7346423529864510790
+    second: Font Texture #46359_27
+  - first:
+      213: 8516056704754540972
+    second: Font Texture #46359_28
+  - first:
+      213: -2743260329307944681
+    second: Font Texture #46359_29
+  - first:
+      213: -1373422375950435214
+    second: Font Texture #46359_30
+  - first:
+      213: -7957448917102885363
+    second: Font Texture #46359_31
+  - first:
+      213: 9072524887822546404
+    second: Font Texture #46359_32
+  - first:
+      213: 4475341587669842396
+    second: Font Texture #46359_33
+  - first:
+      213: 5264507819155019819
+    second: Font Texture #46359_34
+  - first:
+      213: 6944212821483703354
+    second: Font Texture #46359_35
+  - first:
+      213: 8095580198790252268
+    second: Font Texture #46359_36
+  - first:
+      213: 7827644914980751706
+    second: Font Texture #46359_37
+  - first:
+      213: -4312171267694234451
+    second: Font Texture #46359_38
+  - first:
+      213: -2741023582146758017
+    second: Font Texture #46359_39
+  - first:
+      213: -3039901942325138511
+    second: Font Texture #46359_40
+  - first:
+      213: 5011767559392214943
+    second: Font Texture #46359_41
+  - first:
+      213: -8210119310979809046
+    second: Font Texture #46359_42
+  - first:
+      213: 7654974539318410908
+    second: Font Texture #46359_43
+  - first:
+      213: 859009979533243308
+    second: Font Texture #46359_44
+  - first:
+      213: 6084163318504548936
+    second: Font Texture #46359_45
+  - first:
+      213: 966877620243105253
+    second: Font Texture #46359_46
+  - first:
+      213: 4131355351125629221
+    second: Font Texture #46359_47
+  - first:
+      213: -2846180007796672731
+    second: Font Texture #46359_48
+  - first:
+      213: -6996612361656108136
+    second: Font Texture #46359_49
+  - first:
+      213: 6531482663998120506
+    second: Font Texture #46359_50
+  - first:
+      213: 1566165919535125208
+    second: Font Texture #46359_51
+  - first:
+      213: -1395208559447431617
+    second: Font Texture #46359_52
+  - first:
+      213: -9039164532447911734
+    second: Font Texture #46359_53
+  - first:
+      213: -9109828554484322362
+    second: Font Texture #46359_54
+  - first:
+      213: 8280394107838337856
+    second: Font Texture #46359_55
+  - first:
+      213: -1720883116758945999
+    second: Font Texture #46359_56
+  - first:
+      213: -5058376357257693541
+    second: Font Texture #46359_57
+  - first:
+      213: 7396623428299872883
+    second: Font Texture #46359_58
+  - first:
+      213: 5148998096214924777
+    second: Font Texture #46359_59
+  - first:
+      213: -90661191902456138
+    second: Font Texture #46359_60
+  - first:
+      213: -747383484268871866
+    second: Font Texture #46359_61
+  - first:
+      213: -5441107741089799496
+    second: Font Texture #46359_62
+  - first:
+      213: 468625680312808451
+    second: Font Texture #46359_63
+  - first:
+      213: 1413359208666692104
+    second: Font Texture #46359_64
+  - first:
+      213: 8845214848568400361
+    second: Font Texture #46359_65
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Font Texture #46359_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 865
+        width: 31
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d390bd11e47a9bf0800000000000000
+      internalID: -316812313561623596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font Texture #46359_1
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 900
+        width: 69
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 034d67d4652c12550800000000000000
+      internalID: 6134397843377935408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font Texture #46359_2
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 787
+        width: 74
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bc311c48bb128d40800000000000000
+      internalID: 5585056966256966835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font Texture #46359_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 787
+        width: 70
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ef674c639e8c61b0800000000000000
+      internalID: -5661993867683598367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font Texture #46359_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 679
+        width: 105
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6f1e4c1ddf97ddb0800000000000000
+      internalID: -4767165908536909970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font Texture #46359_5
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 787
+        width: 53
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f5616585d19cc5f0800000000000000
+      internalID: -735052292916419087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font Texture #46359_6
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 689
+        width: 44
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d77d0d41c9982e4f0800000000000000
+      internalID: -800926480261392515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font Texture #46359_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 736
+        width: 78
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce57394b79d46deb0800000000000000
+      internalID: -4695480247522200084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font Texture #46359_8
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 564
+        width: 104
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9811ff32f5e7f4d10800000000000000
+      internalID: 2112045697350963593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font Texture #46359_9
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 679
+        width: 73
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07e290fef84505ee0800000000000000
+      internalID: -1274425717378437520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font Texture #46359_10
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 659
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ac44a603d9a80ea0800000000000000
+      internalID: -5906284187481781084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font Texture #46359_11
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 659
+        width: 68
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ca66e919391aeba0800000000000000
+      internalID: -6059002615635219772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font Texture #46359_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 559
+        width: 69
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c7be046f324c2e40800000000000000
+      internalID: 5632950073962706888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font Texture #46359_13
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 549
+        width: 106
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93bc2edf790093570800000000000000
+      internalID: 8446783228909636409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font Texture #46359_14
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 549
+        width: 75
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e149cba14f1624ab0800000000000000
+      internalID: -5025346533143571426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font Texture #46359_15
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 580
+        width: 46
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40ed327fd127885b0800000000000000
+      internalID: -5365913482986004988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font Texture #46359_16
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 475
+        width: 68
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 293856efd6f4f5d30800000000000000
+      internalID: 4422340692939211666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font Texture #46359_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 455
+        width: 71
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be428e3592c3681d0800000000000000
+      internalID: -3348923124704336661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font Texture #46359_18
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 455
+        width: 71
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 015e1a7014c9b2b30800000000000000
+      internalID: 4263673275351164176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font Texture #46359_19
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 441
+        width: 84
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaf6501d2a56a8700800000000000000
+      internalID: 543358455017467822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font Texture #46359_20
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 441
+        width: 84
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 032e5a9c507106df0800000000000000
+      internalID: -189125870724193744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font Texture #46359_21
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 341
+        width: 122
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea7b344675a75e530800000000000000
+      internalID: 3883644769439823790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font Texture #46359_22
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 475
+        width: 80
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7c2bec5e85a3bf60800000000000000
+      internalID: 8048958989904063610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font Texture #46359_23
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 440
+        width: 71
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 642ab63ee7ddce240800000000000000
+      internalID: 4822472838058058310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font Texture #46359_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 335
+        width: 114
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f66cdcd08ad095120800000000000000
+      internalID: 2402966891616126575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font Texture #46359_25
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 326
+        width: 90
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3edece7687fffef00800000000000000
+      internalID: 1148417322607504867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font Texture #46359_26
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 325
+        width: 83
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a16873e6eb8ba1b0800000000000000
+      internalID: -5644263884203728471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font Texture #46359_27
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 341
+        width: 70
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab2cadcf8b24c0a90800000000000000
+      internalID: -7346423529864510790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font Texture #46359_28
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 217
+        width: 118
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca16af5f37c1f2670800000000000000
+      internalID: 8516056704754540972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font Texture #46359_29
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 336
+        width: 51
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 719cd21d34bfde9d0800000000000000
+      internalID: -2743260329307944681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font Texture #46359_30
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 336
+        width: 80
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27cb6e230af90fce0800000000000000
+      internalID: -1373422375950435214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font Texture #46359_31
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 323
+        width: 64
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0604c9ce56719190800000000000000
+      internalID: -7957448917102885363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font Texture #46359_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 231
+        width: 72
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e5bd82315518ed70800000000000000
+      internalID: 9072524887822546404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font Texture #46359_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 125
+        width: 61
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd9f79d667b9b1e30800000000000000
+      internalID: 4475341587669842396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font Texture #46359_34
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 220
+        width: 72
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b28500e08f94f0940800000000000000
+      internalID: 5264507819155019819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font Texture #46359_35
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 219
+        width: 87
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3ccf35e4ccce5060800000000000000
+      internalID: 6944212821483703354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font Texture #46359_36
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 219
+        width: 71
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce6449f6c47495070800000000000000
+      internalID: 8095580198790252268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font Texture #46359_37
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 217
+        width: 41
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a590259d39161ac60800000000000000
+      internalID: 7827644914980751706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font Texture #46359_38
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 222
+        width: 107
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da4707234171824c0800000000000000
+      internalID: -4312171267694234451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font Texture #46359_39
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 222
+        width: 79
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7a7c29139de5f9d0800000000000000
+      internalID: -2741023582146758017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font Texture #46359_40
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 217
+        width: 77
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bba0bf1a4910d5d0800000000000000
+      internalID: -3039901942325138511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font Texture #46359_41
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 215
+        width: 68
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9f3662ba006d8540800000000000000
+      internalID: 5011767559392214943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font Texture #46359_42
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 110
+        width: 82
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae049795cfbcf0e80800000000000000
+      internalID: -8210119310979809046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font Texture #46359_43
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 110
+        width: 77
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9ebbb429ceeb3a60800000000000000
+      internalID: 7654974539318410908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font Texture #46359_44
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 109
+        width: 76
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca338907601dbeb00800000000000000
+      internalID: 859009979533243308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font Texture #46359_45
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 112
+        width: 89
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84aecea8d4a4f6450800000000000000
+      internalID: 6084163318504548936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font Texture #46359_46
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 111
+        width: 105
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e58dd7a21a0b6d00800000000000000
+      internalID: 966877620243105253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font Texture #46359_47
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 107
+        width: 80
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52990c09dc5855930800000000000000
+      internalID: 4131355351125629221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font Texture #46359_48
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 108
+        width: 81
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 527f574dc565088d0800000000000000
+      internalID: -2846180007796672731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font Texture #46359_49
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 139
+        width: 31
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89b7160702a07ee90800000000000000
+      internalID: -6996612361656108136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font Texture #46359_50
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 108
+        width: 78
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a32ea3ca0ec74aa50800000000000000
+      internalID: 6531482663998120506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font Texture #46359_51
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 108
+        width: 76
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d2d63d1b932cb510800000000000000
+      internalID: 1566165919535125208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font Texture #46359_52
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 93
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f362d82153933ace0800000000000000
+      internalID: -1395208559447431617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font Texture #46359_53
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 0
+        width: 85
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac0e121dfbf6e8280800000000000000
+      internalID: -9039164532447911734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font Texture #46359_54
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1
+        width: 87
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cf60451233639180800000000000000
+      internalID: -9109828554484322362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font Texture #46359_55
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 0
+        width: 77
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04311f5d19ed9e270800000000000000
+      internalID: 8280394107838337856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font Texture #46359_56
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1
+        width: 97
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13fad954ce13e18e0800000000000000
+      internalID: -1720883116758945999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font Texture #46359_57
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 0
+        width: 105
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b96bb65e0890dc9b0800000000000000
+      internalID: -5058376357257693541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font Texture #46359_58
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 1
+        width: 80
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37a552da1d516a660800000000000000
+      internalID: 7396623428299872883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font Texture #46359_59
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 108
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ed9d0aec7ae47740800000000000000
+      internalID: 5148998096214924777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font Texture #46359_60
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 0
+        width: 105
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b69db55028edbef0800000000000000
+      internalID: -90661191902456138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font Texture #46359_61
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 2
+        width: 46
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64ff82d4ea2c0a5f0800000000000000
+      internalID: -747383484268871866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font Texture #46359_62
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 0
+        width: 79
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b2e6b3765d4d74b0800000000000000
+      internalID: -5441107741089799496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font Texture #46359_63
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 0
+        width: 89
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 304bba7c294e08600800000000000000
+      internalID: 468625680312808451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font Texture #46359_64
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 0
+        width: 70
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80afa9446b24d9310800000000000000
+      internalID: 1413359208666692104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font Texture #46359_65
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 0
+        width: 58
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e91ee27a0480ca70800000000000000
+      internalID: 8845214848568400361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Font Texture #46359_0: -316812313561623596
+      Font Texture #46359_1: 6134397843377935408
+      Font Texture #46359_10: -5906284187481781084
+      Font Texture #46359_11: -6059002615635219772
+      Font Texture #46359_12: 5632950073962706888
+      Font Texture #46359_13: 8446783228909636409
+      Font Texture #46359_14: -5025346533143571426
+      Font Texture #46359_15: -5365913482986004988
+      Font Texture #46359_16: 4422340692939211666
+      Font Texture #46359_17: -3348923124704336661
+      Font Texture #46359_18: 4263673275351164176
+      Font Texture #46359_19: 543358455017467822
+      Font Texture #46359_2: 5585056966256966835
+      Font Texture #46359_20: -189125870724193744
+      Font Texture #46359_21: 3883644769439823790
+      Font Texture #46359_22: 8048958989904063610
+      Font Texture #46359_23: 4822472838058058310
+      Font Texture #46359_24: 2402966891616126575
+      Font Texture #46359_25: 1148417322607504867
+      Font Texture #46359_26: -5644263884203728471
+      Font Texture #46359_27: -7346423529864510790
+      Font Texture #46359_28: 8516056704754540972
+      Font Texture #46359_29: -2743260329307944681
+      Font Texture #46359_3: -5661993867683598367
+      Font Texture #46359_30: -1373422375950435214
+      Font Texture #46359_31: -7957448917102885363
+      Font Texture #46359_32: 9072524887822546404
+      Font Texture #46359_33: 4475341587669842396
+      Font Texture #46359_34: 5264507819155019819
+      Font Texture #46359_35: 6944212821483703354
+      Font Texture #46359_36: 8095580198790252268
+      Font Texture #46359_37: 7827644914980751706
+      Font Texture #46359_38: -4312171267694234451
+      Font Texture #46359_39: -2741023582146758017
+      Font Texture #46359_4: -4767165908536909970
+      Font Texture #46359_40: -3039901942325138511
+      Font Texture #46359_41: 5011767559392214943
+      Font Texture #46359_42: -8210119310979809046
+      Font Texture #46359_43: 7654974539318410908
+      Font Texture #46359_44: 859009979533243308
+      Font Texture #46359_45: 6084163318504548936
+      Font Texture #46359_46: 966877620243105253
+      Font Texture #46359_47: 4131355351125629221
+      Font Texture #46359_48: -2846180007796672731
+      Font Texture #46359_49: -6996612361656108136
+      Font Texture #46359_5: -735052292916419087
+      Font Texture #46359_50: 6531482663998120506
+      Font Texture #46359_51: 1566165919535125208
+      Font Texture #46359_52: -1395208559447431617
+      Font Texture #46359_53: -9039164532447911734
+      Font Texture #46359_54: -9109828554484322362
+      Font Texture #46359_55: 8280394107838337856
+      Font Texture #46359_56: -1720883116758945999
+      Font Texture #46359_57: -5058376357257693541
+      Font Texture #46359_58: 7396623428299872883
+      Font Texture #46359_59: 5148998096214924777
+      Font Texture #46359_6: -800926480261392515
+      Font Texture #46359_60: -90661191902456138
+      Font Texture #46359_61: -747383484268871866
+      Font Texture #46359_62: -5441107741089799496
+      Font Texture #46359_63: 468625680312808451
+      Font Texture #46359_64: 1413359208666692104
+      Font Texture #46359_65: 8845214848568400361
+      Font Texture #46359_7: -4695480247522200084
+      Font Texture #46359_8: 2112045697350963593
+      Font Texture #46359_9: -1274425717378437520
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

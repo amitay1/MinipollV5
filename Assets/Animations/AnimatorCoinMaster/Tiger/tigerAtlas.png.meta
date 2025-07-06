@@ -1,0 +1,663 @@
+fileFormatVersion: 2
+guid: 9c417dc43e871c74a86c59496c80eecd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8662260560736837861
+    second: tigerAtlas_0
+  - first:
+      213: 5964603076631537686
+    second: tigerAtlas_1
+  - first:
+      213: -914927042064564862
+    second: tigerAtlas_2
+  - first:
+      213: 553237268344622859
+    second: tigerAtlas_3
+  - first:
+      213: -4425669126460561430
+    second: tigerAtlas_4
+  - first:
+      213: 525423492995151029
+    second: tigerAtlas_5
+  - first:
+      213: -8257793835013033507
+    second: tigerAtlas_6
+  - first:
+      213: -117942079374524219
+    second: tigerAtlas_7
+  - first:
+      213: -2733488348449554649
+    second: tigerAtlas_8
+  - first:
+      213: -4935293583616837367
+    second: tigerAtlas_9
+  - first:
+      213: 8608261941233546379
+    second: tigerAtlas_10
+  - first:
+      213: 2695032848209310613
+    second: tigerAtlas_11
+  - first:
+      213: 1855197245599991497
+    second: tigerAtlas_12
+  - first:
+      213: -424973390337270232
+    second: tigerAtlas_13
+  - first:
+      213: -8403103845055429042
+    second: tigerAtlas_14
+  - first:
+      213: 7761688819918776542
+    second: tigerAtlas_15
+  - first:
+      213: -89277239374424769
+    second: tigerAtlas_16
+  - first:
+      213: -3109109305197210753
+    second: tigerAtlas_17
+  - first:
+      213: -6675602244208184112
+    second: tigerAtlas_18
+  - first:
+      213: 947435697568810690
+    second: tigerAtlas_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tigerAtlas_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 295
+        width: 103
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e0689ad518863870800000000000000
+      internalID: 8662260560736837861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tigerAtlas_1
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 427
+        width: 117
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61823d875e686c250800000000000000
+      internalID: 5964603076631537686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tigerAtlas_2
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 174
+        width: 393
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28db756e3b68d43f0800000000000000
+      internalID: -914927042064564862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tigerAtlas_3
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 250
+        width: 331
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0f40384d5e7da700800000000000000
+      internalID: 553237268344622859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tigerAtlas_4
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 355
+        width: 73
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae7a7efa06dd492c0800000000000000
+      internalID: -4425669126460561430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tigerAtlas_5
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 195
+        width: 103
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b4fe9012edaa4700800000000000000
+      internalID: 525423492995151029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tigerAtlas_6
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 232
+        width: 90
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd133ab324c666d80800000000000000
+      internalID: -8257793835013033507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tigerAtlas_7
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 148
+        width: 80
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c08fcebd4cfc5ef0800000000000000
+      internalID: -117942079374524219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tigerAtlas_8
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 173
+        width: 66
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72fbef864d2b01ad0800000000000000
+      internalID: -2733488348449554649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tigerAtlas_9
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 174
+        width: 61
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 909f04e42a0528bb0800000000000000
+      internalID: -4935293583616837367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tigerAtlas_10
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 174
+        width: 93
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b847db480a0b67770800000000000000
+      internalID: 8608261941233546379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tigerAtlas_11
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 106
+        width: 68
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5937687b81ea66520800000000000000
+      internalID: 2695032848209310613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tigerAtlas_12
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 116
+        width: 115
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c6454cc01cfeb910800000000000000
+      internalID: 1855197245599991497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tigerAtlas_13
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 11
+        width: 86
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82e14fdf3f03a1af0800000000000000
+      internalID: -424973390337270232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tigerAtlas_14
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 14
+        width: 96
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4680c0139d226b80800000000000000
+      internalID: -8403103845055429042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tigerAtlas_15
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 5
+        width: 161
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed82168cbde07bb60800000000000000
+      internalID: 7761688819918776542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tigerAtlas_16
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 7
+        width: 156
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f355f84e2d2d2cef0800000000000000
+      internalID: -89277239374424769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tigerAtlas_17
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 5
+        width: 128
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f73dbd74f893ad4d0800000000000000
+      internalID: -3109109305197210753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tigerAtlas_18
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 19
+        width: 74
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d4bb24b02f7b53a0800000000000000
+      internalID: -6675602244208184112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tigerAtlas_19
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 5
+        width: 228
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c60d194fb7f52d00800000000000000
+      internalID: 947435697568810690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      tigerAtlas_0: 8662260560736837861
+      tigerAtlas_1: 5964603076631537686
+      tigerAtlas_10: 8608261941233546379
+      tigerAtlas_11: 2695032848209310613
+      tigerAtlas_12: 1855197245599991497
+      tigerAtlas_13: -424973390337270232
+      tigerAtlas_14: -8403103845055429042
+      tigerAtlas_15: 7761688819918776542
+      tigerAtlas_16: -89277239374424769
+      tigerAtlas_17: -3109109305197210753
+      tigerAtlas_18: -6675602244208184112
+      tigerAtlas_19: 947435697568810690
+      tigerAtlas_2: -914927042064564862
+      tigerAtlas_3: 553237268344622859
+      tigerAtlas_4: -4425669126460561430
+      tigerAtlas_5: 525423492995151029
+      tigerAtlas_6: -8257793835013033507
+      tigerAtlas_7: -117942079374524219
+      tigerAtlas_8: -2733488348449554649
+      tigerAtlas_9: -4935293583616837367
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

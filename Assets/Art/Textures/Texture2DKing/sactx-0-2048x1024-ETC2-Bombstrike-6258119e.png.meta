@@ -1,0 +1,533 @@
+fileFormatVersion: 2
+guid: 082b4927a32d1b047a1565d6f639d8d6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7698402011356809002
+    second: sactx-0-2048x1024-ETC2-Bombstrike-6258119e_0
+  - first:
+      213: 5126985180159838860
+    second: sactx-0-2048x1024-ETC2-Bombstrike-6258119e_1
+  - first:
+      213: -1967942980853974041
+    second: sactx-0-2048x1024-ETC2-Bombstrike-6258119e_2
+  - first:
+      213: 8480093151041302113
+    second: sactx-0-2048x1024-ETC2-Bombstrike-6258119e_3
+  - first:
+      213: 678905915961938058
+    second: sactx-0-2048x1024-ETC2-Bombstrike-6258119e_4
+  - first:
+      213: -6665097464867939814
+    second: sactx-0-2048x1024-ETC2-Bombstrike-6258119e_5
+  - first:
+      213: -2164057257736884894
+    second: sactx-0-2048x1024-ETC2-Bombstrike-6258119e_6
+  - first:
+      213: -3452076360267355937
+    second: sactx-0-2048x1024-ETC2-Bombstrike-6258119e_7
+  - first:
+      213: -6097766770254104744
+    second: sactx-0-2048x1024-ETC2-Bombstrike-6258119e_8
+  - first:
+      213: 1151160912931853199
+    second: sactx-0-2048x1024-ETC2-Bombstrike-6258119e_9
+  - first:
+      213: 7025892979362207316
+    second: sactx-0-2048x1024-ETC2-Bombstrike-6258119e_10
+  - first:
+      213: -1336210319855618373
+    second: sactx-0-2048x1024-ETC2-Bombstrike-6258119e_11
+  - first:
+      213: -4726646702766598840
+    second: sactx-0-2048x1024-ETC2-Bombstrike-6258119e_12
+  - first:
+      213: 840699510896418307
+    second: sactx-0-2048x1024-ETC2-Bombstrike-6258119e_13
+  - first:
+      213: -4035521324749569639
+    second: sactx-0-2048x1024-ETC2-Bombstrike-6258119e_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sactx-0-2048x1024-ETC2-Bombstrike-6258119e_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 960
+        height: 914
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d8bce69828c92590800000000000000
+      internalID: -7698402011356809002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x1024-ETC2-Bombstrike-6258119e_1
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 511
+        width: 168
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8a8e108bd5b62740800000000000000
+      internalID: 5126985180159838860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x1024-ETC2-Bombstrike-6258119e_2
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 710
+        width: 106
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ebb9f7194670b4e0800000000000000
+      internalID: -1967942980853974041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x1024-ETC2-Bombstrike-6258119e_3
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 498
+        width: 256
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16e2a0a9ac75fa570800000000000000
+      internalID: 8480093151041302113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x1024-ETC2-Bombstrike-6258119e_4
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 255
+        width: 252
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8092d46555fb6900800000000000000
+      internalID: 678905915961938058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x1024-ETC2-Bombstrike-6258119e_5
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 371
+        width: 246
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1a903d3b21d083a0800000000000000
+      internalID: -6665097464867939814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x1024-ETC2-Bombstrike-6258119e_6
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 243
+        width: 251
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26dacf6c369b7f1e0800000000000000
+      internalID: -2164057257736884894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x1024-ETC2-Bombstrike-6258119e_7
+      rect:
+        serializedVersion: 2
+        x: 1469
+        y: 258
+        width: 131
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd8adb817d2c710d0800000000000000
+      internalID: -3452076360267355937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x1024-ETC2-Bombstrike-6258119e_8
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 0
+        width: 219
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 857b2d70e61606ba0800000000000000
+      internalID: -6097766770254104744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x1024-ETC2-Bombstrike-6258119e_9
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 161
+        width: 263
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f831e9e40ceb9ff00800000000000000
+      internalID: 1151160912931853199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x1024-ETC2-Bombstrike-6258119e_10
+      rect:
+        serializedVersion: 2
+        x: 1475
+        y: 251
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4569bc0a07cf08160800000000000000
+      internalID: 7025892979362207316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x1024-ETC2-Bombstrike-6258119e_11
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 0
+        width: 194
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb67bcb2bc3d47de0800000000000000
+      internalID: -1336210319855618373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x1024-ETC2-Bombstrike-6258119e_12
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 71
+        width: 106
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84553deddd3976eb0800000000000000
+      internalID: -4726646702766598840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x1024-ETC2-Bombstrike-6258119e_13
+      rect:
+        serializedVersion: 2
+        x: 1406
+        y: 1
+        width: 194
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30e53dd30c3caab00800000000000000
+      internalID: 840699510896418307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x1024-ETC2-Bombstrike-6258119e_14
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 1
+        width: 140
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 991c9ca7cb2fef7c0800000000000000
+      internalID: -4035521324749569639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      sactx-0-2048x1024-ETC2-Bombstrike-6258119e_0: -7698402011356809002
+      sactx-0-2048x1024-ETC2-Bombstrike-6258119e_1: 5126985180159838860
+      sactx-0-2048x1024-ETC2-Bombstrike-6258119e_10: 7025892979362207316
+      sactx-0-2048x1024-ETC2-Bombstrike-6258119e_11: -1336210319855618373
+      sactx-0-2048x1024-ETC2-Bombstrike-6258119e_12: -4726646702766598840
+      sactx-0-2048x1024-ETC2-Bombstrike-6258119e_13: 840699510896418307
+      sactx-0-2048x1024-ETC2-Bombstrike-6258119e_14: -4035521324749569639
+      sactx-0-2048x1024-ETC2-Bombstrike-6258119e_2: -1967942980853974041
+      sactx-0-2048x1024-ETC2-Bombstrike-6258119e_3: 8480093151041302113
+      sactx-0-2048x1024-ETC2-Bombstrike-6258119e_4: 678905915961938058
+      sactx-0-2048x1024-ETC2-Bombstrike-6258119e_5: -6665097464867939814
+      sactx-0-2048x1024-ETC2-Bombstrike-6258119e_6: -2164057257736884894
+      sactx-0-2048x1024-ETC2-Bombstrike-6258119e_7: -3452076360267355937
+      sactx-0-2048x1024-ETC2-Bombstrike-6258119e_8: -6097766770254104744
+      sactx-0-2048x1024-ETC2-Bombstrike-6258119e_9: 1151160912931853199
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

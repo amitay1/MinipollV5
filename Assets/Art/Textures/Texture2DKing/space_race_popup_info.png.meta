@@ -1,0 +1,4329 @@
+fileFormatVersion: 2
+guid: bdb706c883f36b54c896ab0091c6bc24
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5989378835663145780
+    second: space_race_popup_info_0
+  - first:
+      213: 884275804926838095
+    second: space_race_popup_info_1
+  - first:
+      213: 539164411312444002
+    second: space_race_popup_info_2
+  - first:
+      213: -3734449169996573043
+    second: space_race_popup_info_3
+  - first:
+      213: -6358270237329402864
+    second: space_race_popup_info_4
+  - first:
+      213: 3593301878597547261
+    second: space_race_popup_info_5
+  - first:
+      213: 6087082010648944968
+    second: space_race_popup_info_6
+  - first:
+      213: -668299402376394938
+    second: space_race_popup_info_7
+  - first:
+      213: -7441139138768056383
+    second: space_race_popup_info_8
+  - first:
+      213: 5661356643807716563
+    second: space_race_popup_info_9
+  - first:
+      213: -8073488826490141177
+    second: space_race_popup_info_10
+  - first:
+      213: 1135206479723459201
+    second: space_race_popup_info_11
+  - first:
+      213: -1642445848588917900
+    second: space_race_popup_info_12
+  - first:
+      213: -6377826266629965823
+    second: space_race_popup_info_13
+  - first:
+      213: -86216318618043390
+    second: space_race_popup_info_14
+  - first:
+      213: 6205105690424443865
+    second: space_race_popup_info_15
+  - first:
+      213: -4082705148464787967
+    second: space_race_popup_info_16
+  - first:
+      213: 8171729369054676199
+    second: space_race_popup_info_17
+  - first:
+      213: -2514183764808204613
+    second: space_race_popup_info_18
+  - first:
+      213: 8124587241197007987
+    second: space_race_popup_info_19
+  - first:
+      213: 4855940388619035538
+    second: space_race_popup_info_20
+  - first:
+      213: 1088784995457003134
+    second: space_race_popup_info_21
+  - first:
+      213: 3114779561895514475
+    second: space_race_popup_info_22
+  - first:
+      213: -9048017415063220848
+    second: space_race_popup_info_23
+  - first:
+      213: -9025473078636725001
+    second: space_race_popup_info_24
+  - first:
+      213: 8591457737885227194
+    second: space_race_popup_info_25
+  - first:
+      213: -5923508215384549787
+    second: space_race_popup_info_26
+  - first:
+      213: -8538496085819963013
+    second: space_race_popup_info_27
+  - first:
+      213: 3839957269122242604
+    second: space_race_popup_info_28
+  - first:
+      213: -5873448140505113097
+    second: space_race_popup_info_29
+  - first:
+      213: 5928897917989157244
+    second: space_race_popup_info_30
+  - first:
+      213: 5665853077533749583
+    second: space_race_popup_info_31
+  - first:
+      213: 4271210311969142262
+    second: space_race_popup_info_32
+  - first:
+      213: 7225910989699543061
+    second: space_race_popup_info_33
+  - first:
+      213: -5922118470748957706
+    second: space_race_popup_info_34
+  - first:
+      213: 4986339937540837565
+    second: space_race_popup_info_35
+  - first:
+      213: 7182581430989902955
+    second: space_race_popup_info_36
+  - first:
+      213: 649722942732204704
+    second: space_race_popup_info_37
+  - first:
+      213: -3108840534102799919
+    second: space_race_popup_info_38
+  - first:
+      213: 3965779693430700343
+    second: space_race_popup_info_39
+  - first:
+      213: -1670962325796652929
+    second: space_race_popup_info_40
+  - first:
+      213: 6334056417696703100
+    second: space_race_popup_info_41
+  - first:
+      213: 7747670647931310398
+    second: space_race_popup_info_42
+  - first:
+      213: -581371393028531967
+    second: space_race_popup_info_43
+  - first:
+      213: -8045069150468709870
+    second: space_race_popup_info_44
+  - first:
+      213: 6997494100308749927
+    second: space_race_popup_info_45
+  - first:
+      213: 1818208787194925450
+    second: space_race_popup_info_46
+  - first:
+      213: 7470261773759954766
+    second: space_race_popup_info_47
+  - first:
+      213: 2279726866164941584
+    second: space_race_popup_info_48
+  - first:
+      213: 8185811845388511439
+    second: space_race_popup_info_49
+  - first:
+      213: 2535012141011179676
+    second: space_race_popup_info_50
+  - first:
+      213: 4050692459690983544
+    second: space_race_popup_info_51
+  - first:
+      213: 7086334950537642295
+    second: space_race_popup_info_52
+  - first:
+      213: 5807693628956192384
+    second: space_race_popup_info_53
+  - first:
+      213: 57120023433404313
+    second: space_race_popup_info_54
+  - first:
+      213: -3058379711092362296
+    second: space_race_popup_info_55
+  - first:
+      213: -5770335578080907378
+    second: space_race_popup_info_56
+  - first:
+      213: -4740361130223124182
+    second: space_race_popup_info_57
+  - first:
+      213: 2096959126065965280
+    second: space_race_popup_info_58
+  - first:
+      213: -2887933920593002262
+    second: space_race_popup_info_59
+  - first:
+      213: -4190839328125240308
+    second: space_race_popup_info_60
+  - first:
+      213: 4263780069497050383
+    second: space_race_popup_info_61
+  - first:
+      213: 1079649751869154809
+    second: space_race_popup_info_62
+  - first:
+      213: 4207330090402082533
+    second: space_race_popup_info_63
+  - first:
+      213: -58273869709832898
+    second: space_race_popup_info_64
+  - first:
+      213: 2710720166005530411
+    second: space_race_popup_info_65
+  - first:
+      213: 3796549665111531261
+    second: space_race_popup_info_66
+  - first:
+      213: -3305980580221935
+    second: space_race_popup_info_67
+  - first:
+      213: 4456547281221545221
+    second: space_race_popup_info_68
+  - first:
+      213: -8441248407291107860
+    second: space_race_popup_info_69
+  - first:
+      213: 6396718924008386959
+    second: space_race_popup_info_70
+  - first:
+      213: 559437454570479005
+    second: space_race_popup_info_71
+  - first:
+      213: 6420381937624710579
+    second: space_race_popup_info_72
+  - first:
+      213: 378481574520990033
+    second: space_race_popup_info_73
+  - first:
+      213: -7431383636903480690
+    second: space_race_popup_info_74
+  - first:
+      213: 5736158596086692074
+    second: space_race_popup_info_75
+  - first:
+      213: -3636407877046190864
+    second: space_race_popup_info_76
+  - first:
+      213: -2951517705266831071
+    second: space_race_popup_info_77
+  - first:
+      213: 7516168632502407602
+    second: space_race_popup_info_78
+  - first:
+      213: 8693561673003731189
+    second: space_race_popup_info_79
+  - first:
+      213: -7990574175348037968
+    second: space_race_popup_info_80
+  - first:
+      213: 5718441356790538459
+    second: space_race_popup_info_81
+  - first:
+      213: 2303337424642013331
+    second: space_race_popup_info_82
+  - first:
+      213: 8847191126486119266
+    second: space_race_popup_info_83
+  - first:
+      213: 7036837416869567813
+    second: space_race_popup_info_84
+  - first:
+      213: -3529001629018571888
+    second: space_race_popup_info_85
+  - first:
+      213: -9128588781765746029
+    second: space_race_popup_info_86
+  - first:
+      213: 8726800882303647698
+    second: space_race_popup_info_87
+  - first:
+      213: 1887577206117773846
+    second: space_race_popup_info_88
+  - first:
+      213: -6890867063788154852
+    second: space_race_popup_info_89
+  - first:
+      213: 7404480746151157661
+    second: space_race_popup_info_90
+  - first:
+      213: 5396515041290835859
+    second: space_race_popup_info_91
+  - first:
+      213: -275883037583343327
+    second: space_race_popup_info_92
+  - first:
+      213: 1556101040170582083
+    second: space_race_popup_info_93
+  - first:
+      213: -8193538833242194478
+    second: space_race_popup_info_94
+  - first:
+      213: 3589728881176711924
+    second: space_race_popup_info_95
+  - first:
+      213: 1152028075261448532
+    second: space_race_popup_info_96
+  - first:
+      213: -4391971430885378102
+    second: space_race_popup_info_97
+  - first:
+      213: 1034330352902226572
+    second: space_race_popup_info_98
+  - first:
+      213: -7039417795391217976
+    second: space_race_popup_info_99
+  - first:
+      213: -4506825016943467477
+    second: space_race_popup_info_100
+  - first:
+      213: -7429655519534532
+    second: space_race_popup_info_101
+  - first:
+      213: 6660162187043656446
+    second: space_race_popup_info_102
+  - first:
+      213: -1785938141985125400
+    second: space_race_popup_info_103
+  - first:
+      213: -2988774956627403824
+    second: space_race_popup_info_104
+  - first:
+      213: -2531237177553506095
+    second: space_race_popup_info_105
+  - first:
+      213: 5028716698056490124
+    second: space_race_popup_info_106
+  - first:
+      213: 6421533109079197288
+    second: space_race_popup_info_107
+  - first:
+      213: -7886610633190576672
+    second: space_race_popup_info_108
+  - first:
+      213: -5925452734605017404
+    second: space_race_popup_info_109
+  - first:
+      213: 2620500596371243595
+    second: space_race_popup_info_110
+  - first:
+      213: -2101183387309311976
+    second: space_race_popup_info_111
+  - first:
+      213: 5768416213029713168
+    second: space_race_popup_info_112
+  - first:
+      213: 6220245582470424555
+    second: space_race_popup_info_113
+  - first:
+      213: 8041557154268022298
+    second: space_race_popup_info_114
+  - first:
+      213: -2548603772849090034
+    second: space_race_popup_info_115
+  - first:
+      213: 1370986521086447783
+    second: space_race_popup_info_116
+  - first:
+      213: 3912562256210982738
+    second: space_race_popup_info_117
+  - first:
+      213: -4011764669389418446
+    second: space_race_popup_info_118
+  - first:
+      213: 9079131463999474209
+    second: space_race_popup_info_119
+  - first:
+      213: 4173955302515088774
+    second: space_race_popup_info_120
+  - first:
+      213: 6449433858676822841
+    second: space_race_popup_info_121
+  - first:
+      213: 4394548807454518303
+    second: space_race_popup_info_122
+  - first:
+      213: 2985734733334788274
+    second: space_race_popup_info_123
+  - first:
+      213: -7183624405956636307
+    second: space_race_popup_info_124
+  - first:
+      213: -3148384020751862750
+    second: space_race_popup_info_125
+  - first:
+      213: 2210221623885600058
+    second: space_race_popup_info_126
+  - first:
+      213: -5752108234622949643
+    second: space_race_popup_info_127
+  - first:
+      213: -802567987749422799
+    second: space_race_popup_info_128
+  - first:
+      213: -6112216701280871253
+    second: space_race_popup_info_129
+  - first:
+      213: -3703983262710713430
+    second: space_race_popup_info_130
+  - first:
+      213: -1137617242753127731
+    second: space_race_popup_info_131
+  - first:
+      213: -269837905831807810
+    second: space_race_popup_info_132
+  - first:
+      213: -4168205441471738257
+    second: space_race_popup_info_133
+  - first:
+      213: 7877346236568545913
+    second: space_race_popup_info_134
+  - first:
+      213: 4621714354852087076
+    second: space_race_popup_info_135
+  - first:
+      213: 387355443304175933
+    second: space_race_popup_info_136
+  - first:
+      213: 3230857474242361179
+    second: space_race_popup_info_137
+  - first:
+      213: 160658967708702037
+    second: space_race_popup_info_138
+  - first:
+      213: -6486297550856374935
+    second: space_race_popup_info_139
+  - first:
+      213: -3149737026606077224
+    second: space_race_popup_info_140
+  - first:
+      213: 7330441877559545761
+    second: space_race_popup_info_141
+  - first:
+      213: 7249958850506958164
+    second: space_race_popup_info_142
+  - first:
+      213: 5532429863869429913
+    second: space_race_popup_info_143
+  - first:
+      213: 8559650768786256030
+    second: space_race_popup_info_144
+  - first:
+      213: -3674238284859909378
+    second: space_race_popup_info_145
+  - first:
+      213: 7282227069934031356
+    second: space_race_popup_info_146
+  - first:
+      213: -7512852045693537731
+    second: space_race_popup_info_147
+  - first:
+      213: 6276738779002656278
+    second: space_race_popup_info_148
+  - first:
+      213: 9099519823321380606
+    second: space_race_popup_info_149
+  - first:
+      213: -6421329475480355629
+    second: space_race_popup_info_150
+  - first:
+      213: -8457029347973053613
+    second: space_race_popup_info_151
+  - first:
+      213: 5693188034645967858
+    second: space_race_popup_info_152
+  - first:
+      213: -4761674911169612105
+    second: space_race_popup_info_153
+  - first:
+      213: 8752591569343145224
+    second: space_race_popup_info_154
+  - first:
+      213: 1069238612136486668
+    second: space_race_popup_info_155
+  - first:
+      213: 5327557076791979448
+    second: space_race_popup_info_156
+  - first:
+      213: 6456005799777651326
+    second: space_race_popup_info_157
+  - first:
+      213: -7497545609386894919
+    second: space_race_popup_info_158
+  - first:
+      213: 4552941835776546341
+    second: space_race_popup_info_159
+  - first:
+      213: 5042468814940980175
+    second: space_race_popup_info_160
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: space_race_popup_info_0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 478
+        width: 767
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc43e0b9ea371eca0800000000000000
+      internalID: -5989378835663145780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_race_popup_info_1
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 413
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f450324d824954c00800000000000000
+      internalID: 884275804926838095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_race_popup_info_2
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 413
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2629fcbec2f7b7700800000000000000
+      internalID: 539164411312444002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_race_popup_info_3
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 413
+        width: 10
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d861a9e04429c2cc0800000000000000
+      internalID: -3734449169996573043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_race_popup_info_4
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 413
+        width: 10
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 014da0e18e2e2c7a0800000000000000
+      internalID: -6358270237329402864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_race_popup_info_5
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 413
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df4fc8c3509fdd130800000000000000
+      internalID: 3593301878597547261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_race_popup_info_6
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 413
+        width: 40
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 841a66386d8a97450800000000000000
+      internalID: 6087082010648944968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_race_popup_info_7
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 404
+        width: 70
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 647cfbdfb39b9b6f0800000000000000
+      internalID: -668299402376394938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_race_popup_info_8
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 413
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cf497dc063cbb890800000000000000
+      internalID: -7441139138768056383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_race_popup_info_9
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 413
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d4e4f45fdd219e40800000000000000
+      internalID: 5661356643807716563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_race_popup_info_10
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 413
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70648feffa435ff80800000000000000
+      internalID: -8073488826490141177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_race_popup_info_11
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 404
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18273aa574011cf00800000000000000
+      internalID: 1135206479723459201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_race_popup_info_12
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 439
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 473ea08e33cd439e0800000000000000
+      internalID: -1642445848588917900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_race_popup_info_13
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 414
+        width: 10
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1087d5a3dc86d77a0800000000000000
+      internalID: -6377826266629965823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_race_popup_info_14
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 413
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20cfdea07b2bdcef0800000000000000
+      internalID: -86216318618043390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_race_popup_info_15
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 413
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d30187dfb6fc1650800000000000000
+      internalID: 6205105690424443865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_race_popup_info_16
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 414
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10e091f6c415757c0800000000000000
+      internalID: -4082705148464787967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_race_popup_info_17
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 413
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e48123c090d76170800000000000000
+      internalID: 8171729369054676199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_race_popup_info_18
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 413
+        width: 37
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbe7d86cf23db1dd0800000000000000
+      internalID: -2514183764808204613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_race_popup_info_19
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 414
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 374f73acc0550c070800000000000000
+      internalID: 8124587241197007987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_race_popup_info_20
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 413
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2932c1a3e04c36340800000000000000
+      internalID: 4855940388619035538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_race_popup_info_21
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 413
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7e6dfa4f242c1f00800000000000000
+      internalID: 1088784995457003134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_race_popup_info_22
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 413
+        width: 10
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b61dd6c328be93b20800000000000000
+      internalID: 3114779561895514475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_race_popup_info_23
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 354
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09dcb95791cfe6280800000000000000
+      internalID: -9048017415063220848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_race_popup_info_24
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 363
+        width: 9
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fcb102dd041fb280800000000000000
+      internalID: -9025473078636725001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_race_popup_info_25
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 363
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab81e690b4dfa3770800000000000000
+      internalID: 8591457737885227194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_race_popup_info_26
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 363
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56655e589a87bcda0800000000000000
+      internalID: -5923508215384549787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_race_popup_info_27
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 363
+        width: 10
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7943a08c0b218980800000000000000
+      internalID: -8538496085819963013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_race_popup_info_28
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 363
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c28d5b29ac44a4530800000000000000
+      internalID: 3839957269122242604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_race_popup_info_29
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 389
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fd938af8025d7ea0800000000000000
+      internalID: -5873448140505113097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_race_popup_info_30
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 363
+        width: 10
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c79fb476e3da74250800000000000000
+      internalID: 5928897917989157244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_race_popup_info_31
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 363
+        width: 10
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f41f3f3ea5721ae40800000000000000
+      internalID: 5665853077533749583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_race_popup_info_32
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 363
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f5f7ed1623664b30800000000000000
+      internalID: 4271210311969142262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_race_popup_info_33
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 363
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 510f1a7b2c7974460800000000000000
+      internalID: 7225910989699543061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_race_popup_info_34
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 363
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f39a39a0a860dda0800000000000000
+      internalID: -5922118470748957706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_race_popup_info_35
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 389
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db0177221c9033540800000000000000
+      internalID: 4986339937540837565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_race_popup_info_36
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 363
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b64587ca1c7ada360800000000000000
+      internalID: 7182581430989902955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_race_popup_info_37
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 363
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aa79f3f297440900800000000000000
+      internalID: 649722942732204704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_race_popup_info_38
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 363
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d9877d610e2bd4d0800000000000000
+      internalID: -3108840534102799919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_race_popup_info_39
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 363
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 739f46c9e97490730800000000000000
+      internalID: 3965779693430700343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_race_popup_info_40
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 376
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7874d92e9c8fc8e0800000000000000
+      internalID: -1670962325796652929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_race_popup_info_41
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 363
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c72681ca0c617e750800000000000000
+      internalID: 6334056417696703100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_race_popup_info_42
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 363
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e319aa6c761458b60800000000000000
+      internalID: 7747670647931310398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_race_popup_info_43
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 363
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 109d5fb5ccd8ee7f0800000000000000
+      internalID: -581371393028531967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_race_popup_info_44
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 363
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 212ebd47b3c2a5090800000000000000
+      internalID: -8045069150468709870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_race_popup_info_45
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 363
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76e6bc65fc71c1160800000000000000
+      internalID: 6997494100308749927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_race_popup_info_46
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 363
+        width: 37
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a815f3832439b3910800000000000000
+      internalID: 1818208787194925450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_race_popup_info_47
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 363
+        width: 10
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4f342c0183bba760800000000000000
+      internalID: 7470261773759954766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_race_popup_info_48
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 363
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0130daa918733af10800000000000000
+      internalID: 2279726866164941584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_race_popup_info_49
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 363
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc8219ac088d99170800000000000000
+      internalID: 8185811845388511439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_race_popup_info_50
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 363
+        width: 10
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9816467c1c2e2320800000000000000
+      internalID: 2535012141011179676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_race_popup_info_51
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 363
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8700c32a453f63830800000000000000
+      internalID: 4050692459690983544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_race_popup_info_52
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 363
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7314b3ea718b75260800000000000000
+      internalID: 7086334950537642295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_race_popup_info_53
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 363
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08eab36c592199050800000000000000
+      internalID: 5807693628956192384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_race_popup_info_54
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 363
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99f5f42db5eeac000800000000000000
+      internalID: 57120023433404313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_race_popup_info_55
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 280
+        width: 57
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c3f3145bd37e85d0800000000000000
+      internalID: -3058379711092362296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_race_popup_info_56
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 283
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8f60b14d56abefa0800000000000000
+      internalID: -5770335578080907378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_race_popup_info_57
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 283
+        width: 82
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a214bf5eaaad63eb0800000000000000
+      internalID: -4740361130223124182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_race_popup_info_58
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 283
+        width: 11
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e8eca90735e91d10800000000000000
+      internalID: 2096959126065965280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_race_popup_info_59
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 283
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae0c040766ffbe7d0800000000000000
+      internalID: -2887933920593002262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_race_popup_info_60
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 283
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0cbb58c5d527d5c0800000000000000
+      internalID: -4190839328125240308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_race_popup_info_61
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 283
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0513caf16dfb2b30800000000000000
+      internalID: 4263780069497050383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_race_popup_info_62
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 283
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f5eff5aabfabfe00800000000000000
+      internalID: 1079649751869154809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_race_popup_info_63
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 283
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ee6a330d60736a30800000000000000
+      internalID: 4207330090402082533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_race_popup_info_64
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 283
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3d02486938f03ff0800000000000000
+      internalID: -58273869709832898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_race_popup_info_65
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 283
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2f5f3401a96e9520800000000000000
+      internalID: 2710720166005530411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_race_popup_info_66
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 283
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfed9113ecd00b430800000000000000
+      internalID: 3796549665111531261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_race_popup_info_67
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 283
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11ca1e96a3144fff0800000000000000
+      internalID: -3305980580221935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_race_popup_info_68
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 283
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50d61f5f326d8dd30800000000000000
+      internalID: 4456547281221545221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_race_popup_info_69
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 283
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce5e4961c49aada80800000000000000
+      internalID: -8441248407291107860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_race_popup_info_70
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 283
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f81f98958f5b5c850800000000000000
+      internalID: 6396718924008386959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_race_popup_info_71
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 283
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9dd8b1a66583c700800000000000000
+      internalID: 559437454570479005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_race_popup_info_72
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 283
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bd747a0b57c91950800000000000000
+      internalID: 6420381937624710579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_race_popup_info_73
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 283
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 159aa5b9cf2a04500800000000000000
+      internalID: 378481574520990033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_race_popup_info_74
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 283
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e82b7b494fb6ed890800000000000000
+      internalID: -7431383636903480690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_race_popup_info_75
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 283
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae8fc070addea9f40800000000000000
+      internalID: 5736158596086692074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_race_popup_info_76
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 283
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fcba366d42e88dc0800000000000000
+      internalID: -3636407877046190864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_race_popup_info_77
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 283
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1216b4de84a1a07d0800000000000000
+      internalID: -2951517705266831071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_race_popup_info_78
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 283
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b15d348c8bce4860800000000000000
+      internalID: 7516168632502407602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_race_popup_info_79
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 270
+        width: 79
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f88658f74cb5a870800000000000000
+      internalID: 8693561673003731189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_race_popup_info_80
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 212
+        width: 67
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b668f69f17cb1190800000000000000
+      internalID: -7990574175348037968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_race_popup_info_81
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 260
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd0276ccd1cfb5f40800000000000000
+      internalID: 5718441356790538459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_race_popup_info_82
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 221
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39876a12f2917ff10800000000000000
+      internalID: 2303337424642013331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_race_popup_info_83
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 221
+        width: 134
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2637132847987ca70800000000000000
+      internalID: 8847191126486119266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_race_popup_info_84
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 221
+        width: 124
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54d10be095ed7a160800000000000000
+      internalID: 7036837416869567813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_race_popup_info_85
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 199
+        width: 79
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09bb29247b7760fc0800000000000000
+      internalID: -3529001629018571888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_race_popup_info_86
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 217
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 392ac3a4edcb05180800000000000000
+      internalID: -9128588781765746029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_race_popup_info_87
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 213
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2df36477a23db1970800000000000000
+      internalID: 8726800882303647698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_race_popup_info_88
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 221
+        width: 47
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61236c8d775023a10800000000000000
+      internalID: 1887577206117773846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_race_popup_info_89
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 221
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c10d7743ae8be50a0800000000000000
+      internalID: -6890867063788154852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_race_popup_info_90
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 221
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9f1f8c020002c660800000000000000
+      internalID: 7404480746151157661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_race_popup_info_91
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 221
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 397513d86d544ea40800000000000000
+      internalID: 5396515041290835859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_race_popup_info_92
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 221
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1210a49c6dddb2cf0800000000000000
+      internalID: -275883037583343327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_race_popup_info_93
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 221
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 340cbf5c6a1689510800000000000000
+      internalID: 1556101040170582083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_race_popup_info_94
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 221
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ddfa37a7d3ba4e80800000000000000
+      internalID: -8193538833242194478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_race_popup_info_95
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 221
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f29f72f56741d130800000000000000
+      internalID: 3589728881176711924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_race_popup_info_96
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 221
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4515c354e63dcff00800000000000000
+      internalID: 1152028075261448532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_race_popup_info_97
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 221
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac7b966d0459c03c0800000000000000
+      internalID: -4391971430885378102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_race_popup_info_98
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 197
+        width: 41
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c824421d9fdaa5e00800000000000000
+      internalID: 1034330352902226572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_race_popup_info_99
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 160
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ce9420cfc6fe4e90800000000000000
+      internalID: -7039417795391217976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_race_popup_info_100
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 160
+        width: 63
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b24ad38768a8471c0800000000000000
+      internalID: -4506825016943467477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_race_popup_info_101
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 160
+        width: 33
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3264f584ca95eff0800000000000000
+      internalID: -7429655519534532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_race_popup_info_102
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 160
+        width: 151
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef2d939d836ad6c50800000000000000
+      internalID: 6660162187043656446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_race_popup_info_103
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 141
+        width: 79
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ebc720e8b21737e0800000000000000
+      internalID: -1785938141985125400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_race_popup_info_104
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 155
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dbd3ac130db586d0800000000000000
+      internalID: -2988774956627403824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_race_popup_info_105
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 160
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d039a5b23d3fdcd0800000000000000
+      internalID: -2531237177553506095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_race_popup_info_106
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 150
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8c7bbf813799c540800000000000000
+      internalID: 5028716698056490124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_race_popup_info_107
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 159
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8664318075edd1950800000000000000
+      internalID: 6421533109079197288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_race_popup_info_108
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 160
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ed6bd60a612d8290800000000000000
+      internalID: -7886610633190576672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_race_popup_info_109
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 160
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ce308cd12094cda0800000000000000
+      internalID: -5925452734605017404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_race_popup_info_110
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 160
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b42486c8863ed5420800000000000000
+      internalID: 2620500596371243595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_race_popup_info_111
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 160
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 818f97f77d817d2e0800000000000000
+      internalID: -2101183387309311976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_race_popup_info_112
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 160
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0157d3ebbf78d0050800000000000000
+      internalID: 5768416213029713168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_race_popup_info_113
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 160
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be7a7d6a660c25650800000000000000
+      internalID: 6220245582470424555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_race_popup_info_114
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 160
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a16852530a9599f60800000000000000
+      internalID: 8041557154268022298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_race_popup_info_115
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 160
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e021c162f5a81acd0800000000000000
+      internalID: -2548603772849090034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_race_popup_info_116
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 89
+        width: 56
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a0d4352af8b60310800000000000000
+      internalID: 1370986521086447783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_race_popup_info_117
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 93
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2577e0374a63c4630800000000000000
+      internalID: 3912562256210982738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_race_popup_info_118
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 93
+        width: 82
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 230d496d9495358c0800000000000000
+      internalID: -4011764669389418446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_race_popup_info_119
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 93
+        width: 11
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12ac2c496fd8ffd70800000000000000
+      internalID: 9079131463999474209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_race_popup_info_120
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 93
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68d15caab3edce930800000000000000
+      internalID: 4173955302515088774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_race_popup_info_121
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 93
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9331fc48cedf08950800000000000000
+      internalID: 6449433858676822841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_race_popup_info_122
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 93
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1c61786bd29cfc30800000000000000
+      internalID: 4394548807454518303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_race_popup_info_123
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 93
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b837fdbbe57f6920800000000000000
+      internalID: 2985734733334788274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_race_popup_info_124
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 93
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d61d02bc9a3ae4c90800000000000000
+      internalID: -7183624405956636307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_race_popup_info_125
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 93
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 224b19af961be44d0800000000000000
+      internalID: -3148384020751862750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_race_popup_info_126
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 93
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a35969e4bd84cae10800000000000000
+      internalID: 2210221623885600058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_race_popup_info_127
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 93
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f623bd59086c20b0800000000000000
+      internalID: -5752108234622949643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_race_popup_info_128
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 93
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1397816daa4bcd4f0800000000000000
+      internalID: -802567987749422799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_race_popup_info_129
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 93
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bac91f94b4b0d2ba0800000000000000
+      internalID: -6112216701280871253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_race_popup_info_130
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 93
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa3b22cd8dec89cc0800000000000000
+      internalID: -3703983262710713430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_race_popup_info_131
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 93
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dca2753252f5630f0800000000000000
+      internalID: -1137617242753127731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_race_popup_info_132
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 93
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb4b5f3bad7514cf0800000000000000
+      internalID: -269837905831807810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_race_popup_info_133
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 93
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6e0a3e2c3f8726c0800000000000000
+      internalID: -4168205441471738257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_race_popup_info_134
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 93
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97aad6b8aa4f15d60800000000000000
+      internalID: 7877346236568545913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_race_popup_info_135
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 93
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 425484608b0a32040800000000000000
+      internalID: 4621714354852087076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_race_popup_info_136
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 93
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3995ff29b9206500800000000000000
+      internalID: 387355443304175933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_race_popup_info_137
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 93
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b57b12841cf46dc20800000000000000
+      internalID: 3230857474242361179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_race_popup_info_138
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 93
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 555124cda76ca3200800000000000000
+      internalID: 160658967708702037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_race_popup_info_139
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 93
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96538bd4eba0cf5a0800000000000000
+      internalID: -6486297550856374935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_race_popup_info_140
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 80
+        width: 79
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8daef31ccd2e944d0800000000000000
+      internalID: -3149737026606077224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_race_popup_info_141
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 15
+        width: 67
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1af859e9c06fab560800000000000000
+      internalID: 7330441877559545761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_race_popup_info_142
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 68
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 455aaa0a9270d9460800000000000000
+      internalID: 7249958850506958164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_race_popup_info_143
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 64
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99833bc26a327cc40800000000000000
+      internalID: 5532429863869429913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_race_popup_info_144
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 31
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9077e2f50df9c670800000000000000
+      internalID: 8559650768786256030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_race_popup_info_145
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 31
+        width: 179
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efad8c23fbb720dc0800000000000000
+      internalID: -3674238284859909378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_race_popup_info_146
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 31
+        width: 125
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf1d62defeaaf0560800000000000000
+      internalID: 7282227069934031356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_race_popup_info_147
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 13
+        width: 80
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d32be568edcfcb790800000000000000
+      internalID: -7512852045693537731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_race_popup_info_148
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 28
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6165f56f9a47b1750800000000000000
+      internalID: 6276738779002656278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_race_popup_info_149
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 31
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef632b7611df74e70800000000000000
+      internalID: 9099519823321380606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_race_popup_info_150
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 31
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dc7f3c1ddad2e6a0800000000000000
+      internalID: -6421329475480355629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_race_popup_info_151
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 31
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35343038d9892aa80800000000000000
+      internalID: -8457029347973053613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_race_popup_info_152
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 31
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f3c39c8a54420f40800000000000000
+      internalID: 5693188034645967858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_race_popup_info_153
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 31
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b678df85e12bedb0800000000000000
+      internalID: -4761674911169612105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_race_popup_info_154
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 31
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 805e6cab8a3777970800000000000000
+      internalID: 8752591569343145224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_race_popup_info_155
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 31
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c07e6884ad2b6de00800000000000000
+      internalID: 1069238612136486668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_race_popup_info_156
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 31
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bdedca4fe84fe940800000000000000
+      internalID: 5327557076791979448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_race_popup_info_157
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 31
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7acb9bc117589950800000000000000
+      internalID: 6456005799777651326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_race_popup_info_158
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 18
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b95431fdfd53f790800000000000000
+      internalID: -7497545609386894919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_race_popup_info_159
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 15
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 526d9742a7c4f2f30800000000000000
+      internalID: 4552941835776546341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_race_popup_info_160
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 13
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc3ca89cba27af540800000000000000
+      internalID: 5042468814940980175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      space_race_popup_info_0: -5989378835663145780
+      space_race_popup_info_1: 884275804926838095
+      space_race_popup_info_10: -8073488826490141177
+      space_race_popup_info_100: -4506825016943467477
+      space_race_popup_info_101: -7429655519534532
+      space_race_popup_info_102: 6660162187043656446
+      space_race_popup_info_103: -1785938141985125400
+      space_race_popup_info_104: -2988774956627403824
+      space_race_popup_info_105: -2531237177553506095
+      space_race_popup_info_106: 5028716698056490124
+      space_race_popup_info_107: 6421533109079197288
+      space_race_popup_info_108: -7886610633190576672
+      space_race_popup_info_109: -5925452734605017404
+      space_race_popup_info_11: 1135206479723459201
+      space_race_popup_info_110: 2620500596371243595
+      space_race_popup_info_111: -2101183387309311976
+      space_race_popup_info_112: 5768416213029713168
+      space_race_popup_info_113: 6220245582470424555
+      space_race_popup_info_114: 8041557154268022298
+      space_race_popup_info_115: -2548603772849090034
+      space_race_popup_info_116: 1370986521086447783
+      space_race_popup_info_117: 3912562256210982738
+      space_race_popup_info_118: -4011764669389418446
+      space_race_popup_info_119: 9079131463999474209
+      space_race_popup_info_12: -1642445848588917900
+      space_race_popup_info_120: 4173955302515088774
+      space_race_popup_info_121: 6449433858676822841
+      space_race_popup_info_122: 4394548807454518303
+      space_race_popup_info_123: 2985734733334788274
+      space_race_popup_info_124: -7183624405956636307
+      space_race_popup_info_125: -3148384020751862750
+      space_race_popup_info_126: 2210221623885600058
+      space_race_popup_info_127: -5752108234622949643
+      space_race_popup_info_128: -802567987749422799
+      space_race_popup_info_129: -6112216701280871253
+      space_race_popup_info_13: -6377826266629965823
+      space_race_popup_info_130: -3703983262710713430
+      space_race_popup_info_131: -1137617242753127731
+      space_race_popup_info_132: -269837905831807810
+      space_race_popup_info_133: -4168205441471738257
+      space_race_popup_info_134: 7877346236568545913
+      space_race_popup_info_135: 4621714354852087076
+      space_race_popup_info_136: 387355443304175933
+      space_race_popup_info_137: 3230857474242361179
+      space_race_popup_info_138: 160658967708702037
+      space_race_popup_info_139: -6486297550856374935
+      space_race_popup_info_14: -86216318618043390
+      space_race_popup_info_140: -3149737026606077224
+      space_race_popup_info_141: 7330441877559545761
+      space_race_popup_info_142: 7249958850506958164
+      space_race_popup_info_143: 5532429863869429913
+      space_race_popup_info_144: 8559650768786256030
+      space_race_popup_info_145: -3674238284859909378
+      space_race_popup_info_146: 7282227069934031356
+      space_race_popup_info_147: -7512852045693537731
+      space_race_popup_info_148: 6276738779002656278
+      space_race_popup_info_149: 9099519823321380606
+      space_race_popup_info_15: 6205105690424443865
+      space_race_popup_info_150: -6421329475480355629
+      space_race_popup_info_151: -8457029347973053613
+      space_race_popup_info_152: 5693188034645967858
+      space_race_popup_info_153: -4761674911169612105
+      space_race_popup_info_154: 8752591569343145224
+      space_race_popup_info_155: 1069238612136486668
+      space_race_popup_info_156: 5327557076791979448
+      space_race_popup_info_157: 6456005799777651326
+      space_race_popup_info_158: -7497545609386894919
+      space_race_popup_info_159: 4552941835776546341
+      space_race_popup_info_16: -4082705148464787967
+      space_race_popup_info_160: 5042468814940980175
+      space_race_popup_info_17: 8171729369054676199
+      space_race_popup_info_18: -2514183764808204613
+      space_race_popup_info_19: 8124587241197007987
+      space_race_popup_info_2: 539164411312444002
+      space_race_popup_info_20: 4855940388619035538
+      space_race_popup_info_21: 1088784995457003134
+      space_race_popup_info_22: 3114779561895514475
+      space_race_popup_info_23: -9048017415063220848
+      space_race_popup_info_24: -9025473078636725001
+      space_race_popup_info_25: 8591457737885227194
+      space_race_popup_info_26: -5923508215384549787
+      space_race_popup_info_27: -8538496085819963013
+      space_race_popup_info_28: 3839957269122242604
+      space_race_popup_info_29: -5873448140505113097
+      space_race_popup_info_3: -3734449169996573043
+      space_race_popup_info_30: 5928897917989157244
+      space_race_popup_info_31: 5665853077533749583
+      space_race_popup_info_32: 4271210311969142262
+      space_race_popup_info_33: 7225910989699543061
+      space_race_popup_info_34: -5922118470748957706
+      space_race_popup_info_35: 4986339937540837565
+      space_race_popup_info_36: 7182581430989902955
+      space_race_popup_info_37: 649722942732204704
+      space_race_popup_info_38: -3108840534102799919
+      space_race_popup_info_39: 3965779693430700343
+      space_race_popup_info_4: -6358270237329402864
+      space_race_popup_info_40: -1670962325796652929
+      space_race_popup_info_41: 6334056417696703100
+      space_race_popup_info_42: 7747670647931310398
+      space_race_popup_info_43: -581371393028531967
+      space_race_popup_info_44: -8045069150468709870
+      space_race_popup_info_45: 6997494100308749927
+      space_race_popup_info_46: 1818208787194925450
+      space_race_popup_info_47: 7470261773759954766
+      space_race_popup_info_48: 2279726866164941584
+      space_race_popup_info_49: 8185811845388511439
+      space_race_popup_info_5: 3593301878597547261
+      space_race_popup_info_50: 2535012141011179676
+      space_race_popup_info_51: 4050692459690983544
+      space_race_popup_info_52: 7086334950537642295
+      space_race_popup_info_53: 5807693628956192384
+      space_race_popup_info_54: 57120023433404313
+      space_race_popup_info_55: -3058379711092362296
+      space_race_popup_info_56: -5770335578080907378
+      space_race_popup_info_57: -4740361130223124182
+      space_race_popup_info_58: 2096959126065965280
+      space_race_popup_info_59: -2887933920593002262
+      space_race_popup_info_6: 6087082010648944968
+      space_race_popup_info_60: -4190839328125240308
+      space_race_popup_info_61: 4263780069497050383
+      space_race_popup_info_62: 1079649751869154809
+      space_race_popup_info_63: 4207330090402082533
+      space_race_popup_info_64: -58273869709832898
+      space_race_popup_info_65: 2710720166005530411
+      space_race_popup_info_66: 3796549665111531261
+      space_race_popup_info_67: -3305980580221935
+      space_race_popup_info_68: 4456547281221545221
+      space_race_popup_info_69: -8441248407291107860
+      space_race_popup_info_7: -668299402376394938
+      space_race_popup_info_70: 6396718924008386959
+      space_race_popup_info_71: 559437454570479005
+      space_race_popup_info_72: 6420381937624710579
+      space_race_popup_info_73: 378481574520990033
+      space_race_popup_info_74: -7431383636903480690
+      space_race_popup_info_75: 5736158596086692074
+      space_race_popup_info_76: -3636407877046190864
+      space_race_popup_info_77: -2951517705266831071
+      space_race_popup_info_78: 7516168632502407602
+      space_race_popup_info_79: 8693561673003731189
+      space_race_popup_info_8: -7441139138768056383
+      space_race_popup_info_80: -7990574175348037968
+      space_race_popup_info_81: 5718441356790538459
+      space_race_popup_info_82: 2303337424642013331
+      space_race_popup_info_83: 8847191126486119266
+      space_race_popup_info_84: 7036837416869567813
+      space_race_popup_info_85: -3529001629018571888
+      space_race_popup_info_86: -9128588781765746029
+      space_race_popup_info_87: 8726800882303647698
+      space_race_popup_info_88: 1887577206117773846
+      space_race_popup_info_89: -6890867063788154852
+      space_race_popup_info_9: 5661356643807716563
+      space_race_popup_info_90: 7404480746151157661
+      space_race_popup_info_91: 5396515041290835859
+      space_race_popup_info_92: -275883037583343327
+      space_race_popup_info_93: 1556101040170582083
+      space_race_popup_info_94: -8193538833242194478
+      space_race_popup_info_95: 3589728881176711924
+      space_race_popup_info_96: 1152028075261448532
+      space_race_popup_info_97: -4391971430885378102
+      space_race_popup_info_98: 1034330352902226572
+      space_race_popup_info_99: -7039417795391217976
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

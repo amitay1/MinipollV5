@@ -1,0 +1,4953 @@
+fileFormatVersion: 2
+guid: c9644db9bcc1a6b4a8decbfeffc06317
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6455753297068574670
+    second: Neuron ExtraBold SDF Atlas_0
+  - first:
+      213: -7592315602554950031
+    second: Neuron ExtraBold SDF Atlas_1
+  - first:
+      213: -6251251539655574985
+    second: Neuron ExtraBold SDF Atlas_2
+  - first:
+      213: -2839581000566961533
+    second: Neuron ExtraBold SDF Atlas_3
+  - first:
+      213: -7293067282159079669
+    second: Neuron ExtraBold SDF Atlas_4
+  - first:
+      213: 660874903607694804
+    second: Neuron ExtraBold SDF Atlas_5
+  - first:
+      213: 8832255368954260618
+    second: Neuron ExtraBold SDF Atlas_6
+  - first:
+      213: -4158057589198379592
+    second: Neuron ExtraBold SDF Atlas_7
+  - first:
+      213: 1135360632190536172
+    second: Neuron ExtraBold SDF Atlas_8
+  - first:
+      213: 5564269755684306627
+    second: Neuron ExtraBold SDF Atlas_9
+  - first:
+      213: 4159463247116993805
+    second: Neuron ExtraBold SDF Atlas_10
+  - first:
+      213: 1954263722457337444
+    second: Neuron ExtraBold SDF Atlas_11
+  - first:
+      213: -4746004413867263832
+    second: Neuron ExtraBold SDF Atlas_12
+  - first:
+      213: 5675122077484380600
+    second: Neuron ExtraBold SDF Atlas_13
+  - first:
+      213: -6337520642429671643
+    second: Neuron ExtraBold SDF Atlas_14
+  - first:
+      213: -3390662545961860995
+    second: Neuron ExtraBold SDF Atlas_15
+  - first:
+      213: -6245783508811102766
+    second: Neuron ExtraBold SDF Atlas_16
+  - first:
+      213: 8644673406196255276
+    second: Neuron ExtraBold SDF Atlas_17
+  - first:
+      213: -8428952732569966631
+    second: Neuron ExtraBold SDF Atlas_18
+  - first:
+      213: 2415703780056728785
+    second: Neuron ExtraBold SDF Atlas_19
+  - first:
+      213: -6357965414649239740
+    second: Neuron ExtraBold SDF Atlas_20
+  - first:
+      213: 1225162029928235431
+    second: Neuron ExtraBold SDF Atlas_21
+  - first:
+      213: 3443840347199547723
+    second: Neuron ExtraBold SDF Atlas_22
+  - first:
+      213: -3899500658804718772
+    second: Neuron ExtraBold SDF Atlas_23
+  - first:
+      213: 678401608793219043
+    second: Neuron ExtraBold SDF Atlas_24
+  - first:
+      213: -8911670452913422773
+    second: Neuron ExtraBold SDF Atlas_25
+  - first:
+      213: 6971911788445105330
+    second: Neuron ExtraBold SDF Atlas_26
+  - first:
+      213: 6938991199268273921
+    second: Neuron ExtraBold SDF Atlas_27
+  - first:
+      213: 7111181080744084472
+    second: Neuron ExtraBold SDF Atlas_28
+  - first:
+      213: -393838174571997220
+    second: Neuron ExtraBold SDF Atlas_29
+  - first:
+      213: -3098302008895375999
+    second: Neuron ExtraBold SDF Atlas_30
+  - first:
+      213: -6713508635304732467
+    second: Neuron ExtraBold SDF Atlas_31
+  - first:
+      213: 4853258591064599361
+    second: Neuron ExtraBold SDF Atlas_32
+  - first:
+      213: 860122240430846837
+    second: Neuron ExtraBold SDF Atlas_33
+  - first:
+      213: -7870326517739712965
+    second: Neuron ExtraBold SDF Atlas_34
+  - first:
+      213: -5808801360850091731
+    second: Neuron ExtraBold SDF Atlas_35
+  - first:
+      213: -7507553624661008221
+    second: Neuron ExtraBold SDF Atlas_36
+  - first:
+      213: 7869891979340910456
+    second: Neuron ExtraBold SDF Atlas_37
+  - first:
+      213: -3884034638894113878
+    second: Neuron ExtraBold SDF Atlas_38
+  - first:
+      213: 5764197648809249951
+    second: Neuron ExtraBold SDF Atlas_39
+  - first:
+      213: -2102184407335997559
+    second: Neuron ExtraBold SDF Atlas_40
+  - first:
+      213: 7959865899667498504
+    second: Neuron ExtraBold SDF Atlas_41
+  - first:
+      213: 1591647341121222999
+    second: Neuron ExtraBold SDF Atlas_42
+  - first:
+      213: -1822611754497723241
+    second: Neuron ExtraBold SDF Atlas_43
+  - first:
+      213: -5149256303926311598
+    second: Neuron ExtraBold SDF Atlas_44
+  - first:
+      213: 8527604491388966038
+    second: Neuron ExtraBold SDF Atlas_45
+  - first:
+      213: 1253268149051892872
+    second: Neuron ExtraBold SDF Atlas_46
+  - first:
+      213: -112679720467967592
+    second: Neuron ExtraBold SDF Atlas_47
+  - first:
+      213: -7899235138538534409
+    second: Neuron ExtraBold SDF Atlas_48
+  - first:
+      213: 8770171308241003812
+    second: Neuron ExtraBold SDF Atlas_49
+  - first:
+      213: 805245507830252559
+    second: Neuron ExtraBold SDF Atlas_50
+  - first:
+      213: -6571343133349973646
+    second: Neuron ExtraBold SDF Atlas_51
+  - first:
+      213: 5081188041093770414
+    second: Neuron ExtraBold SDF Atlas_52
+  - first:
+      213: 5713382224248446023
+    second: Neuron ExtraBold SDF Atlas_53
+  - first:
+      213: 2035791078609464604
+    second: Neuron ExtraBold SDF Atlas_54
+  - first:
+      213: -659603214107525721
+    second: Neuron ExtraBold SDF Atlas_55
+  - first:
+      213: 1982804662749064427
+    second: Neuron ExtraBold SDF Atlas_56
+  - first:
+      213: 3695215578283466521
+    second: Neuron ExtraBold SDF Atlas_57
+  - first:
+      213: 8928397565410397065
+    second: Neuron ExtraBold SDF Atlas_58
+  - first:
+      213: 6952956022023435593
+    second: Neuron ExtraBold SDF Atlas_59
+  - first:
+      213: -6555859073426620168
+    second: Neuron ExtraBold SDF Atlas_60
+  - first:
+      213: 6968935996179281860
+    second: Neuron ExtraBold SDF Atlas_61
+  - first:
+      213: -4620902342039367495
+    second: Neuron ExtraBold SDF Atlas_62
+  - first:
+      213: -1985757166956666402
+    second: Neuron ExtraBold SDF Atlas_63
+  - first:
+      213: -6310701209211347733
+    second: Neuron ExtraBold SDF Atlas_64
+  - first:
+      213: 216239851429483717
+    second: Neuron ExtraBold SDF Atlas_65
+  - first:
+      213: -6700938849491376217
+    second: Neuron ExtraBold SDF Atlas_66
+  - first:
+      213: -1313101820919664148
+    second: Neuron ExtraBold SDF Atlas_67
+  - first:
+      213: 9133924690741101035
+    second: Neuron ExtraBold SDF Atlas_68
+  - first:
+      213: -3591150292623054730
+    second: Neuron ExtraBold SDF Atlas_69
+  - first:
+      213: 1262117129791294377
+    second: Neuron ExtraBold SDF Atlas_70
+  - first:
+      213: -7697075139333899807
+    second: Neuron ExtraBold SDF Atlas_71
+  - first:
+      213: 939679320347904502
+    second: Neuron ExtraBold SDF Atlas_72
+  - first:
+      213: 4305221372252496442
+    second: Neuron ExtraBold SDF Atlas_73
+  - first:
+      213: -2130487977247915071
+    second: Neuron ExtraBold SDF Atlas_74
+  - first:
+      213: -6287461574544470455
+    second: Neuron ExtraBold SDF Atlas_75
+  - first:
+      213: -894747505867856419
+    second: Neuron ExtraBold SDF Atlas_76
+  - first:
+      213: -7680159448516320442
+    second: Neuron ExtraBold SDF Atlas_77
+  - first:
+      213: -1219118827103520746
+    second: Neuron ExtraBold SDF Atlas_78
+  - first:
+      213: -549688198829519056
+    second: Neuron ExtraBold SDF Atlas_79
+  - first:
+      213: 1126123963433938994
+    second: Neuron ExtraBold SDF Atlas_80
+  - first:
+      213: 7233497250412146705
+    second: Neuron ExtraBold SDF Atlas_81
+  - first:
+      213: -533494979280296253
+    second: Neuron ExtraBold SDF Atlas_82
+  - first:
+      213: -2455461968313670579
+    second: Neuron ExtraBold SDF Atlas_83
+  - first:
+      213: 5052364863909293737
+    second: Neuron ExtraBold SDF Atlas_84
+  - first:
+      213: 5585074717336633080
+    second: Neuron ExtraBold SDF Atlas_85
+  - first:
+      213: -6333057535291475726
+    second: Neuron ExtraBold SDF Atlas_86
+  - first:
+      213: -1332933644576735396
+    second: Neuron ExtraBold SDF Atlas_87
+  - first:
+      213: -3634746748794955564
+    second: Neuron ExtraBold SDF Atlas_88
+  - first:
+      213: 1446848995514777843
+    second: Neuron ExtraBold SDF Atlas_89
+  - first:
+      213: 3029147533694232609
+    second: Neuron ExtraBold SDF Atlas_90
+  - first:
+      213: -3851275692660755968
+    second: Neuron ExtraBold SDF Atlas_91
+  - first:
+      213: -6961617920451008331
+    second: Neuron ExtraBold SDF Atlas_92
+  - first:
+      213: 4960161591200720732
+    second: Neuron ExtraBold SDF Atlas_93
+  - first:
+      213: 3704533420107894196
+    second: Neuron ExtraBold SDF Atlas_94
+  - first:
+      213: 1262369721994139651
+    second: Neuron ExtraBold SDF Atlas_95
+  - first:
+      213: -4256179145421193144
+    second: Neuron ExtraBold SDF Atlas_96
+  - first:
+      213: 9028660778998536454
+    second: Neuron ExtraBold SDF Atlas_97
+  - first:
+      213: 4958484768963270483
+    second: Neuron ExtraBold SDF Atlas_98
+  - first:
+      213: 3846448170570853534
+    second: Neuron ExtraBold SDF Atlas_99
+  - first:
+      213: -6211846193971532088
+    second: Neuron ExtraBold SDF Atlas_100
+  - first:
+      213: -7094362759072142124
+    second: Neuron ExtraBold SDF Atlas_101
+  - first:
+      213: -2741487729473373959
+    second: Neuron ExtraBold SDF Atlas_102
+  - first:
+      213: -3513359204869303273
+    second: Neuron ExtraBold SDF Atlas_103
+  - first:
+      213: 8440692650099942236
+    second: Neuron ExtraBold SDF Atlas_104
+  - first:
+      213: 3963690624143441265
+    second: Neuron ExtraBold SDF Atlas_105
+  - first:
+      213: 7690889254860986400
+    second: Neuron ExtraBold SDF Atlas_106
+  - first:
+      213: 355946039507342446
+    second: Neuron ExtraBold SDF Atlas_107
+  - first:
+      213: -2856466887297878718
+    second: Neuron ExtraBold SDF Atlas_108
+  - first:
+      213: -8200167592297064038
+    second: Neuron ExtraBold SDF Atlas_109
+  - first:
+      213: 1012909904286864372
+    second: Neuron ExtraBold SDF Atlas_110
+  - first:
+      213: -4352840672539425451
+    second: Neuron ExtraBold SDF Atlas_111
+  - first:
+      213: 2645509675217677098
+    second: Neuron ExtraBold SDF Atlas_112
+  - first:
+      213: 8260060902415402935
+    second: Neuron ExtraBold SDF Atlas_113
+  - first:
+      213: 7855653436550490125
+    second: Neuron ExtraBold SDF Atlas_114
+  - first:
+      213: 660294435346361563
+    second: Neuron ExtraBold SDF Atlas_115
+  - first:
+      213: 5332724776144576194
+    second: Neuron ExtraBold SDF Atlas_116
+  - first:
+      213: -2963515118589522326
+    second: Neuron ExtraBold SDF Atlas_117
+  - first:
+      213: 9161879905037324732
+    second: Neuron ExtraBold SDF Atlas_118
+  - first:
+      213: 2371840545072725604
+    second: Neuron ExtraBold SDF Atlas_119
+  - first:
+      213: -9069272460771207101
+    second: Neuron ExtraBold SDF Atlas_120
+  - first:
+      213: -6563546659909436703
+    second: Neuron ExtraBold SDF Atlas_121
+  - first:
+      213: -2565222026978860413
+    second: Neuron ExtraBold SDF Atlas_122
+  - first:
+      213: 2289775280600035854
+    second: Neuron ExtraBold SDF Atlas_123
+  - first:
+      213: -3705641616154728508
+    second: Neuron ExtraBold SDF Atlas_124
+  - first:
+      213: 287602509889526902
+    second: Neuron ExtraBold SDF Atlas_125
+  - first:
+      213: -1881598377920137251
+    second: Neuron ExtraBold SDF Atlas_126
+  - first:
+      213: 7002820202970135650
+    second: Neuron ExtraBold SDF Atlas_127
+  - first:
+      213: -6774050990067667319
+    second: Neuron ExtraBold SDF Atlas_128
+  - first:
+      213: -4933085307925637293
+    second: Neuron ExtraBold SDF Atlas_129
+  - first:
+      213: 2316471660816841714
+    second: Neuron ExtraBold SDF Atlas_130
+  - first:
+      213: -1104527056000740092
+    second: Neuron ExtraBold SDF Atlas_131
+  - first:
+      213: 3697764064284486326
+    second: Neuron ExtraBold SDF Atlas_132
+  - first:
+      213: 3366886118448992881
+    second: Neuron ExtraBold SDF Atlas_133
+  - first:
+      213: -24031911319784945
+    second: Neuron ExtraBold SDF Atlas_134
+  - first:
+      213: -5836573404652113143
+    second: Neuron ExtraBold SDF Atlas_135
+  - first:
+      213: 7283977417618752049
+    second: Neuron ExtraBold SDF Atlas_136
+  - first:
+      213: -8436700106123021535
+    second: Neuron ExtraBold SDF Atlas_137
+  - first:
+      213: 4384391344259602638
+    second: Neuron ExtraBold SDF Atlas_138
+  - first:
+      213: -61613266009636220
+    second: Neuron ExtraBold SDF Atlas_139
+  - first:
+      213: 3799177706825130468
+    second: Neuron ExtraBold SDF Atlas_140
+  - first:
+      213: -1958032850865691208
+    second: Neuron ExtraBold SDF Atlas_141
+  - first:
+      213: -3569487939460787914
+    second: Neuron ExtraBold SDF Atlas_142
+  - first:
+      213: -6081467667321403918
+    second: Neuron ExtraBold SDF Atlas_143
+  - first:
+      213: 7342522181125493351
+    second: Neuron ExtraBold SDF Atlas_144
+  - first:
+      213: -5832339926217448378
+    second: Neuron ExtraBold SDF Atlas_145
+  - first:
+      213: 1485725238559297265
+    second: Neuron ExtraBold SDF Atlas_146
+  - first:
+      213: -1488646317579153573
+    second: Neuron ExtraBold SDF Atlas_147
+  - first:
+      213: -6671340526403679153
+    second: Neuron ExtraBold SDF Atlas_148
+  - first:
+      213: -8583142852658886114
+    second: Neuron ExtraBold SDF Atlas_149
+  - first:
+      213: -3184634267358352820
+    second: Neuron ExtraBold SDF Atlas_150
+  - first:
+      213: -7996747168170238423
+    second: Neuron ExtraBold SDF Atlas_151
+  - first:
+      213: -6346785246508059392
+    second: Neuron ExtraBold SDF Atlas_152
+  - first:
+      213: -5229174429105509385
+    second: Neuron ExtraBold SDF Atlas_153
+  - first:
+      213: 2859122196867265243
+    second: Neuron ExtraBold SDF Atlas_154
+  - first:
+      213: -4514874092411355854
+    second: Neuron ExtraBold SDF Atlas_155
+  - first:
+      213: -5662201464650440076
+    second: Neuron ExtraBold SDF Atlas_156
+  - first:
+      213: 841977993815346653
+    second: Neuron ExtraBold SDF Atlas_157
+  - first:
+      213: 7609934133551043511
+    second: Neuron ExtraBold SDF Atlas_158
+  - first:
+      213: -8516610297486484139
+    second: Neuron ExtraBold SDF Atlas_159
+  - first:
+      213: 3086737739146188679
+    second: Neuron ExtraBold SDF Atlas_160
+  - first:
+      213: -2120516267769081775
+    second: Neuron ExtraBold SDF Atlas_161
+  - first:
+      213: 6597115822426349900
+    second: Neuron ExtraBold SDF Atlas_162
+  - first:
+      213: 4846966917135032108
+    second: Neuron ExtraBold SDF Atlas_163
+  - first:
+      213: -26978542496676136
+    second: Neuron ExtraBold SDF Atlas_164
+  - first:
+      213: -7315078783773055715
+    second: Neuron ExtraBold SDF Atlas_165
+  - first:
+      213: 5860193808637172233
+    second: Neuron ExtraBold SDF Atlas_166
+  - first:
+      213: -4589782342547512994
+    second: Neuron ExtraBold SDF Atlas_167
+  - first:
+      213: 3871413907332779359
+    second: Neuron ExtraBold SDF Atlas_168
+  - first:
+      213: 1650906296187176333
+    second: Neuron ExtraBold SDF Atlas_169
+  - first:
+      213: -3188606061209714124
+    second: Neuron ExtraBold SDF Atlas_170
+  - first:
+      213: -7833227701556957292
+    second: Neuron ExtraBold SDF Atlas_171
+  - first:
+      213: 7474648569015131168
+    second: Neuron ExtraBold SDF Atlas_172
+  - first:
+      213: -2207549842559105059
+    second: Neuron ExtraBold SDF Atlas_173
+  - first:
+      213: 4363815776479536612
+    second: Neuron ExtraBold SDF Atlas_174
+  - first:
+      213: 8878169718284968973
+    second: Neuron ExtraBold SDF Atlas_175
+  - first:
+      213: -5763197721720365102
+    second: Neuron ExtraBold SDF Atlas_176
+  - first:
+      213: 736167690951142278
+    second: Neuron ExtraBold SDF Atlas_177
+  - first:
+      213: -4039451914277193702
+    second: Neuron ExtraBold SDF Atlas_178
+  - first:
+      213: 3774237807583626508
+    second: Neuron ExtraBold SDF Atlas_179
+  - first:
+      213: -3878582080657379052
+    second: Neuron ExtraBold SDF Atlas_180
+  - first:
+      213: 5245490659347792245
+    second: Neuron ExtraBold SDF Atlas_181
+  - first:
+      213: 7552670354232091795
+    second: Neuron ExtraBold SDF Atlas_182
+  - first:
+      213: -4793856827600627240
+    second: Neuron ExtraBold SDF Atlas_183
+  - first:
+      213: -2051583151961843954
+    second: Neuron ExtraBold SDF Atlas_184
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 922
+        width: 69
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 238bba2949e8866a0800000000000000
+      internalID: -6455753297068574670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_1
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 921
+        width: 59
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17e6e0f6f2da2a690800000000000000
+      internalID: -7592315602554950031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_2
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 918
+        width: 85
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73a373168d71f39a0800000000000000
+      internalID: -6251251539655574985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_3
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 905
+        width: 65
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38a024eef18c798d0800000000000000
+      internalID: -2839581000566961533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_4
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 963
+        width: 63
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0f62eb72f1d9ca90800000000000000
+      internalID: -7293067282159079669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_5
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 883
+        width: 59
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d5d18e2936eb2900800000000000000
+      internalID: 660874903607694804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_6
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 883
+        width: 59
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8c2e087679729a70800000000000000
+      internalID: 8832255368954260618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_7
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 963
+        width: 61
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b5a63827ac9b46c0800000000000000
+      internalID: -4158057589198379592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_8
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 947
+        width: 67
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce90ea5ca7c91cf00800000000000000
+      internalID: 1135360632190536172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_9
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 947
+        width: 88
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ce330eacd1483d40800000000000000
+      internalID: 5564269755684306627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_10
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 923
+        width: 75
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0583b419c169b930800000000000000
+      internalID: 4159463247116993805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_11
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 961
+        width: 61
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46e808e5080fe1b10800000000000000
+      internalID: 1954263722457337444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_12
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 961
+        width: 61
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a87109812ec22eb0800000000000000
+      internalID: -4746004413867263832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_13
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 915
+        width: 64
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b1fe6d167512ce40800000000000000
+      internalID: 5675122077484380600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_14
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 949
+        width: 63
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5272647ad8a9c08a0800000000000000
+      internalID: -6337520642429671643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_15
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 948
+        width: 59
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d70c8b20162f1f0d0800000000000000
+      internalID: -3390662545961860995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_16
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 948
+        width: 63
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d542558df48259a0800000000000000
+      internalID: -6245783508811102766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 837
+        width: 59
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2a089759ac08f770800000000000000
+      internalID: 8644673406196255276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_18
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 837
+        width: 69
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d7eb92f528560b80800000000000000
+      internalID: -8428952732569966631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_19
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 836
+        width: 49
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d489dcf9cd468120800000000000000
+      internalID: 2415703780056728785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_20
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 824
+        width: 81
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 447ec9d2428f3c7a0800000000000000
+      internalID: -6357965414649239740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_21
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 868
+        width: 92
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a14b220066a00110800000000000000
+      internalID: 1225162029928235431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_22
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 844
+        width: 76
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b49acfdac8afacf20800000000000000
+      internalID: 3443840347199547723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_23
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 811
+        width: 48
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c430b8eafc032e9c0800000000000000
+      internalID: -3899500658804718772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_24
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 811
+        width: 86
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ef5c2b3baa2a6900800000000000000
+      internalID: 678401608793219043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_25
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 889
+        width: 64
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4e30ca60f2635480800000000000000
+      internalID: -8911670452913422773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_26
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 843
+        width: 64
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bcf0a335d431c060800000000000000
+      internalID: 6971911788445105330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_27
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 877
+        width: 63
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10f72fb3bbf3c4060800000000000000
+      internalID: 6938991199268273921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_28
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 877
+        width: 61
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f3ca3b248dffa260800000000000000
+      internalID: 7111181080744084472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_29
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 873
+        width: 59
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd7d5a1544ec88af0800000000000000
+      internalID: -393838174571997220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 752
+        width: 66
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18579e80dbe9005d0800000000000000
+      internalID: -3098302008895375999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_31
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 752
+        width: 69
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc8d4244773d4d2a0800000000000000
+      internalID: -6713508635304732467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_32
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 742
+        width: 49
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14ba48399fc3a5340800000000000000
+      internalID: 4853258591064599361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_33
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 803
+        width: 92
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5733b4cde94cfeb00800000000000000
+      internalID: 860122240430846837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_34
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 788
+        width: 49
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3e89cb1bbbf6c290800000000000000
+      internalID: -7870326517739712965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_35
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 788
+        width: 86
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2189bb40fdf26fa0800000000000000
+      internalID: -5808801360850091731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_36
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 765
+        width: 76
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a062ed41cfcfc790800000000000000
+      internalID: -7507553624661008221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_37
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 732
+        width: 67
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87f8f490f09773d60800000000000000
+      internalID: 7869891979340910456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_38
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 772
+        width: 65
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aab576d0313291ac0800000000000000
+      internalID: -3884034638894113878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_39
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 792
+        width: 65
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9cca68b83b8eff40800000000000000
+      internalID: 5764197648809249951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_40
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 805
+        width: 63
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98f6f5c5b6a83d2e0800000000000000
+      internalID: -2102184407335997559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_41
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 810
+        width: 63
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8062d61dcdf177e60800000000000000
+      internalID: 7959865899667498504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_42
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 738
+        width: 65
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 759b937e2daa61610800000000000000
+      internalID: 1591647341121222999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_43
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 666
+        width: 91
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79436b11448c4b6e0800000000000000
+      internalID: -1822611754497723241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_44
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 658
+        width: 68
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 255080b6caa2a88b0800000000000000
+      internalID: -5149256303926311598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_45
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 723
+        width: 71
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 694d34e8a13285670800000000000000
+      internalID: 8527604491388966038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_46
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 722
+        width: 68
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 884ac80ddb0846110800000000000000
+      internalID: 1253268149051892872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_47
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 708
+        width: 88
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 891dd18246eaf6ef0800000000000000
+      internalID: -112679720467967592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_48
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 686
+        width: 86
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f980225e77406290800000000000000
+      internalID: -7899235138538534409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_49
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 726
+        width: 72
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4252707a658e5b970800000000000000
+      internalID: 8770171308241003812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_50
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 700
+        width: 66
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f048333e58ecc2b00800000000000000
+      internalID: 805245507830252559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_51
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 703
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 271f8779c36edc4a0800000000000000
+      internalID: -6571343133349973646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_52
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 721
+        width: 66
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eac6b522a91048640800000000000000
+      internalID: 5081188041093770414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_53
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 734
+        width: 66
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74c1c56bcd20a4f40800000000000000
+      internalID: 5713382224248446023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_54
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 662
+        width: 66
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1d2d6d2335904c10800000000000000
+      internalID: 2035791078609464604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_55
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 667
+        width: 66
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ad3a6a1f5e98d6f0800000000000000
+      internalID: -659603214107525721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 65
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bec652ed556548b10800000000000000
+      internalID: 1982804662749064427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_57
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 572
+        width: 76
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91f53188dfa084330800000000000000
+      internalID: 3695215578283466521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_58
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 641
+        width: 47
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98bcfb3f74a08eb70800000000000000
+      internalID: 8928397565410397065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_59
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 641
+        width: 70
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 945be97e9acdd7060800000000000000
+      internalID: 6952956022023435593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_60
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 627
+        width: 68
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f082ea38e8e405a0800000000000000
+      internalID: -6555859073426620168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_61
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 606
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c7f2b29d52a6b060800000000000000
+      internalID: 6968935996179281860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_62
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 653
+        width: 69
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b019f07dc14fdfb0800000000000000
+      internalID: -4620902342039367495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_63
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 647
+        width: 65
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed1ac5da06c2174e0800000000000000
+      internalID: -1985757166956666402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_64
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 641
+        width: 69
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bec545d8fa2eb68a0800000000000000
+      internalID: -6310701209211347733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_65
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 628
+        width: 66
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c4dcbacffc300300800000000000000
+      internalID: 216239851429483717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_66
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 658
+        width: 58
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a7a3769e9b7103a0800000000000000
+      internalID: -6700938849491376217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_67
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 603
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce13a2ad9dce6cde0800000000000000
+      internalID: -1313101820919664148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_68
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 650
+        width: 67
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be10bc4dc1832ce70800000000000000
+      internalID: 9133924690741101035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_69
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 591
+        width: 67
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 678a929e5dba92ec0800000000000000
+      internalID: -3591150292623054730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_70
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 595
+        width: 66
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ab4522b7d0f38110800000000000000
+      internalID: 1262117129791294377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_71
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 558
+        width: 69
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e9338e01fe7e2590800000000000000
+      internalID: -7697075139333899807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_72
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 546
+        width: 70
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f90e1cfc596a0d00800000000000000
+      internalID: 939679320347904502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_73
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 525
+        width: 67
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a32a78c27083fbb30800000000000000
+      internalID: 4305221372252496442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_74
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 502
+        width: 75
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c3c5e5f87cfe62e0800000000000000
+      internalID: -2130487977247915071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_75
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 574
+        width: 74
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94ecb56a2037eb8a0800000000000000
+      internalID: -6287461574544470455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_76
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 568
+        width: 68
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd5641d42e73593f0800000000000000
+      internalID: -894747505867856419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_77
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 562
+        width: 65
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64323dc3ca79a6590800000000000000
+      internalID: -7680159448516320442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_78
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 559
+        width: 65
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 618f08bc2e1d41fe0800000000000000
+      internalID: -1219118827103520746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_79
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 556
+        width: 79
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03fca8bde7d1f58f0800000000000000
+      internalID: -549688198829519056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_80
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 547
+        width: 48
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 230f88d37cbc0af00800000000000000
+      internalID: 1126123963433938994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_81
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 579
+        width: 67
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 110b49eac6b826460800000000000000
+      internalID: 7233497250412146705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_82
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 508
+        width: 69
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c62b869425a898f0800000000000000
+      internalID: -533494979280296253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_83
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 520
+        width: 68
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d44ae2379527cedd0800000000000000
+      internalID: -2455461968313670579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_84
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 524
+        width: 67
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ae6afc331b9d1640800000000000000
+      internalID: 5052364863909293737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_85
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 482
+        width: 62
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fe7dda4ddb228d40800000000000000
+      internalID: 5585074717336633080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_86
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 482
+        width: 60
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f837d2c9b57c18a0800000000000000
+      internalID: -6333057535291475726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_87
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 472
+        width: 72
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5f36d599e7708de0800000000000000
+      internalID: -1332933644576735396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_88
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 463
+        width: 67
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d81295f619ce8dc0800000000000000
+      internalID: -3634746748794955564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_89
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 444
+        width: 68
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f00a45ee7d341410800000000000000
+      internalID: 1446848995514777843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_90
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 421
+        width: 65
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 128681ef1a1b90a20800000000000000
+      internalID: 3029147533694232609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_91
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 414
+        width: 74
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 002fbd699258d8ac0800000000000000
+      internalID: -3851275692660755968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_92
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 494
+        width: 67
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b82685b26d536f90800000000000000
+      internalID: -6961617920451008331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_93
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 489
+        width: 74
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c572e08efa806d440800000000000000
+      internalID: 4960161591200720732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_94
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 483
+        width: 68
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bd0814a485296330800000000000000
+      internalID: 3704533420107894196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_95
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 480
+        width: 65
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3085ba6e296d48110800000000000000
+      internalID: 1262369721994139651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_96
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 478
+        width: 59
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8408eb01e930fe4c0800000000000000
+      internalID: -4256179145421193144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_97
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 475
+        width: 71
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60995b1842f3c4d70800000000000000
+      internalID: 9028660778998536454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_98
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 437
+        width: 48
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3579d3e40a310d440800000000000000
+      internalID: 4958484768963270483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_99
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 475
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9ca3d55b34516530800000000000000
+      internalID: 3846448170570853534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_100
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 475
+        width: 51
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cee6f06cc61bc9a0800000000000000
+      internalID: -6211846193971532088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_101
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 387
+        width: 87
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dcaebd78a2cb8d90800000000000000
+      internalID: -7094362759072142124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_102
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 384
+        width: 70
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f8b5a06f6744f9d0800000000000000
+      internalID: -2741487729473373959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_103
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 377
+        width: 68
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7149a61fa6a0e3fc0800000000000000
+      internalID: -3513359204869303273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_104
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 361
+        width: 66
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c53257b9e3d532570800000000000000
+      internalID: 8440692650099942236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_105
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 409
+        width: 67
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17dbd934f9bd10730800000000000000
+      internalID: 3963690624143441265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_106
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 404
+        width: 73
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0289bda77078bba60800000000000000
+      internalID: 7690889254860986400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_107
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 401
+        width: 68
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e64da0c790390f400800000000000000
+      internalID: 355946039507342446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_108
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 399
+        width: 65
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 245b1fd008acb58d0800000000000000
+      internalID: -2856466887297878718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_109
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 397
+        width: 59
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a99967a6507233e80800000000000000
+      internalID: -8200167592297064038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_110
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 389
+        width: 70
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f35e7af0349e0e00800000000000000
+      internalID: 1012909904286864372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_111
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 381
+        width: 49
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5554a6d787a9793c0800000000000000
+      internalID: -4352840672539425451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_112
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 428
+        width: 74
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2b6539780db6b420800000000000000
+      internalID: 2645509675217677098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_113
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 357
+        width: 75
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b7009780a1a1a270800000000000000
+      internalID: 8260060902415402935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_114
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 291
+        width: 55
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d082b24fd23e40d60800000000000000
+      internalID: 7855653436550490125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_115
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 290
+        width: 69
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdcacf16a46d92900800000000000000
+      internalID: 660294435346361563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_116
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 290
+        width: 57
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ce950f0ee4a10a40800000000000000
+      internalID: 5332724776144576194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_117
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 275
+        width: 62
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6ec8f573ba7fd6d0800000000000000
+      internalID: -2963515118589522326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_118
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 258
+        width: 69
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb11a8e5b39852f70800000000000000
+      internalID: 9161879905037324732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_119
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 340
+        width: 67
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46ebde0c8687ae020800000000000000
+      internalID: 2371840545072725604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_120
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 333
+        width: 65
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 348df7c7fb8732280800000000000000
+      internalID: -9069272460771207101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_121
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 329
+        width: 73
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ea7565861999e4a0800000000000000
+      internalID: -6563546659909436703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_122
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 324
+        width: 67
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 382eae75820866cd0800000000000000
+      internalID: -2565222026978860413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_123
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 322
+        width: 72
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e02b2a76c7ae6cf10800000000000000
+      internalID: 2289775280600035854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_124
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 320
+        width: 68
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c7613c559ae29cc0800000000000000
+      internalID: -3705641616154728508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_125
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 318
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67cd97e75f4cdf300800000000000000
+      internalID: 287602509889526902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_126
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 317
+        width: 84
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd77e129e3833e5e0800000000000000
+      internalID: -1881598377920137251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_127
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 309
+        width: 68
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26cb6ff3fd30f2160800000000000000
+      internalID: 7002820202970135650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_128
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 286
+        width: 84
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98e22a6d38cbdf1a0800000000000000
+      internalID: -6774050990067667319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_129
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 195
+        width: 55
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 357d46e8c092a8bb0800000000000000
+      internalID: -4933085307925637293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_130
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 195
+        width: 71
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fb3f3bc3b2c52020800000000000000
+      internalID: 2316471660816841714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_131
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 188
+        width: 57
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 405944e9e7eeba0f0800000000000000
+      internalID: -1104527056000740092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_132
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 181
+        width: 54
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6baa1ea23d8115330800000000000000
+      internalID: 3697764064284486326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_133
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 173
+        width: 69
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1729851161599be20800000000000000
+      internalID: 3366886118448992881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_134
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 170
+        width: 66
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f02b28e9a1f9aaff0800000000000000
+      internalID: -24031911319784945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_135
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 252
+        width: 67
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 903f7367963500fa0800000000000000
+      internalID: -5836573404652113143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_136
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 248
+        width: 65
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13202218ed2e51560800000000000000
+      internalID: 7283977417618752049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_137
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 244
+        width: 71
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 123790af3f1daea80800000000000000
+      internalID: -8436700106123021535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_138
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 242
+        width: 67
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec814e6b2bc78dc30800000000000000
+      internalID: 4384391344259602638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_139
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 241
+        width: 70
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4824b0e9f0b152ff0800000000000000
+      internalID: -61613266009636220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_140
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 239
+        width: 68
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e125e5def369b430800000000000000
+      internalID: 3799177706825130468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_141
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 238
+        width: 63
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b5ea990f7ba3d4e0800000000000000
+      internalID: -1958032850865691208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_142
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 237
+        width: 82
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 631166a81a1a67ec0800000000000000
+      internalID: -3569487939460787914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_143
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 222
+        width: 67
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f5c848a0694a9ba0800000000000000
+      internalID: -6081467667321403918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_144
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 214
+        width: 67
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76259697501e5e560800000000000000
+      internalID: 7342522181125493351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_145
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 99
+        width: 69
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6442b78fcbd5f0fa0800000000000000
+      internalID: -5832339926217448378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_146
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 94
+        width: 65
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fec8269b3b5e9410800000000000000
+      internalID: 1485725238559297265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_147
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 94
+        width: 52
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5f4084bf04475be0800000000000000
+      internalID: -1488646317579153573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_148
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 87
+        width: 53
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4c8a043323aa63a0800000000000000
+      internalID: -6671340526403679153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_149
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 85
+        width: 69
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1a85da0d0d82e880800000000000000
+      internalID: -8583142852658886114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_150
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 85
+        width: 66
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4aa19ab108edc3d0800000000000000
+      internalID: -3184634267358352820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_151
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 167
+        width: 66
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92e1a92b1d8d50190800000000000000
+      internalID: -7996747168170238423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_152
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 163
+        width: 65
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 005723ce170bbe7a0800000000000000
+      internalID: -6346785246508059392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_153
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 162
+        width: 68
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fb2c94ef8d3e67b0800000000000000
+      internalID: -5229174429105509385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_154
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 161
+        width: 65
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd235b16d74ada720800000000000000
+      internalID: 2859122196867265243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_155
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 160
+        width: 70
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23df43c0fe1f751c0800000000000000
+      internalID: -4514874092411355854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_156
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 159
+        width: 68
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47260dc74c1db61b0800000000000000
+      internalID: -5662201464650440076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_157
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 158
+        width: 63
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddd4f0e368e4fab00800000000000000
+      internalID: 841977993815346653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_158
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 150
+        width: 68
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b31e6a76caeb9960800000000000000
+      internalID: 7609934133551043511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_159
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 150
+        width: 67
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55d52efae0ceec980800000000000000
+      internalID: -8516610297486484139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_160
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 142
+        width: 67
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 787d9989e9b46da20800000000000000
+      internalID: 3086737739146188679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_161
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 69
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 150df2f70b96292e0800000000000000
+      internalID: -2120516267769081775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_162
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 0
+        width: 68
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c41e4d133e9ad8b50800000000000000
+      internalID: 6597115822426349900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_163
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 0
+        width: 51
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2f57e51bb2e34340800000000000000
+      internalID: 4846966917135032108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_164
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 0
+        width: 69
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d68de5982720aff0800000000000000
+      internalID: -26978542496676136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_165
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 0
+        width: 67
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d15e5356a9e9b7a90800000000000000
+      internalID: -7315078783773055715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_166
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 0
+        width: 60
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90a13c66837935150800000000000000
+      internalID: 5860193808637172233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_167
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 82
+        width: 66
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e516814f641dd40c0800000000000000
+      internalID: -4589782342547512994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_168
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 0
+        width: 65
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5dc315ef660ab530800000000000000
+      internalID: 3871413907332779359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_169
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 81
+        width: 65
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8541bd878239e610800000000000000
+      internalID: 1650906296187176333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_170
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 0
+        width: 65
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43200f86eabcfb3d0800000000000000
+      internalID: -3188606061209714124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_171
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 81
+        width: 68
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49fa2fb58e8ca4390800000000000000
+      internalID: -7833227701556957292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_172
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 80
+        width: 64
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02c570965494bb760800000000000000
+      internalID: 7474648569015131168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_173
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 80
+        width: 70
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd78b424d153d51e0800000000000000
+      internalID: -2207549842559105059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_174
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 79
+        width: 68
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e5ee4604536f8c30800000000000000
+      internalID: 4363815776479536612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_175
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 79
+        width: 62
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d04610af158953b70800000000000000
+      internalID: 8878169718284968973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_176
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 79
+        width: 82
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2df5482f4320500b0800000000000000
+      internalID: -5763197721720365102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_177
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 71
+        width: 85
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68b23425d94673a00800000000000000
+      internalID: 736167690951142278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_178
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 0
+        width: 68
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a187c3ac2ebf0f7c0800000000000000
+      internalID: -4039451914277193702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_179
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 0
+        width: 62
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c050fda0a49c06430800000000000000
+      internalID: 3774237807583626508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_180
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 0
+        width: 69
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 411b832b5228c2ac0800000000000000
+      internalID: -3878582080657379052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_181
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 0
+        width: 68
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5710e0f76f9bbc840800000000000000
+      internalID: 5245490659347792245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_182
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 0
+        width: 48
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 394a0a1eba970d860800000000000000
+      internalID: 7552670354232091795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_183
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 0
+        width: 48
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d998ce3d9cc87db0800000000000000
+      internalID: -4793856827600627240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neuron ExtraBold SDF Atlas_184
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 0
+        width: 85
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0753283eff4783e0800000000000000
+      internalID: -2051583151961843954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Neuron ExtraBold SDF Atlas_0: -6455753297068574670
+      Neuron ExtraBold SDF Atlas_1: -7592315602554950031
+      Neuron ExtraBold SDF Atlas_10: 4159463247116993805
+      Neuron ExtraBold SDF Atlas_100: -6211846193971532088
+      Neuron ExtraBold SDF Atlas_101: -7094362759072142124
+      Neuron ExtraBold SDF Atlas_102: -2741487729473373959
+      Neuron ExtraBold SDF Atlas_103: -3513359204869303273
+      Neuron ExtraBold SDF Atlas_104: 8440692650099942236
+      Neuron ExtraBold SDF Atlas_105: 3963690624143441265
+      Neuron ExtraBold SDF Atlas_106: 7690889254860986400
+      Neuron ExtraBold SDF Atlas_107: 355946039507342446
+      Neuron ExtraBold SDF Atlas_108: -2856466887297878718
+      Neuron ExtraBold SDF Atlas_109: -8200167592297064038
+      Neuron ExtraBold SDF Atlas_11: 1954263722457337444
+      Neuron ExtraBold SDF Atlas_110: 1012909904286864372
+      Neuron ExtraBold SDF Atlas_111: -4352840672539425451
+      Neuron ExtraBold SDF Atlas_112: 2645509675217677098
+      Neuron ExtraBold SDF Atlas_113: 8260060902415402935
+      Neuron ExtraBold SDF Atlas_114: 7855653436550490125
+      Neuron ExtraBold SDF Atlas_115: 660294435346361563
+      Neuron ExtraBold SDF Atlas_116: 5332724776144576194
+      Neuron ExtraBold SDF Atlas_117: -2963515118589522326
+      Neuron ExtraBold SDF Atlas_118: 9161879905037324732
+      Neuron ExtraBold SDF Atlas_119: 2371840545072725604
+      Neuron ExtraBold SDF Atlas_12: -4746004413867263832
+      Neuron ExtraBold SDF Atlas_120: -9069272460771207101
+      Neuron ExtraBold SDF Atlas_121: -6563546659909436703
+      Neuron ExtraBold SDF Atlas_122: -2565222026978860413
+      Neuron ExtraBold SDF Atlas_123: 2289775280600035854
+      Neuron ExtraBold SDF Atlas_124: -3705641616154728508
+      Neuron ExtraBold SDF Atlas_125: 287602509889526902
+      Neuron ExtraBold SDF Atlas_126: -1881598377920137251
+      Neuron ExtraBold SDF Atlas_127: 7002820202970135650
+      Neuron ExtraBold SDF Atlas_128: -6774050990067667319
+      Neuron ExtraBold SDF Atlas_129: -4933085307925637293
+      Neuron ExtraBold SDF Atlas_13: 5675122077484380600
+      Neuron ExtraBold SDF Atlas_130: 2316471660816841714
+      Neuron ExtraBold SDF Atlas_131: -1104527056000740092
+      Neuron ExtraBold SDF Atlas_132: 3697764064284486326
+      Neuron ExtraBold SDF Atlas_133: 3366886118448992881
+      Neuron ExtraBold SDF Atlas_134: -24031911319784945
+      Neuron ExtraBold SDF Atlas_135: -5836573404652113143
+      Neuron ExtraBold SDF Atlas_136: 7283977417618752049
+      Neuron ExtraBold SDF Atlas_137: -8436700106123021535
+      Neuron ExtraBold SDF Atlas_138: 4384391344259602638
+      Neuron ExtraBold SDF Atlas_139: -61613266009636220
+      Neuron ExtraBold SDF Atlas_14: -6337520642429671643
+      Neuron ExtraBold SDF Atlas_140: 3799177706825130468
+      Neuron ExtraBold SDF Atlas_141: -1958032850865691208
+      Neuron ExtraBold SDF Atlas_142: -3569487939460787914
+      Neuron ExtraBold SDF Atlas_143: -6081467667321403918
+      Neuron ExtraBold SDF Atlas_144: 7342522181125493351
+      Neuron ExtraBold SDF Atlas_145: -5832339926217448378
+      Neuron ExtraBold SDF Atlas_146: 1485725238559297265
+      Neuron ExtraBold SDF Atlas_147: -1488646317579153573
+      Neuron ExtraBold SDF Atlas_148: -6671340526403679153
+      Neuron ExtraBold SDF Atlas_149: -8583142852658886114
+      Neuron ExtraBold SDF Atlas_15: -3390662545961860995
+      Neuron ExtraBold SDF Atlas_150: -3184634267358352820
+      Neuron ExtraBold SDF Atlas_151: -7996747168170238423
+      Neuron ExtraBold SDF Atlas_152: -6346785246508059392
+      Neuron ExtraBold SDF Atlas_153: -5229174429105509385
+      Neuron ExtraBold SDF Atlas_154: 2859122196867265243
+      Neuron ExtraBold SDF Atlas_155: -4514874092411355854
+      Neuron ExtraBold SDF Atlas_156: -5662201464650440076
+      Neuron ExtraBold SDF Atlas_157: 841977993815346653
+      Neuron ExtraBold SDF Atlas_158: 7609934133551043511
+      Neuron ExtraBold SDF Atlas_159: -8516610297486484139
+      Neuron ExtraBold SDF Atlas_16: -6245783508811102766
+      Neuron ExtraBold SDF Atlas_160: 3086737739146188679
+      Neuron ExtraBold SDF Atlas_161: -2120516267769081775
+      Neuron ExtraBold SDF Atlas_162: 6597115822426349900
+      Neuron ExtraBold SDF Atlas_163: 4846966917135032108
+      Neuron ExtraBold SDF Atlas_164: -26978542496676136
+      Neuron ExtraBold SDF Atlas_165: -7315078783773055715
+      Neuron ExtraBold SDF Atlas_166: 5860193808637172233
+      Neuron ExtraBold SDF Atlas_167: -4589782342547512994
+      Neuron ExtraBold SDF Atlas_168: 3871413907332779359
+      Neuron ExtraBold SDF Atlas_169: 1650906296187176333
+      Neuron ExtraBold SDF Atlas_17: 8644673406196255276
+      Neuron ExtraBold SDF Atlas_170: -3188606061209714124
+      Neuron ExtraBold SDF Atlas_171: -7833227701556957292
+      Neuron ExtraBold SDF Atlas_172: 7474648569015131168
+      Neuron ExtraBold SDF Atlas_173: -2207549842559105059
+      Neuron ExtraBold SDF Atlas_174: 4363815776479536612
+      Neuron ExtraBold SDF Atlas_175: 8878169718284968973
+      Neuron ExtraBold SDF Atlas_176: -5763197721720365102
+      Neuron ExtraBold SDF Atlas_177: 736167690951142278
+      Neuron ExtraBold SDF Atlas_178: -4039451914277193702
+      Neuron ExtraBold SDF Atlas_179: 3774237807583626508
+      Neuron ExtraBold SDF Atlas_18: -8428952732569966631
+      Neuron ExtraBold SDF Atlas_180: -3878582080657379052
+      Neuron ExtraBold SDF Atlas_181: 5245490659347792245
+      Neuron ExtraBold SDF Atlas_182: 7552670354232091795
+      Neuron ExtraBold SDF Atlas_183: -4793856827600627240
+      Neuron ExtraBold SDF Atlas_184: -2051583151961843954
+      Neuron ExtraBold SDF Atlas_19: 2415703780056728785
+      Neuron ExtraBold SDF Atlas_2: -6251251539655574985
+      Neuron ExtraBold SDF Atlas_20: -6357965414649239740
+      Neuron ExtraBold SDF Atlas_21: 1225162029928235431
+      Neuron ExtraBold SDF Atlas_22: 3443840347199547723
+      Neuron ExtraBold SDF Atlas_23: -3899500658804718772
+      Neuron ExtraBold SDF Atlas_24: 678401608793219043
+      Neuron ExtraBold SDF Atlas_25: -8911670452913422773
+      Neuron ExtraBold SDF Atlas_26: 6971911788445105330
+      Neuron ExtraBold SDF Atlas_27: 6938991199268273921
+      Neuron ExtraBold SDF Atlas_28: 7111181080744084472
+      Neuron ExtraBold SDF Atlas_29: -393838174571997220
+      Neuron ExtraBold SDF Atlas_3: -2839581000566961533
+      Neuron ExtraBold SDF Atlas_30: -3098302008895375999
+      Neuron ExtraBold SDF Atlas_31: -6713508635304732467
+      Neuron ExtraBold SDF Atlas_32: 4853258591064599361
+      Neuron ExtraBold SDF Atlas_33: 860122240430846837
+      Neuron ExtraBold SDF Atlas_34: -7870326517739712965
+      Neuron ExtraBold SDF Atlas_35: -5808801360850091731
+      Neuron ExtraBold SDF Atlas_36: -7507553624661008221
+      Neuron ExtraBold SDF Atlas_37: 7869891979340910456
+      Neuron ExtraBold SDF Atlas_38: -3884034638894113878
+      Neuron ExtraBold SDF Atlas_39: 5764197648809249951
+      Neuron ExtraBold SDF Atlas_4: -7293067282159079669
+      Neuron ExtraBold SDF Atlas_40: -2102184407335997559
+      Neuron ExtraBold SDF Atlas_41: 7959865899667498504
+      Neuron ExtraBold SDF Atlas_42: 1591647341121222999
+      Neuron ExtraBold SDF Atlas_43: -1822611754497723241
+      Neuron ExtraBold SDF Atlas_44: -5149256303926311598
+      Neuron ExtraBold SDF Atlas_45: 8527604491388966038
+      Neuron ExtraBold SDF Atlas_46: 1253268149051892872
+      Neuron ExtraBold SDF Atlas_47: -112679720467967592
+      Neuron ExtraBold SDF Atlas_48: -7899235138538534409
+      Neuron ExtraBold SDF Atlas_49: 8770171308241003812
+      Neuron ExtraBold SDF Atlas_5: 660874903607694804
+      Neuron ExtraBold SDF Atlas_50: 805245507830252559
+      Neuron ExtraBold SDF Atlas_51: -6571343133349973646
+      Neuron ExtraBold SDF Atlas_52: 5081188041093770414
+      Neuron ExtraBold SDF Atlas_53: 5713382224248446023
+      Neuron ExtraBold SDF Atlas_54: 2035791078609464604
+      Neuron ExtraBold SDF Atlas_55: -659603214107525721
+      Neuron ExtraBold SDF Atlas_56: 1982804662749064427
+      Neuron ExtraBold SDF Atlas_57: 3695215578283466521
+      Neuron ExtraBold SDF Atlas_58: 8928397565410397065
+      Neuron ExtraBold SDF Atlas_59: 6952956022023435593
+      Neuron ExtraBold SDF Atlas_6: 8832255368954260618
+      Neuron ExtraBold SDF Atlas_60: -6555859073426620168
+      Neuron ExtraBold SDF Atlas_61: 6968935996179281860
+      Neuron ExtraBold SDF Atlas_62: -4620902342039367495
+      Neuron ExtraBold SDF Atlas_63: -1985757166956666402
+      Neuron ExtraBold SDF Atlas_64: -6310701209211347733
+      Neuron ExtraBold SDF Atlas_65: 216239851429483717
+      Neuron ExtraBold SDF Atlas_66: -6700938849491376217
+      Neuron ExtraBold SDF Atlas_67: -1313101820919664148
+      Neuron ExtraBold SDF Atlas_68: 9133924690741101035
+      Neuron ExtraBold SDF Atlas_69: -3591150292623054730
+      Neuron ExtraBold SDF Atlas_7: -4158057589198379592
+      Neuron ExtraBold SDF Atlas_70: 1262117129791294377
+      Neuron ExtraBold SDF Atlas_71: -7697075139333899807
+      Neuron ExtraBold SDF Atlas_72: 939679320347904502
+      Neuron ExtraBold SDF Atlas_73: 4305221372252496442
+      Neuron ExtraBold SDF Atlas_74: -2130487977247915071
+      Neuron ExtraBold SDF Atlas_75: -6287461574544470455
+      Neuron ExtraBold SDF Atlas_76: -894747505867856419
+      Neuron ExtraBold SDF Atlas_77: -7680159448516320442
+      Neuron ExtraBold SDF Atlas_78: -1219118827103520746
+      Neuron ExtraBold SDF Atlas_79: -549688198829519056
+      Neuron ExtraBold SDF Atlas_8: 1135360632190536172
+      Neuron ExtraBold SDF Atlas_80: 1126123963433938994
+      Neuron ExtraBold SDF Atlas_81: 7233497250412146705
+      Neuron ExtraBold SDF Atlas_82: -533494979280296253
+      Neuron ExtraBold SDF Atlas_83: -2455461968313670579
+      Neuron ExtraBold SDF Atlas_84: 5052364863909293737
+      Neuron ExtraBold SDF Atlas_85: 5585074717336633080
+      Neuron ExtraBold SDF Atlas_86: -6333057535291475726
+      Neuron ExtraBold SDF Atlas_87: -1332933644576735396
+      Neuron ExtraBold SDF Atlas_88: -3634746748794955564
+      Neuron ExtraBold SDF Atlas_89: 1446848995514777843
+      Neuron ExtraBold SDF Atlas_9: 5564269755684306627
+      Neuron ExtraBold SDF Atlas_90: 3029147533694232609
+      Neuron ExtraBold SDF Atlas_91: -3851275692660755968
+      Neuron ExtraBold SDF Atlas_92: -6961617920451008331
+      Neuron ExtraBold SDF Atlas_93: 4960161591200720732
+      Neuron ExtraBold SDF Atlas_94: 3704533420107894196
+      Neuron ExtraBold SDF Atlas_95: 1262369721994139651
+      Neuron ExtraBold SDF Atlas_96: -4256179145421193144
+      Neuron ExtraBold SDF Atlas_97: 9028660778998536454
+      Neuron ExtraBold SDF Atlas_98: 4958484768963270483
+      Neuron ExtraBold SDF Atlas_99: 3846448170570853534
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

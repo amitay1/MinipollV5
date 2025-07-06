@@ -1,0 +1,1859 @@
+fileFormatVersion: 2
+guid: 6532b87341cf51f4a90d0541be0433aa
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6819437739818600383
+    second: SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_0
+  - first:
+      213: 4809210885525924905
+    second: SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_1
+  - first:
+      213: -8267131938805823399
+    second: SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_2
+  - first:
+      213: -5331137202300454691
+    second: SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_3
+  - first:
+      213: -7315884297644021216
+    second: SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_4
+  - first:
+      213: 3774005402024433599
+    second: SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_5
+  - first:
+      213: -2678810546722210212
+    second: SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_6
+  - first:
+      213: -6945904800998456113
+    second: SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_7
+  - first:
+      213: 7977772320164047503
+    second: SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_8
+  - first:
+      213: -4685970849383650003
+    second: SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_9
+  - first:
+      213: 8463753723999631556
+    second: SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_10
+  - first:
+      213: -7593086783199851496
+    second: SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_11
+  - first:
+      213: -2940150073624172206
+    second: SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_12
+  - first:
+      213: -6386097663998572362
+    second: SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_13
+  - first:
+      213: 6188499774588793312
+    second: SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_14
+  - first:
+      213: -6615725282394475073
+    second: SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_15
+  - first:
+      213: -8957471732064710484
+    second: SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_16
+  - first:
+      213: 1643685600612028341
+    second: SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_17
+  - first:
+      213: -2566041201931896135
+    second: SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_18
+  - first:
+      213: 2015912879704742976
+    second: SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_19
+  - first:
+      213: -7315000276988665607
+    second: SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_20
+  - first:
+      213: 7087336953280148090
+    second: SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_21
+  - first:
+      213: 2773310970624495525
+    second: SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_22
+  - first:
+      213: 8961734282273016604
+    second: SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_23
+  - first:
+      213: 3189051732986127774
+    second: SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_24
+  - first:
+      213: -6780915247466161839
+    second: SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_25
+  - first:
+      213: 4055204289393731165
+    second: SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_26
+  - first:
+      213: -415053444676396830
+    second: SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_27
+  - first:
+      213: 6820336097896992846
+    second: SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_28
+  - first:
+      213: -2213819406597118806
+    second: SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_29
+  - first:
+      213: -8301105666743908970
+    second: SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_30
+  - first:
+      213: 4776268235437099152
+    second: SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_31
+  - first:
+      213: 6473682472549370693
+    second: SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_32
+  - first:
+      213: 7242482442884260297
+    second: SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_33
+  - first:
+      213: -6595960957784230650
+    second: SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_34
+  - first:
+      213: 8847046420515256658
+    second: SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_35
+  - first:
+      213: 7313733514632145654
+    second: SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_36
+  - first:
+      213: 4785322806479384487
+    second: SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_37
+  - first:
+      213: 4451034507391934345
+    second: SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_38
+  - first:
+      213: -5399446266036627357
+    second: SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_39
+  - first:
+      213: -119448411431759770
+    second: SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_40
+  - first:
+      213: -7738996254007273570
+    second: SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_41
+  - first:
+      213: 8423276027464955596
+    second: SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_42
+  - first:
+      213: -508625610558073681
+    second: SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_43
+  - first:
+      213: -5186813837036589837
+    second: SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_44
+  - first:
+      213: 547718381900391416
+    second: SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_45
+  - first:
+      213: -426702194447049688
+    second: SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_46
+  - first:
+      213: -4126294779883715976
+    second: SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_47
+  - first:
+      213: 2823102141058049894
+    second: SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_48
+  - first:
+      213: -1562195915024185364
+    second: SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_49
+  - first:
+      213: -4145850465049992873
+    second: SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_50
+  - first:
+      213: 3781234564196301252
+    second: SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_51
+  - first:
+      213: 5316798579389888666
+    second: SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_52
+  - first:
+      213: 466478143737060919
+    second: SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_53
+  - first:
+      213: -685111040165583749
+    second: SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_54
+  - first:
+      213: 8040774079604454383
+    second: SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_55
+  - first:
+      213: -2890361501121172447
+    second: SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_56
+  - first:
+      213: 7991596955667450399
+    second: SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_57
+  - first:
+      213: 6825784492814978230
+    second: SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_58
+  - first:
+      213: 1520580600710766141
+    second: SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_59
+  - first:
+      213: 3609686960324425152
+    second: SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_60
+  - first:
+      213: 1544046838889926792
+    second: SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_61
+  - first:
+      213: 4540633227106893594
+    second: SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_62
+  - first:
+      213: -1838865481791456930
+    second: SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_63
+  - first:
+      213: -261516417321296242
+    second: SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_64
+  - first:
+      213: -6325928385792423470
+    second: SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_65
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_0
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 1747
+        width: 48
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 148383ea18d7c51a0800000000000000
+      internalID: -6819437739818600383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_1
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1614
+        width: 269
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92ce6b1f1dfbdb240800000000000000
+      internalID: 4809210885525924905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_2
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 1822
+        width: 177
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95841348d4f354d80800000000000000
+      internalID: -8267131938805823399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_3
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 1815
+        width: 120
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd8f208c5fef306b0800000000000000
+      internalID: -5331137202300454691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_4
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 1677
+        width: 162
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02ae1151ef1c87a90800000000000000
+      internalID: -7315884297644021216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_5
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 1750
+        width: 54
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb75218eae5ff5430800000000000000
+      internalID: 3774005402024433599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_6
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1694
+        width: 12
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5e7d0e2004f2dad0800000000000000
+      internalID: -2678810546722210212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_7
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 1642
+        width: 30
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc48ecc62603b9f90800000000000000
+      internalID: -6945904800998456113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_8
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 1654
+        width: 32
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8a625a38adb6be60800000000000000
+      internalID: 7977772320164047503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_9
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 1633
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2de6aef65618feb0800000000000000
+      internalID: -4685970849383650003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_10
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 1586
+        width: 106
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c833694b2b457570800000000000000
+      internalID: 8463753723999631556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_11
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1287
+        width: 258
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81cc8a2fccfef9690800000000000000
+      internalID: -7593086783199851496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_12
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1589
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 259ea4be51d7237d0800000000000000
+      internalID: -2940150073624172206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_13
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1315
+        width: 133
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b8c96472060067a0800000000000000
+      internalID: -6386097663998572362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_14
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 1586
+        width: 52
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e133f4c1c7f1e550800000000000000
+      internalID: 6188499774588793312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_15
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1333
+        width: 297
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb57e4348e83034a0800000000000000
+      internalID: -6615725282394475073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_16
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 1554
+        width: 55
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca01eac1beaa0b380800000000000000
+      internalID: -8957471732064710484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_17
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1445
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bf87ea585b8fc610800000000000000
+      internalID: 1643685600612028341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_18
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 1425
+        width: 34
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ba35df4f17936cd0800000000000000
+      internalID: -2566041201931896135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_19
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1253
+        width: 256
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04c9fe45516f9fb10800000000000000
+      internalID: 2015912879704742976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_20
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1390
+        width: 47
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f0e43e2106eb7a90800000000000000
+      internalID: -7315000276988665607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_21
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 1344
+        width: 78
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7233cf98674b5260800000000000000
+      internalID: 7087336953280148090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_22
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 1236
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5af44c752a7cc7620800000000000000
+      internalID: 2773310970624495525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_23
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 925
+        width: 323
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1bc25239d97e5c70800000000000000
+      internalID: 8961734282273016604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_24
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1206
+        width: 26
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e956bf2a7a9c14c20800000000000000
+      internalID: 3189051732986127774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_25
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1181
+        width: 42
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 159dfbe528955e1a0800000000000000
+      internalID: -6780915247466161839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_26
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 1112
+        width: 32
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5624f8d0daf64830800000000000000
+      internalID: 4055204289393731165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_27
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 892
+        width: 157
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e8d243571f6d3af0800000000000000
+      internalID: -415053444676396830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_28
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 919
+        width: 32
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e409ceb9b83b6ae50800000000000000
+      internalID: 6820336097896992846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 471
+        width: 437
+        height: 418
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa4a9e0aafee641e0800000000000000
+      internalID: -2213819406597118806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_30
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 475
+        width: 323
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6954fb2906c8ccc80800000000000000
+      internalID: -8301105666743908970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_31
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 758
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 098c53587a6b84240800000000000000
+      internalID: 4776268235437099152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_32
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 685
+        width: 45
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54b4af4e8e327d950800000000000000
+      internalID: 6473682472549370693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_33
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 11
+        width: 482
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c1ae14d867728460800000000000000
+      internalID: 7242482442884260297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_34
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 467
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 605fceea4707674a0800000000000000
+      internalID: -6595960957784230650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_35
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 463
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 259f33688d507ca70800000000000000
+      internalID: 8847046420515256658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_36
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 463
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6faa489b1e99f7560800000000000000
+      internalID: 7313733514632145654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_37
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 459
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7af67cf1db1e86240800000000000000
+      internalID: 4785322806479384487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_38
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 459
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98f1a184d4045cd30800000000000000
+      internalID: 4451034507391934345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_39
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 435
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 368d3118a305115b0800000000000000
+      internalID: -5399446266036627357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_40
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 419
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66010ab7d42a75ef0800000000000000
+      internalID: -119448411431759770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_41
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 419
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9751d1f8ef899490800000000000000
+      internalID: -7738996254007273570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_42
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 375
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc6bc162bec75e470800000000000000
+      internalID: 8423276027464955596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_43
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 0
+        width: 418
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa41507b3bff0f8f0800000000000000
+      internalID: -508625610558073681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_44
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 367
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fc6a5fcb4cb408b0800000000000000
+      internalID: -5186813837036589837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 327
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f3ef1667f2e99700800000000000000
+      internalID: 547718381900391416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_46
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 339
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82c9a1b6d9c041af0800000000000000
+      internalID: -426702194447049688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_47
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 319
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8728b7e72c47cb6c0800000000000000
+      internalID: -4126294779883715976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_48
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 247
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 667e86a907cad2720800000000000000
+      internalID: 2823102141058049894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 235
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce7ca679717f15ae0800000000000000
+      internalID: -1562195915024185364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_50
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 219
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 751aecab7faf676c0800000000000000
+      internalID: -4145850465049992873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_51
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 203
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c979536dc4a97430800000000000000
+      internalID: 3781234564196301252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_52
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 187
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a98f5da632019c940800000000000000
+      internalID: 5316798579389888666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_53
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 179
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73e5ee47663497600800000000000000
+      internalID: 466478143737060919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_54
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 179
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b746b3b832ffd76f0800000000000000
+      internalID: -685111040165583749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_55
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 135
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe3fdfd6c61969f60800000000000000
+      internalID: 8040774079604454383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 103
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12c253d478f53e7d0800000000000000
+      internalID: -2890361501121172447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_57
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 55
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1ac6a2071bd7ee60800000000000000
+      internalID: 7991596955667450399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_58
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 27
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bc4b97e4de0abe50800000000000000
+      internalID: 6825784492814978230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_59
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 7
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3e17bdffff2a1510800000000000000
+      internalID: 1520580600710766141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_60
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 7
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c53f7c5a2f281230800000000000000
+      internalID: 3609686960324425152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_61
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 11
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88059945b6e8d6510800000000000000
+      internalID: 1544046838889926792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_62
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 3
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1fba0ddcd1930f30800000000000000
+      internalID: 4540633227106893594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_63
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 3
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e59b71846990b76e0800000000000000
+      internalID: -1838865481791456930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_64
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 3
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8e91aa3438ee5cf0800000000000000
+      internalID: -261516417321296242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_65
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 0
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d9484a36a9c538a0800000000000000
+      internalID: -6325928385792423470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_0: -6819437739818600383
+      SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_1: 4809210885525924905
+      SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_10: 8463753723999631556
+      SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_11: -7593086783199851496
+      SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_12: -2940150073624172206
+      SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_13: -6386097663998572362
+      SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_14: 6188499774588793312
+      SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_15: -6615725282394475073
+      SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_16: -8957471732064710484
+      SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_17: 1643685600612028341
+      SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_18: -2566041201931896135
+      SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_19: 2015912879704742976
+      SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_2: -8267131938805823399
+      SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_20: -7315000276988665607
+      SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_21: 7087336953280148090
+      SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_22: 2773310970624495525
+      SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_23: 8961734282273016604
+      SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_24: 3189051732986127774
+      SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_25: -6780915247466161839
+      SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_26: 4055204289393731165
+      SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_27: -415053444676396830
+      SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_28: 6820336097896992846
+      SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_29: -2213819406597118806
+      SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_3: -5331137202300454691
+      SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_30: -8301105666743908970
+      SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_31: 4776268235437099152
+      SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_32: 6473682472549370693
+      SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_33: 7242482442884260297
+      SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_34: -6595960957784230650
+      SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_35: 8847046420515256658
+      SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_36: 7313733514632145654
+      SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_37: 4785322806479384487
+      SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_38: 4451034507391934345
+      SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_39: -5399446266036627357
+      SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_4: -7315884297644021216
+      SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_40: -119448411431759770
+      SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_41: -7738996254007273570
+      SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_42: 8423276027464955596
+      SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_43: -508625610558073681
+      SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_44: -5186813837036589837
+      SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_45: 547718381900391416
+      SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_46: -426702194447049688
+      SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_47: -4126294779883715976
+      SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_48: 2823102141058049894
+      SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_49: -1562195915024185364
+      SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_5: 3774005402024433599
+      SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_50: -4145850465049992873
+      SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_51: 3781234564196301252
+      SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_52: 5316798579389888666
+      SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_53: 466478143737060919
+      SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_54: -685111040165583749
+      SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_55: 8040774079604454383
+      SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_56: -2890361501121172447
+      SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_57: 7991596955667450399
+      SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_58: 6825784492814978230
+      SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_59: 1520580600710766141
+      SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_6: -2678810546722210212
+      SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_60: 3609686960324425152
+      SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_61: 1544046838889926792
+      SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_62: 4540633227106893594
+      SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_63: -1838865481791456930
+      SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_64: -261516417321296242
+      SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_65: -6325928385792423470
+      SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_7: -6945904800998456113
+      SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_8: 7977772320164047503
+      SpriteAtlasTexture-hammerlightning-1024x2048-fmt47_9: -4685970849383650003
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

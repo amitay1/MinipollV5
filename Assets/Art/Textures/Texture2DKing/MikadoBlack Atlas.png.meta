@@ -1,0 +1,5525 @@
+fileFormatVersion: 2
+guid: 37bedcc051439ef44af4eb3d4739edb2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1519804460308959983
+    second: MikadoBlack Atlas_0
+  - first:
+      213: -1582906869665344697
+    second: MikadoBlack Atlas_1
+  - first:
+      213: 186039203146458152
+    second: MikadoBlack Atlas_2
+  - first:
+      213: 2952964709939532647
+    second: MikadoBlack Atlas_3
+  - first:
+      213: -3556542265218218500
+    second: MikadoBlack Atlas_4
+  - first:
+      213: -9096120600755210692
+    second: MikadoBlack Atlas_5
+  - first:
+      213: 7543833255030870711
+    second: MikadoBlack Atlas_6
+  - first:
+      213: -531076648737826620
+    second: MikadoBlack Atlas_7
+  - first:
+      213: -4981967081922180909
+    second: MikadoBlack Atlas_8
+  - first:
+      213: 6160089436657510475
+    second: MikadoBlack Atlas_9
+  - first:
+      213: 3757401361479902751
+    second: MikadoBlack Atlas_10
+  - first:
+      213: -1069576626436781410
+    second: MikadoBlack Atlas_11
+  - first:
+      213: -6012580833636222623
+    second: MikadoBlack Atlas_12
+  - first:
+      213: 4303700909586281103
+    second: MikadoBlack Atlas_13
+  - first:
+      213: 4555899043137109632
+    second: MikadoBlack Atlas_14
+  - first:
+      213: -3584263211432487903
+    second: MikadoBlack Atlas_15
+  - first:
+      213: 3767979017011891778
+    second: MikadoBlack Atlas_16
+  - first:
+      213: 947553089720619744
+    second: MikadoBlack Atlas_17
+  - first:
+      213: 1990679228938717106
+    second: MikadoBlack Atlas_18
+  - first:
+      213: 8118989432586346943
+    second: MikadoBlack Atlas_19
+  - first:
+      213: -1822837202005569285
+    second: MikadoBlack Atlas_20
+  - first:
+      213: 6087115079968599350
+    second: MikadoBlack Atlas_21
+  - first:
+      213: -2484770472100222678
+    second: MikadoBlack Atlas_22
+  - first:
+      213: 948606293097141877
+    second: MikadoBlack Atlas_23
+  - first:
+      213: 3886916661172645342
+    second: MikadoBlack Atlas_24
+  - first:
+      213: -1583755667107268336
+    second: MikadoBlack Atlas_25
+  - first:
+      213: -7048777392047774828
+    second: MikadoBlack Atlas_26
+  - first:
+      213: -918239878999517288
+    second: MikadoBlack Atlas_27
+  - first:
+      213: 2575609594240856281
+    second: MikadoBlack Atlas_28
+  - first:
+      213: 847542714952864296
+    second: MikadoBlack Atlas_29
+  - first:
+      213: 4076999840820684669
+    second: MikadoBlack Atlas_30
+  - first:
+      213: -1664543002945239173
+    second: MikadoBlack Atlas_31
+  - first:
+      213: 1075871372797078291
+    second: MikadoBlack Atlas_32
+  - first:
+      213: -3176572675659762516
+    second: MikadoBlack Atlas_33
+  - first:
+      213: 8530010518341572627
+    second: MikadoBlack Atlas_34
+  - first:
+      213: -1923974354300128739
+    second: MikadoBlack Atlas_35
+  - first:
+      213: -1466069289250536056
+    second: MikadoBlack Atlas_36
+  - first:
+      213: -9177182111134402510
+    second: MikadoBlack Atlas_37
+  - first:
+      213: 4198883109372637010
+    second: MikadoBlack Atlas_38
+  - first:
+      213: 8242002478408585998
+    second: MikadoBlack Atlas_39
+  - first:
+      213: 2943642674190266815
+    second: MikadoBlack Atlas_40
+  - first:
+      213: -243323466033899843
+    second: MikadoBlack Atlas_41
+  - first:
+      213: -5809788517827329308
+    second: MikadoBlack Atlas_42
+  - first:
+      213: 3650868010636996082
+    second: MikadoBlack Atlas_43
+  - first:
+      213: -2421114702045693531
+    second: MikadoBlack Atlas_44
+  - first:
+      213: 1935467052386708516
+    second: MikadoBlack Atlas_45
+  - first:
+      213: 6233779427811940828
+    second: MikadoBlack Atlas_46
+  - first:
+      213: 5076249224599847597
+    second: MikadoBlack Atlas_47
+  - first:
+      213: 3131653770299784882
+    second: MikadoBlack Atlas_48
+  - first:
+      213: -1987483929811380621
+    second: MikadoBlack Atlas_49
+  - first:
+      213: 5101528538110703736
+    second: MikadoBlack Atlas_50
+  - first:
+      213: 1879648023794474341
+    second: MikadoBlack Atlas_51
+  - first:
+      213: 5454519716664595645
+    second: MikadoBlack Atlas_52
+  - first:
+      213: 6682185299628079932
+    second: MikadoBlack Atlas_53
+  - first:
+      213: -4050927879550110030
+    second: MikadoBlack Atlas_54
+  - first:
+      213: -2234948613851106090
+    second: MikadoBlack Atlas_55
+  - first:
+      213: 7520998315816957480
+    second: MikadoBlack Atlas_56
+  - first:
+      213: 7412245389838650309
+    second: MikadoBlack Atlas_57
+  - first:
+      213: 3014462817168544526
+    second: MikadoBlack Atlas_58
+  - first:
+      213: -8234308486352614049
+    second: MikadoBlack Atlas_59
+  - first:
+      213: 3178764497683903729
+    second: MikadoBlack Atlas_60
+  - first:
+      213: 3468484116908277822
+    second: MikadoBlack Atlas_61
+  - first:
+      213: 8205664942996182241
+    second: MikadoBlack Atlas_62
+  - first:
+      213: -6777240281799462191
+    second: MikadoBlack Atlas_63
+  - first:
+      213: 941572207838050056
+    second: MikadoBlack Atlas_64
+  - first:
+      213: 8208485642360033029
+    second: MikadoBlack Atlas_65
+  - first:
+      213: -2228018163524900637
+    second: MikadoBlack Atlas_66
+  - first:
+      213: 1087045810715110371
+    second: MikadoBlack Atlas_67
+  - first:
+      213: -992698830076403955
+    second: MikadoBlack Atlas_68
+  - first:
+      213: -393818559199713084
+    second: MikadoBlack Atlas_69
+  - first:
+      213: 2761593535461633706
+    second: MikadoBlack Atlas_70
+  - first:
+      213: -261911166943084166
+    second: MikadoBlack Atlas_71
+  - first:
+      213: -6972931718032961325
+    second: MikadoBlack Atlas_72
+  - first:
+      213: 5199037935301057887
+    second: MikadoBlack Atlas_73
+  - first:
+      213: -5869088226724821078
+    second: MikadoBlack Atlas_74
+  - first:
+      213: 4902853095818783062
+    second: MikadoBlack Atlas_75
+  - first:
+      213: 2385254874975516135
+    second: MikadoBlack Atlas_76
+  - first:
+      213: 4397063377993731808
+    second: MikadoBlack Atlas_77
+  - first:
+      213: -7769515799566382000
+    second: MikadoBlack Atlas_78
+  - first:
+      213: -7039646735924617960
+    second: MikadoBlack Atlas_79
+  - first:
+      213: 6070460179895265080
+    second: MikadoBlack Atlas_80
+  - first:
+      213: -7275266781978270758
+    second: MikadoBlack Atlas_81
+  - first:
+      213: 6040448533440832729
+    second: MikadoBlack Atlas_82
+  - first:
+      213: -7440900076770361650
+    second: MikadoBlack Atlas_83
+  - first:
+      213: -8916454439925521084
+    second: MikadoBlack Atlas_84
+  - first:
+      213: -2589106850553230252
+    second: MikadoBlack Atlas_85
+  - first:
+      213: 3987167521562573280
+    second: MikadoBlack Atlas_86
+  - first:
+      213: -6662365313744948933
+    second: MikadoBlack Atlas_87
+  - first:
+      213: -467829192357212927
+    second: MikadoBlack Atlas_88
+  - first:
+      213: -5240784053457477998
+    second: MikadoBlack Atlas_89
+  - first:
+      213: 10562212281972910
+    second: MikadoBlack Atlas_90
+  - first:
+      213: 6273561905578344308
+    second: MikadoBlack Atlas_91
+  - first:
+      213: 8503869493905056068
+    second: MikadoBlack Atlas_92
+  - first:
+      213: -7169505400663385845
+    second: MikadoBlack Atlas_93
+  - first:
+      213: 5091210742116258834
+    second: MikadoBlack Atlas_94
+  - first:
+      213: -3659272476541364287
+    second: MikadoBlack Atlas_95
+  - first:
+      213: -4181968389677229991
+    second: MikadoBlack Atlas_96
+  - first:
+      213: 8729637983639643475
+    second: MikadoBlack Atlas_97
+  - first:
+      213: -8876168063019639655
+    second: MikadoBlack Atlas_98
+  - first:
+      213: -5278058604397447604
+    second: MikadoBlack Atlas_99
+  - first:
+      213: -2829747374428991392
+    second: MikadoBlack Atlas_100
+  - first:
+      213: -1261776917362576976
+    second: MikadoBlack Atlas_101
+  - first:
+      213: 2881267362998622691
+    second: MikadoBlack Atlas_102
+  - first:
+      213: -489243987035839436
+    second: MikadoBlack Atlas_103
+  - first:
+      213: -5198008412395837473
+    second: MikadoBlack Atlas_104
+  - first:
+      213: 6800922183971459992
+    second: MikadoBlack Atlas_105
+  - first:
+      213: -2550701296925230294
+    second: MikadoBlack Atlas_106
+  - first:
+      213: -4173686042569248671
+    second: MikadoBlack Atlas_107
+  - first:
+      213: -1524720325837136545
+    second: MikadoBlack Atlas_108
+  - first:
+      213: -2343481769262435388
+    second: MikadoBlack Atlas_109
+  - first:
+      213: -3204179947742589692
+    second: MikadoBlack Atlas_110
+  - first:
+      213: -1909652071741590443
+    second: MikadoBlack Atlas_111
+  - first:
+      213: -7984886636628117900
+    second: MikadoBlack Atlas_112
+  - first:
+      213: 5373925379705525230
+    second: MikadoBlack Atlas_113
+  - first:
+      213: 6569939053904862344
+    second: MikadoBlack Atlas_114
+  - first:
+      213: -7184857558899594379
+    second: MikadoBlack Atlas_115
+  - first:
+      213: -3166258224973624793
+    second: MikadoBlack Atlas_116
+  - first:
+      213: 4170508251530540707
+    second: MikadoBlack Atlas_117
+  - first:
+      213: 2342878926793538147
+    second: MikadoBlack Atlas_118
+  - first:
+      213: -4839034363449387648
+    second: MikadoBlack Atlas_119
+  - first:
+      213: 3029740426944372177
+    second: MikadoBlack Atlas_120
+  - first:
+      213: -8876874487110234777
+    second: MikadoBlack Atlas_121
+  - first:
+      213: 8496598003967216589
+    second: MikadoBlack Atlas_122
+  - first:
+      213: 8126065734810657628
+    second: MikadoBlack Atlas_123
+  - first:
+      213: 7433341633268531785
+    second: MikadoBlack Atlas_124
+  - first:
+      213: 2940454426042404804
+    second: MikadoBlack Atlas_125
+  - first:
+      213: 6618953326543512756
+    second: MikadoBlack Atlas_126
+  - first:
+      213: -904499972856626839
+    second: MikadoBlack Atlas_127
+  - first:
+      213: 4575861370035461426
+    second: MikadoBlack Atlas_128
+  - first:
+      213: -3930276756050249880
+    second: MikadoBlack Atlas_129
+  - first:
+      213: 6610911319226936732
+    second: MikadoBlack Atlas_130
+  - first:
+      213: -4461453444343264013
+    second: MikadoBlack Atlas_131
+  - first:
+      213: 3516411607672344726
+    second: MikadoBlack Atlas_132
+  - first:
+      213: -4089751639514412365
+    second: MikadoBlack Atlas_133
+  - first:
+      213: 1323551223245221405
+    second: MikadoBlack Atlas_134
+  - first:
+      213: 3942554120840350842
+    second: MikadoBlack Atlas_135
+  - first:
+      213: 7413625731397313545
+    second: MikadoBlack Atlas_136
+  - first:
+      213: -916642601392139177
+    second: MikadoBlack Atlas_137
+  - first:
+      213: -5706462583609399241
+    second: MikadoBlack Atlas_138
+  - first:
+      213: -5227591084803956021
+    second: MikadoBlack Atlas_139
+  - first:
+      213: 6157480337846579498
+    second: MikadoBlack Atlas_140
+  - first:
+      213: 8053867584128223663
+    second: MikadoBlack Atlas_141
+  - first:
+      213: -8142565844668185285
+    second: MikadoBlack Atlas_142
+  - first:
+      213: 5793409033517950021
+    second: MikadoBlack Atlas_143
+  - first:
+      213: 4454989249604267726
+    second: MikadoBlack Atlas_144
+  - first:
+      213: -7009086983454533526
+    second: MikadoBlack Atlas_145
+  - first:
+      213: 993430407595034563
+    second: MikadoBlack Atlas_146
+  - first:
+      213: -8602624121907803331
+    second: MikadoBlack Atlas_147
+  - first:
+      213: 5628840810365686331
+    second: MikadoBlack Atlas_148
+  - first:
+      213: -6027076365844812089
+    second: MikadoBlack Atlas_149
+  - first:
+      213: -8093073382350058460
+    second: MikadoBlack Atlas_150
+  - first:
+      213: -1379197433662355250
+    second: MikadoBlack Atlas_151
+  - first:
+      213: -6060385103934408214
+    second: MikadoBlack Atlas_152
+  - first:
+      213: -2475468349720402533
+    second: MikadoBlack Atlas_153
+  - first:
+      213: -7276660596264049770
+    second: MikadoBlack Atlas_154
+  - first:
+      213: -3182320423338269652
+    second: MikadoBlack Atlas_155
+  - first:
+      213: 4281025141427262810
+    second: MikadoBlack Atlas_156
+  - first:
+      213: -4021750416719629463
+    second: MikadoBlack Atlas_157
+  - first:
+      213: -1997950114475236859
+    second: MikadoBlack Atlas_158
+  - first:
+      213: -7579566002564398421
+    second: MikadoBlack Atlas_159
+  - first:
+      213: 8183895139597633236
+    second: MikadoBlack Atlas_160
+  - first:
+      213: 6683479817161939015
+    second: MikadoBlack Atlas_161
+  - first:
+      213: -1479603014477206592
+    second: MikadoBlack Atlas_162
+  - first:
+      213: -982178659772466083
+    second: MikadoBlack Atlas_163
+  - first:
+      213: 4319752191081442846
+    second: MikadoBlack Atlas_164
+  - first:
+      213: 8023402189527171299
+    second: MikadoBlack Atlas_165
+  - first:
+      213: -8087057497538722751
+    second: MikadoBlack Atlas_166
+  - first:
+      213: 5941365789148130840
+    second: MikadoBlack Atlas_167
+  - first:
+      213: -4110381432095957692
+    second: MikadoBlack Atlas_168
+  - first:
+      213: -8029304225269928518
+    second: MikadoBlack Atlas_169
+  - first:
+      213: -2183257182045371890
+    second: MikadoBlack Atlas_170
+  - first:
+      213: -7563958812689936112
+    second: MikadoBlack Atlas_171
+  - first:
+      213: 69730702776480298
+    second: MikadoBlack Atlas_172
+  - first:
+      213: -1079442837750582807
+    second: MikadoBlack Atlas_173
+  - first:
+      213: -7255150103580699952
+    second: MikadoBlack Atlas_174
+  - first:
+      213: 6639317614324860253
+    second: MikadoBlack Atlas_175
+  - first:
+      213: 731727943256622986
+    second: MikadoBlack Atlas_176
+  - first:
+      213: -4646188220966744462
+    second: MikadoBlack Atlas_177
+  - first:
+      213: 2281559011975329215
+    second: MikadoBlack Atlas_178
+  - first:
+      213: 8253154543174665824
+    second: MikadoBlack Atlas_179
+  - first:
+      213: 113949960783419489
+    second: MikadoBlack Atlas_180
+  - first:
+      213: -8503377479789555055
+    second: MikadoBlack Atlas_181
+  - first:
+      213: 975861924298076170
+    second: MikadoBlack Atlas_182
+  - first:
+      213: 6452571872195732551
+    second: MikadoBlack Atlas_183
+  - first:
+      213: -7905940546048874143
+    second: MikadoBlack Atlas_184
+  - first:
+      213: 3945914980357513981
+    second: MikadoBlack Atlas_185
+  - first:
+      213: 3201349127624507299
+    second: MikadoBlack Atlas_186
+  - first:
+      213: -8029793655986486568
+    second: MikadoBlack Atlas_187
+  - first:
+      213: -5827311478875811409
+    second: MikadoBlack Atlas_188
+  - first:
+      213: -1112305491725692061
+    second: MikadoBlack Atlas_189
+  - first:
+      213: -2019638114491834944
+    second: MikadoBlack Atlas_190
+  - first:
+      213: 6645052276127924786
+    second: MikadoBlack Atlas_191
+  - first:
+      213: -5918743054489877683
+    second: MikadoBlack Atlas_192
+  - first:
+      213: 1977690345957391190
+    second: MikadoBlack Atlas_193
+  - first:
+      213: 6691514590177633688
+    second: MikadoBlack Atlas_194
+  - first:
+      213: -7419356273337202069
+    second: MikadoBlack Atlas_195
+  - first:
+      213: -1560130941243400970
+    second: MikadoBlack Atlas_196
+  - first:
+      213: 7865306746176004936
+    second: MikadoBlack Atlas_197
+  - first:
+      213: -1508934997014923302
+    second: MikadoBlack Atlas_198
+  - first:
+      213: 5522510351241065284
+    second: MikadoBlack Atlas_199
+  - first:
+      213: -6032120977593075703
+    second: MikadoBlack Atlas_200
+  - first:
+      213: -5312069982829407788
+    second: MikadoBlack Atlas_201
+  - first:
+      213: 2698198680885843502
+    second: MikadoBlack Atlas_202
+  - first:
+      213: 1493955698850935078
+    second: MikadoBlack Atlas_203
+  - first:
+      213: 754765298235681503
+    second: MikadoBlack Atlas_204
+  - first:
+      213: -7955510216860230654
+    second: MikadoBlack Atlas_205
+  - first:
+      213: 7642615035890770719
+    second: MikadoBlack Atlas_206
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 484
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11dea3745e198eae0800000000000000
+      internalID: -1519804460308959983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_1
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 483
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7435211b692680ae0800000000000000
+      internalID: -1582906869665344697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_2
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 483
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82467d96ba1f49200800000000000000
+      internalID: 186039203146458152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_3
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 483
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 763d53a12c90bf820800000000000000
+      internalID: 2952964709939532647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_4
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 482
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf5410537af94aec0800000000000000
+      internalID: -3556542265218218500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_5
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 479
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c367fd5c18614c180800000000000000
+      internalID: -9096120600755210692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_6
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 479
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b2d4e2606411b860800000000000000
+      internalID: 7543833255030870711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_7
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 476
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c81a7b0a9c31a8f0800000000000000
+      internalID: -531076648737826620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_8
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 476
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d8c657a55f7cdab0800000000000000
+      internalID: -4981967081922180909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_9
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 469
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b486b9084b80d7550800000000000000
+      internalID: 6160089436657510475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_10
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 462
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f16249571a8f42430800000000000000
+      internalID: 3757401361479902751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_11
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 462
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9acc21a9b91821f0800000000000000
+      internalID: -1069576626436781410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_12
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 461
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1697acb76950f8ca0800000000000000
+      internalID: -6012580833636222623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_13
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 487
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f827a6fdc21d9bb30800000000000000
+      internalID: 4303700909586281103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_14
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 448
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08ebab2aa0ec93f30800000000000000
+      internalID: 4555899043137109632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_15
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 487
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 124d0157993224ec0800000000000000
+      internalID: -3584263211432487903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_16
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 484
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24e8e1ec3fc8a4430800000000000000
+      internalID: 3767979017011891778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_17
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 476
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e21f96c382662d00800000000000000
+      internalID: 947553089720619744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_18
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 476
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b704ae263050ab10800000000000000
+      internalID: 1990679228938717106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 435
+        width: 23
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb1a5786fd17ca070800000000000000
+      internalID: 8118989432586346943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_20
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 435
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf0571bf83bf3b6e0800000000000000
+      internalID: -1822837202005569285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_21
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 435
+        width: 23
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63da3701ae6c97450800000000000000
+      internalID: 6087115079968599350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_22
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 435
+        width: 23
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a292616ab62548dd0800000000000000
+      internalID: -2484770472100222678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_23
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 435
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57651cbc5602a2d00800000000000000
+      internalID: 948606293097141877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_24
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 435
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edd2ebc0c1a11f530800000000000000
+      internalID: 3886916661172645342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_25
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 435
+        width: 26
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0193f03ac9e550ae0800000000000000
+      internalID: -1583755667107268336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_26
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 432
+        width: 24
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4932036de46bd2e90800000000000000
+      internalID: -7048777392047774828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_27
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 432
+        width: 24
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 897d2a1f1b1c143f0800000000000000
+      internalID: -918239878999517288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_28
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 429
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d070d0a7476eb320800000000000000
+      internalID: 2575609594240856281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_29
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 422
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8225cb8db9313cb00800000000000000
+      internalID: 847542714952864296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_30
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 422
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d77e07d11c9649830800000000000000
+      internalID: 4076999840820684669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_31
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 422
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b77461c35fa56e8e0800000000000000
+      internalID: -1664543002945239173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_32
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 409
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31be49730534eee00800000000000000
+      internalID: 1075871372797078291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_33
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 409
+        width: 22
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca476105bfb8ae3d0800000000000000
+      internalID: -3176572675659762516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_34
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 409
+        width: 22
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 318581c5f5fa06670800000000000000
+      internalID: 8530010518341572627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_35
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 448
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d12baf6b48bac45e0800000000000000
+      internalID: -1923974354300128739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_36
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 445
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 885cc1ebfb977abe0800000000000000
+      internalID: -1466069289250536056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_37
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 445
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 238b3c22e7914a080800000000000000
+      internalID: -9177182111134402510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_38
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 439
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25f2b8bf0fd654a30800000000000000
+      internalID: 4198883109372637010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 395
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e03de6b0699716270800000000000000
+      internalID: 8242002478408585998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_40
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 413
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb1bac48a6be9d820800000000000000
+      internalID: 2943642674190266815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_41
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 406
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db65889c89a8f9cf0800000000000000
+      internalID: -243323466033899843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_42
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 406
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e242c6ef1c7f5fa0800000000000000
+      internalID: -5809788517827329308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_43
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 405
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fdeadfcc1d7aa230800000000000000
+      internalID: 3650868010636996082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_44
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 405
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a937109109766ed0800000000000000
+      internalID: -2421114702045693531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_45
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 405
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42c6bf397092cda10800000000000000
+      internalID: 1935467052386708516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_46
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 402
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd95ed29c55d28650800000000000000
+      internalID: 6233779427811940828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_47
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 409
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da240af46c5727640800000000000000
+      internalID: 5076249224599847597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_48
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 427
+        width: 29
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2be3b3a038ed57b20800000000000000
+      internalID: 3131653770299784882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_49
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 396
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3769bce55e90b64e0800000000000000
+      internalID: -1987483929811380621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_50
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 408
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8783b952d254cc640800000000000000
+      internalID: 5101528538110703736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_51
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 422
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56dd8093be9d51a10800000000000000
+      internalID: 1879648023794474341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_52
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 366
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db4582478c852bb40800000000000000
+      internalID: 5454519716664595645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_53
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 367
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3b3ba35024ebbc50800000000000000
+      internalID: 6682185299628079932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_54
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 377
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b670b86e8638c7c0800000000000000
+      internalID: -4050927879550110030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_55
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 364
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d43724b31edbf0e0800000000000000
+      internalID: -2234948613851106090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_56
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 364
+        width: 21
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 826b49ace14ff5860800000000000000
+      internalID: 7520998315816957480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_57
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 358
+        width: 26
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cb0c5909e59dd660800000000000000
+      internalID: 7412245389838650309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_58
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 382
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0354fdf5f585d920800000000000000
+      internalID: 3014462817168544526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_59
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 382
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5dc7f31f0cd9bd80800000000000000
+      internalID: -8234308486352614049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_60
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 382
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f47215087d3d1c20800000000000000
+      internalID: 3178764497683903729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_61
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 370
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3007617de7822030800000000000000
+      internalID: 3468484116908277822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_62
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 382
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e4d9294ac060e170800000000000000
+      internalID: 8205664942996182241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_63
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 382
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d2ffddfed762f1a0800000000000000
+      internalID: -6777240281799462191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_64
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 389
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80731923fe2211d00800000000000000
+      internalID: 941572207838050056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_65
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 385
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50f83c883366ae170800000000000000
+      internalID: 8208485642360033029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_66
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 403
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e8eaf9e84d7411e0800000000000000
+      internalID: -2228018163524900637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_67
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 356
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eb204ac766f51f00800000000000000
+      internalID: 1087045810715110371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_68
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 327
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0f99507ca93932f0800000000000000
+      internalID: -992698830076403955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_69
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 336
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c8e1f06b10e88af0800000000000000
+      internalID: -393818559199713084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_70
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 338
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaea43f50b6235620800000000000000
+      internalID: 2761593535461633706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_71
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 358
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7146ab6e218d5cf0800000000000000
+      internalID: -261911166943084166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_72
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 358
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d0579feb8b2b3f90800000000000000
+      internalID: -6972931718032961325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_73
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 358
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5d566bd471b62840800000000000000
+      internalID: 5199037935301057887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_74
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 358
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa7c3a28a5fcc8ea0800000000000000
+      internalID: -5869088226724821078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_75
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 331
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 659e33a0aee6a0440800000000000000
+      internalID: 4902853095818783062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_76
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 346
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e53fa1dba02a1120800000000000000
+      internalID: 2385254874975516135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_77
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 365
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ee023c78d1850d30800000000000000
+      internalID: 4397063377993731808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_78
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 365
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05c8f028b822d2490800000000000000
+      internalID: -7769515799566382000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_79
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 358
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81d99f067962e4e90800000000000000
+      internalID: -7039646735924617960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_80
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 367
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 837afc5fe5b9e3450800000000000000
+      internalID: 6070460179895265080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_81
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 342
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad36cf5686f090b90800000000000000
+      internalID: -7275266781978270758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_82
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 316
+        width: 33
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d425cfffebf3d350800000000000000
+      internalID: 6040448533440832729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_83
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 325
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecefce2cdcc9cb890800000000000000
+      internalID: -7440900076770361650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_84
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 313
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 445e844ade3624480800000000000000
+      internalID: -8916454439925521084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_85
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 342
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45c8e3f7905a11cd0800000000000000
+      internalID: -2589106850553230252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_86
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 302
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e936b66cb3455730800000000000000
+      internalID: 3987167521562573280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_87
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 318
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b31395ebb068a83a0800000000000000
+      internalID: -6662365313744948933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_88
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 335
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10d8df504dfe189f0800000000000000
+      internalID: -467829192357212927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_89
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 335
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29e92259baef447b0800000000000000
+      internalID: -5240784053457477998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_90
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 315
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea8fb1fa646852000800000000000000
+      internalID: 10562212281972910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_91
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 327
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47f7b6a705b201750800000000000000
+      internalID: 6273561905578344308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_92
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 319
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 441ed70df30d30670800000000000000
+      internalID: 8503869493905056068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_93
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 324
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b09d632e2dcc08c90800000000000000
+      internalID: -7169505400663385845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_94
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 324
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2141e70123d97a640800000000000000
+      internalID: 5091210742116258834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_95
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 275
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c7536bf117a73dc0800000000000000
+      internalID: -3659272476541364287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_96
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 287
+        width: 33
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 958506718e9a6f5c0800000000000000
+      internalID: -4181968389677229991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_97
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 297
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35529989e77e52970800000000000000
+      internalID: 8729637983639643475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_98
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 306
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99c1c05bc2481d480800000000000000
+      internalID: -8876168063019639655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_99
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 293
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c463235e9a190c6b0800000000000000
+      internalID: -5278058604397447604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_100
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 266
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 060d01f61c7bab8d0800000000000000
+      internalID: -2829747374428991392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_101
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 278
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b1f0de24944d7ee0800000000000000
+      internalID: -1261776917362576976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_102
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 296
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e9957aa6615cf720800000000000000
+      internalID: 2881267362998622691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_103
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 296
+        width: 22
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 434ab389f2bd539f0800000000000000
+      internalID: -489243987035839436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_104
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 300
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd767af93e6fcd7b0800000000000000
+      internalID: -5198008412395837473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_105
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 276
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89351b881bab16e50800000000000000
+      internalID: 6800922183971459992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_106
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 308
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2bb4a44fa61a9cd0800000000000000
+      internalID: -2550701296925230294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_107
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 277
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16077ac48a61416c0800000000000000
+      internalID: -4173686042569248671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_108
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5dd8a421fa17dae0800000000000000
+      internalID: -1524720325837136545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_109
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 285
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c332854fb74a7fd0800000000000000
+      internalID: -2343481769262435388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_110
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 243
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40d8f5260577883d0800000000000000
+      internalID: -3204179947742589692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_111
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 245
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 554f04bfe8d8f75e0800000000000000
+      internalID: -1909652071741590443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_112
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 257
+        width: 33
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4767404e8ebff2190800000000000000
+      internalID: -7984886636628117900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_113
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 267
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee3ddca19a4049a40800000000000000
+      internalID: 5373925379705525230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_114
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 219
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88c17ffa2cc1d2b50800000000000000
+      internalID: 6569939053904862344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_115
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 253
+        width: 33
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57b62000e124a4c90800000000000000
+      internalID: -7184857558899594379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_116
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 218
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72ac9418be03f04d0800000000000000
+      internalID: -3166258224973624793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_117
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 264
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a63051982f90e930800000000000000
+      internalID: 4170508251530540707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_118
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 239
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36af64788f3938020800000000000000
+      internalID: 2342878926793538147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_119
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 256
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 085d0be72eb48dcb0800000000000000
+      internalID: -4839034363449387648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_120
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 257
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ddd8a5bddccb0a20800000000000000
+      internalID: 3029740426944372177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_121
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 261
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76d01188fa10fc480800000000000000
+      internalID: -8876874487110234777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_122
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 237
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcb42c12edaf9e570800000000000000
+      internalID: 8496598003967216589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_123
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 238
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c53ecd86bb595c070800000000000000
+      internalID: 8126065734810657628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_124
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 249
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 942c719f4d8882760800000000000000
+      internalID: 7433341633268531785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_125
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 246
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cf8b76a8b79ec820800000000000000
+      internalID: 2940454426042404804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_126
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 204
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b424855bfe3bdb50800000000000000
+      internalID: 6618953326543512756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_127
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 206
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 961c78221129273f0800000000000000
+      internalID: -904499972856626839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_128
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 209
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23d556e0ca9b08f30800000000000000
+      internalID: 4575861370035461426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_129
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 213
+        width: 33
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86776a62d1ad479c0800000000000000
+      internalID: -3930276756050249880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_130
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 224
+        width: 33
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9d612891dcaebb50800000000000000
+      internalID: 6610911319226936732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_131
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 176
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fc0afbeabbb512c0800000000000000
+      internalID: -4461453444343264013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_132
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 195
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 690de57f9bdccc030800000000000000
+      internalID: 3516411607672344726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_133
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 214
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ba0c236d884e37c0800000000000000
+      internalID: -4089751639514412365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_134
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 217
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1ea09733d23e5210800000000000000
+      internalID: 1323551223245221405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_135
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 221
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7c01789514c6b630800000000000000
+      internalID: 3942554120840350842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_136
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 197
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 904e1a9d25d72e660800000000000000
+      internalID: 7413625731397313545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_137
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 197
+        width: 20
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 754180e196e6743f0800000000000000
+      internalID: -916642601392139177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_138
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 182
+        width: 16
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73867eba3829ec0b0800000000000000
+      internalID: -5706462583609399241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_139
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 210
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc2e247fa9dd377b0800000000000000
+      internalID: -5227591084803956021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_140
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 208
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a213cc85eb3c37550800000000000000
+      internalID: 6157480337846579498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_141
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 165
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa90ff385e515cf60800000000000000
+      internalID: 8053867584128223663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_142
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 167
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b350354618bcffe80800000000000000
+      internalID: -8142565844668185285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_143
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 170
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 544606932d2566050800000000000000
+      internalID: 5793409033517950021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_144
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 170
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecea8d47e1d43dd30800000000000000
+      internalID: 4454989249604267726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_145
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 173
+        width: 33
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a68d0673688babe90800000000000000
+      internalID: -7009086983454533526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_146
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 169
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c706c931bf59cd00800000000000000
+      internalID: 993430407595034563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_147
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 147
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3b8a7590f65d9880800000000000000
+      internalID: -8602624121907803331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_148
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 168
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b329117e4e8ad1e40800000000000000
+      internalID: 5628840810365686331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_149
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 167
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ceeaa36af58b5ca0800000000000000
+      internalID: -6027076365844812089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_150
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 180
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42c0bdf33a0afaf80800000000000000
+      internalID: -8093073382350058460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_151
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 133
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec8cc6bcd3b1cdce0800000000000000
+      internalID: -1379197433662355250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_152
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 158
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae9bbe57bdf25eba0800000000000000
+      internalID: -6060385103934408214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_153
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 133
+        width: 16
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b95613ac6ae55add0800000000000000
+      internalID: -2475468349720402533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_154
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 171
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6936998bdbb140b90800000000000000
+      internalID: -7276660596264049770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_155
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 160
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c24a3758f6026d3d0800000000000000
+      internalID: -3182320423338269652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_156
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 118
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a55d94d2fa1496b30800000000000000
+      internalID: 4281025141427262810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_157
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 128
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 963b52cdd4fdf28c0800000000000000
+      internalID: -4021750416719629463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_158
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 80
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 502a0cbd4fad544e0800000000000000
+      internalID: -1997950114475236859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_159
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 127
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba2858101e8ffc690800000000000000
+      internalID: -7579566002564398421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_160
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 126
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d643c2f449039170800000000000000
+      internalID: 8183895139597633236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_161
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 124
+        width: 25
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7481e6dab7d70cc50800000000000000
+      internalID: 6683479817161939015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_162
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 128
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cb2d79c5e4677be0800000000000000
+      internalID: -1479603014477206592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_163
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 111
+        width: 38
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5cfa4676b99e52f0800000000000000
+      internalID: -982178659772466083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_164
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 108
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1eef131bb7d2fb30800000000000000
+      internalID: 4319752191081442846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_165
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 129
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e0cbd418c9d85f60800000000000000
+      internalID: 8023402189527171299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_166
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 89
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1448b059d0005cf80800000000000000
+      internalID: -8087057497538722751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_167
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 128
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81e25ded4b8f37250800000000000000
+      internalID: 5941365789148130840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_168
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 89
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44d1f808dddf4f6c0800000000000000
+      internalID: -4110381432095957692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_169
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 94
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abd2e33295e229090800000000000000
+      internalID: -8029304225269928518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_170
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 110
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e028dda092383b1e0800000000000000
+      internalID: -2183257182045371890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_171
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 110
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0115ee1198b670790800000000000000
+      internalID: -7563958812689936112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_172
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 126
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a223ee864bbb7f000800000000000000
+      internalID: 69730702776480298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_173
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 121
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e1798c457c0501f0800000000000000
+      internalID: -1079442837750582807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_174
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 79
+        width: 45
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d21fe39b67805b90800000000000000
+      internalID: -7255150103580699952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_175
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 79
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d55c3d09138932c50800000000000000
+      internalID: 6639317614324860253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_176
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 79
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a87c90200be972a00800000000000000
+      internalID: 731727943256622986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_177
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 79
+        width: 25
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27e4ca9fd6c658fb0800000000000000
+      internalID: -4646188220966744462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_178
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 63
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb571ea45d9b9af10800000000000000
+      internalID: 2281559011975329215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_179
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 60
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 066c3567458198270800000000000000
+      internalID: 8253154543174665824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_180
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 41
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1685aa6b2e4d49100800000000000000
+      internalID: 113949960783419489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_181
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 48
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19256162c3fedf980800000000000000
+      internalID: -8503377479789555055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_182
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 47
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a00bd93ff35fa8d00800000000000000
+      internalID: 975861924298076170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_183
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 86
+        width: 40
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74467e93ee32c8950800000000000000
+      internalID: 6452571872195732551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_184
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 47
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1692669f5f4784290800000000000000
+      internalID: -7905940546048874143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_185
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 86
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df22a1ea4c4b2c630800000000000000
+      internalID: 3945914980357513981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_186
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 47
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3afb012f11a7d6c20800000000000000
+      internalID: 3201349127624507299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_187
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 81
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d28d3ba631709090800000000000000
+      internalID: -8029793655986486568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_188
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 40
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa11d0a951b312fa0800000000000000
+      internalID: -5827311478875811409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_189
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 40
+        width: 47
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36359fb6c0c4090f0800000000000000
+      internalID: -1112305491725692061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_190
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 39
+        width: 48
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cddfdad5ddc8f3e0800000000000000
+      internalID: -2019638114491834944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_191
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 48
+        width: 43
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 232818096d7f73c50800000000000000
+      internalID: 6645052276127924786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_192
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 0
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4302500d866cdda0800000000000000
+      internalID: -5918743054489877683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_193
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 31
+        width: 43
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65b728234ea227b10800000000000000
+      internalID: 1977690345957391190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_194
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 40
+        width: 41
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 895a1ec01190ddc50800000000000000
+      internalID: 6691514590177633688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_195
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 0
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6a8ba167c6290990800000000000000
+      internalID: -7419356273337202069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_196
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 0
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fc5714cc2d495ae0800000000000000
+      internalID: -1560130941243400970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_197
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 0
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 843ed4f30de272d60800000000000000
+      internalID: 7865306746176004936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_198
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 0
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad735c96d9f2f0be0800000000000000
+      internalID: -1508934997014923302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_199
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 41
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 443342aa7e5e3ac40800000000000000
+      internalID: 5522510351241065284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_200
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 58
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 908f1603ee9994ca0800000000000000
+      internalID: -6032120977593075703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_201
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 0
+        width: 50
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d11073ce7cb746b0800000000000000
+      internalID: -5312069982829407788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_202
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 0
+        width: 49
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e26d0a3976de17520800000000000000
+      internalID: 2698198680885843502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_203
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 0
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6213e24fac89bb410800000000000000
+      internalID: 1493955698850935078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_204
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 0
+        width: 43
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fda21223a07797a00800000000000000
+      internalID: 754765298235681503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_205
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 0
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20c1e0d9b99589190800000000000000
+      internalID: -7955510216860230654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MikadoBlack Atlas_206
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 0
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f13245102e5001a60800000000000000
+      internalID: 7642615035890770719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      MikadoBlack Atlas_0: -1519804460308959983
+      MikadoBlack Atlas_1: -1582906869665344697
+      MikadoBlack Atlas_10: 3757401361479902751
+      MikadoBlack Atlas_100: -2829747374428991392
+      MikadoBlack Atlas_101: -1261776917362576976
+      MikadoBlack Atlas_102: 2881267362998622691
+      MikadoBlack Atlas_103: -489243987035839436
+      MikadoBlack Atlas_104: -5198008412395837473
+      MikadoBlack Atlas_105: 6800922183971459992
+      MikadoBlack Atlas_106: -2550701296925230294
+      MikadoBlack Atlas_107: -4173686042569248671
+      MikadoBlack Atlas_108: -1524720325837136545
+      MikadoBlack Atlas_109: -2343481769262435388
+      MikadoBlack Atlas_11: -1069576626436781410
+      MikadoBlack Atlas_110: -3204179947742589692
+      MikadoBlack Atlas_111: -1909652071741590443
+      MikadoBlack Atlas_112: -7984886636628117900
+      MikadoBlack Atlas_113: 5373925379705525230
+      MikadoBlack Atlas_114: 6569939053904862344
+      MikadoBlack Atlas_115: -7184857558899594379
+      MikadoBlack Atlas_116: -3166258224973624793
+      MikadoBlack Atlas_117: 4170508251530540707
+      MikadoBlack Atlas_118: 2342878926793538147
+      MikadoBlack Atlas_119: -4839034363449387648
+      MikadoBlack Atlas_12: -6012580833636222623
+      MikadoBlack Atlas_120: 3029740426944372177
+      MikadoBlack Atlas_121: -8876874487110234777
+      MikadoBlack Atlas_122: 8496598003967216589
+      MikadoBlack Atlas_123: 8126065734810657628
+      MikadoBlack Atlas_124: 7433341633268531785
+      MikadoBlack Atlas_125: 2940454426042404804
+      MikadoBlack Atlas_126: 6618953326543512756
+      MikadoBlack Atlas_127: -904499972856626839
+      MikadoBlack Atlas_128: 4575861370035461426
+      MikadoBlack Atlas_129: -3930276756050249880
+      MikadoBlack Atlas_13: 4303700909586281103
+      MikadoBlack Atlas_130: 6610911319226936732
+      MikadoBlack Atlas_131: -4461453444343264013
+      MikadoBlack Atlas_132: 3516411607672344726
+      MikadoBlack Atlas_133: -4089751639514412365
+      MikadoBlack Atlas_134: 1323551223245221405
+      MikadoBlack Atlas_135: 3942554120840350842
+      MikadoBlack Atlas_136: 7413625731397313545
+      MikadoBlack Atlas_137: -916642601392139177
+      MikadoBlack Atlas_138: -5706462583609399241
+      MikadoBlack Atlas_139: -5227591084803956021
+      MikadoBlack Atlas_14: 4555899043137109632
+      MikadoBlack Atlas_140: 6157480337846579498
+      MikadoBlack Atlas_141: 8053867584128223663
+      MikadoBlack Atlas_142: -8142565844668185285
+      MikadoBlack Atlas_143: 5793409033517950021
+      MikadoBlack Atlas_144: 4454989249604267726
+      MikadoBlack Atlas_145: -7009086983454533526
+      MikadoBlack Atlas_146: 993430407595034563
+      MikadoBlack Atlas_147: -8602624121907803331
+      MikadoBlack Atlas_148: 5628840810365686331
+      MikadoBlack Atlas_149: -6027076365844812089
+      MikadoBlack Atlas_15: -3584263211432487903
+      MikadoBlack Atlas_150: -8093073382350058460
+      MikadoBlack Atlas_151: -1379197433662355250
+      MikadoBlack Atlas_152: -6060385103934408214
+      MikadoBlack Atlas_153: -2475468349720402533
+      MikadoBlack Atlas_154: -7276660596264049770
+      MikadoBlack Atlas_155: -3182320423338269652
+      MikadoBlack Atlas_156: 4281025141427262810
+      MikadoBlack Atlas_157: -4021750416719629463
+      MikadoBlack Atlas_158: -1997950114475236859
+      MikadoBlack Atlas_159: -7579566002564398421
+      MikadoBlack Atlas_16: 3767979017011891778
+      MikadoBlack Atlas_160: 8183895139597633236
+      MikadoBlack Atlas_161: 6683479817161939015
+      MikadoBlack Atlas_162: -1479603014477206592
+      MikadoBlack Atlas_163: -982178659772466083
+      MikadoBlack Atlas_164: 4319752191081442846
+      MikadoBlack Atlas_165: 8023402189527171299
+      MikadoBlack Atlas_166: -8087057497538722751
+      MikadoBlack Atlas_167: 5941365789148130840
+      MikadoBlack Atlas_168: -4110381432095957692
+      MikadoBlack Atlas_169: -8029304225269928518
+      MikadoBlack Atlas_17: 947553089720619744
+      MikadoBlack Atlas_170: -2183257182045371890
+      MikadoBlack Atlas_171: -7563958812689936112
+      MikadoBlack Atlas_172: 69730702776480298
+      MikadoBlack Atlas_173: -1079442837750582807
+      MikadoBlack Atlas_174: -7255150103580699952
+      MikadoBlack Atlas_175: 6639317614324860253
+      MikadoBlack Atlas_176: 731727943256622986
+      MikadoBlack Atlas_177: -4646188220966744462
+      MikadoBlack Atlas_178: 2281559011975329215
+      MikadoBlack Atlas_179: 8253154543174665824
+      MikadoBlack Atlas_18: 1990679228938717106
+      MikadoBlack Atlas_180: 113949960783419489
+      MikadoBlack Atlas_181: -8503377479789555055
+      MikadoBlack Atlas_182: 975861924298076170
+      MikadoBlack Atlas_183: 6452571872195732551
+      MikadoBlack Atlas_184: -7905940546048874143
+      MikadoBlack Atlas_185: 3945914980357513981
+      MikadoBlack Atlas_186: 3201349127624507299
+      MikadoBlack Atlas_187: -8029793655986486568
+      MikadoBlack Atlas_188: -5827311478875811409
+      MikadoBlack Atlas_189: -1112305491725692061
+      MikadoBlack Atlas_19: 8118989432586346943
+      MikadoBlack Atlas_190: -2019638114491834944
+      MikadoBlack Atlas_191: 6645052276127924786
+      MikadoBlack Atlas_192: -5918743054489877683
+      MikadoBlack Atlas_193: 1977690345957391190
+      MikadoBlack Atlas_194: 6691514590177633688
+      MikadoBlack Atlas_195: -7419356273337202069
+      MikadoBlack Atlas_196: -1560130941243400970
+      MikadoBlack Atlas_197: 7865306746176004936
+      MikadoBlack Atlas_198: -1508934997014923302
+      MikadoBlack Atlas_199: 5522510351241065284
+      MikadoBlack Atlas_2: 186039203146458152
+      MikadoBlack Atlas_20: -1822837202005569285
+      MikadoBlack Atlas_200: -6032120977593075703
+      MikadoBlack Atlas_201: -5312069982829407788
+      MikadoBlack Atlas_202: 2698198680885843502
+      MikadoBlack Atlas_203: 1493955698850935078
+      MikadoBlack Atlas_204: 754765298235681503
+      MikadoBlack Atlas_205: -7955510216860230654
+      MikadoBlack Atlas_206: 7642615035890770719
+      MikadoBlack Atlas_21: 6087115079968599350
+      MikadoBlack Atlas_22: -2484770472100222678
+      MikadoBlack Atlas_23: 948606293097141877
+      MikadoBlack Atlas_24: 3886916661172645342
+      MikadoBlack Atlas_25: -1583755667107268336
+      MikadoBlack Atlas_26: -7048777392047774828
+      MikadoBlack Atlas_27: -918239878999517288
+      MikadoBlack Atlas_28: 2575609594240856281
+      MikadoBlack Atlas_29: 847542714952864296
+      MikadoBlack Atlas_3: 2952964709939532647
+      MikadoBlack Atlas_30: 4076999840820684669
+      MikadoBlack Atlas_31: -1664543002945239173
+      MikadoBlack Atlas_32: 1075871372797078291
+      MikadoBlack Atlas_33: -3176572675659762516
+      MikadoBlack Atlas_34: 8530010518341572627
+      MikadoBlack Atlas_35: -1923974354300128739
+      MikadoBlack Atlas_36: -1466069289250536056
+      MikadoBlack Atlas_37: -9177182111134402510
+      MikadoBlack Atlas_38: 4198883109372637010
+      MikadoBlack Atlas_39: 8242002478408585998
+      MikadoBlack Atlas_4: -3556542265218218500
+      MikadoBlack Atlas_40: 2943642674190266815
+      MikadoBlack Atlas_41: -243323466033899843
+      MikadoBlack Atlas_42: -5809788517827329308
+      MikadoBlack Atlas_43: 3650868010636996082
+      MikadoBlack Atlas_44: -2421114702045693531
+      MikadoBlack Atlas_45: 1935467052386708516
+      MikadoBlack Atlas_46: 6233779427811940828
+      MikadoBlack Atlas_47: 5076249224599847597
+      MikadoBlack Atlas_48: 3131653770299784882
+      MikadoBlack Atlas_49: -1987483929811380621
+      MikadoBlack Atlas_5: -9096120600755210692
+      MikadoBlack Atlas_50: 5101528538110703736
+      MikadoBlack Atlas_51: 1879648023794474341
+      MikadoBlack Atlas_52: 5454519716664595645
+      MikadoBlack Atlas_53: 6682185299628079932
+      MikadoBlack Atlas_54: -4050927879550110030
+      MikadoBlack Atlas_55: -2234948613851106090
+      MikadoBlack Atlas_56: 7520998315816957480
+      MikadoBlack Atlas_57: 7412245389838650309
+      MikadoBlack Atlas_58: 3014462817168544526
+      MikadoBlack Atlas_59: -8234308486352614049
+      MikadoBlack Atlas_6: 7543833255030870711
+      MikadoBlack Atlas_60: 3178764497683903729
+      MikadoBlack Atlas_61: 3468484116908277822
+      MikadoBlack Atlas_62: 8205664942996182241
+      MikadoBlack Atlas_63: -6777240281799462191
+      MikadoBlack Atlas_64: 941572207838050056
+      MikadoBlack Atlas_65: 8208485642360033029
+      MikadoBlack Atlas_66: -2228018163524900637
+      MikadoBlack Atlas_67: 1087045810715110371
+      MikadoBlack Atlas_68: -992698830076403955
+      MikadoBlack Atlas_69: -393818559199713084
+      MikadoBlack Atlas_7: -531076648737826620
+      MikadoBlack Atlas_70: 2761593535461633706
+      MikadoBlack Atlas_71: -261911166943084166
+      MikadoBlack Atlas_72: -6972931718032961325
+      MikadoBlack Atlas_73: 5199037935301057887
+      MikadoBlack Atlas_74: -5869088226724821078
+      MikadoBlack Atlas_75: 4902853095818783062
+      MikadoBlack Atlas_76: 2385254874975516135
+      MikadoBlack Atlas_77: 4397063377993731808
+      MikadoBlack Atlas_78: -7769515799566382000
+      MikadoBlack Atlas_79: -7039646735924617960
+      MikadoBlack Atlas_8: -4981967081922180909
+      MikadoBlack Atlas_80: 6070460179895265080
+      MikadoBlack Atlas_81: -7275266781978270758
+      MikadoBlack Atlas_82: 6040448533440832729
+      MikadoBlack Atlas_83: -7440900076770361650
+      MikadoBlack Atlas_84: -8916454439925521084
+      MikadoBlack Atlas_85: -2589106850553230252
+      MikadoBlack Atlas_86: 3987167521562573280
+      MikadoBlack Atlas_87: -6662365313744948933
+      MikadoBlack Atlas_88: -467829192357212927
+      MikadoBlack Atlas_89: -5240784053457477998
+      MikadoBlack Atlas_9: 6160089436657510475
+      MikadoBlack Atlas_90: 10562212281972910
+      MikadoBlack Atlas_91: 6273561905578344308
+      MikadoBlack Atlas_92: 8503869493905056068
+      MikadoBlack Atlas_93: -7169505400663385845
+      MikadoBlack Atlas_94: 5091210742116258834
+      MikadoBlack Atlas_95: -3659272476541364287
+      MikadoBlack Atlas_96: -4181968389677229991
+      MikadoBlack Atlas_97: 8729637983639643475
+      MikadoBlack Atlas_98: -8876168063019639655
+      MikadoBlack Atlas_99: -5278058604397447604
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

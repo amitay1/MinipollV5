@@ -1,0 +1,923 @@
+fileFormatVersion: 2
+guid: 25489d8813f90bb4392a1a44f245063e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5275167449721333541
+    second: pirate_avatars_0
+  - first:
+      213: -2981105274943416626
+    second: pirate_avatars_1
+  - first:
+      213: -4817356351718825596
+    second: pirate_avatars_2
+  - first:
+      213: -1703714791882428257
+    second: pirate_avatars_3
+  - first:
+      213: 7930347021759751536
+    second: pirate_avatars_4
+  - first:
+      213: -6433677705076482808
+    second: pirate_avatars_5
+  - first:
+      213: 553314875687489374
+    second: pirate_avatars_6
+  - first:
+      213: -5534738828289158293
+    second: pirate_avatars_7
+  - first:
+      213: 8229513866023106272
+    second: pirate_avatars_8
+  - first:
+      213: -3239667422423406384
+    second: pirate_avatars_9
+  - first:
+      213: 4157280107031238154
+    second: pirate_avatars_10
+  - first:
+      213: 1738984252517302023
+    second: pirate_avatars_11
+  - first:
+      213: 147510146830744977
+    second: pirate_avatars_12
+  - first:
+      213: 3461666099773738194
+    second: pirate_avatars_13
+  - first:
+      213: -7955876220836972526
+    second: pirate_avatars_14
+  - first:
+      213: 6053046122522832702
+    second: pirate_avatars_15
+  - first:
+      213: 4807014890243700010
+    second: pirate_avatars_16
+  - first:
+      213: 6520262641424683911
+    second: pirate_avatars_17
+  - first:
+      213: 6079632639026263325
+    second: pirate_avatars_18
+  - first:
+      213: -9086630263273858156
+    second: pirate_avatars_19
+  - first:
+      213: -2788972234212737226
+    second: pirate_avatars_20
+  - first:
+      213: -5694737869421388872
+    second: pirate_avatars_21
+  - first:
+      213: -4319462085785140754
+    second: pirate_avatars_22
+  - first:
+      213: -2561130984482752048
+    second: pirate_avatars_23
+  - first:
+      213: 5174526500667941783
+    second: pirate_avatars_24
+  - first:
+      213: -7078872187442274143
+    second: pirate_avatars_25
+  - first:
+      213: 4896273614374191027
+    second: pirate_avatars_26
+  - first:
+      213: 2179954769311135502
+    second: pirate_avatars_27
+  - first:
+      213: -7767039851735775751
+    second: pirate_avatars_28
+  - first:
+      213: 5238348865829524060
+    second: pirate_avatars_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pirate_avatars_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 412
+        width: 87
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 527e753b8d8253940800000000000000
+      internalID: 5275167449721333541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_avatars_1
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 312
+        width: 87
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec654f80c8cf0a6d0800000000000000
+      internalID: -2981105274943416626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_avatars_2
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 412
+        width: 87
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 481e35bebef452db0800000000000000
+      internalID: -4817356351718825596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_avatars_3
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 412
+        width: 87
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f90f4476c603b58e0800000000000000
+      internalID: -1703714791882428257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_avatars_4
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 412
+        width: 87
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 075219979904e0e60800000000000000
+      internalID: 7930347021759751536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_avatars_5
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 412
+        width: 87
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80dd09dd63cf6b6a0800000000000000
+      internalID: -6433677705076482808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_avatars_6
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 312
+        width: 87
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5fca46a2f4cda700800000000000000
+      internalID: 553314875687489374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_avatars_7
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 412
+        width: 87
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6353472c58a033b0800000000000000
+      internalID: -5534738828289158293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_avatars_8
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 412
+        width: 87
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e67572624b153270800000000000000
+      internalID: 8229513866023106272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_avatars_9
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 312
+        width: 91
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d82c00d4a36a03d0800000000000000
+      internalID: -3239667422423406384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_avatars_10
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 412
+        width: 87
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a06156b2b30a1b930800000000000000
+      internalID: 4157280107031238154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_avatars_11
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 312
+        width: 92
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70fba41d6fc122810800000000000000
+      internalID: 1738984252517302023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_avatars_12
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 412
+        width: 87
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19dbc9e62bf0c0200800000000000000
+      internalID: 147510146830744977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_avatars_13
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 412
+        width: 87
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dc86002afe4a0030800000000000000
+      internalID: 3461666099773738194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_avatars_14
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 312
+        width: 87
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 218f80caabc079190800000000000000
+      internalID: -7955876220836972526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_avatars_15
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 312
+        width: 87
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3f6706c06db00450800000000000000
+      internalID: 6053046122522832702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_avatars_16
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 312
+        width: 87
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a253df2f292f5b240800000000000000
+      internalID: 4807014890243700010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_avatars_17
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 212
+        width: 87
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7835e589350ac7a50800000000000000
+      internalID: 6520262641424683911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_avatars_18
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 312
+        width: 87
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d15f7068ca13f5450800000000000000
+      internalID: 6079632639026263325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_avatars_19
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 212
+        width: 87
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49b5f382bedc5e180800000000000000
+      internalID: -9086630263273858156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_avatars_20
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 312
+        width: 89
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63f725397849b49d0800000000000000
+      internalID: -2788972234212737226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_avatars_21
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 312
+        width: 87
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bb5c2c641a38f0b0800000000000000
+      internalID: -5694737869421388872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_avatars_22
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 212
+        width: 87
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee142045e103e04c0800000000000000
+      internalID: -4319462085785140754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_avatars_23
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 212
+        width: 87
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d9b8a660f8057cd0800000000000000
+      internalID: -2561130984482752048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_avatars_24
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 212
+        width: 87
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7936821cf6c9fc740800000000000000
+      internalID: 5174526500667941783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_avatars_25
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 212
+        width: 87
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a06c11404bc2cd90800000000000000
+      internalID: -7078872187442274143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_avatars_26
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 212
+        width: 87
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bf34e329ee03f340800000000000000
+      internalID: 4896273614374191027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_avatars_27
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 212
+        width: 87
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0775331051c04e10800000000000000
+      internalID: 2179954769311135502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_avatars_28
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 212
+        width: 87
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f58cf8086ee53490800000000000000
+      internalID: -7767039851735775751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_avatars_29
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 212
+        width: 87
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c52d65d1a8a52b840800000000000000
+      internalID: 5238348865829524060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      pirate_avatars_0: 5275167449721333541
+      pirate_avatars_1: -2981105274943416626
+      pirate_avatars_10: 4157280107031238154
+      pirate_avatars_11: 1738984252517302023
+      pirate_avatars_12: 147510146830744977
+      pirate_avatars_13: 3461666099773738194
+      pirate_avatars_14: -7955876220836972526
+      pirate_avatars_15: 6053046122522832702
+      pirate_avatars_16: 4807014890243700010
+      pirate_avatars_17: 6520262641424683911
+      pirate_avatars_18: 6079632639026263325
+      pirate_avatars_19: -9086630263273858156
+      pirate_avatars_2: -4817356351718825596
+      pirate_avatars_20: -2788972234212737226
+      pirate_avatars_21: -5694737869421388872
+      pirate_avatars_22: -4319462085785140754
+      pirate_avatars_23: -2561130984482752048
+      pirate_avatars_24: 5174526500667941783
+      pirate_avatars_25: -7078872187442274143
+      pirate_avatars_26: 4896273614374191027
+      pirate_avatars_27: 2179954769311135502
+      pirate_avatars_28: -7767039851735775751
+      pirate_avatars_29: 5238348865829524060
+      pirate_avatars_3: -1703714791882428257
+      pirate_avatars_4: 7930347021759751536
+      pirate_avatars_5: -6433677705076482808
+      pirate_avatars_6: 553314875687489374
+      pirate_avatars_7: -5534738828289158293
+      pirate_avatars_8: 8229513866023106272
+      pirate_avatars_9: -3239667422423406384
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

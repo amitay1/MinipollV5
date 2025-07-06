@@ -1,0 +1,1755 @@
+fileFormatVersion: 2
+guid: 06bf024c665fa7d449c6bfead420b1e3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4634217821279261239
+    second: sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_0
+  - first:
+      213: 1940104343800837864
+    second: sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_1
+  - first:
+      213: -8854659027783183070
+    second: sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_2
+  - first:
+      213: -2173187865809653841
+    second: sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_3
+  - first:
+      213: 2894021129503895190
+    second: sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_4
+  - first:
+      213: 5580299422939338560
+    second: sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_5
+  - first:
+      213: 8642753694608575305
+    second: sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_6
+  - first:
+      213: -8140144772745006986
+    second: sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_7
+  - first:
+      213: 5501489330394887936
+    second: sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_8
+  - first:
+      213: 7393616456460369047
+    second: sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_9
+  - first:
+      213: 4406480096269824
+    second: sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_10
+  - first:
+      213: 91743221173785316
+    second: sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_11
+  - first:
+      213: -6475615495390905637
+    second: sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_12
+  - first:
+      213: -3524649222932486217
+    second: sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_13
+  - first:
+      213: 6182758230904266808
+    second: sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_14
+  - first:
+      213: -4200220788384374122
+    second: sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_15
+  - first:
+      213: -6623593716445649178
+    second: sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_16
+  - first:
+      213: 5278044593176611912
+    second: sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_17
+  - first:
+      213: -8861910953964257862
+    second: sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_18
+  - first:
+      213: 3219078908948696984
+    second: sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_19
+  - first:
+      213: 2949713999824631571
+    second: sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_20
+  - first:
+      213: 2699522417724815184
+    second: sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_21
+  - first:
+      213: 36247122160802094
+    second: sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_22
+  - first:
+      213: -1038982505466743995
+    second: sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_23
+  - first:
+      213: -6249392538087381285
+    second: sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_24
+  - first:
+      213: -3636970182595812413
+    second: sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_25
+  - first:
+      213: 1763911314570788222
+    second: sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_26
+  - first:
+      213: 7559323967965319482
+    second: sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_27
+  - first:
+      213: 5174118044778948175
+    second: sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_28
+  - first:
+      213: 4494942654941116204
+    second: sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_29
+  - first:
+      213: 1697385646832979716
+    second: sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_30
+  - first:
+      213: -7926119432967158748
+    second: sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_31
+  - first:
+      213: -4745198387058485447
+    second: sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_32
+  - first:
+      213: -2181130615544300974
+    second: sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_33
+  - first:
+      213: -5334064921622132562
+    second: sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_34
+  - first:
+      213: 1435914983069855037
+    second: sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_35
+  - first:
+      213: -5919504349775717232
+    second: sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_36
+  - first:
+      213: -2140518189129008604
+    second: sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_37
+  - first:
+      213: 7803792086157053699
+    second: sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_38
+  - first:
+      213: 4352080378033334994
+    second: sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_39
+  - first:
+      213: 6053412907023803123
+    second: sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_40
+  - first:
+      213: 2513242962610687764
+    second: sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_41
+  - first:
+      213: 7232214358506779295
+    second: sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_42
+  - first:
+      213: 5201238416832230932
+    second: sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_43
+  - first:
+      213: 916299718941471739
+    second: sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_44
+  - first:
+      213: 7845294444779098916
+    second: sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_45
+  - first:
+      213: 3582666811065923799
+    second: sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_46
+  - first:
+      213: -4011725150114771604
+    second: sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_47
+  - first:
+      213: -1406890845236002355
+    second: sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_48
+  - first:
+      213: 567610834695798280
+    second: sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_49
+  - first:
+      213: 1844294404112880952
+    second: sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_50
+  - first:
+      213: -4474020256921912853
+    second: sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_51
+  - first:
+      213: -5529671304894102427
+    second: sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_52
+  - first:
+      213: 7548330093165841093
+    second: sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_53
+  - first:
+      213: -1172549767789428349
+    second: sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_54
+  - first:
+      213: 5952287252728266275
+    second: sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_55
+  - first:
+      213: 5785407544198354638
+    second: sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_56
+  - first:
+      213: 1162426623026814003
+    second: sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_57
+  - first:
+      213: 5656662980474414759
+    second: sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_58
+  - first:
+      213: 2907441623399904631
+    second: sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_59
+  - first:
+      213: 6882398643063308892
+    second: sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_60
+  - first:
+      213: 4538502622271008869
+    second: sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_61
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1761
+        width: 71
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cd6dd6d173ffafb0800000000000000
+      internalID: -4634217821279261239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1662
+        width: 105
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e6f07f1f92acea10800000000000000
+      internalID: 1940104343800837864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_2
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1683
+        width: 101
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22517c9378eed1580800000000000000
+      internalID: -8854659027783183070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_3
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 1560
+        width: 99
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fafe93c662947d1e0800000000000000
+      internalID: -2173187865809653841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_4
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1683
+        width: 38
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69eed8452e0a92820800000000000000
+      internalID: 2894021129503895190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_5
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 1683
+        width: 39
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 047dd9c62c4317d40800000000000000
+      internalID: 5580299422939338560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_6
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 1683
+        width: 39
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94bc658a1ba31f770800000000000000
+      internalID: 8642753694608575305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_7
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1683
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 670f7402575680f80800000000000000
+      internalID: -8140144772745006986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1560
+        width: 120
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 007f9c9d567395c40800000000000000
+      internalID: 5501489330394887936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_9
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 1540
+        width: 48
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79c7dcc7ef66b9660800000000000000
+      internalID: 7393616456460369047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1506
+        width: 233
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00619d89ba7af0000800000000000000
+      internalID: 4406480096269824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_11
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 1497
+        width: 65
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e21d9c39ffe54100800000000000000
+      internalID: 91743221173785316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_12
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1391
+        width: 112
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdab537240ef126a0800000000000000
+      internalID: -6475615495390905637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1393
+        width: 131
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b7a045c43ee51fc0800000000000000
+      internalID: -3524649222932486217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_14
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1369
+        width: 455
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 830eb257ad19dc550800000000000000
+      internalID: 6182758230904266808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_15
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1393
+        width: 130
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 692632a5271d5b5c0800000000000000
+      internalID: -4200220788384374122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_16
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1233
+        width: 124
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e66fb2bb944414a0800000000000000
+      internalID: -6623593716445649178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_17
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 1283
+        width: 42
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84c86fcd7916f3940800000000000000
+      internalID: 5278044593176611912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_18
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 1106
+        width: 236
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abd31d590fa240580800000000000000
+      internalID: -8861910953964257862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_19
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 1262
+        width: 57
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89fc6d756377cac20800000000000000
+      internalID: 3219078908948696984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_20
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 1242
+        width: 90
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3173b8c214d7fe820800000000000000
+      internalID: 2949713999824631571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1099
+        width: 125
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 057f0b31651a67520800000000000000
+      internalID: 2699522417724815184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_22
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 1226
+        width: 345
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e295688c096c08000800000000000000
+      internalID: 36247122160802094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_23
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 1163
+        width: 235
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5433fc18aeac491f0800000000000000
+      internalID: -1038982505466743995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_24
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 1016
+        width: 67
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd62359e892b549a0800000000000000
+      internalID: -6249392538087381285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_25
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 970
+        width: 132
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c360bf63e2e68dc0800000000000000
+      internalID: -3636970182595812413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_26
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 970
+        width: 123
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7db848befbaa7810800000000000000
+      internalID: 1763911314570788222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_27
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 861
+        width: 160
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a315bac091d18e860800000000000000
+      internalID: 7559323967965319482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_28
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 929
+        width: 87
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f46ecf4b2f82ec740800000000000000
+      internalID: 5174118044778948175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_29
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 919
+        width: 92
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c273489878e316e30800000000000000
+      internalID: 4494942654941116204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_30
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 913
+        width: 129
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40f835ea0435e8710800000000000000
+      internalID: 1697385646832979716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 882
+        width: 243
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4240caebe54c00290800000000000000
+      internalID: -7926119432967158748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_32
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 879
+        width: 78
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9375f96453ba52eb0800000000000000
+      internalID: -4745198387058485447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_33
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 796
+        width: 135
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25ab0c3e2411bb1e0800000000000000
+      internalID: -2181130615544300974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_34
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 774
+        width: 126
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea847d1073899f5b0800000000000000
+      internalID: -5334064921622132562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_35
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 771
+        width: 126
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3d2a8db1156de310800000000000000
+      internalID: 1435914983069855037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 703
+        width: 184
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09c1d312822b9dda0800000000000000
+      internalID: -5919504349775717232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_37
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 712
+        width: 162
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42af3b54c0a5b42e0800000000000000
+      internalID: -2140518189129008604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_38
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 701
+        width: 144
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30f456c5e83ac4c60800000000000000
+      internalID: 7803792086157053699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_39
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 647
+        width: 138
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2daef96ab02b56c30800000000000000
+      internalID: 4352080378033334994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_40
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 635
+        width: 136
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f22be177fa020450800000000000000
+      internalID: 6053412907023803123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_41
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 720
+        width: 122
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41f09a4a825d0e220800000000000000
+      internalID: 2513242962610687764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_42
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 542
+        width: 184
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f92b64224acfd5460800000000000000
+      internalID: 7232214358506779295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_43
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 531
+        width: 169
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 416766368c28e2840800000000000000
+      internalID: 5201238416832230932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_44
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 561
+        width: 240
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf3fb475db957bc00800000000000000
+      internalID: 916299718941471739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_45
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 483
+        width: 142
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 423576b3bb510ec60800000000000000
+      internalID: 7845294444779098916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_46
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 590
+        width: 141
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d87a2e9b7038b130800000000000000
+      internalID: 3582666811065923799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_47
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 219
+        width: 257
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6d88e22b3d7358c0800000000000000
+      internalID: -4011725150114771604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_48
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 398
+        width: 86
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc185f3fa38b97ce0800000000000000
+      internalID: -1406890845236002355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_49
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 295
+        width: 420
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80eb4bcfb0f80e700800000000000000
+      internalID: 567610834695798280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_50
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 443
+        width: 147
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83593623dff389910800000000000000
+      internalID: 1844294404112880952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_51
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 227
+        width: 184
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be9744cd74619e1c0800000000000000
+      internalID: -4474020256921912853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_52
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 217
+        width: 173
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 564cd13ee39a243b0800000000000000
+      internalID: -5529671304894102427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_53
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 147
+        width: 137
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ca8a8a1a3e01c860800000000000000
+      internalID: 7548330093165841093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_54
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 287
+        width: 134
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 381c179d2344abfe0800000000000000
+      internalID: -1172549767789428349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_55
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 254
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32e34f348b5ca9250800000000000000
+      internalID: 5952287252728266275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_56
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1
+        width: 190
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec6dec05285e94050800000000000000
+      internalID: 5785407544198354638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_57
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 0
+        width: 264
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33c58f6dad4c12010800000000000000
+      internalID: 1162426623026814003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_58
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 153
+        width: 142
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a6a74da201808e40800000000000000
+      internalID: 5656662980474414759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_59
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 2
+        width: 131
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 775bfef80ce495820800000000000000
+      internalID: 2907441623399904631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_60
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 148
+        width: 86
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c524b62f911338f50800000000000000
+      internalID: 6882398643063308892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_61
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 0
+        width: 127
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56074a4c6100cfe30800000000000000
+      internalID: 4538502622271008869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_0: -4634217821279261239
+      sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_1: 1940104343800837864
+      sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_10: 4406480096269824
+      sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_11: 91743221173785316
+      sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_12: -6475615495390905637
+      sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_13: -3524649222932486217
+      sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_14: 6182758230904266808
+      sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_15: -4200220788384374122
+      sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_16: -6623593716445649178
+      sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_17: 5278044593176611912
+      sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_18: -8861910953964257862
+      sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_19: 3219078908948696984
+      sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_2: -8854659027783183070
+      sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_20: 2949713999824631571
+      sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_21: 2699522417724815184
+      sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_22: 36247122160802094
+      sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_23: -1038982505466743995
+      sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_24: -6249392538087381285
+      sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_25: -3636970182595812413
+      sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_26: 1763911314570788222
+      sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_27: 7559323967965319482
+      sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_28: 5174118044778948175
+      sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_29: 4494942654941116204
+      sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_3: -2173187865809653841
+      sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_30: 1697385646832979716
+      sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_31: -7926119432967158748
+      sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_32: -4745198387058485447
+      sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_33: -2181130615544300974
+      sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_34: -5334064921622132562
+      sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_35: 1435914983069855037
+      sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_36: -5919504349775717232
+      sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_37: -2140518189129008604
+      sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_38: 7803792086157053699
+      sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_39: 4352080378033334994
+      sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_4: 2894021129503895190
+      sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_40: 6053412907023803123
+      sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_41: 2513242962610687764
+      sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_42: 7232214358506779295
+      sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_43: 5201238416832230932
+      sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_44: 916299718941471739
+      sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_45: 7845294444779098916
+      sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_46: 3582666811065923799
+      sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_47: -4011725150114771604
+      sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_48: -1406890845236002355
+      sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_49: 567610834695798280
+      sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_5: 5580299422939338560
+      sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_50: 1844294404112880952
+      sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_51: -4474020256921912853
+      sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_52: -5529671304894102427
+      sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_53: 7548330093165841093
+      sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_54: -1172549767789428349
+      sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_55: 5952287252728266275
+      sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_56: 5785407544198354638
+      sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_57: 1162426623026814003
+      sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_58: 5656662980474414759
+      sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_59: 2907441623399904631
+      sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_6: 8642753694608575305
+      sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_60: 6882398643063308892
+      sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_61: 4538502622271008869
+      sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_7: -8140144772745006986
+      sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_8: 5501489330394887936
+      sactx-1-1024x2048-ETC2-ProgressQuests-de9ff759_9: 7393616456460369047
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

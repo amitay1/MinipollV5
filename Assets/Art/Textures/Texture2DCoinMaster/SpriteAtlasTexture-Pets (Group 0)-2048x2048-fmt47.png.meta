@@ -1,0 +1,949 @@
+fileFormatVersion: 2
+guid: ca62d17b5dd8288499643d12d34d1b46
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7727821761612908433
+    second: SpriteAtlasTexture-Pets (Group 0)-2048x2048-fmt47_0
+  - first:
+      213: -7948409496570287551
+    second: SpriteAtlasTexture-Pets (Group 0)-2048x2048-fmt47_1
+  - first:
+      213: 1364388455886626356
+    second: SpriteAtlasTexture-Pets (Group 0)-2048x2048-fmt47_2
+  - first:
+      213: -271536244993029480
+    second: SpriteAtlasTexture-Pets (Group 0)-2048x2048-fmt47_3
+  - first:
+      213: 4685875095046614440
+    second: SpriteAtlasTexture-Pets (Group 0)-2048x2048-fmt47_4
+  - first:
+      213: -7432022498003006433
+    second: SpriteAtlasTexture-Pets (Group 0)-2048x2048-fmt47_5
+  - first:
+      213: -7615946434748554280
+    second: SpriteAtlasTexture-Pets (Group 0)-2048x2048-fmt47_6
+  - first:
+      213: -1012200232765643984
+    second: SpriteAtlasTexture-Pets (Group 0)-2048x2048-fmt47_7
+  - first:
+      213: -3900737512692602761
+    second: SpriteAtlasTexture-Pets (Group 0)-2048x2048-fmt47_8
+  - first:
+      213: -1246587783285580235
+    second: SpriteAtlasTexture-Pets (Group 0)-2048x2048-fmt47_9
+  - first:
+      213: -8334936899321732232
+    second: SpriteAtlasTexture-Pets (Group 0)-2048x2048-fmt47_10
+  - first:
+      213: 1788224627866585815
+    second: SpriteAtlasTexture-Pets (Group 0)-2048x2048-fmt47_11
+  - first:
+      213: 1015505750909455721
+    second: SpriteAtlasTexture-Pets (Group 0)-2048x2048-fmt47_12
+  - first:
+      213: -1658019639365253291
+    second: SpriteAtlasTexture-Pets (Group 0)-2048x2048-fmt47_13
+  - first:
+      213: 1822764214971256507
+    second: SpriteAtlasTexture-Pets (Group 0)-2048x2048-fmt47_14
+  - first:
+      213: 6017309352164879893
+    second: SpriteAtlasTexture-Pets (Group 0)-2048x2048-fmt47_15
+  - first:
+      213: -1322381871841253009
+    second: SpriteAtlasTexture-Pets (Group 0)-2048x2048-fmt47_16
+  - first:
+      213: 8922809549564106278
+    second: SpriteAtlasTexture-Pets (Group 0)-2048x2048-fmt47_17
+  - first:
+      213: -1392075765810393004
+    second: SpriteAtlasTexture-Pets (Group 0)-2048x2048-fmt47_18
+  - first:
+      213: -1525097455464380318
+    second: SpriteAtlasTexture-Pets (Group 0)-2048x2048-fmt47_19
+  - first:
+      213: -3574602169185659356
+    second: SpriteAtlasTexture-Pets (Group 0)-2048x2048-fmt47_20
+  - first:
+      213: 1690451200859088449
+    second: SpriteAtlasTexture-Pets (Group 0)-2048x2048-fmt47_21
+  - first:
+      213: 1968958496794828302
+    second: SpriteAtlasTexture-Pets (Group 0)-2048x2048-fmt47_22
+  - first:
+      213: -248225843659853263
+    second: SpriteAtlasTexture-Pets (Group 0)-2048x2048-fmt47_23
+  - first:
+      213: -404318353027450065
+    second: SpriteAtlasTexture-Pets (Group 0)-2048x2048-fmt47_24
+  - first:
+      213: -1243183239418107410
+    second: SpriteAtlasTexture-Pets (Group 0)-2048x2048-fmt47_25
+  - first:
+      213: 6684854543361736454
+    second: SpriteAtlasTexture-Pets (Group 0)-2048x2048-fmt47_26
+  - first:
+      213: 8483023045540808719
+    second: SpriteAtlasTexture-Pets (Group 0)-2048x2048-fmt47_27
+  - first:
+      213: -1968389829562377707
+    second: SpriteAtlasTexture-Pets (Group 0)-2048x2048-fmt47_28
+  - first:
+      213: -6721871234855500676
+    second: SpriteAtlasTexture-Pets (Group 0)-2048x2048-fmt47_29
+  - first:
+      213: -9047408568594392288
+    second: SpriteAtlasTexture-Pets (Group 0)-2048x2048-fmt47_30
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Pets (Group 0)-2048x2048-fmt47_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 418
+        width: 413
+        height: 1587
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 197887cc2fcbe3b60800000000000000
+      internalID: 7727821761612908433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Pets (Group 0)-2048x2048-fmt47_1
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1247
+        width: 583
+        height: 734
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14a2693eca391b190800000000000000
+      internalID: -7948409496570287551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Pets (Group 0)-2048x2048-fmt47_2
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 1290
+        width: 270
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43e14c062184fe210800000000000000
+      internalID: 1364388455886626356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Pets (Group 0)-2048x2048-fmt47_3
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 963
+        width: 411
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89a0c8d493f4b3cf0800000000000000
+      internalID: -271536244993029480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Pets (Group 0)-2048x2048-fmt47_4
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 1075
+        width: 299
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ad6a167292970140800000000000000
+      internalID: 4685875095046614440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Pets (Group 0)-2048x2048-fmt47_5
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 755
+        width: 446
+        height: 438
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1cc1d32ae62cd890800000000000000
+      internalID: -7432022498003006433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Pets (Group 0)-2048x2048-fmt47_6
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 659
+        width: 454
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d3e8609119be4690800000000000000
+      internalID: -7615946434748554280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Pets (Group 0)-2048x2048-fmt47_7
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 879
+        width: 172
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 033af6c4041f3f1f0800000000000000
+      internalID: -1012200232765643984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Pets (Group 0)-2048x2048-fmt47_8
+      rect:
+        serializedVersion: 2
+        x: 1492
+        y: 836
+        width: 49
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 778aae136ebcdd9c0800000000000000
+      internalID: -3900737512692602761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Pets (Group 0)-2048x2048-fmt47_9
+      rect:
+        serializedVersion: 2
+        x: 1555
+        y: 833
+        width: 53
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53edbeb040b33bee0800000000000000
+      internalID: -1246587783285580235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Pets (Group 0)-2048x2048-fmt47_10
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 668
+        width: 256
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 873e1aaec0b545c80800000000000000
+      internalID: -8334936899321732232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Pets (Group 0)-2048x2048-fmt47_11
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 767
+        width: 40
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dac79a13dc01d810800000000000000
+      internalID: 1788224627866585815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Pets (Group 0)-2048x2048-fmt47_12
+      rect:
+        serializedVersion: 2
+        x: 1487
+        y: 804
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96d035e991dc71e00800000000000000
+      internalID: 1015505750909455721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Pets (Group 0)-2048x2048-fmt47_13
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 797
+        width: 42
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 557430d2ce78df8e0800000000000000
+      internalID: -1658019639365253291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Pets (Group 0)-2048x2048-fmt47_14
+      rect:
+        serializedVersion: 2
+        x: 1569
+        y: 818
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbec7a66562cb4910800000000000000
+      internalID: 1822764214971256507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Pets (Group 0)-2048x2048-fmt47_15
+      rect:
+        serializedVersion: 2
+        x: 1554
+        y: 807
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51e6c6789f6c18350800000000000000
+      internalID: 6017309352164879893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Pets (Group 0)-2048x2048-fmt47_16
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 801
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f696c7f91b4f5ade0800000000000000
+      internalID: -1322381871841253009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Pets (Group 0)-2048x2048-fmt47_17
+      rect:
+        serializedVersion: 2
+        x: 1532
+        y: 771
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6265b30a20034db70800000000000000
+      internalID: 8922809549564106278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Pets (Group 0)-2048x2048-fmt47_18
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 785
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 450117e677a5eace0800000000000000
+      internalID: -1392075765810393004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Pets (Group 0)-2048x2048-fmt47_19
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 765
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 268813fc1f3c5dae0800000000000000
+      internalID: -1525097455464380318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Pets (Group 0)-2048x2048-fmt47_20
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 769
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42619542446746ec0800000000000000
+      internalID: -3574602169185659356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Pets (Group 0)-2048x2048-fmt47_21
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 773
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 146a6592960b57710800000000000000
+      internalID: 1690451200859088449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Pets (Group 0)-2048x2048-fmt47_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1396
+        height: 669
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0e51f22255235b10800000000000000
+      internalID: 1968958496794828302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Pets (Group 0)-2048x2048-fmt47_23
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 410
+        width: 216
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 132359c09ef1e8cf0800000000000000
+      internalID: -248225843659853263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Pets (Group 0)-2048x2048-fmt47_24
+      rect:
+        serializedVersion: 2
+        x: 1431
+        y: 400
+        width: 166
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2bb0af9992936af0800000000000000
+      internalID: -404318353027450065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Pets (Group 0)-2048x2048-fmt47_25
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 568
+        width: 168
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee9a3cf2e635fbee0800000000000000
+      internalID: -1243183239418107410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Pets (Group 0)-2048x2048-fmt47_26
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 1
+        width: 187
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60f7b301acf55cc50800000000000000
+      internalID: 6684854543361736454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Pets (Group 0)-2048x2048-fmt47_27
+      rect:
+        serializedVersion: 2
+        x: 1453
+        y: 200
+        width: 176
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0889e2d380c9b570800000000000000
+      internalID: 8483023045540808719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Pets (Group 0)-2048x2048-fmt47_28
+      rect:
+        serializedVersion: 2
+        x: 1627
+        y: 191
+        width: 258
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51a517501efdea4e0800000000000000
+      internalID: -1968389829562377707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Pets (Group 0)-2048x2048-fmt47_29
+      rect:
+        serializedVersion: 2
+        x: 1454
+        y: 0
+        width: 216
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c748584d9bd17b2a0800000000000000
+      internalID: -6721871234855500676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Pets (Group 0)-2048x2048-fmt47_30
+      rect:
+        serializedVersion: 2
+        x: 1671
+        y: 0
+        width: 176
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02b1b1397d5217280800000000000000
+      internalID: -9047408568594392288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SpriteAtlasTexture-Pets (Group 0)-2048x2048-fmt47_0: 7727821761612908433
+      SpriteAtlasTexture-Pets (Group 0)-2048x2048-fmt47_1: -7948409496570287551
+      SpriteAtlasTexture-Pets (Group 0)-2048x2048-fmt47_10: -8334936899321732232
+      SpriteAtlasTexture-Pets (Group 0)-2048x2048-fmt47_11: 1788224627866585815
+      SpriteAtlasTexture-Pets (Group 0)-2048x2048-fmt47_12: 1015505750909455721
+      SpriteAtlasTexture-Pets (Group 0)-2048x2048-fmt47_13: -1658019639365253291
+      SpriteAtlasTexture-Pets (Group 0)-2048x2048-fmt47_14: 1822764214971256507
+      SpriteAtlasTexture-Pets (Group 0)-2048x2048-fmt47_15: 6017309352164879893
+      SpriteAtlasTexture-Pets (Group 0)-2048x2048-fmt47_16: -1322381871841253009
+      SpriteAtlasTexture-Pets (Group 0)-2048x2048-fmt47_17: 8922809549564106278
+      SpriteAtlasTexture-Pets (Group 0)-2048x2048-fmt47_18: -1392075765810393004
+      SpriteAtlasTexture-Pets (Group 0)-2048x2048-fmt47_19: -1525097455464380318
+      SpriteAtlasTexture-Pets (Group 0)-2048x2048-fmt47_2: 1364388455886626356
+      SpriteAtlasTexture-Pets (Group 0)-2048x2048-fmt47_20: -3574602169185659356
+      SpriteAtlasTexture-Pets (Group 0)-2048x2048-fmt47_21: 1690451200859088449
+      SpriteAtlasTexture-Pets (Group 0)-2048x2048-fmt47_22: 1968958496794828302
+      SpriteAtlasTexture-Pets (Group 0)-2048x2048-fmt47_23: -248225843659853263
+      SpriteAtlasTexture-Pets (Group 0)-2048x2048-fmt47_24: -404318353027450065
+      SpriteAtlasTexture-Pets (Group 0)-2048x2048-fmt47_25: -1243183239418107410
+      SpriteAtlasTexture-Pets (Group 0)-2048x2048-fmt47_26: 6684854543361736454
+      SpriteAtlasTexture-Pets (Group 0)-2048x2048-fmt47_27: 8483023045540808719
+      SpriteAtlasTexture-Pets (Group 0)-2048x2048-fmt47_28: -1968389829562377707
+      SpriteAtlasTexture-Pets (Group 0)-2048x2048-fmt47_29: -6721871234855500676
+      SpriteAtlasTexture-Pets (Group 0)-2048x2048-fmt47_3: -271536244993029480
+      SpriteAtlasTexture-Pets (Group 0)-2048x2048-fmt47_30: -9047408568594392288
+      SpriteAtlasTexture-Pets (Group 0)-2048x2048-fmt47_4: 4685875095046614440
+      SpriteAtlasTexture-Pets (Group 0)-2048x2048-fmt47_5: -7432022498003006433
+      SpriteAtlasTexture-Pets (Group 0)-2048x2048-fmt47_6: -7615946434748554280
+      SpriteAtlasTexture-Pets (Group 0)-2048x2048-fmt47_7: -1012200232765643984
+      SpriteAtlasTexture-Pets (Group 0)-2048x2048-fmt47_8: -3900737512692602761
+      SpriteAtlasTexture-Pets (Group 0)-2048x2048-fmt47_9: -1246587783285580235
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
