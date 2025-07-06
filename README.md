@@ -1,73 +1,73 @@
 # Minipoll V5 - Unity Project
 
-## 📋 תיאור הפרויקט
-פרויקט Unity למשחק/אפליקציית Minipoll עם entrance sequence מושלם.
+## 📋 Project description
+An Unity Project for Game/MINIPOLL App with perfect Entrance Sequance.
 
-## 🎬 מערכת Entrance Sequence
-המערכת כוללת:
-- **Logo Video**: מוצג פעם אחת בתחילת הרצה
-- **Minipoll Video**: לולאה עד 10 שניות או לחיצה למדלג
-- **Menu Buttons**: הופעה לאחר סיום הווידאו
+## 🎬 Entrance sequence system
+The system includes:
+- ** Logo Video **: displayed once at the beginning of the run
+- ** minipoll video
+- ** Menu Buttons **: appearance after the video ends
 
-## 🛠️ רכיבים עיקריים
+## 🛠️ main components
 
-### SimpleEntranceManager.cs
-הסקריפט הראשי המנהל את רצף הכניסה:
-- ניהול video sequence
-- מעבר בין שלבים
-- טיפול בלחיצות לדילוג
-- הגדרות fullscreen לווידאו
+### Simpleentracemerager.cs
+The main script that manages the entry sequence:
+- Video Sequance Management
+- Moving between steps
+- Treatment in Pressure to skip
+- Fullscreen settings for video
 
-### MenuButtonsAnimationController.cs
-מנהל אנימציות של כפתורי התפריט
+### Menubuttonsanimationcontroller.cs
+Menuen animation manager
 
-## 🎯 התקנה והפעלה
-1. פתח את הפרויקט ב-Unity 2022+
-2. פתח את Scene: `Assets/Scenes/01_SplashMenu.unity`
-3. בחר את GameObject `EntranceManager`
-4. גרור את הרכיבים בInspector:
-   - VideoPlayer → Video Player field
-   - VideoDisplay → Video Display field  
-   - MenuButtons → Menu Buttons field
-   - הוסף video clips לשדות Logo Video ו-Minipoll Video
-5. הפעל את המשחק
+## 🎯 Installation and activation
+1. Open the project at Unity 2022+
+2
+3. Choose Gameobject `Entraceneager '
+4. Drag the components in Inspector:
+   - Videoplayer → Video Player Field
+   - Videodisplay → Video Display Field  
+   - Menubuttons → Menu Buttons Field
+   - Add Video Clips to Logo Video and Minipoll Video
+5. Run the game
 
-## 🔧 הגדרות
-- `enableDebugLogs`: הפעלת לוגים למעקב
-- `skipVideosForTesting`: דילוג על ווידאו לטסטים מהירים
+## 🔧 Settings
+- `Enabledbugs': activate logs for tracking
+- 'SkipvideosFortestting': skipping video to fast tests
 
-## 📝 הערות טכניות
-- הפרויקט משתמש ב-VideoPlayer עם RenderTexture
-- תמיכה בfullscreen video display
-- מותאם לרזולוציות שונות
-- כולל מערכת דילוג עם כל מקש או לחיצה
+## 📝 Technical Notes
+- The project uses Videoplayer with Rendexture
+- support at Fullscreen Video Display
+- adapted to different resolutions
+- Includes a skipping system with any key or pressing
 
-## 🚀 גרסה נוכחית
-גרסה נקייה ועובדת של entrance sequence עם תיקון כל בעיות הקומפילציה והתצוגה.
+## 🚀 Current version
+A clean and working version of Entrance Sequance with repairing all compilation and display problems.
 
 ## 🎮 Git Version Control
-הפרויקט מנוהל ב-Git לשמירה בטוחה של כל השינויים.
+The project is managed in GIT for safe retention of all changes.
 
-### פקודות Git בסיסיות:
-```bash
-# לבדוק סטטוס
+### basic GIT commands:
+`` BASH
+# Check status
 git status
 
-# להוסיף שינויים חדשים
-git add .
+# Add new changes
+Git Add.
 
-# ליצור commit חדש
-git commit -m "תיאור השינוי"
+# Create a new commit
+Git Commit -M “Description of Change”
 
-# ליצור tag לגרסה חדשה
-git tag -a v1.1.0 -m "תיאור הגרסה"
+# Create tag for a new version
+git tag -a v1.1.0 -M "version description"
 
-# לראות היסטוריה
-git log --oneline
-```
+# See history
+Git Log - -Onine
+``
 
-### גרסאות:
-- **v1.0.0**: גרסה ראשונה עובדת עם entrance sequence מלא
+### versions:
+- ** V1.0.0 **: First version works with full Entrance Sequence
 
-## 📅 תאריך עדכון אחרון
-יולי 2025
+## 📅 ​​last update date
+July 2025
