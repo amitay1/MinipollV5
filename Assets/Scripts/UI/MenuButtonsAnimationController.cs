@@ -11,7 +11,6 @@ public class MenuButtonsAnimationController : MonoBehaviour
     [Header("Button References")]
     public Button playGameButton;
     public Button settingsButton;
-    public Button exitGameButton;
     
     [Header("Entrance Animation Settings")]
     public float entranceDelay = 0.5f;
@@ -39,14 +38,14 @@ public class MenuButtonsAnimationController : MonoBehaviour
     void Start()
     {
         // Get all buttons if specific ones aren't assigned
-        if (playGameButton == null || settingsButton == null || exitGameButton == null)
+        if (playGameButton == null || settingsButton == null)
         {
             allButtons = GetComponentsInChildren<Button>();
             AutoAssignButtons();
         }
         else
         {
-            allButtons = new Button[] { playGameButton, settingsButton, exitGameButton };
+            allButtons = new Button[] { playGameButton, settingsButton };
         }
         
         if (showDebugMessages)
@@ -74,11 +73,6 @@ public class MenuButtonsAnimationController : MonoBehaviour
             {
                 settingsButton = button;
                 if (showDebugMessages) Debug.Log($"⚙️ Auto-assigned Settings button: {button.name}");
-            }
-            else if ((buttonName.Contains("exit") || buttonName.Contains("quit")) && exitGameButton == null)
-            {
-                exitGameButton = button;
-                if (showDebugMessages) Debug.Log($"🚪 Auto-assigned Exit button: {button.name}");
             }
         }
     }
@@ -111,12 +105,6 @@ public class MenuButtonsAnimationController : MonoBehaviour
         {
             settingsButton.onClick.RemoveAllListeners();
             settingsButton.onClick.AddListener(() => OnSettingsClick());
-        }
-        
-        if (exitGameButton != null)
-        {
-            exitGameButton.onClick.RemoveAllListeners();
-            exitGameButton.onClick.AddListener(() => OnExitGameClick());
         }
     }
     
@@ -207,25 +195,6 @@ public class MenuButtonsAnimationController : MonoBehaviour
             {
                 Debug.Log("⚙️ Settings panel would open here");
             }
-        }));
-    }
-    
-    public void OnExitGameClick()
-    {
-        if (!animationsCompleted) return;
-        
-        if (showDebugMessages)
-        {
-            Debug.Log("🚪 Exit Game clicked!");
-        }
-        
-        StartCoroutine(HandleButtonClick(exitGameButton, () => {
-            // Quit application
-            #if UNITY_EDITOR
-                UnityEditor.EditorApplication.isPlaying = false;
-            #else
-                Application.Quit();
-            #endif
         }));
     }
     
