@@ -1,4 +1,4 @@
-﻿using UnityEngine;
+using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.SceneManagement;
 using System.Collections;
@@ -26,7 +26,7 @@ public class MenuButtonsAnimationController : MonoBehaviour
     public AnimationCurve clickCurve = AnimationCurve.EaseInOut(0, 0, 1, 1);
     
     [Header("Scene Settings")]
-    public string gameSceneName = "GameScene";
+    public string gameSceneName = "02_GameScene";  // השם הנכון מה-Build Settings
     public string settingsSceneName = "SettingsScene";
     
     [Header("Debug")]
@@ -36,32 +36,72 @@ public class MenuButtonsAnimationController : MonoBehaviour
     private bool animationsCompleted = false;
     private CanvasGroup canvasGroup;
     
+    // Public property to check animation status
+    public bool AnimationsCompleted => animationsCompleted;
+    
     void Start()
     {
+        Debug.Log("🧪 MenuButtonsAnimationController: Starting with INPUT SYSTEM TEST");
+        
         // Get CanvasGroup component
         canvasGroup = GetComponent<CanvasGroup>();
         if (canvasGroup == null)
         {
             canvasGroup = gameObject.AddComponent<CanvasGroup>();
         }
+
+        // FORCE FIND ALL BUTTONS IN SCENE (including inactive ones)
+        allButtons = FindObjectsOfType<Button>(true); // true = include inactive
+        Debug.Log($"🧪 FOUND {allButtons.Length} BUTTONS IN ENTIRE SCENE");
         
-        // Get all buttons if specific ones aren't assigned
-        if (playGameButton == null || settingsButton == null)
+        foreach (Button btn in allButtons)
         {
-            allButtons = GetComponentsInChildren<Button>();
-            AutoAssignButtons();
-        }
-        else
-        {
-            allButtons = new Button[] { playGameButton, settingsButton };
+            if (btn != null)
+            {
+                Debug.Log($"🧪 Button found: {btn.name} - Active: {btn.gameObject.activeSelf}");
+            }
         }
         
+        AutoAssignButtons();
+
         if (showDebugMessages)
         {
             Debug.Log($"🎮 MenuButtonsAnimationController: Found {allButtons.Length} buttons");
         }
+
+        // FORCE SETUP BUTTON EVENTS IMMEDIATELY
+        SetupButtonEvents();
+        animationsCompleted = true; 
         
-        InitializeButtons();
+        // FORCE ADD DIRECT CLICK TESTS
+        AddDirectClickTests();
+        
+        if (showDebugMessages)
+        {
+            Debug.Log("🎮 MenuButtons ready and interactive - INPUT TEST ENABLED");
+        }
+    }
+    
+    void AddDirectClickTests()
+    {
+        Debug.Log("🧪 Adding direct click tests to all buttons...");
+        
+        foreach (Button button in allButtons)
+        {
+            if (button != null)
+            {
+                // Add a direct test listener (without removing existing ones)
+                string buttonName = button.name;
+                button.onClick.AddListener(() => {
+                    Debug.Log($"🎉 DIRECT CLICK TEST SUCCESS! Button: {buttonName}");
+                    Debug.Log($"🎉 INPUT SYSTEM IS WORKING! Position: {button.transform.position}");
+                });
+                
+                Debug.Log($"🧪 Direct click test added to: {buttonName}");
+            }
+        }
+        
+        Debug.Log("🧪 Direct click tests setup complete!");
     }
     
     void AutoAssignButtons()
@@ -85,30 +125,6 @@ public class MenuButtonsAnimationController : MonoBehaviour
         }
     }
     
-    void InitializeButtons()
-    {
-        // Hide buttons using CanvasGroup for smooth fade
-        if (canvasGroup != null)
-        {
-            canvasGroup.alpha = 0f;
-            canvasGroup.interactable = false;
-            canvasGroup.blocksRaycasts = false;
-        }
-        
-        // Also hide individual buttons as backup
-        foreach (Button button in allButtons)
-        {
-            if (button != null)
-            {
-                button.transform.localScale = Vector3.zero;
-                button.interactable = false;
-            }
-        }
-        
-        SetupButtonEvents();
-        StartCoroutine(BeautifulEntranceSequence());
-    }
-    
     void SetupButtonEvents()
     {
         if (playGameButton != null)
@@ -124,64 +140,8 @@ public class MenuButtonsAnimationController : MonoBehaviour
         }
     }
     
-    IEnumerator BeautifulEntranceSequence()
-    {
-        if (showDebugMessages)
-        {
-            Debug.Log("✨ Starting beautiful entrance sequence...");
-        }
-        
-        yield return new WaitForSeconds(entranceDelay);
-        
-        // Fade in the entire button group first
-        if (canvasGroup != null)
-        {
-            yield return StartCoroutine(AnimateCanvasGroupAlpha(0f, 1f, entranceDuration * 0.3f));
-            canvasGroup.interactable = true;
-            canvasGroup.blocksRaycasts = true;
-        }
-        
-        // Then animate each button with staggered timing
-        for (int i = 0; i < allButtons.Length; i++)
-        {
-            if (allButtons[i] != null)
-            {
-                StartCoroutine(AnimateButtonEntrance(allButtons[i], i * entranceStagger));
-            }
-        }
-        
-        // Wait for all animations to complete
-        yield return new WaitForSeconds(entranceDuration + (allButtons.Length * entranceStagger));
-        
-        animationsCompleted = true;
-        
-        if (showDebugMessages)
-        {
-            Debug.Log("🎉 Entrance sequence completed! Buttons are ready.");
-        }
-    }
-    
-    IEnumerator AnimateButtonEntrance(Button button, float delay)
-    {
-        yield return new WaitForSeconds(delay);
-        
-        // Enable interaction
-        button.interactable = true;
-        
-        // Beautiful entrance animation with overshoot and rotation
-        yield return StartCoroutine(AnimateScale(button.transform, Vector3.zero, Vector3.one * entranceScale, entranceDuration * 0.6f, entranceCurve));
-        yield return StartCoroutine(AnimateScale(button.transform, Vector3.one * entranceScale, Vector3.one, entranceDuration * 0.4f, clickCurve));
-        
-        // Add a subtle rotation effect
-        StartCoroutine(AnimateRotation(button.transform, Vector3.zero, new Vector3(0, 0, 10), entranceDuration * 0.3f));
-        yield return new WaitForSeconds(entranceDuration * 0.1f);
-        StartCoroutine(AnimateRotation(button.transform, new Vector3(0, 0, 10), Vector3.zero, entranceDuration * 0.2f));
-    }
-    
     public void OnPlayGameClick()
     {
-        if (!animationsCompleted) return;
-        
         if (showDebugMessages)
         {
             Debug.Log("🎮 Play Game clicked!");
@@ -211,8 +171,6 @@ public class MenuButtonsAnimationController : MonoBehaviour
     
     public void OnSettingsClick()
     {
-        if (!animationsCompleted) return;
-        
         if (showDebugMessages)
         {
             Debug.Log("⚙️ Settings clicked!");
@@ -233,50 +191,56 @@ public class MenuButtonsAnimationController : MonoBehaviour
     
     IEnumerator HandleButtonClick(Button button, System.Action onComplete)
     {
-        // Disable all buttons during animation
+        if (button == null) yield break;
+        
+        // Disable all buttons during click to prevent double-clicks
         SetButtonsInteractable(false);
         
-        // Beautiful click animation sequence
-        yield return StartCoroutine(AnimateScale(button.transform, Vector3.one, Vector3.one * clickScale, clickDuration * 0.5f, clickCurve));
-        yield return StartCoroutine(AnimateScale(button.transform, Vector3.one * clickScale, Vector3.one * bounceScale, clickDuration * 0.3f, clickCurve));
-        yield return StartCoroutine(AnimateScale(button.transform, Vector3.one * bounceScale, Vector3.one, clickDuration * 0.2f, clickCurve));
+        if (showDebugMessages)
+        {
+            Debug.Log($"🎮 Button clicked: {button.name}");
+        }
         
-        // Execute the action
+        // Check if button has animation component
+        Animation animationComponent = button.GetComponent<Animation>();
+        if (animationComponent != null && animationComponent.clip != null)
+        {
+            // Play your existing animation
+            animationComponent.Play();
+            if (showDebugMessages)
+            {
+                Debug.Log($"🎬 Playing animation: {animationComponent.clip.name} on {button.name}");
+            }
+            
+            // Wait for animation to complete
+            yield return new WaitForSeconds(animationComponent.clip.length);
+        }
+        else
+        {
+            // Fallback: Simple visual feedback if no animation
+            Vector3 originalScale = button.transform.localScale;
+            yield return StartCoroutine(AnimateScale(button.transform, originalScale, originalScale * 0.9f, 0.1f, clickCurve));
+            yield return StartCoroutine(AnimateScale(button.transform, originalScale * 0.9f, originalScale, 0.1f, clickCurve));
+        }
+        
+        // Execute the action (load scene)
         onComplete?.Invoke();
         
-        // Re-enable buttons (if we're still in this scene)
+        // Re-enable buttons
         yield return new WaitForSeconds(0.1f);
         SetButtonsInteractable(true);
     }
     
-    IEnumerator AnimateCanvasGroupAlpha(float fromAlpha, float toAlpha, float duration)
+    IEnumerator AnimateScale(Transform target, Vector3 fromScale, Vector3 toScale, float duration, AnimationCurve curve = null)
     {
+        if (target == null) yield break;
+        
         float time = 0f;
         while (time < duration)
         {
             time += Time.deltaTime;
             float progress = time / duration;
-            
-            if (canvasGroup != null)
-            {
-                canvasGroup.alpha = Mathf.Lerp(fromAlpha, toAlpha, progress);
-            }
-            yield return null;
-        }
-        if (canvasGroup != null)
-        {
-            canvasGroup.alpha = toAlpha;
-        }
-    }
-    
-    IEnumerator AnimateScale(Transform target, Vector3 fromScale, Vector3 toScale, float duration, AnimationCurve curve)
-    {
-        float time = 0f;
-        while (time < duration)
-        {
-            time += Time.deltaTime;
-            float progress = time / duration;
-            float curveValue = curve.Evaluate(progress);
+            float curveValue = curve != null ? curve.Evaluate(progress) : progress;
             
             target.localScale = Vector3.Lerp(fromScale, toScale, curveValue);
             yield return null;
@@ -284,28 +248,60 @@ public class MenuButtonsAnimationController : MonoBehaviour
         target.localScale = toScale;
     }
     
-    IEnumerator AnimateRotation(Transform target, Vector3 fromRotation, Vector3 toRotation, float duration)
-    {
-        float time = 0f;
-        while (time < duration)
-        {
-            time += Time.deltaTime;
-            float progress = time / duration;
-            
-            target.localEulerAngles = Vector3.Lerp(fromRotation, toRotation, progress);
-            yield return null;
-        }
-        target.localEulerAngles = toRotation;
-    }
-    
     void SetButtonsInteractable(bool interactable)
     {
-        foreach (Button button in allButtons)
+        if (allButtons != null)
         {
-            if (button != null)
+            foreach (Button button in allButtons)
             {
-                button.interactable = interactable;
+                if (button != null)
+                {
+                    button.interactable = interactable;
+                }
             }
+        }
+    }
+    
+    [ContextMenu("🚨 Force Show Buttons Now")]
+    public void ForceShowButtonsNow()
+    {
+        if (showDebugMessages)
+        {
+            Debug.Log("🚨 FORCE: Showing buttons immediately!");
+        }
+        
+        // Force buttons to be visible
+        if (canvasGroup != null)
+        {
+            canvasGroup.alpha = 1f;
+            canvasGroup.interactable = true;
+            canvasGroup.blocksRaycasts = true;
+        }
+        
+        // Force all buttons to be visible and interactive
+        if (allButtons == null || allButtons.Length == 0)
+        {
+            allButtons = GetComponentsInChildren<Button>();
+        }
+        
+        if (allButtons != null)
+        {
+            foreach (Button button in allButtons)
+            {
+                if (button != null)
+                {
+                    button.transform.localScale = Vector3.one;
+                    button.interactable = true;
+                    button.gameObject.SetActive(true);
+                }
+            }
+        }
+        
+        animationsCompleted = true;
+        
+        if (showDebugMessages)
+        {
+            Debug.Log("🚨 FORCE: Buttons are now visible and interactive!");
         }
     }
     
@@ -318,6 +314,27 @@ public class MenuButtonsAnimationController : MonoBehaviour
         
         animationsCompleted = false;
         StopAllCoroutines();
-        InitializeButtons();
+        
+        // Just ensure we have the buttons and start the animation
+        if (allButtons == null || allButtons.Length == 0)
+        {
+            if (playGameButton == null || settingsButton == null)
+            {
+                allButtons = GetComponentsInChildren<Button>();
+                AutoAssignButtons();
+            }
+            else
+            {
+                allButtons = new Button[] { playGameButton, settingsButton };
+            }
+        }
+        
+        SetupButtonEvents();
+        animationsCompleted = true;
+        
+        if (showDebugMessages)
+        {
+            Debug.Log("🎬 Entrance animation completed!");
+        }
     }
 }

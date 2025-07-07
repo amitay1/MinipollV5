@@ -3,10 +3,11 @@ using UnityEngine.UI;
 using UnityEngine.SceneManagement;
 
 /// <summary>
-/// Simple script to handle the Back to Menu button functionality
+/// DISABLED SCRIPT - Simple script to handle the Back to Menu button functionality
 /// Connects to the existing GameManager system
 /// Created for TASK007 - Core Game Scene Setup
 /// </summary>
+/*
 public class BackToMenuButton : MonoBehaviour
 {
     [Header("Scene Management")]
@@ -91,3 +92,4 @@ public class BackToMenuButton : MonoBehaviour
         }
     }
 }
+*/
