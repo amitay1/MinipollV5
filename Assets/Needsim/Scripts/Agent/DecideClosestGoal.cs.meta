@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: cdf31e1cc12ee1646a88fc75a45fa7f4
+timeCreated: 1467828216
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 46226
+  packageName: NEEDSIM Life Simulation
+  packageVersion: 1.2.2
+  assetPath: Assets/Needsim/Scripts/Agent/DecideClosestGoal.cs
+  uploadId: 439119

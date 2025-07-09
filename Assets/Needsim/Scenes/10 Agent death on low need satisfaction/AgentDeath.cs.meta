@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 4e0f30a8d57b38f49bbbfbda8abd1367
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 46226
+  packageName: NEEDSIM Life Simulation
+  packageVersion: 1.2.2
+  assetPath: Assets/Needsim/Scenes/10 Agent death on low need satisfaction/AgentDeath.cs
+  uploadId: 439119

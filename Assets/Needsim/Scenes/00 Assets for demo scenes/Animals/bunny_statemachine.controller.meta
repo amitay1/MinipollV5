@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 89a9a10b223be9b49b36ac736cfef4cb
+timeCreated: 1433201154
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 46226
+  packageName: NEEDSIM Life Simulation
+  packageVersion: 1.2.2
+  assetPath: Assets/Needsim/Scenes/00 Assets for demo scenes/Animals/bunny_statemachine.controller
+  uploadId: 439119

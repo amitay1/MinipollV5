@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e6660a7f8fa27e3468ade14885d4120b
+timeCreated: 1433342952
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 46226
+  packageName: NEEDSIM Life Simulation
+  packageVersion: 1.2.2
+  assetPath: Assets/Needsim/Scenes/00 Assets for demo scenes/Animals/deer_chew.anim
+  uploadId: 439119

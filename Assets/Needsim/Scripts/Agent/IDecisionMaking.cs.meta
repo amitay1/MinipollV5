@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 0d8f1e5a8b0019141ba87f8baf855628
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 46226
+  packageName: NEEDSIM Life Simulation
+  packageVersion: 1.2.2
+  assetPath: Assets/Needsim/Scripts/Agent/IDecisionMaking.cs
+  uploadId: 439119

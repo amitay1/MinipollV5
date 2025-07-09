@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 946f67111bb64c042889ed51a3183558
+timeCreated: 1434386754
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 46226
+  packageName: NEEDSIM Life Simulation
+  packageVersion: 1.2.2
+  assetPath: Assets/Needsim/Scenes/00 Assets for demo scenes/Water/Sprite_Pond.controller
+  uploadId: 439119

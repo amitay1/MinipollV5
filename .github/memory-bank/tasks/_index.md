@@ -1,7 +1,7 @@
 # Tasks Index
 
 ## In Progress
-- [TASK002] Splash Screen & Startup Sequence - Create opening experience from game launch to main menu
+- [TASK008] Scene System Organization - Organizing all game systems into separate Unity scenes for better project management
 
 ## Pending
 - [TASK002] Splash Screen & Startup Sequence - Create opening experience from game launch to main menu

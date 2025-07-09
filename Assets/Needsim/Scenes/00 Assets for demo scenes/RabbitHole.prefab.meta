@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: de52e3eb43e2c71409c4ad4e6864fef4
+timeCreated: 1434992616
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 46226
+  packageName: NEEDSIM Life Simulation
+  packageVersion: 1.2.2
+  assetPath: Assets/Needsim/Scenes/00 Assets for demo scenes/RabbitHole.prefab
+  uploadId: 439119

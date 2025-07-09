@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e1f1dcbf70eb9584899ecc7aa44dcb39
+timeCreated: 1441914138
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 46226
+  packageName: NEEDSIM Life Simulation
+  packageVersion: 1.2.2
+  assetPath: Assets/Needsim/Scenes/00 Assets for demo scenes/Animals/fox_eat.anim
+  uploadId: 439119

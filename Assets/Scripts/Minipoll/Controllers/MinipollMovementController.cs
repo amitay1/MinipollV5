@@ -31,7 +31,7 @@ namespace MinipollGame.Controllers
         [Header("Movement Settings")]
         public float moveSpeed = 2f;         // מהירות בסיסית
         public float rotationSpeed = 180f;   // מהירות סיבוב (ללא navmesh)
-        public bool useNavMesh = false;      // האם לנוע עם NavMeshAgent או MoveTowards?
+        public bool useNavMesh = true;       // כמעט תמיד נרצה NavMesh - זה המצב המועדף!
 
         [Header("NavMesh")]
         public NavMeshAgent agent;           // נשים פה את ה־NavMeshAgent
@@ -391,14 +391,19 @@ private IEnumerator StartInitialBehavior()
 
         void UpdateAnimator()
         {
+            if (animator == null) return;
+            
             float velocity = 0f;
+            
+            // עבוד עם NavMeshAgent - זה המצב המועדף!
             if (useNavMesh && agent)
             {
                 velocity = agent.velocity.magnitude;
+                Debug.Log($"[Movement] NavMesh velocity: {velocity:F2} for {gameObject.name}");
             }
             else
             {
-                // אם לא משתמשים ב-NavMesh, נגדיר ערך לפי state
+                // אם לא משתמשים ב-NavMesh, נגדיר ערך לפי state (מצב fallback)
                 if (currentState == MinipollActionState.Roaming ||
                     currentState == MinipollActionState.SeekingResource ||
                     currentState == MinipollActionState.Socializing)
@@ -407,18 +412,29 @@ private IEnumerator StartInitialBehavior()
                     velocity = moveSpeed * 1.5f;
                 else
                     velocity = 0f;
+                    
+                Debug.Log($"[Movement] Manual velocity: {velocity:F2} for {gameObject.name}");
             }
 
-            // אם יש Bool ב-Animator:
-            bool isWalking = (velocity > 0.1f && velocity < 3f);
-            bool isRunning = (velocity >= 3f);
+            // עדכן את ה-Animator עם פרמטר Speed - זה הכי חשוב!
+            animator.SetFloat("Speed", velocity);
+            
+            // פרמטרי Bool נוספים (רק אם הם קיימים)
+            try 
+            {
+                bool isWalking = (velocity > 0.1f && velocity < 3f);
+                bool isRunning = (velocity >= 3f);
 
-            // התאם לשמות הפרמטרים שלך
-            animator.SetBool("IsWalking", isWalking);
-            animator.SetBool("IsRunning", isRunning);
-
-            // או אם תרצה float speed:
-            // animator.SetFloat("Speed", velocity);
+                animator.SetBool("IsWalking", isWalking);
+                animator.SetBool("IsRunning", isRunning);
+                
+                Debug.Log($"[Movement] Animation state: Walking={isWalking}, Running={isRunning}");
+            }
+            catch (System.Exception)
+            {
+                // אם הפרמטרים לא קיימים ב-Controller, זה בסדר
+                // נמשיך לעבוד רק עם Speed
+            }
         }
         #endregion
 

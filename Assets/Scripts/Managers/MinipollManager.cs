@@ -110,7 +110,7 @@ public class MinipollManager : MonoBehaviour
         for (int i = 0; i < initialSpawnCount; i++)
         {
             Vector3 pos = GetRandomSpawnPosition();
-            SpawnMinipoll(pos);
+           
         }
     }
 
@@ -128,71 +128,13 @@ public class MinipollManager : MonoBehaviour
             {
                 spawnTimer = 0f;
                 Vector3 pos = GetRandomSpawnPosition();
-                SpawnMinipoll(pos);
+                
             }
         }
     }    /// <summary>
     /// פונקציית ספאון: יוצרת MinipollClass חדש, ממקמת ומאתחלת
     /// </summary>
-    public MinipollClass SpawnMinipoll(Vector3 position)
-    {
-        // בדיקה אם עברנו את המקסימום
-        if (maxMinipolls > 0 && activeMinipolls.Count >= maxMinipolls)
-        {
-            Debug.LogWarning("Cannot spawn more Minipolls: reached max limit");
-            return null;
-        }
-
-        if (!minipollPrefab)
-        {
-            Debug.LogError("No Minipoll prefab assigned to MinipollManager!");
-            return null;
-        }
-        
-        // יוצרים GameObject חדש מסודר
-        GameObject newObj = Instantiate(minipollPrefab, position, Quaternion.identity, minipollContainer);
-        newObj.name = "Minipoll_" + (activeMinipolls.Count + 1);
-        
-        // Register with NEEDSIM system if NEEDSIMNode component exists
-        // var needsimNode = newObj.GetComponent<NEEDSIM.NEEDSIMNode>();
-        // if (needsimNode != null && NEEDSIM.NEEDSIMRoot.Instance != null)
-        // {
-        //     NEEDSIM.NEEDSIMRoot.Instance.AddNEEDSIMNode(needsimNode);
-        //     needsimNode.Setup();
-        //     Debug.Log($"[MinipollManager] Registered minipoll with NEEDSIM system: {newObj.name}");
-        // }
-        
-        // Create MinipollClass wrapper from actual components
-        MinipollClass mp = new MinipollClass();
-        mp.gameObject = newObj;
-        mp.transform = newObj.transform;
-        mp.name = newObj.name;
-        
-        // Try to get health from MinipollCore or Health component
-        var minipollCore = newObj.GetComponent<MinipollGame.Core.MinipollCore>();
-        if (minipollCore != null)
-        {
-            mp.health = minipollCore.Health?.CurrentHealth ?? 100f;
-        }
-        else
-        {
-            var healthComponent = newObj.GetComponent<MinipollGame.Core.MinipollHealth>();
-            mp.health = healthComponent?.CurrentHealth ?? 100f;
-        }
-
-        // Add to our list and notify
-        activeMinipolls.Add(mp);
-
-        // מאזינים לאירועים... (נניח שיש בפנים OnDeath)
-        // mp.OnDeath += () => { RemoveMinipoll(mp); };
-
-        // שולחים אירוע
-        OnMinipollSpawned?.Invoke(mp);
-
-        return mp;
-    }    /// <summary>
-    /// כאשר מיניפול מת או נמחק, נקרא לפונקציה זו כדי להסירו מהרשימה ולהרוס האובייקט
-    /// </summary>
+    
     public void RemoveMinipoll(MinipollClass mp)
     {
         if (mp == null) return;

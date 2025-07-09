@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 921997af11b22374eb4fba77c2fd3c43
+timeCreated: 1433228122
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 46226
+  packageName: NEEDSIM Life Simulation
+  packageVersion: 1.2.2
+  assetPath: Assets/Needsim/Scenes/00 Assets for demo scenes/Animals/bunny_idle.anim
+  uploadId: 439119

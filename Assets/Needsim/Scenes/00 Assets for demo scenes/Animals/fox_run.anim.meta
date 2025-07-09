@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b05b73fe1deaf334db6e09e6403e7da7
+timeCreated: 1445540252
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 46226
+  packageName: NEEDSIM Life Simulation
+  packageVersion: 1.2.2
+  assetPath: Assets/Needsim/Scenes/00 Assets for demo scenes/Animals/fox_run.anim
+  uploadId: 439119

@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 126cb13e608abf34c9fdb5f8b44fb09d
+timeCreated: 1433507297
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 46226
+  packageName: NEEDSIM Life Simulation
+  packageVersion: 1.2.2
+  assetPath: Assets/Needsim/Scenes/00 Assets for demo scenes/Animals/Deer.cs
+  uploadId: 439119

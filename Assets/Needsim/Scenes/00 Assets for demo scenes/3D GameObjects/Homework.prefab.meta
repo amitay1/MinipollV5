@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a874138bdc49e504d9d66f28ea19abdc
+timeCreated: 1445722618
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 46226
+  packageName: NEEDSIM Life Simulation
+  packageVersion: 1.2.2
+  assetPath: Assets/Needsim/Scenes/00 Assets for demo scenes/3D GameObjects/Homework.prefab
+  uploadId: 439119

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 98faf3d9bd5a8894ab3011bcceb8b846
+timeCreated: 1441920924
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 46226
+  packageName: NEEDSIM Life Simulation
+  packageVersion: 1.2.2
+  assetPath: Assets/Needsim/Scenes/00 Assets for demo scenes/Animals/fox_idle.anim
+  uploadId: 439119

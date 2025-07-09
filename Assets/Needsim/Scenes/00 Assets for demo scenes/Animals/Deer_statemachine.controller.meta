@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d534512959dcbd74691631c8685f4522
+timeCreated: 1433199975
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 46226
+  packageName: NEEDSIM Life Simulation
+  packageVersion: 1.2.2
+  assetPath: Assets/Needsim/Scenes/00 Assets for demo scenes/Animals/Deer_statemachine.controller
+  uploadId: 439119

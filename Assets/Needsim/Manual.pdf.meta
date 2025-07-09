@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: eea2686eb75793149a5383ec8551c7a2
+timeCreated: 1428704548
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 46226
+  packageName: NEEDSIM Life Simulation
+  packageVersion: 1.2.2
+  assetPath: Assets/Needsim/Manual.pdf
+  uploadId: 439119

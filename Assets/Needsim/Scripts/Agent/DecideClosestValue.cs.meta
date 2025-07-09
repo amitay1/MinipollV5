@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 85d3ddf0bd3605d4d9df997d3c8cc51d
+timeCreated: 1467888986
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 46226
+  packageName: NEEDSIM Life Simulation
+  packageVersion: 1.2.2
+  assetPath: Assets/Needsim/Scripts/Agent/DecideClosestValue.cs
+  uploadId: 439119

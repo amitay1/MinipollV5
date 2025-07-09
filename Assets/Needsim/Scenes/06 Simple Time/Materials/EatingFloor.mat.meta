@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8d44a13a471da7248b15bcbe0282ebe7
+timeCreated: 1442879672
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 46226
+  packageName: NEEDSIM Life Simulation
+  packageVersion: 1.2.2
+  assetPath: Assets/Needsim/Scenes/06 Simple Time/Materials/EatingFloor.mat
+  uploadId: 439119

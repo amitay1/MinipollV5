@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8f5c859634debdc4a992230eb51f62ff
+timeCreated: 1456520903
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 57044
+  packageName: Sprite Sheet Creator
+  packageVersion: 1.0.3
+  assetPath: Assets/SpriteSheetCreator/SpriteSheetCreatorSceneGameObject.unity
+  uploadId: 302096

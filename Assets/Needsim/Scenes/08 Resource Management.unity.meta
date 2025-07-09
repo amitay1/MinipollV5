@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 86831ebc0025f0d4ebe67ce632380d82
+timeCreated: 1507050721
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 46226
+  packageName: NEEDSIM Life Simulation
+  packageVersion: 1.2.2
+  assetPath: Assets/Needsim/Scenes/08 Resource Management.unity
+  uploadId: 439119

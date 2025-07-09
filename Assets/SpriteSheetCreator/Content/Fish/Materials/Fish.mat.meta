@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b537131e8a7360047945461259c60bb1
+timeCreated: 1456713677
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 57044
+  packageName: Sprite Sheet Creator
+  packageVersion: 1.0.3
+  assetPath: Assets/SpriteSheetCreator/Content/Fish/Materials/Fish.mat
+  uploadId: 302096

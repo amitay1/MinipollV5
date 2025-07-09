@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f961d0349f56d774581f837efe433d2c
+timeCreated: 1433200213
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 46226
+  packageName: NEEDSIM Life Simulation
+  packageVersion: 1.2.2
+  assetPath: Assets/Needsim/Scenes/00 Assets for demo scenes/Animals/deer_enter_sleep.anim
+  uploadId: 439119

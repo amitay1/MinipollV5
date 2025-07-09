@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e1773055f3c0d464990dc129ec723d13
+timeCreated: 1429111211
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 46226
+  packageName: NEEDSIM Life Simulation
+  packageVersion: 1.2.2
+  assetPath: Assets/Needsim/NEEDSIM Manager.prefab
+  uploadId: 439119

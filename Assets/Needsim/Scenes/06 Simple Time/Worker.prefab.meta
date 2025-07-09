@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a1a13fc5557ca894aa24c1d5cac7feb1
+timeCreated: 1443008320
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 46226
+  packageName: NEEDSIM Life Simulation
+  packageVersion: 1.2.2
+  assetPath: Assets/Needsim/Scenes/06 Simple Time/Worker.prefab
+  uploadId: 439119

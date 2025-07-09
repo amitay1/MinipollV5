@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2f631616865c570469e2ce108b2f59f9
+timeCreated: 1433705904
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 46226
+  packageName: NEEDSIM Life Simulation
+  packageVersion: 1.2.2
+  assetPath: Assets/Needsim/Scenes/00 Assets for demo scenes/Plants/FernType01.prefab
+  uploadId: 439119

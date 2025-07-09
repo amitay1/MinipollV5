@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3b657ac3315b9774fa9e8e2a18fa4dc0
+timeCreated: 1434386754
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 46226
+  packageName: NEEDSIM Life Simulation
+  packageVersion: 1.2.2
+  assetPath: Assets/Needsim/Scenes/00 Assets for demo scenes/Water/pond_waves.anim
+  uploadId: 439119

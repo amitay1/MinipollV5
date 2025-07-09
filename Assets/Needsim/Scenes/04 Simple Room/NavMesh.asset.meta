@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a768134ca28c554459f0e81a0218fd8b
+timeCreated: 1448624958
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 46226
+  packageName: NEEDSIM Life Simulation
+  packageVersion: 1.2.2
+  assetPath: Assets/Needsim/Scenes/04 Simple Room/NavMesh.asset
+  uploadId: 439119

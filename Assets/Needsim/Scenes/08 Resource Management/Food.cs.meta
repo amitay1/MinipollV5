@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 6b6a03ad9251f53488aefb0339c172b3
+timeCreated: 1507051087
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 46226
+  packageName: NEEDSIM Life Simulation
+  packageVersion: 1.2.2
+  assetPath: Assets/Needsim/Scenes/08 Resource Management/Food.cs
+  uploadId: 439119

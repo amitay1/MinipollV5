@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a5e74b36541108e4588e102fc9bc81c0
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4890085278179872738
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 46226
+  packageName: NEEDSIM Life Simulation
+  packageVersion: 1.2.2
+  assetPath: Assets/Needsim/Scenes/10 Agent death on low need satisfactionSettings.lighting
+  uploadId: 439119

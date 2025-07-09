@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d8e582e6b858c6746a4870cadd24323d
+timeCreated: 1456546060
+licenseType: Store
+TextScriptImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 57044
+  packageName: Sprite Sheet Creator
+  packageVersion: 1.0.3
+  assetPath: Assets/SpriteSheetCreator/Readme.txt
+  uploadId: 302096

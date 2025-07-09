@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c27d1413f90a1b34ca541f30934fb26b
+timeCreated: 1442858198
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 46226
+  packageName: NEEDSIM Life Simulation
+  packageVersion: 1.2.2
+  assetPath: Assets/Needsim/Data/Resources/DaysOfWork.asset
+  uploadId: 439119

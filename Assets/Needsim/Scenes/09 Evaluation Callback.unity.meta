@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: aa1df2a5023d8c049a8464c7e9c8af30
+timeCreated: 1467749805
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 46226
+  packageName: NEEDSIM Life Simulation
+  packageVersion: 1.2.2
+  assetPath: Assets/Needsim/Scenes/09 Evaluation Callback.unity
+  uploadId: 439119

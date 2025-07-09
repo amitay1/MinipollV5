@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9d1016bcb8e981e4ca5bdd351dbffa59
+timeCreated: 1448571823
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 46226
+  packageName: NEEDSIM Life Simulation
+  packageVersion: 1.2.2
+  assetPath: Assets/Needsim/Scenes/04 Simple Room/InputFieldRuntimeEditing.prefab
+  uploadId: 439119

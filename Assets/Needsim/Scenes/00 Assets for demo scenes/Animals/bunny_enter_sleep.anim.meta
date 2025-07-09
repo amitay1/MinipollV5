@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b92e20a139240474bb29ede7e7dc0d66
+timeCreated: 1433201407
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 46226
+  packageName: NEEDSIM Life Simulation
+  packageVersion: 1.2.2
+  assetPath: Assets/Needsim/Scenes/00 Assets for demo scenes/Animals/bunny_enter_sleep.anim
+  uploadId: 439119

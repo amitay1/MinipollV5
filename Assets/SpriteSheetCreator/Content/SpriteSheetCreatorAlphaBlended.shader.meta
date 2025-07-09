@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 163867275c5fcf548abc0fa1e2133645
+timeCreated: 1456710527
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 57044
+  packageName: Sprite Sheet Creator
+  packageVersion: 1.0.3
+  assetPath: Assets/SpriteSheetCreator/Content/SpriteSheetCreatorAlphaBlended.shader
+  uploadId: 302096

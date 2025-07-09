@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 48fa87e188d30fc41815fc37c1112697
+timeCreated: 1433201067
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 46226
+  packageName: NEEDSIM Life Simulation
+  packageVersion: 1.2.2
+  assetPath: Assets/Needsim/Scenes/01 Naturleben.unity
+  uploadId: 439119

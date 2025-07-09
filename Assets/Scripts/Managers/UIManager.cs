@@ -18,6 +18,7 @@
 using UnityEngine;
 using UnityEngine.UI;   // עבור Slider, Button, Image...
 using TMPro;           // אם משתמשים ב-TextMeshPro
+using UnityEngine.InputSystem;
 using System;
 using MinipollCore;
 using MinipollGame.Systems;
@@ -176,10 +177,10 @@ namespace MinipollGame.Managers
             UpdateTimeOfDayUI();
             // אם תרצה, אפשר להציג גם Season וכו’
 
-            // בדיקת לחיצת עכבר כדי לבחור Minipoll?
-            if (Input.GetMouseButtonDown(0))
+            // בדיקת לחיצת עכבר כדי לבחור Minipoll? - עם Input System החדש
+            if (Mouse.current != null && Mouse.current.leftButton.wasPressedThisFrame)
             {
-                Ray ray = Camera.main.ScreenPointToRay(Input.mousePosition);
+                Ray ray = Camera.main.ScreenPointToRay(Mouse.current.position.ReadValue());
                 if (Physics.Raycast(ray, out RaycastHit hit, 100f))
                 {
                     MinipollGame.Core.MinipollCore maybeMinipoll = hit.collider.GetComponent<MinipollGame.Core.MinipollCore>();

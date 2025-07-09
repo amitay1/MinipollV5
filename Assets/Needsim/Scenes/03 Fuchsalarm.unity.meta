@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3343df7fe8274f540abb0dd39834830c
+timeCreated: 1443511963
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 46226
+  packageName: NEEDSIM Life Simulation
+  packageVersion: 1.2.2
+  assetPath: Assets/Needsim/Scenes/03 Fuchsalarm.unity
+  uploadId: 439119

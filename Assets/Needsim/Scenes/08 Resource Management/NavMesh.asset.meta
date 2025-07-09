@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 88282faf51fdf2c43bcc3f5179db17b1
+timeCreated: 1507050912
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 23800000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 46226
+  packageName: NEEDSIM Life Simulation
+  packageVersion: 1.2.2
+  assetPath: Assets/Needsim/Scenes/08 Resource Management/NavMesh.asset
+  uploadId: 439119

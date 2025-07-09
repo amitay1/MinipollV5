@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ae2be3dd4c30898428beb3d93e365cba
+timeCreated: 1434374399
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 46226
+  packageName: NEEDSIM Life Simulation
+  packageVersion: 1.2.2
+  assetPath: Assets/Needsim/Scenes/00 Assets for demo scenes/Plants/TreeSprite02.prefab
+  uploadId: 439119

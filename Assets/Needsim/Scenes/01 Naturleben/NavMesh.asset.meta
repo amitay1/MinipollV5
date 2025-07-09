@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 572bfd7ded54928478453d9ca47b5ad9
+timeCreated: 1437591588
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 46226
+  packageName: NEEDSIM Life Simulation
+  packageVersion: 1.2.2
+  assetPath: Assets/Needsim/Scenes/01 Naturleben/NavMesh.asset
+  uploadId: 439119

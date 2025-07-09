@@ -140,13 +140,8 @@ public class MinipollSaveLoadSystem : MonoBehaviour
             // 3) יצירת מיניפולים
             foreach (var mpData in data.minipollsData)
             {
-                var newMp = minipollManager.SpawnMinipoll(new Vector3(mpData.posX, mpData.posY, mpData.posZ));
-                if (newMp != null)
-                {
-                    newMp.name = mpData.name;
-                    newMp.health = mpData.health;
-                    // אפשר לשחזר צרכים וכו’
-                }
+               
+             
             }
 
             Debug.Log("Game loaded successfully.");

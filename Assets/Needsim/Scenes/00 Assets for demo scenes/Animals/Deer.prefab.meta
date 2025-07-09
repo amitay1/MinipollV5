@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6c90644ed6ba2bb43b2f82366e9ca2df
+timeCreated: 1442791867
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 46226
+  packageName: NEEDSIM Life Simulation
+  packageVersion: 1.2.2
+  assetPath: Assets/Needsim/Scenes/00 Assets for demo scenes/Animals/Deer.prefab
+  uploadId: 439119

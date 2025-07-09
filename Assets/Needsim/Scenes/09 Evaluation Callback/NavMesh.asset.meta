@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 36e2cb44923b7bf408c3154697dc3c48
+timeCreated: 1481224592
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 46226
+  packageName: NEEDSIM Life Simulation
+  packageVersion: 1.2.2
+  assetPath: Assets/Needsim/Scenes/09 Evaluation Callback/NavMesh.asset
+  uploadId: 439119

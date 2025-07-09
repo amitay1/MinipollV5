@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f86299df2a1dad841bd1c9f12358766e
+timeCreated: 1433263360
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 46226
+  packageName: NEEDSIM Life Simulation
+  packageVersion: 1.2.2
+  assetPath: Assets/Needsim/Scenes/00 Assets for demo scenes/Animals/bunny_eat.anim
+  uploadId: 439119

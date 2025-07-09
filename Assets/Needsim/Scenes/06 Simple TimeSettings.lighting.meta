@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a39e8ba38dfc76840b176f5287914ec4
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4890085278179872738
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 46226
+  packageName: NEEDSIM Life Simulation
+  packageVersion: 1.2.2
+  assetPath: Assets/Needsim/Scenes/06 Simple TimeSettings.lighting
+  uploadId: 439119

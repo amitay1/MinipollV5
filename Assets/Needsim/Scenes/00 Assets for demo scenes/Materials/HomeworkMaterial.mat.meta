@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 90f71c3b8ed54bb43aedb1feb3b8c514
+timeCreated: 1445722449
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 46226
+  packageName: NEEDSIM Life Simulation
+  packageVersion: 1.2.2
+  assetPath: Assets/Needsim/Scenes/00 Assets for demo scenes/Materials/HomeworkMaterial.mat
+  uploadId: 439119

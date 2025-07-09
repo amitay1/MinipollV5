@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e3665ca1696bceb4494ec613af1800a2
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4890085278179872738
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 46226
+  packageName: NEEDSIM Life Simulation
+  packageVersion: 1.2.2
+  assetPath: Assets/Needsim/Scenes/01 NaturlebenSettings.lighting
+  uploadId: 439119

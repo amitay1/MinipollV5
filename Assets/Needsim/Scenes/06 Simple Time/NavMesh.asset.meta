@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 91ae883fa4ef0f74ca16bff9dc58bd79
+timeCreated: 1442880319
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 46226
+  packageName: NEEDSIM Life Simulation
+  packageVersion: 1.2.2
+  assetPath: Assets/Needsim/Scenes/06 Simple Time/NavMesh.asset
+  uploadId: 439119

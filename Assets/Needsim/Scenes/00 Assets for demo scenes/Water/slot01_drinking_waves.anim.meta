@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 19d956e2903893244bc8b10c787c69d2
+timeCreated: 1433511979
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 46226
+  packageName: NEEDSIM Life Simulation
+  packageVersion: 1.2.2
+  assetPath: Assets/Needsim/Scenes/00 Assets for demo scenes/Water/slot01_drinking_waves.anim
+  uploadId: 439119

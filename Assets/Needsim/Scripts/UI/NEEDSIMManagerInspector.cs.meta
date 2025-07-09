@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 5e0b2e12bff6b7744836a15ead0dbdac
+timeCreated: 1428704605
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 46226
+  packageName: NEEDSIM Life Simulation
+  packageVersion: 1.2.2
+  assetPath: Assets/Needsim/Scripts/UI/NEEDSIMManagerInspector.cs
+  uploadId: 439119

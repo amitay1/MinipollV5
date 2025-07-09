@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 218274a77e3afd34c93feac3b8cee11b
+timeCreated: 1433511492
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 46226
+  packageName: NEEDSIM Life Simulation
+  packageVersion: 1.2.2
+  assetPath: Assets/Needsim/Scenes/00 Assets for demo scenes/Water/LakeController.controller
+  uploadId: 439119

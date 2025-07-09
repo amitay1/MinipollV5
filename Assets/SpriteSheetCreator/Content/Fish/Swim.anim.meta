@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e5656ea1657273a4e8193f790a704d71
+timeCreated: 1456713724
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 57044
+  packageName: Sprite Sheet Creator
+  packageVersion: 1.0.3
+  assetPath: Assets/SpriteSheetCreator/Content/Fish/Swim.anim
+  uploadId: 302096

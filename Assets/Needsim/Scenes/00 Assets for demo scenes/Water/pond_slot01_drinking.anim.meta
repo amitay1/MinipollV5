@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d871bec128118104dae0eb5d773557d2
+timeCreated: 1434386956
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 46226
+  packageName: NEEDSIM Life Simulation
+  packageVersion: 1.2.2
+  assetPath: Assets/Needsim/Scenes/00 Assets for demo scenes/Water/pond_slot01_drinking.anim
+  uploadId: 439119

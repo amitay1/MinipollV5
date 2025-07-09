@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 13db85a7c2d3b114eba1b3f091ef70ea
+timeCreated: 1434386956
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 46226
+  packageName: NEEDSIM Life Simulation
+  packageVersion: 1.2.2
+  assetPath: Assets/Needsim/Scenes/00 Assets for demo scenes/Water/Sprite_Slot04.controller
+  uploadId: 439119

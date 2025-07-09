@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 868d8419c3c7ead4baa08464c1a9610e
+timeCreated: 1444676731
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 46226
+  packageName: NEEDSIM Life Simulation
+  packageVersion: 1.2.2
+  assetPath: Assets/Needsim/Scenes/03 Fuchsalarm/NavMesh.asset
+  uploadId: 439119

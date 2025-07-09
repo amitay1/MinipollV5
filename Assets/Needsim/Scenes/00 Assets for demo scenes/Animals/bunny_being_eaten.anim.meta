@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f09d98afb0593874a8d47908d028de58
+timeCreated: 1441928184
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 46226
+  packageName: NEEDSIM Life Simulation
+  packageVersion: 1.2.2
+  assetPath: Assets/Needsim/Scenes/00 Assets for demo scenes/Animals/bunny_being_eaten.anim
+  uploadId: 439119

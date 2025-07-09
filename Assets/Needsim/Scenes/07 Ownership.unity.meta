@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: da86a4bb7cb134b4f9803811269f52da
+timeCreated: 1475523170
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 46226
+  packageName: NEEDSIM Life Simulation
+  packageVersion: 1.2.2
+  assetPath: Assets/Needsim/Scenes/07 Ownership.unity
+  uploadId: 439119
