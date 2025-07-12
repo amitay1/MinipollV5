@@ -2,6 +2,7 @@ using UnityEngine;
 using UnityEngine.AI;
 using System;
 using MinipollGame.Core;
+using MinipollGame.Systems.Core;
 using System.Collections;
 
 namespace MinipollGame.Controllers
@@ -57,7 +58,7 @@ namespace MinipollGame.Controllers
 
         void Awake()
         {
-            Debug.Log($"[Movement] Initializing MinipollMovementController for {gameObject.name}");
+            // Debug logging removed to reduce console spam
             // מאתרים NavMeshAgent
             if (!agent)
             {
@@ -65,7 +66,7 @@ namespace MinipollGame.Controllers
                 if (!agent)
                 {
                     agent = gameObject.AddComponent<NavMeshAgent>();
-                    Debug.Log($"[Movement] NavMeshAgent found/added to {gameObject.name}");
+                    // Debug logging removed to reduce console spam
                 }
 
             }
@@ -76,7 +77,7 @@ namespace MinipollGame.Controllers
             if (!animator)
             {
                 animator = GetComponentInChildren<Animator>();
-                Debug.Log($"[Movement] Animator found/added to {gameObject.name}");
+                // Debug logging removed to reduce console spam
             }
         }
 
@@ -88,28 +89,28 @@ namespace MinipollGame.Controllers
                 agent.speed = moveSpeed;
             }
         }
-void Start()
-{
-    // Force start roaming after initialization
-    StartCoroutine(StartInitialBehavior());
-}
+        void Start()
+        {
+            // Force start roaming after initialization
+            StartCoroutine(StartInitialBehavior());
+        }
 
-private IEnumerator StartInitialBehavior()
-{
-    yield return new WaitForSeconds(2f); // Wait 2 seconds for everything to initialize
-    
-    Debug.Log($"[Movement] Starting initial behavior for {gameObject.name}");
-    
-    if (allowRoaming && currentState == MinipollActionState.Idle)
-    {
-        Debug.Log("[Movement] Starting automatic roaming...");
-        StartRoaming();
-    }
-    else
-    {
-        Debug.Log($"[Movement] Not starting roaming. AllowRoaming: {allowRoaming}, CurrentState: {currentState}");
-    }
-}
+        private IEnumerator StartInitialBehavior()
+        {
+            yield return new WaitForSeconds(2f); // Wait 2 seconds for everything to initialize
+
+            // Debug logging removed to reduce console spam
+
+            if (allowRoaming && currentState == MinipollActionState.Idle)
+            {
+                // Debug logging removed to reduce console spam
+                StartRoaming();
+            }
+            else
+            {
+                // Debug logging removed to reduce console spam
+            }
+        }
         public void UpdateMovement(float deltaTime)
         {        // בדיקת אפשרות "Escaping" (אם מערכת חברתית אומרת שיש איום)
             // TODO: Implement escape logic when social system is available
@@ -312,7 +313,8 @@ private IEnumerator StartInitialBehavior()
         {
             currentState = MinipollActionState.Resting;
             StopMovement();
-        }        private void HandleResting(float deltaTime)
+        }
+        private void HandleResting(float deltaTime)
         {
             // מנוחה => לא זזים
             // אפשר למלא Need: Energy + 3f * deltaTime וכו'
@@ -391,50 +393,9 @@ private IEnumerator StartInitialBehavior()
 
         void UpdateAnimator()
         {
-            if (animator == null) return;
-            
-            float velocity = 0f;
-            
-            // עבוד עם NavMeshAgent - זה המצב המועדף!
-            if (useNavMesh && agent)
-            {
-                velocity = agent.velocity.magnitude;
-                Debug.Log($"[Movement] NavMesh velocity: {velocity:F2} for {gameObject.name}");
-            }
-            else
-            {
-                // אם לא משתמשים ב-NavMesh, נגדיר ערך לפי state (מצב fallback)
-                if (currentState == MinipollActionState.Roaming ||
-                    currentState == MinipollActionState.SeekingResource ||
-                    currentState == MinipollActionState.Socializing)
-                    velocity = moveSpeed;
-                else if (currentState == MinipollActionState.Escaping)
-                    velocity = moveSpeed * 1.5f;
-                else
-                    velocity = 0f;
-                    
-                Debug.Log($"[Movement] Manual velocity: {velocity:F2} for {gameObject.name}");
-            }
-
-            // עדכן את ה-Animator עם פרמטר Speed - זה הכי חשוב!
-            animator.SetFloat("Speed", velocity);
-            
-            // פרמטרי Bool נוספים (רק אם הם קיימים)
-            try 
-            {
-                bool isWalking = (velocity > 0.1f && velocity < 3f);
-                bool isRunning = (velocity >= 3f);
-
-                animator.SetBool("IsWalking", isWalking);
-                animator.SetBool("IsRunning", isRunning);
-                
-                Debug.Log($"[Movement] Animation state: Walking={isWalking}, Running={isRunning}");
-            }
-            catch (System.Exception)
-            {
-                // אם הפרמטרים לא קיימים ב-Controller, זה בסדר
-                // נמשיך לעבוד רק עם Speed
-            }
+            // Skip animator updates - let CharacterMovementSync handle it
+            // This prevents conflicts between two animation systems
+            Debug.Log($"[Movement] Skipping animator update to avoid conflicts with CharacterMovementSync");
         }
         #endregion
 
@@ -477,7 +438,7 @@ private IEnumerator StartInitialBehavior()
         //     }
         // }
 
-        internal void UpdateForAgeStage(Core.MinipollCore.AgeStage newStage)
+        internal void UpdateForAgeStage(AgeStage newStage)
         {
             throw new NotImplementedException();
         }

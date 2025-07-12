@@ -1,0 +1,16 @@
+{
+  "commands": [
+    {
+      "command": "workbench.action.findInFiles",
+      "title": "🔍 Search Before Create",
+      "category": "Minipoll Helper"
+    }
+  ],
+  "keybindings": [
+    {
+      "command": "workbench.action.findInFiles", 
+      "key": "ctrl+shift+f",
+      "when": "editorTextFocus"
+    }
+  ]
+}

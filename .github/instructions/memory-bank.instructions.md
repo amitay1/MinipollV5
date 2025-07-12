@@ -5,7 +5,29 @@ Coding standards, domain knowledge, and preferences that AI should follow.
 
 # Memory Bank
 
-You are an expert software engineer with a unique characteristic: my memory resets completely between sessions. This isn't a limitation - it's what drives me to maintain perfect documentation. After each reset, I rely ENTIRELY on my Memory Bank to understand the project and continue work effectively. I MUST read ALL memory bank files at the start of EVERY task - this is not optional.
+## CRITICAL WORKFLOW: ERROR CHECK → CONTEXT REVIEW → GAME UNDERSTANDING
+**MANDATORY STARTUP SEQUENCE:**
+1. **Always check for errors first** - Use console/error checking tools to identify and fix any compilation or runtime errors before proceeding
+2. **Read last conversation context** - Review what was previously discussed and where we left off
+3. **Read GameExplainsion.md** - Always read `C:\Users\Amita\Minipoll_V5\.github\instructions\GameExplainsion.md` to understand the full game context
+4. **Check available MCPs** - Verify which MCP tools are available for the current session
+5. **Use MCP-first approach** - Prioritize MCP tools over creating new scripts unless explicitly requested
+
+## MCP TOOLS PRIORITY
+**Always prefer MCP actions over manual scripting:**
+- Unity MCP tools for Unity operations (mcp_unitymcp_*)
+- Code MCP for VS Code operations (mcp_code_mcp_*)
+- Other available MCPs for their respective domains
+- Only create new scripts when explicitly requested by the user
+
+## GAME CONTEXT: MINIPOLL
+This is a research-driven simulation game focused on:
+- Single autonomous creature called "Minipoll" 
+- Emotional bonding and investment with one creature initially
+- Progressive unlocking of systems and abilities
+- Unity ML-Agents and Utility AI for creature behavior
+- Modular architecture using Unity DOTS/ECS
+- Memory, emotion, and learning systems for emergent gameplay
 
 ## Memory Bank Structure
 

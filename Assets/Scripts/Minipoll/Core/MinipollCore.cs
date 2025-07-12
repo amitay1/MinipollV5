@@ -3,7 +3,6 @@ using System;
 using System.Collections;
 using MinipollGame.Systems.Core;
 using MinipollGame.AI;
-using MinipollCore.core;
 using MinipollGame.Social;
 using MinipollGame.Controllers;
 using MinipollGame.Managers;
@@ -12,20 +11,7 @@ using MinipollGame.Managers;
 namespace MinipollGame.Core
 
 {
-    // Temporary placeholder class until MinipollNeedsSystem reference is resolved
-    public class MinipollNeedsSystem1 : MonoBehaviour
-    {
-        public event System.Action<NeedType> OnNeedCritical;
-        public event System.Action<NeedType> OnNeedSatisfied;
 
-        public void InitSystem(MinipollBrain ownerBrain) { }
-        public void UpdateNeeds(float deltaTime) { }
-        public void Eat(float nutritionValue) { }
-        public void Drink(float amount) { }
-        public void Sleep(float quality) { }
-        public void Socialize(float amount) { }
-        public float GetNeedValue(NeedType needType) { return 50f; }
-    }
 
     /// <summary>
     /// הסקריפט הראשי של Minipoll - מנהל ומחבר את כל המערכות
@@ -58,6 +44,13 @@ namespace MinipollGame.Core
         public Color PrimaryColor => primaryColor;
         public bool IsAlive { get; private set; } = true;
         public bool IsSelected => MinipollCore.SelectedMinipoll == this;
+
+        [Header("=== Core Properties ===")]
+        [SerializeField] private string species = "Minipoll";
+
+        // Public Accessors for Core Properties
+        public string Species => species;
+
         #endregion
 
         #region Component References
@@ -93,13 +86,18 @@ namespace MinipollGame.Core
         public MinipollMemorySystem Memory => memory;
         public MinipollNeedsSystem Needs => needs;
         public MinipollEmotionsSystem Emotions => emotions;
+
+        // Aliases for backward compatibility
+        public MinipollEmotionsSystem EmotionsSystem => emotions;
+        public MinipollNeedsSystem NeedsSystem => needs;
+        public MinipollMemorySystem MemorySystem => memory;
+
         public MinipollSocialRelations SocialRelations => socialRelations;
         public MinipollTribeSystem TribeSystem => tribeSystem;
         public MinipollMovementController Movement => movement;
         public MinipollVisualController VisualController => visualController;
         public MinipollWorldInteraction WorldInteraction => worldInteraction;
 
-        public static object EmotionType { get; internal set; }
         #endregion
 
         #region Events
@@ -122,8 +120,6 @@ namespace MinipollGame.Core
         [SerializeField] private float maxAge = 2500f;
 
         private float nextAgeUpdateTime;
-        internal string species;
-        internal static object core;
         private AgeStage ageStage;
         private const float AGE_UPDATE_INTERVAL = 1f; // עדכון גיל כל שנייה
         #endregion
@@ -219,7 +215,7 @@ namespace MinipollGame.Core
         {
             try
             {
-                Debug.Log($"[MinipollCore] Initializing systems for {name}");
+                // Debug logging removed to reduce console spam
 
                 // אתחול מערכת הצרכים
                 InitializeNeedsSystem();
@@ -239,7 +235,7 @@ namespace MinipollGame.Core
                 // אתחול מערכת ה-AI
                 InitializeAISystem();
 
-                Debug.Log($"[MinipollCore] Systems initialized successfully for {name}");
+                // Debug logging removed to reduce console spam
             }
             catch (System.Exception e)
             {
@@ -253,11 +249,11 @@ namespace MinipollGame.Core
             {
                 needsSystem = gameObject.AddComponent<MinipollNeedsSystem>();
             }
-            Debug.Log("[MinipollCore] Needs system initialized");
+            // Debug logging removed to reduce console spam
         }
 
         /// <summary>
-        /// אתחול מערכת רגשות
+        ///אתחול מערכת רגשות
         /// </summary>
         private void InitializeEmotionsSystem()
         {
@@ -266,11 +262,11 @@ namespace MinipollGame.Core
             {
                 emotionsSystem = gameObject.AddComponent<MinipollEmotionsSystem>();
             }
-            Debug.Log("[MinipollCore] Emotions system initialized");
+            // Debug logging removed to reduce console spam
         }
 
         /// <summary>
-        /// אתחול מערכת זיכרון
+        ///אתחול מערכת זיכרון
         /// </summary>
         private void InitializeMemorySystem()
         {
@@ -279,11 +275,11 @@ namespace MinipollGame.Core
             {
                 memorySystem = gameObject.AddComponent<MinipollMemorySystem>();
             }
-            Debug.Log("[MinipollCore] Memory system initialized");
+            // Debug logging removed to reduce console spam
         }
 
         /// <summary>
-        /// אתחול מערכת תנועה
+        ///אתחול מערכת תנועה
         /// </summary>
         private void InitializeMovementSystem()
         {
@@ -292,11 +288,11 @@ namespace MinipollGame.Core
             {
                 movementController = gameObject.AddComponent<MinipollMovementController>();
             }
-            Debug.Log("[MinipollCore] Movement system initialized");
+            // Debug logging removed to reduce console spam
         }
 
         /// <summary>
-        /// אתחול מערכת חזותיים
+        ///אתחול מערכת חזותיים
         /// </summary>
         private void InitializeVisualSystem()
         {
@@ -305,11 +301,11 @@ namespace MinipollGame.Core
             {
                 visualController = gameObject.AddComponent<MinipollVisualController>();
             }
-            Debug.Log("[MinipollCore] Visual system initialized");
+            // Debug logging removed to reduce console spam
         }
 
         /// <summary>
-        /// אתחול מערכת AI
+        ///אתחול מערכת AI
         /// </summary>
         private void InitializeAISystem()
         {
@@ -317,10 +313,10 @@ namespace MinipollGame.Core
             var aiComponent = GetComponent<MonoBehaviour>(); // כל רכיב AI
             if (aiComponent == null)
             {
-                Debug.Log("[MinipollCore] No AI system found, skipping AI initialization");
+                // Debug logging removed to reduce console spam
                 return;
             }
-            Debug.Log("[MinipollCore] AI system initialized");
+            // Debug logging removed to reduce console spam
         }
 
         #region Event Management
@@ -356,7 +352,7 @@ namespace MinipollGame.Core
                 selectable.OnDeselected += HandleDeselected;
             }
         }
-#endregion
+        #endregion
         private void UnregisterEventListeners()
         {
             if (health)
@@ -559,7 +555,7 @@ namespace MinipollGame.Core
         }
         private void HandleNeedSatisfied(NeedType needType)
         {
-            Debug.Log($"[MinipollCore] {minipollName} satisfied {needType}");
+            // Debug logging removed to reduce console spam
 
             if (emotions)
                 emotions.AddEmotionalEvent(MinipollEmotionsSystem.EmotionType.Happy, 0.5f);
@@ -686,8 +682,9 @@ namespace MinipollGame.Core
             if (needs)
                 needs.Socialize(20f);
 
-            Debug.Log($"[MinipollCore] {minipollName} interacted with {other.minipollName}");
-        } public void Breed(MinipollCore partner)
+            // Debug logging removed to reduce console spam
+        }
+        public void Breed(MinipollCore partner)
         {
             if (!CanBreed() || !partner || !partner.CanBreed()) return;
 
@@ -818,12 +815,13 @@ namespace MinipollGame.Core
             UnityEditor.Handles.Label(transform.position + Vector3.up * 2f,
                 $"{minipollName}\n{CurrentAgeStage} ({age:F0})\n{(IsAlive ? "Alive" : "Dead")}");
 #endif
-        } internal void ConsumeEnergy(float energyCost)
+        }
+        internal void ConsumeEnergy(float energyCost)
         {
             if (needs != null)
             {
                 // Use the needs system to consume energy
-                needs.GetComponent<MinipollNeedsSystem1>()?.UpdateNeeds(energyCost);
+                needs.UpdateNeeds(energyCost);
             }
 
             if (health != null)
@@ -831,7 +829,8 @@ namespace MinipollGame.Core
                 // Alternative: reduce health slightly when energy is consumed
                 health.TakeDamage(energyCost * 0.1f);
             }
-        } internal void Heal(float healAmount)
+        }
+        internal void Heal(float healAmount)
         {
             if (health != null)
             {
@@ -877,58 +876,28 @@ namespace MinipollGame.Core
             gameObject.name = $"Minipoll_{minipollName}_{uniqueID.Substring(0, 8)}";
         }
 
-        internal void SetAgeStage(Systems.Core.AgeStage age)
-        {
-            // Convert Systems.Core.AgeStage to local AgeStage
-            switch (age)
-            {
-                case Systems.Core.AgeStage.Baby:
-                    ageStage = AgeStage.Baby;
-                    break;
-                case Systems.Core.AgeStage.Child:
-                    ageStage = AgeStage.Child;
-                    break;
-                case Systems.Core.AgeStage.Adult:
-                    ageStage = AgeStage.Adult;
-                    break;
-                case Systems.Core.AgeStage.Elder:
-                    ageStage = AgeStage.Elder;
-                    break;
-                default:
-                    ageStage = AgeStage.Adult;
-                    break;
-            }
-
-            // Update the local age value and trigger events
-            SetAgeStage(ageStage);
-        } public class AgeStage
-        {
-            public static AgeStage Baby { get; internal set; } = new AgeStage();
-            public static AgeStage Elder { get; internal set; } = new AgeStage();
-            public static AgeStage Child { get; internal set; } = new AgeStage();
-            public static AgeStage Adult { get; internal set; } = new AgeStage();
-        }
-
         #endregion
 
         /// <summary>
         /// Convert from core AgeStage to Systems.Core.AgeStage
+        /// Note: Using the proper AgeStage enum from MinipollEnums.cs
         /// </summary>
         private MinipollGame.Systems.Core.AgeStage ConvertToSystemsAgeStage(AgeStage coreAgeStage)
         {
-            if (coreAgeStage == null)
-                return MinipollGame.Systems.Core.AgeStage.Adult;
-
-            if (coreAgeStage == AgeStage.Baby)
-                return MinipollGame.Systems.Core.AgeStage.Baby;
-            else if (coreAgeStage == AgeStage.Child)
-                return MinipollGame.Systems.Core.AgeStage.Child;
-            else if (coreAgeStage == AgeStage.Adult)
-                return MinipollGame.Systems.Core.AgeStage.Adult;
-            else if (coreAgeStage == AgeStage.Elder)
-                return MinipollGame.Systems.Core.AgeStage.Elder;
-            else
-                return MinipollGame.Systems.Core.AgeStage.Adult;
+            // Direct enum conversion - both enums have the same values
+            switch (coreAgeStage)
+            {
+                case AgeStage.Baby:
+                    return MinipollGame.Systems.Core.AgeStage.Baby;
+                case AgeStage.Child:
+                    return MinipollGame.Systems.Core.AgeStage.Child;
+                case AgeStage.Adult:
+                    return MinipollGame.Systems.Core.AgeStage.Adult;
+                case AgeStage.Elder:
+                    return MinipollGame.Systems.Core.AgeStage.Elder;
+                default:
+                    return MinipollGame.Systems.Core.AgeStage.Adult;
+            }
         }
     }
 

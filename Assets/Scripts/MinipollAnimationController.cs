@@ -24,29 +24,16 @@ public class MinipollAnimationController : MonoBehaviour
     
     void Start()
     {
-        Debug.Log("MinipollAnimationController: Starting init on GameObject: " + gameObject.name);
-        
         animator = GetComponent<Animator>();
         animationComponent = GetComponent<Animation>();
         agent = GetComponent<UnityEngine.AI.NavMeshAgent>();
         
-        Debug.Log("MinipollAnimationController: Animator=" + (animator != null) + ", Animation=" + (animationComponent != null) + ", Agent=" + (agent != null));
-        
         // נעדיף לעבוד עם Animation Component במקום Animator
         if (animationComponent == null)
         {
-            Debug.Log("MinipollAnimationController: יוצר Animation Component");
             animationComponent = gameObject.AddComponent<Animation>();
         }
         
-        // אם יש Animator, נעדיף Animation Component
-        if (animator != null)
-        {
-            Debug.Log("MinipollAnimationController: נמצא Animator, אבל נעבוד עם Animation Component");
-            // לא נבטל את ה-Animator, אבל נתמקד ב-Animation Component
-        }
-        
-        Debug.Log("MinipollAnimationController: טוען אנימציות...");
         // טען אנימציות מתיקיית biped או צור אנימציות בסיסיות
         LoadAnimationsFromBiped();
         
@@ -65,8 +52,6 @@ public class MinipollAnimationController : MonoBehaviour
     
     void LoadAnimationsFromBiped()
     {
-        Debug.Log("MinipollAnimationController: Loading animations from biped folder...");
-        
         // וודא שיש Animation component
         if (animationComponent == null)
         {
@@ -121,7 +106,6 @@ public class MinipollAnimationController : MonoBehaviour
         }
 #else
         // בזמן ריצה - ניצור אנימציות בסיסיות
-        Debug.LogWarning("MinipollAnimationController: Runtime - creating basic animations");
         CreateBasicAnimations();
 #endif
     }
@@ -129,18 +113,15 @@ public class MinipollAnimationController : MonoBehaviour
 #if UNITY_EDITOR
     void LoadSingleAnimationFromAsset(string assetPath, string clipName, ref AnimationClip targetClip)
     {
-        Debug.Log($"MinipollAnimationController: Trying to load {clipName} from {assetPath}");
         Object[] allAssets = AssetDatabase.LoadAllAssetsAtPath(assetPath);
-        Debug.Log($"MinipollAnimationController: Found {allAssets.Length} assets at {assetPath}");
         
         foreach (Object asset in allAssets)
         {
-            Debug.Log($"MinipollAnimationController: Asset type: {asset.GetType()}, name: {asset.name}");
             if (asset is AnimationClip clip)
             {
                 targetClip = clip;
                 animationComponent.AddClip(targetClip, clipName);
-                Debug.Log($"MinipollAnimationController: Successfully loaded {clipName} animation: {clip.name}");
+                Debug.Log($"MinipollAnimationController: Loaded {clipName} animation successfully");
                 return;
             }
         }

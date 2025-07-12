@@ -95,6 +95,10 @@ namespace MinipollGame.Managers
 
         [Header("Pause Menu")]
         public GameObject pauseMenuPanel;
+        public GameObject pauseMenu; // For PauseMenuUI component reference
+
+        [Header("Selection Panel")]  
+        public GameObject selectionPanel; // For MinipollSelectionPanel component reference
 
         [Header("Minipoll Info Panel")]
         public GameObject minipollInfoPanel;
@@ -325,6 +329,8 @@ namespace MinipollGame.Managers
 
         private void UpdateGameSpeedUI()
         {
+            if (gameManager == null) return;
+            
             if (gameSpeedSlider != null)
             {
                 gameSpeedSlider.value = gameManager.gameSpeed;

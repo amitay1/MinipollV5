@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.InputSystem;
 
 namespace MinipollGame.Test
 {
@@ -19,7 +20,7 @@ namespace MinipollGame.Test
         private void Update()
         {
             // Feed nearby creatures when F is pressed
-            if (Input.GetKeyDown(feedKey))
+            if (Keyboard.current != null && Keyboard.current.fKey.wasPressedThisFrame)
             {
                 FeedNearbyCreatures();
             }

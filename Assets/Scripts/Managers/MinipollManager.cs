@@ -99,18 +99,12 @@ public class MinipollManager : MonoBehaviour
             gameManager = GameManager.Instance;
         }
 
-        // אם לא הוגדר מיכל למיניפולים, ניצור אחד
-        if (minipollContainer == null)
-        {
-            GameObject containerGO = new GameObject("MinipollContainer_AutoCreated");
-            minipollContainer = containerGO.transform;
-        }
-
         // ספאון ראשוני
         for (int i = 0; i < initialSpawnCount; i++)
         {
             Vector3 pos = GetRandomSpawnPosition();
-           
+            // TODO: Implement actual spawning logic
+            Debug.LogWarning($"[MinipollManager] Initial spawn not implemented yet. Position: {pos}");
         }
     }
 
@@ -128,7 +122,8 @@ public class MinipollManager : MonoBehaviour
             {
                 spawnTimer = 0f;
                 Vector3 pos = GetRandomSpawnPosition();
-                
+                // TODO: Implement dynamic spawning logic
+                Debug.LogWarning($"[MinipollManager] Dynamic spawn not implemented yet. Position: {pos}");
             }
         }
     }    /// <summary>
@@ -160,8 +155,6 @@ public class MinipollManager : MonoBehaviour
             activeMinipolls.Add(mp);
             OnMinipollSpawned?.Invoke(mp);
         }
-        
-        Debug.Log($"[MinipollManager] Registered minipoll: {minipoll.Name}");
     }
 
     /// <summary>
@@ -233,12 +226,15 @@ public class MinipollManager : MonoBehaviour
 
     internal GameObject GetMinipollById(int minipollId)
     {
-        throw new NotImplementedException();
+        Debug.LogWarning($"[MinipollManager] GetMinipollById not implemented yet. ID: {minipollId}");
+        return null;
     }
 
         internal void RecordDeath(Core.MinipollCore core, GameObject killer)
         {
-            throw new NotImplementedException();
+            Debug.LogWarning($"[MinipollManager] RecordDeath not implemented yet. Core: {core?.Name}, Killer: {killer?.name}");
+            // TODO: Implement death recording system
+            // This should track death statistics, causes, and potentially trigger events
         }
 
         // internal void UnregisterMinipoll(Core.MinipollCore minipollCore)
@@ -291,7 +287,27 @@ public class MinipollManager : MonoBehaviour
 
         internal T GetComponent<T>()
         {
-            throw new NotImplementedException();
+            if (gameObject is GameObject go)
+            {
+                return go.GetComponent<T>();
+            }
+            Debug.LogWarning($"[MinipollClass] GetComponent<{typeof(T).Name}> failed - gameObject is not a GameObject");
+            return default(T);
+        }
+
+        // Override Equals to properly compare MinipollClass objects
+        public override bool Equals(object obj)
+        {
+            if (obj is MinipollClass other)
+            {
+                return ReferenceEquals(this.gameObject, other.gameObject);
+            }
+            return false;
+        }
+
+        public override int GetHashCode()
+        {
+            return gameObject?.GetHashCode() ?? 0;
         }
     }
 }

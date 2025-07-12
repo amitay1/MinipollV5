@@ -328,43 +328,111 @@ namespace MinipollGame.Core
 
         internal object GetSocialSystem()
         {
-            throw new NotImplementedException();
+            return coreComponent?.SocialRelations;
         }
 
-        internal void TakeDamage(float v)
+        internal void TakeDamage(float damage)
         {
-            throw new NotImplementedException();
+            if (coreComponent?.Health != null)
+            {
+                coreComponent.Health.TakeDamage(damage);
+                if (verboseLogging)
+                {
+                    Debug.Log($"[Brain] {Name} took {damage} damage");
+                }
+            }
         }
 
         internal object GetEmotionsSystem()
         {
-            throw new NotImplementedException();
+            return coreComponent?.EmotionsSystem;
         }
 
-        internal void SetMoodInfluence(float v)
+        internal void SetMoodInfluence(float influence)
         {
-            throw new NotImplementedException();
+            moodInfluence = Mathf.Clamp01(influence);
+            if (verboseLogging)
+            {
+                Debug.Log($"[Brain] {Name} mood influence set to {moodInfluence}");
+            }
         }
 
         internal void SetUrgentGoal(NeedType needType)
         {
-            throw new NotImplementedException();
+            string goalName = $"Urgent_{needType}";
+            
+            // Create urgent goal based on need type
+            Goal urgentGoal = new Goal(goalName, GoalPriority.Critical)
+            {
+                urgency = 1f,
+                executeAction = (brain) => HandleUrgentNeed(needType)
+            };
+            
+            // Add to available goals and set as current
+            availableGoals.Insert(0, urgentGoal); // Insert at beginning for highest priority
+            currentGoal = urgentGoal;
+            hasUrgentGoal = true;
+            
+            if (verboseLogging)
+            {
+                Debug.Log($"[Brain] {Name} set urgent goal for {needType}");
+            }
         }
 
         internal object GetNeedsSystem()
         {
-            throw new NotImplementedException();
+            return coreComponent?.NeedsSystem;
         }
 
         internal object GetMemorySystem()
         {
-            throw new NotImplementedException();
-        }        internal void ApplyHealthPower(float power)
+            return coreComponent?.MemorySystem;
+        }
+
+        internal void ApplyHealthPower(float power)
         {
-            throw new NotImplementedException();
-        }        internal object GetMovementController()
+            if (coreComponent?.Health != null)
+            {
+                coreComponent.Health.Heal(power);
+                if (verboseLogging)
+                {
+                    Debug.Log($"[Brain] {Name} applied health power: {power}");
+                }
+            }
+        }
+
+        internal object GetMovementController()
         {
-            throw new NotImplementedException();
+            return coreComponent?.Movement;
+        }
+
+        /// <summary>
+        /// Handle urgent need-based actions
+        /// </summary>
+        private void HandleUrgentNeed(NeedType needType)
+        {
+            switch (needType)
+            {
+                case NeedType.Hunger:
+                    // Look for food
+                    if (verboseLogging) Debug.Log($"[Brain] {Name} urgently seeking food");
+                    break;
+                case NeedType.Thirst:
+                    // Look for water
+                    if (verboseLogging) Debug.Log($"[Brain] {Name} urgently seeking water");
+                    break;
+                case NeedType.Sleep:
+                    // Find a place to rest
+                    if (verboseLogging) Debug.Log($"[Brain] {Name} urgently needs sleep");
+                    break;
+                case NeedType.Social:
+                    // Seek social interaction
+                    if (verboseLogging) Debug.Log($"[Brain] {Name} urgently needs social interaction");
+                    break;
+                default:
+                    if (verboseLogging) Debug.Log($"[Brain] {Name} handling urgent need: {needType}");
+                    break;
+            }
         }
 #endif
         #endregion

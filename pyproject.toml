@@ -7,7 +7,10 @@ name = "minipoll-v5"
 version = "0.1.0"
 description = "Minipoll V5 Python utilities"
 authors = [{name = "Amita", email = "amita@example.com"}]
-dependencies = []
+dependencies = [
+    "mcp>=1.0.0",
+    "pydantic>=2.0.0"
+]
 
 [project.optional-dependencies]
 dev = ["pytest", "black", "flake8"]
@@ -17,3 +20,6 @@ where = ["src"]
 
 [tool.setuptools.package-dir]
 "" = "src"
+
+[project.scripts]
+minipoll-mcp = "minipoll.mcp_server:main"

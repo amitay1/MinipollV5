@@ -5,8 +5,8 @@ using UnityEngine;
 using MinipollGame.Core;
 using MinipollGame.Systems.Core;
 using MinipollGame.Social;
-using MinipollCore.core;
 using Unity.VisualScripting;
+using MinipollCoreClass = MinipollGame.Core.MinipollCore;
 
 
 namespace MinipollGame.AI
@@ -21,7 +21,7 @@ namespace MinipollGame.AI
         [SerializeField] private float decisionInterval = 0.5f;
         [SerializeField] private bool debugMode = false;
         [SerializeField] private AnimationCurve defaultResponseCurve;
-        
+
         [Header("Action Weights")]
         [SerializeField] private float needsWeight = 1f;
         [SerializeField] private float emotionalWeight = 0.5f;
@@ -39,7 +39,7 @@ namespace MinipollGame.AI
             public float timeCost = 1f;
             public AnimationCurve responseCurve;
             public List<Consideration> considerations;
-            
+
             [NonSerialized] public float lastExecutionTime;
             [NonSerialized] public float executionCount;
         }
@@ -75,7 +75,7 @@ namespace MinipollGame.AI
             Safety,
             Social,
             Fun,
-            
+
             // Environmental
             TimeOfDay,
             Weather,
@@ -83,14 +83,14 @@ namespace MinipollGame.AI
             NearbyThreats,
             NearbyResources,
             NearbyFriends,
-            
+
             // Internal State
             Health,
             Age,
             Emotion,
             Memory,
             Skill,
-            
+
             // Context
             DistanceToTarget,
             RelationshipStrength,
@@ -101,7 +101,7 @@ namespace MinipollGame.AI
         // Decision context
         public class DecisionContext
         {
-            private MinipollCoreType agent;
+            private MinipollCoreClass agent;
             public GameObject target;
             public Vector3 targetPosition;
             public Dictionary<ConsiderationType, float> inputs;
@@ -129,10 +129,10 @@ namespace MinipollGame.AI
         }
 
         // System data
-        private Dictionary<MinipollCoreType, List<AIAction>> agentActions = new Dictionary<MinipollCoreType, List<AIAction>>();
-        private Dictionary<MinipollCoreType, AIAction> currentActions = new Dictionary<MinipollCoreType, AIAction>();
-        private Dictionary<MinipollCoreType, float> lastDecisionTimes = new Dictionary<MinipollCoreType, float>();
-        private Dictionary<MinipollCoreType, DecisionContext> agentContexts = new Dictionary<MinipollCoreType, DecisionContext>();
+        private Dictionary<MinipollCoreClass, List<AIAction>> agentActions = new Dictionary<MinipollCoreClass, List<AIAction>>();
+        private Dictionary<MinipollCoreClass, AIAction> currentActions = new Dictionary<MinipollCoreClass, AIAction>();
+        private Dictionary<MinipollCoreClass, float> lastDecisionTimes = new Dictionary<MinipollCoreClass, float>();
+        private Dictionary<MinipollCoreClass, DecisionContext> agentContexts = new Dictionary<MinipollCoreClass, DecisionContext>();
 
         // Action definitions
         private List<AIAction> actionTemplates = new List<AIAction>();
@@ -296,8 +296,8 @@ namespace MinipollGame.AI
         }
 
         #region Public API
-        
-        public void RegisterAgent(MinipollCoreType agent)
+
+        public void RegisterAgent(MinipollCoreClass agent)
         {
             if (!agentActions.ContainsKey(agent))
             {
@@ -307,7 +307,7 @@ namespace MinipollGame.AI
             }
         }
 
-        public void UnregisterAgent(MinipollCoreType agent)
+        public void UnregisterAgent(MinipollCoreClass agent)
         {
             agentActions.Remove(agent);
             currentActions.Remove(agent);
@@ -315,7 +315,7 @@ namespace MinipollGame.AI
             agentContexts.Remove(agent);
         }
 
-        public AIAction GetBestAction(MinipollCoreType agent)
+        public AIAction GetBestAction(MinipollCoreClass agent)
         {
             if (!agentActions.ContainsKey(agent))
                 return null;
@@ -338,7 +338,7 @@ namespace MinipollGame.AI
             foreach (var action in actions)
             {
                 float score = ScoreAction(action, context);
-                
+
                 if (debugMode)
                 {
                     Debug.Log($"{agent.name} - Action: {action.actionName}, Score: {score}");
@@ -361,7 +361,7 @@ namespace MinipollGame.AI
             return bestAction;
         }
 
-        public ActionResult ExecuteAction(MinipollCoreType agent, AIAction action)
+        public ActionResult ExecuteAction(MinipollCoreClass agent, AIAction action)
         {
             ActionResult result = new ActionResult();
 
@@ -410,7 +410,7 @@ namespace MinipollGame.AI
 
             if (result.success)
             {
-                // This would need implementation in MinipollCore
+                // This would need implementation in MinipollCoreClass
                 // agent.ConsumeEnergy(action.energyCost);
                 action.lastExecutionTime = Time.time;
                 action.executionCount++;
@@ -423,7 +423,7 @@ namespace MinipollGame.AI
 
         #region Context and Scoring
 
-        private void UpdateContext(MinipollCoreType agent)
+        private void UpdateContext(MinipollCoreClass agent)
         {
             var context = agentContexts[agent];
             context.inputs.Clear();
@@ -466,10 +466,10 @@ namespace MinipollGame.AI
             // Update social context
             if (social != null && context.target != null)
             {
-                var targetMinipoll = context.target.GetComponent<MinipollCoreType>();
+                var targetMinipoll = context.target.GetComponent<MinipollCoreClass>();
                 if (targetMinipoll != null)
                 {
-                    context.inputs[ConsiderationType.RelationshipStrength] = 
+                    context.inputs[ConsiderationType.RelationshipStrength] =
                         social.GetRelationshipValue(targetMinipoll.GetInstanceID());
                 }
             }
@@ -484,12 +484,12 @@ namespace MinipollGame.AI
             {
                 float input = context.inputs.GetValueOrDefault(consideration.type, 0.5f);
                 float normalized = Mathf.InverseLerp(consideration.min, consideration.max, input);
-                
+
                 // Apply response curve
-                float curveValue = consideration.curve != null ? 
-                    consideration.curve.Evaluate(normalized) : 
+                float curveValue = consideration.curve != null ?
+                    consideration.curve.Evaluate(normalized) :
                     normalized;
-                
+
                 // Apply weight
                 score *= Mathf.Lerp(0.1f, 1f, curveValue * consideration.weight);
             }
@@ -513,7 +513,7 @@ namespace MinipollGame.AI
             return score;
         }
 
-        private bool CanExecuteAction(MinipollCoreType agent, AIAction action)
+        private bool CanExecuteAction(MinipollCoreClass agent, AIAction action)
         {
             // Check energy - placeholder since HasEnergy doesn't exist
             // if (!agent.HasEnergy(action.energyCost))
@@ -541,7 +541,7 @@ namespace MinipollGame.AI
 
         #region Action Execution
 
-        private ActionResult ExecuteEat(MinipollCoreType agent)
+        private ActionResult ExecuteEat(MinipollCoreClass agent)
         {
             ActionResult result = new ActionResult();
 
@@ -562,7 +562,7 @@ namespace MinipollGame.AI
             return result;
         }
 
-        private ActionResult ExecuteDrink(MinipollCoreType agent)
+        private ActionResult ExecuteDrink(MinipollCoreClass agent)
         {
             ActionResult result = new ActionResult();
 
@@ -582,10 +582,10 @@ namespace MinipollGame.AI
             return result;
         }
 
-        private ActionResult ExecuteSleep(MinipollCoreType agent)
+        private ActionResult ExecuteSleep(MinipollCoreClass agent)
         {
             ActionResult result = new ActionResult();
-            
+
             var needs = agent.GetComponent<Core.MinipollNeedsSystem>();
             if (needs != null)
             {
@@ -597,7 +597,7 @@ namespace MinipollGame.AI
             return result;
         }
 
-        private ActionResult ExecuteFlee(MinipollCoreType agent)
+        private ActionResult ExecuteFlee(MinipollCoreClass agent)
         {
             ActionResult result = new ActionResult();
 
@@ -620,16 +620,16 @@ namespace MinipollGame.AI
             return result;
         }
 
-        private ActionResult ExecuteCommunicate(MinipollCoreType agent)
+        private ActionResult ExecuteCommunicate(MinipollCoreClass agent)
         {
             ActionResult result = new ActionResult();
 
             var context = agentContexts[agent];
             var social = agent.GetComponent<MinipollSocialRelations>();
-            
+
             if (context.target != null && social != null)
             {
-                var targetMinipoll = context.target.GetComponent<MinipollCoreType>();
+                var targetMinipoll = context.target.GetComponent<MinipollCoreClass>();
                 if (targetMinipoll != null)
                 {
                     // Placeholder - would improve relationship
@@ -646,13 +646,13 @@ namespace MinipollGame.AI
             return result;
         }
 
-        private ActionResult ExecuteShare(MinipollCoreType agent)
+        private ActionResult ExecuteShare(MinipollCoreClass agent)
         {
             ActionResult result = new ActionResult();
 
             var context = agentContexts[agent];
             var needs = agent.GetComponent<Core.MinipollNeedsSystem>();
-            
+
             if (context.target != null && needs != null)
             {
                 // float foodLevel = needs.GetNormalizedNeed("Food");
@@ -660,7 +660,7 @@ namespace MinipollGame.AI
                 {
                     // Share food
                     // needs.FillNeed("Food", -0.2f);
-                    
+
                     if (context.target.TryGetComponent<Core.MinipollNeedsSystem>(out var targetNeeds))
                     {
                         targetNeeds.FillNeed("Food", 0.2f);
@@ -679,7 +679,7 @@ namespace MinipollGame.AI
             return result;
         }
 
-        private ActionResult ExecuteExplore(MinipollCoreType agent)
+        private ActionResult ExecuteExplore(MinipollCoreClass agent)
         {
             ActionResult result = new ActionResult();
 
@@ -698,7 +698,7 @@ namespace MinipollGame.AI
             return result;
         }
 
-        private ActionResult ExecuteGather(MinipollCoreType agent)
+        private ActionResult ExecuteGather(MinipollCoreClass agent)
         {
             ActionResult result = new ActionResult();
 
@@ -709,14 +709,14 @@ namespace MinipollGame.AI
             return result;
         }
 
-        private ActionResult ExecuteAttack(MinipollCoreType agent)
+        private ActionResult ExecuteAttack(MinipollCoreClass agent)
         {
             ActionResult result = new ActionResult();
 
             var context = agentContexts[agent];
             if (context.target != null)
             {
-                var targetMinipoll = context.target.GetComponent<MinipollCoreType>();
+                var targetMinipoll = context.target.GetComponent<MinipollCoreClass>();
                 if (targetMinipoll != null)
                 {
                     float damage = 10f;
@@ -740,10 +740,10 @@ namespace MinipollGame.AI
 
         #region Helper Methods
 
-        private void UpdateProximityInputs(MinipollCoreType agent, DecisionContext context)
+        private void UpdateProximityInputs(MinipollCoreClass agent, DecisionContext context)
         {
             float searchRadius = 15f;
-            
+
             // Check for threats
             int threatCount = 0;
             GameObject closestThreat = null;
@@ -756,16 +756,16 @@ namespace MinipollGame.AI
 
             // Find all nearby entities
             // Collider[] nearby = Physics.OverlapSphere(agent.transform.position, searchRadius);
-            
+
             foreach (var collider in nearby)
             {
                 // if (collider.gameObject == agent.gameObject) continue;
 
-                // var otherMinipoll = collider.GetComponent<MinipollCoreType>();
+                // var otherMinipoll = collider.GetComponent<MinipollCoreClass>();
                 if (otherMinipoll != null)
                 {
                     // float distance = Vector3.Distance(agent.transform.position, otherMinipoll.transform.position);
-                    
+
                     // Check if threat
                     if (IsThreat(agent, otherMinipoll))
                     {
@@ -790,7 +790,7 @@ namespace MinipollGame.AI
             }
 
             // Update context inputs
-            context.inputs[ConsiderationType.NearbyThreats] = threatCount > 0 ? 
+            context.inputs[ConsiderationType.NearbyThreats] = threatCount > 0 ?
                 1f - (closestThreatDistance / searchRadius) : 0f;
             context.inputs[ConsiderationType.NearbyResources] = 0.5f; // Placeholder
             context.inputs[ConsiderationType.NearbyFriends] = Mathf.Clamp01(friendCount / 3f);
@@ -807,12 +807,12 @@ namespace MinipollGame.AI
             }
         }
 
-        private bool IsThreat(MinipollCoreType agent, object otherMinipoll)
+        private bool IsThreat(MinipollCoreClass agent, object otherMinipoll)
         {
             throw new NotImplementedException();
         }
 
-        private bool IsThreat(MinipollCoreType agent, MinipollCoreType other)
+        private bool IsThreat(MinipollCoreClass agent, MinipollCoreClass other)
         {
             // Simple threat detection - placeholder implementation
             return false;
@@ -836,7 +836,7 @@ namespace MinipollGame.AI
             return 0.5f;
         }
 
-        private float GetAgeValue(MinipollCoreType agent)
+        private float GetAgeValue(MinipollCoreClass agent)
         {
             // Placeholder implementation
             return 0.5f;
@@ -894,19 +894,4 @@ namespace MinipollGame.AI
         #endregion
     }
 
-    public class MinipollCoreType
-    {
-        internal object name;
-        internal object transform;
-
-        internal object GetComponent<T>()
-        {
-            throw new NotImplementedException();
-        }
-
-        internal int GetInstanceID()
-        {
-            throw new NotImplementedException();
-        }
-    }
 }

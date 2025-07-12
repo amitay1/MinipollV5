@@ -69,5 +69,11 @@
     "dotnet.defaultSolution": "Minipoll_V5.sln",
     "chat.agent.enabled": true,
     "chat.mcp.enabled": true,
-    "chat.mcp.discovery.enabled": true
+    "chat.mcp.discovery.enabled": true,
+    "files.autoSave": "onFocusChange",
+    "editor.formatOnSave": true,
+    "editor.wordWrap": "on",
+    "editor.formatOnPaste": true,
+    "github.copilot.chat.codesearch.enabled": true,
+    "github.copilot.chat.agent.thinkingTool": true
 }

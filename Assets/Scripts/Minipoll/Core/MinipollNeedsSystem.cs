@@ -186,6 +186,11 @@ namespace MinipollGame.Core
         {
             FillNeed("Thirst", amount);
         }
+        
+        public void Eat(float amount)
+        {
+            FillNeed("Hunger", amount);
+        }
 
         public void Sleep(float quality)
         {

@@ -37,12 +37,48 @@ public class MinipollBrandManager : MonoBehaviour
         }
     }
 
-    // Public accessors
-    public static MinipollBrandColors Colors => Instance.brandColors;
+    // Public accessors with fallback
+    public static MinipollBrandColors Colors => Instance.brandColors ?? CreateFallbackColors();
     public static MinipollTypography Typography => Instance.typography;
     public static Sprite MinipollLogo => Instance.minipollLogo;
     public static Sprite HeartCodeStudiosLogo => Instance.heartCodeStudiosLogo;
     public static Sprite MinipollIcon => Instance.minipollIcon;
+
+    // Fallback colors when brand colors are not assigned
+    private static MinipollBrandColors CreateFallbackColors()
+    {
+        var fallback = ScriptableObject.CreateInstance<MinipollBrandColors>();
+        fallback.name = "Fallback Brand Colors";
+        
+        // Initialize with reflection to set default values
+        var type = typeof(MinipollBrandColors);
+        var fields = type.GetFields(System.Reflection.BindingFlags.NonPublic | System.Reflection.BindingFlags.Instance);
+        
+        foreach (var field in fields)
+        {
+            if (field.FieldType == typeof(Color))
+            {
+                // Set fallback colors based on field names
+                var color = field.Name switch
+                {
+                    "minipollBlue" => new Color(0.29f, 0.56f, 0.89f, 1f),
+                    "heartPink" => new Color(1f, 0.42f, 0.62f, 1f),
+                    "growthGreen" => new Color(0.49f, 0.83f, 0.13f, 1f),
+                    "softPurple" => new Color(0.74f, 0.47f, 1f, 1f),
+                    "warmOrange" => new Color(0.96f, 0.65f, 0.14f, 1f),
+                    "cloudWhite" => new Color(0.97f, 0.98f, 0.98f, 1f),
+                    "deepNavy" => new Color(0.17f, 0.24f, 0.31f, 1f),
+                    "lightGray" => new Color(0.93f, 0.94f, 0.95f, 1f),
+                    "successGreen" => new Color(0.15f, 0.68f, 0.38f, 1f),
+                    "warningAmber" => new Color(0.95f, 0.61f, 0.07f, 1f),
+                    _ => Color.white
+                };
+                field.SetValue(fallback, color);
+            }
+        }
+        
+        return fallback;
+    }
 
     private void Awake()
     {

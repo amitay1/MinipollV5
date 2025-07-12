@@ -1,7 +1,7 @@
 using System;
 using MinipollGame.Core;
 using UnityEngine;
-using static MinipollCore.core.MinipollEmotionsSystem;
+using static MinipollGame.Core.MinipollEmotionsSystem;
 
 /// <summary>
 /// FoodItem - מייצג פריט מזון שמיניפול יכול לאכול

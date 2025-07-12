@@ -140,7 +140,15 @@ public class GameManager : MonoBehaviour
         public string playerName = "Player";
         public int playerScore = 0;
         public int playerLevel = 1;
+        public int currentDay = 1;
         // אפשר להתרחב למטבעות, חפצים וכו’.
+    }
+    
+    // Property to access current day
+    public int currentDay 
+    { 
+        get { return playerData.currentDay; } 
+        set { playerData.currentDay = value; OnPlayerDataChanged?.Invoke(playerData); } 
     }
 
     public void UpdatePlayerScore(int deltaScore)

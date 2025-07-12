@@ -40,7 +40,7 @@ namespace MinipollGame.Systems.Core
     public class FoodChainManager : MonoBehaviour
     {
         private static FoodChainManager _instance;
-        
+
         public static FoodChainManager Instance
         {
             get
@@ -151,7 +151,7 @@ namespace MinipollGame.Systems.Core
         private List<PredationEvent> recentPredations = new List<PredationEvent>();
         private Dictionary<string, List<string>> foodWeb = new Dictionary<string, List<string>>();
         private Dictionary<int, string> entitySpeciesMap = new Dictionary<int, string>();
-        
+
         // Ecosystem metrics
         private float totalSystemBiomass;
         private float systemEnergyFlow;
@@ -166,7 +166,7 @@ namespace MinipollGame.Systems.Core
             }
             _instance = this;
             DontDestroyOnLoad(gameObject);
-            
+
             InitializeFoodWeb();
         }
 
@@ -195,7 +195,7 @@ namespace MinipollGame.Systems.Core
                 foreach (var species in level.species)
                 {
                     foodWeb[species.speciesName] = new List<string>(species.preySpecies);
-                    
+
                     // Initialize population tracking
                     populations[species.speciesName] = new SpeciesPopulation
                     {
@@ -220,7 +220,7 @@ namespace MinipollGame.Systems.Core
             int entityId = entity.GetInstanceID();
             entitySpeciesMap[entityId] = speciesName;
             populations[speciesName].individuals.Add(entity);
-            
+
             UpdatePopulationMetrics(speciesName);
         }
 
@@ -231,7 +231,7 @@ namespace MinipollGame.Systems.Core
 
             string species = entitySpeciesMap[entityId];
             entitySpeciesMap.Remove(entityId);
-            
+
             if (populations.ContainsKey(species))
             {
                 populations[species].individuals.Remove(entity);
@@ -250,11 +250,11 @@ namespace MinipollGame.Systems.Core
 
             // Calculate biomass
             population.totalBiomass = population.individuals.Count * speciesConfig.baseEnergyValue;
-            
+
             // Calculate average health
             float totalHealth = 0f;
             int healthyCount = 0;
-            
+
             foreach (var individual in population.individuals)
             {
                 if (individual != null)
@@ -275,7 +275,7 @@ namespace MinipollGame.Systems.Core
                     }
                 }
             }
-            
+
             population.averageHealth = healthyCount > 0 ? totalHealth / healthyCount : 0f;
         }
 
@@ -313,7 +313,7 @@ namespace MinipollGame.Systems.Core
                 foreach (var species in level.species.Where(s => s.role == FoodChainRole.Carnivore || s.role == FoodChainRole.Omnivore))
                 {
                     if (!populations.ContainsKey(species.speciesName)) continue;
-                    
+
                     var predators = populations[species.speciesName].individuals;
                     foreach (var predator in predators)
                     {
@@ -328,11 +328,11 @@ namespace MinipollGame.Systems.Core
         {
             // Find nearby prey
             Collider[] nearbyEntities = Physics.OverlapSphere(predator.transform.position, 10f);
-            
+
             foreach (var collider in nearbyEntities)
             {
                 if (collider.gameObject == predator) continue;
-                
+
                 // Check if it's a plant (for now we'll check InteractableObject)
                 var plant = collider.GetComponent<InteractableObject>();
                 if (plant != null && predatorSpecies.preySpecies.Contains(plant.name)) // Use name instead of objectName
@@ -345,12 +345,12 @@ namespace MinipollGame.Systems.Core
                     }
                     continue;
                 }
-                
+
                 // Check if it's another entity
                 var minipoll = collider.GetComponent<MinipollGame.Core.MinipollCore>(); // Use MinipollCore instead of Minipoll
                 if (minipoll != null)
                 {
-                    string preySpecies = minipoll.species;
+                    string preySpecies = minipoll.Species;
                     if (predatorSpecies.preySpecies.Contains(preySpecies))
                     {
                         // Calculate hunting success
@@ -363,10 +363,10 @@ namespace MinipollGame.Systems.Core
                 }
             }
         }
-       private float CalculateHuntingSuccess(GameObject predator, GameObject prey)
+        private float CalculateHuntingSuccess(GameObject predator, GameObject prey)
         {
             float baseRate = huntingSuccessBaseRate;
-            
+
             // Factor in predator health
             if (predator.TryGetComponent<MinipollNeedsSystem>(out var predatorNeeds))
             {
@@ -380,7 +380,7 @@ namespace MinipollGame.Systems.Core
                 float predatorHealth = overallSatisfaction;
                 baseRate *= (0.5f + predatorHealth * 0.5f);
             }
-            
+
             // Factor in prey weakness
             var preyNeeds = prey.GetComponent<MinipollNeedsSystem>();
             if (preyNeeds != null)
@@ -395,24 +395,24 @@ namespace MinipollGame.Systems.Core
                 float weakness = 1f - overallSatisfaction;
                 baseRate *= (0.7f + weakness * 0.3f);
             }
-            
+
             // Environmental factors
             if (WorldManager.Instance != null)
             {
                 // Check if it's night - use a simple time check instead of non-existent IsNight method
                 float sunlightFactor = WorldManager.Instance.timeSystem.GetSunlightFactor();
                 bool isNight = sunlightFactor < 0.3f;
-                
+
                 // Check weather - use a simple weather check instead of non-existent GetCurrentWeather method
                 var currentWeather = WorldManager.Instance.weatherSystem.currentWeather;
                 bool isFoggy = currentWeather == WorldManager.WeatherSystem.WeatherType.Foggy;
-                
+
                 if (isNight || isFoggy)
                 {
                     baseRate *= 1.2f; // Predators are more successful in low visibility
                 }
             }
-            
+
             return Mathf.Clamp01(baseRate);
         }
 
@@ -424,7 +424,7 @@ namespace MinipollGame.Systems.Core
                 foreach (var species in level.species.Where(s => s.role == FoodChainRole.Herbivore || s.role == FoodChainRole.Omnivore))
                 {
                     if (!populations.ContainsKey(species.speciesName)) continue;
-                    
+
                     var foragers = populations[species.speciesName].individuals;
                     foreach (var forager in foragers)
                     {
@@ -443,7 +443,7 @@ namespace MinipollGame.Systems.Core
                 foreach (var individual in population.individuals)
                 {
                     if (individual == null) continue;
-                    
+
                     var needs = individual.GetComponent<MinipollNeedsSystem>();
                     if (needs != null)
                     {
@@ -469,20 +469,20 @@ namespace MinipollGame.Systems.Core
             if (preyMinipoll != null)
             {
                 UnregisterEntity(prey);
-                
+
                 // Record predation event
                 var predationEvent = new PredationEvent
                 {
                     predatorId = predator.GetInstanceID(),
                     preyId = prey.GetInstanceID(),
                     predatorSpecies = predatorSpecies.speciesName,
-                    preySpecies = preyMinipoll.species,
+                    preySpecies = preyMinipoll.Species,
                     timestamp = Time.time,
                     successful = true,
                     location = prey.transform.position
                 };
                 recentPredations.Add(predationEvent);
-                
+
                 // Publish event using generic API
                 EventSystem.Instance?.Publish<EntityAteEvent>(new EntityAteEvent
                 {
@@ -490,17 +490,17 @@ namespace MinipollGame.Systems.Core
                     prey = prey,
                     energy = predatorSpecies.baseEnergyValue
                 }, new Dictionary<string, object>());
-                
+
                 // No MemoryManager or EmotionContagionSystem - remove those references
-                
+
                 // Transfer energy to predator
-                var predatorNeeds = predator.GetComponent<MinipollNeedsSystem>(); 
+                var predatorNeeds = predator.GetComponent<MinipollNeedsSystem>();
                 if (predatorNeeds != null)
                 {
                     float energyValue = predatorSpecies.baseEnergyValue * energyTransferEfficiency;
                     predatorNeeds.FillNeed("Hunger", energyValue); // Use FillNeed instead of ModifyNeed
                 }
-                
+
                 Destroy(prey);
             }
         }
@@ -515,10 +515,10 @@ namespace MinipollGame.Systems.Core
             {
                 var speciesConfig = GetSpeciesConfig(population.speciesName);
                 if (speciesConfig == null) continue;
-                
+
                 int currentPopulation = population.individuals.Count;
                 float targetPopulation = speciesConfig.optimalPopulationDensity;
-                
+
                 if (currentPopulation > targetPopulation * overpopulationThreshold)
                 {
                     // Overpopulation detected
@@ -550,7 +550,7 @@ namespace MinipollGame.Systems.Core
                     }
                 }
             }
-            
+
             // Publish event using generic API
             EventSystem.Instance?.Publish(new Dictionary<string, object>
             {
@@ -574,7 +574,7 @@ namespace MinipollGame.Systems.Core
             // Calculate ecosystem stability based on population ratios
             float totalBiomass = 0f;
             float balanceScore = 1f;
-            
+
             foreach (var level in trophicLevels)
             {
                 float levelBiomass = 0f;
@@ -588,7 +588,7 @@ namespace MinipollGame.Systems.Core
                 level.totalBiomass = levelBiomass;
                 totalBiomass += levelBiomass;
             }
-            
+
             // Check for ecosystem collapse conditions
             int extinctSpecies = populations.Count(p => p.Value.individuals.Count == 0);
             if (extinctSpecies > trophicLevels.Sum(l => l.species.Count) * 0.5f)
@@ -601,7 +601,7 @@ namespace MinipollGame.Systems.Core
                     ["extinctSpecies"] = extinctSpecies
                 });
             }
-            
+
             ecosystemStability = balanceScore;
             totalSystemBiomass = totalBiomass;
         }
@@ -615,7 +615,7 @@ namespace MinipollGame.Systems.Core
             if (eventData != null && eventData.entity != null && !string.IsNullOrEmpty(eventData.species))
             {
                 RegisterEntity(eventData.entity, eventData.species);
-                
+
                 if (populations.ContainsKey(eventData.species))
                 {
                     populations[eventData.species].births++;
@@ -628,7 +628,7 @@ namespace MinipollGame.Systems.Core
             if (eventData != null && eventData.entity != null)
             {
                 UnregisterEntity(eventData.entity);
-                
+
                 // Could spawn decomposer activity here
                 StartCoroutine(DecompositionProcess(eventData.entity.transform.position));
             }
@@ -656,7 +656,7 @@ namespace MinipollGame.Systems.Core
         {
             // Wait before decomposition starts
             yield return new WaitForSeconds(10f);
-            
+
             // Return nutrients to soil/environment
             // This could trigger plant growth nearby
             EventSystem.Instance?.Publish(new Dictionary<string, object>
@@ -674,8 +674,8 @@ namespace MinipollGame.Systems.Core
         {
             var config = GetSpeciesConfig(species);
             return config != null &&
-                   (config.role == FoodChainRole.Carnivore || 
-                    config.role == FoodChainRole.Omnivore || 
+                   (config.role == FoodChainRole.Carnivore ||
+                    config.role == FoodChainRole.Omnivore ||
                     config.role == FoodChainRole.Apex);
         }
 
@@ -683,7 +683,7 @@ namespace MinipollGame.Systems.Core
         {
             var config = GetSpeciesConfig(species);
             return config != null &&
-                   (config.role == FoodChainRole.Herbivore || 
+                   (config.role == FoodChainRole.Herbivore ||
                     config.role == FoodChainRole.Omnivore);
         }
 
@@ -747,14 +747,14 @@ namespace MinipollGame.Systems.Core
         private void OnDrawGizmos()
         {
             if (!enableFoodChain) return;
-            
+
             // Draw recent predation events
             foreach (var predation in recentPredations.TakeLast(10))
             {
                 Gizmos.color = Color.red;
                 Gizmos.DrawWireSphere(predation.location, 0.5f);
             }
-            
+
             // Draw population centers
             foreach (var level in trophicLevels)
             {
@@ -782,7 +782,7 @@ namespace MinipollGame.Systems.Core
             // Unsubscribe from events using the correct generic API
             if (EventSystem.Instance != null)
             {
-                  
+
                 EventSystem.Instance.Unsubscribe<EntityBornEvent>(OnEntityBorn);
                 EventSystem.Instance.Unsubscribe<EntityDiedEvent>(OnEntityDied);
                 EventSystem.Instance.Unsubscribe<EntityAteEvent>(OnEntityAte);
@@ -790,7 +790,7 @@ namespace MinipollGame.Systems.Core
             }
         }
 
-      
+
     }
 
     internal class MinipollCore

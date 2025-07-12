@@ -19,7 +19,6 @@ using System.Collections.Generic;
 using System;
 using System.Linq;
 using MinipollCore;
-using MinipollCore.core;
 using MinipollGame.Systems.Core;
 using MinipollGame.Core;
 using MinipollGame.Social;
